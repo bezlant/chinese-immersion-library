@@ -5,9 +5,10 @@
   "name": "Literature & Classics",
   "name_zh": "古典文学",
   "icon": "scroll.fill",
+  "web_icon": "scroll-text",
   "description": "Classical poetry, prose and public-domain texts."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 12,
  "resources": [
   {

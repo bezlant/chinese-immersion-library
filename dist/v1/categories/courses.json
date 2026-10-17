@@ -5,9 +5,10 @@
   "name": "Courses & Grammar",
   "name_zh": "课程与语法",
   "icon": "graduationcap.fill",
+  "web_icon": "graduation-cap",
   "description": "Courses, grammar references, pronunciation and learning guides."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 24,
  "resources": [
   {

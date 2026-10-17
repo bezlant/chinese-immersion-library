@@ -5,9 +5,10 @@
   "name": "Documentaries",
   "name_zh": "纪录片",
   "icon": "video.fill",
+  "web_icon": "video",
   "description": "Food, history, nature and craft documentaries."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 10,
  "resources": [
   {

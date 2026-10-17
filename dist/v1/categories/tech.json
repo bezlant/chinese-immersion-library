@@ -5,9 +5,10 @@
   "name": "Tech",
   "name_zh": "科技",
   "icon": "cpu.fill",
+  "web_icon": "cpu",
   "description": "Tech news, reviews and developer communities."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 29,
  "resources": [
   {

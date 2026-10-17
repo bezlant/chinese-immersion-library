@@ -5,9 +5,10 @@
   "name": "Learning Apps",
   "name_zh": "学习应用",
   "icon": "apps.iphone",
+  "web_icon": "smartphone",
   "description": "Apps for flashcards, courses, handwriting and immersion."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 17,
  "resources": [
   {

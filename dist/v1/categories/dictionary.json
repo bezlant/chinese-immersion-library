@@ -5,9 +5,10 @@
   "name": "Dictionaries & Tools",
   "name_zh": "词典工具",
   "icon": "character.book.closed.fill",
+  "web_icon": "book-a",
   "description": "Dictionaries, translators, stroke order and sentence tools."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 22,
  "resources": [
   {

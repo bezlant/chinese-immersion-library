@@ -5,9 +5,10 @@
   "name": "Science & Knowledge",
   "name_zh": "科普知识",
   "icon": "atom",
+  "web_icon": "atom",
   "description": "Popular science, talks, encyclopedias and Q&A."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 23,
  "resources": [
   {

@@ -5,9 +5,10 @@
   "name": "News",
   "name_zh": "新闻",
   "icon": "newspaper.fill",
+  "web_icon": "newspaper",
   "description": "Chinese-language news from mainland China, Taiwan, Hong Kong, Singapore, Malaysia and international media."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 79,
  "resources": [
   {

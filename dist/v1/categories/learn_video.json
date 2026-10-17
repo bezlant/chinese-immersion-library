@@ -5,9 +5,10 @@
   "name": "Learn Chinese: Video",
   "name_zh": "学中文视频",
   "icon": "play.rectangle.fill",
+  "web_icon": "circle-play",
   "description": "YouTube channels made for learners: comprehensible input, lessons, grammar."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 59,
  "resources": [
   {

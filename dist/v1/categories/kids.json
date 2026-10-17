@@ -5,9 +5,10 @@
   "name": "Kids & Family",
   "name_zh": "少儿",
   "icon": "figure.and.child.holdinghands",
+  "web_icon": "baby",
   "description": "Cartoons, songs and stories: simple, repetitive Chinese."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 22,
  "resources": [
   {

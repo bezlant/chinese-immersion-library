@@ -5,9 +5,10 @@
   "name": "Variety & Talk Shows",
   "name_zh": "综艺访谈",
   "icon": "sparkles.tv.fill",
+  "web_icon": "sparkles",
   "description": "TV stations, variety, singing and talk shows."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 11,
  "resources": [
   {

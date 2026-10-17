@@ -5,9 +5,10 @@
   "name": "About China (English)",
   "name_zh": "英文中国资讯",
   "icon": "globe.asia.australia.fill",
+  "web_icon": "globe",
   "description": "English-language sites on Chinese society, culture and language."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 14,
  "resources": [
   {

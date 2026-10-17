@@ -5,9 +5,10 @@
   "name": "HSK & TOCFL",
   "name_zh": "考试备考",
   "icon": "checkmark.seal.fill",
+  "web_icon": "badge-check",
   "description": "Official exam sites, mock tests and level lists."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 10,
  "resources": [
   {

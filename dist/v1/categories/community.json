@@ -5,9 +5,10 @@
   "name": "Tutors & Community",
   "name_zh": "社区与老师",
   "icon": "person.2.fill",
+  "web_icon": "users",
   "description": "Tutors, language exchange and learner communities."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 9,
  "resources": [
   {

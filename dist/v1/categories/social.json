@@ -5,9 +5,10 @@
   "name": "Social & Forums",
   "name_zh": "社交论坛",
   "icon": "bubble.left.and.bubble.right.fill",
+  "web_icon": "messages-square",
   "description": "Forums and social platforms where native speakers talk."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 8,
  "resources": [
   {

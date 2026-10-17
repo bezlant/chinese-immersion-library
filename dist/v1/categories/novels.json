@@ -5,9 +5,10 @@
   "name": "Web Novels",
   "name_zh": "网络小说",
   "icon": "text.book.closed.fill",
+  "web_icon": "book-text",
   "description": "Web-fiction platforms: xianxia, romance, fantasy and more."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 15,
  "resources": [
   {

@@ -5,9 +5,10 @@
   "name": "Gaming",
   "name_zh": "游戏",
   "icon": "gamecontroller.fill",
+  "web_icon": "gamepad-2",
   "description": "Gaming creators, news and communities."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 16,
  "resources": [
   {

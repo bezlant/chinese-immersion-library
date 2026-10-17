@@ -5,9 +5,10 @@
   "name": "Books & E-books",
   "name_zh": "电子书",
   "icon": "books.vertical.fill",
+  "web_icon": "library",
   "description": "E-book stores, readers and book communities."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 9,
  "resources": [
   {

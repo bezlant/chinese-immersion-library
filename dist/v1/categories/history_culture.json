@@ -5,9 +5,10 @@
   "name": "History & Culture",
   "name_zh": "历史文化",
   "icon": "building.columns.fill",
+  "web_icon": "landmark",
   "description": "History storytelling, museums, art and culture."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 16,
  "resources": [
   {

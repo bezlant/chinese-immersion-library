@@ -5,9 +5,10 @@
   "name": "Drama & Film",
   "name_zh": "影视剧",
   "icon": "film.fill",
+  "web_icon": "clapperboard",
   "description": "Official channels with full Chinese dramas and films."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 24,
  "resources": [
   {

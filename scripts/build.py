@@ -171,6 +171,7 @@ def main():
         emit(f"categories/{c['id']}.json", {"category": c, "data_version": data_version, "count": len(items), "resources": items})
 
     files["dist/index.html"] = render.render_html(cats, by_cat, data_version)
+    files.update(render.readme_icons(cats))
     readme = ROOT / "README.md"
     current = readme.read_text(encoding="utf-8") if readme.exists() else ""
     files["README.md"] = render.splice_readme(current, render.render_markdown(cats, by_cat))

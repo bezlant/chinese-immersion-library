@@ -5,9 +5,10 @@
   "name": "Food & Cooking",
   "name_zh": "美食",
   "icon": "fork.knife",
+  "web_icon": "utensils",
   "description": "Cooking channels, food travel and recipe sites."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 25,
  "resources": [
   {

@@ -5,9 +5,10 @@
   "name": "Animation (Donghua)",
   "name_zh": "国产动画",
   "icon": "wand.and.stars",
+  "web_icon": "wand-sparkles",
   "description": "Chinese animation hubs and official channels."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 13,
  "resources": [
   {

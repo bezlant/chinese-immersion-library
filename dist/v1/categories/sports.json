@@ -5,9 +5,10 @@
   "name": "Sports & Fitness",
   "name_zh": "体育健身",
   "icon": "figure.run",
+  "web_icon": "dumbbell",
   "description": "Sports news, communities and fitness."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 12,
  "resources": [
   {

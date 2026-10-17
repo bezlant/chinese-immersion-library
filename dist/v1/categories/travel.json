@@ -5,9 +5,10 @@
   "name": "Travel",
   "name_zh": "旅行",
   "icon": "airplane",
+  "web_icon": "plane",
   "description": "Travel vlogs, guides and review sites."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 17,
  "resources": [
   {

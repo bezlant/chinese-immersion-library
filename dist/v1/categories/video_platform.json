@@ -5,9 +5,10 @@
   "name": "Streaming Platforms",
   "name_zh": "视频平台",
   "icon": "tv.fill",
+  "web_icon": "tv",
   "description": "Streaming and video platforms for Chinese content."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 21,
  "resources": [
   {

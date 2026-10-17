@@ -5,9 +5,10 @@
   "name": "Graded Reading",
   "name_zh": "分级阅读",
   "icon": "book.pages",
+  "web_icon": "book-open",
   "description": "Graded readers, levelled news and stories for learners."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 21,
  "resources": [
   {

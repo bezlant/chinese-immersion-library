@@ -5,9 +5,10 @@
   "name": "Business & Finance",
   "name_zh": "商业财经",
   "icon": "chart.line.uptrend.xyaxis",
+  "web_icon": "trending-up",
   "description": "Economics explainers, markets and business media."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 18,
  "resources": [
   {

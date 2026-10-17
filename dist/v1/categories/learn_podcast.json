@@ -5,9 +5,10 @@
   "name": "Learn Chinese: Podcasts",
   "name_zh": "学中文播客",
   "icon": "headphones",
+  "web_icon": "headphones",
   "description": "Podcasts made for learners, from slow Chinese to natural conversation."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 43,
  "resources": [
   {

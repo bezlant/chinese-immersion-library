@@ -5,9 +5,10 @@
   "name": "Radio & Audiobooks",
   "name_zh": "电台有声书",
   "icon": "radio.fill",
+  "web_icon": "radio",
   "description": "Audio platforms, live radio and audiobooks."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 10,
  "resources": [
   {

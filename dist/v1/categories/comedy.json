@@ -5,9 +5,10 @@
   "name": "Comedy & Crosstalk",
   "name_zh": "喜剧相声",
   "icon": "theatermasks.fill",
+  "web_icon": "drama",
   "description": "Xiangsheng, stand-up and sketch comedy."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 16,
  "resources": [
   {

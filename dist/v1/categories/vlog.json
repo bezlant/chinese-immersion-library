@@ -5,9 +5,10 @@
   "name": "Vlogs & Lifestyle",
   "name_zh": "生活Vlog",
   "icon": "person.crop.rectangle.fill",
+  "web_icon": "camera",
   "description": "Everyday-life creators: natural, conversational Chinese."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 20,
  "resources": [
   {

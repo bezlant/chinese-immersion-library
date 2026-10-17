@@ -5,9 +5,10 @@
   "name": "Music",
   "name_zh": "音乐",
   "icon": "music.note",
+  "web_icon": "music",
   "description": "Streaming services, lyrics sites, labels and artists."
  },
- "data_version": "edbc9426d061",
+ "data_version": "70936f4fc0fc",
  "count": 31,
  "resources": [
   {
