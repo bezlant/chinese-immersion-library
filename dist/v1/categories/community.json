@@ -8,7 +8,7 @@
   "web_icon": "users",
   "description": "Tutors, language exchange and learner communities."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 9,
  "resources": [
   {
@@ -96,7 +96,7 @@
    "id": "preply",
    "name": "Preply",
    "url": "https://preply.com/en/online/chinese-tutors",
-   "description": "Online Chinese tutors.",
+   "description": "Book one-to-one lessons with Chinese tutors at a range of prices.",
    "category": "community",
    "type": "website",
    "level": [

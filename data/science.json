@@ -136,9 +136,9 @@
   },
   {
     "id": "bi-dao-bilibili",
-    "name": "毕导 (Bilibili)",
+    "name": "毕导",
     "url": "https://space.bilibili.com/254463269",
-    "description": "Bi Dao on Bilibili.",
+    "description": "Funny science experiments and explanations from a Tsinghua PhD.",
     "category": "science",
     "type": "bilibili",
     "tags": [
@@ -270,7 +270,7 @@
   },
   {
     "id": "li-yongle-bilibili",
-    "name": "李永乐老师官方 (Bilibili)",
+    "name": "李永乐老师 Li Yongle",
     "url": "https://space.bilibili.com/9458053",
     "description": "Li Yongle's science and maths lessons on Bilibili.",
     "category": "science",
@@ -304,9 +304,9 @@
   },
   {
     "id": "li-yongle-official",
-    "name": "李永乐老师 (official)",
+    "name": "李永乐老师 Li Yongle",
     "url": "https://www.youtube.com/@李永乐老师官方",
-    "description": "Li Yongle official channel.",
+    "description": "Teacher Li Yongle's science and maths lessons in fast, clear Mandarin.",
     "category": "science",
     "type": "youtube",
     "tags": [
@@ -542,7 +542,7 @@
     "id": "guokr",
     "name": "果壳 Guokr",
     "url": "https://www.guokr.com/",
-    "description": "Popular science articles.",
+    "description": "Popular-science articles on health, nature and technology.",
     "category": "science",
     "type": "website",
     "tags": [
@@ -613,7 +613,7 @@
     "id": "pansci",
     "name": "泛科學 PanSci",
     "url": "https://pansci.asia/",
-    "description": "Taiwan popular science.",
+    "description": "Taiwanese popular-science articles and videos.",
     "category": "science",
     "type": "website",
     "tags": [

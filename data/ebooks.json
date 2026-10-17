@@ -82,7 +82,7 @@
     "id": "ireader",
     "name": "掌阅 iReader",
     "url": "https://www.ireader.com/",
-    "description": "E-book store and reader.",
+    "description": "E-book store and reading app with a large Chinese catalogue.",
     "category": "ebooks",
     "type": "website",
     "tags": [
@@ -108,7 +108,7 @@
     "id": "readmoo",
     "name": "Readmoo 讀墨",
     "url": "https://readmoo.com/",
-    "description": "Taiwan e-book store.",
+    "description": "Taiwanese e-book store and reading app with traditional-character titles.",
     "category": "ebooks",
     "type": "website",
     "tags": [
@@ -160,7 +160,7 @@
     "id": "kobo",
     "name": "Kobo 中文電子書",
     "url": "https://www.kobo.com/tw/zh",
-    "description": "Kobo Chinese e-books.",
+    "description": "Kobo's Chinese-language e-book store (traditional characters).",
     "category": "ebooks",
     "type": "website",
     "tags": [
@@ -186,7 +186,7 @@
     "id": "pubu",
     "name": "Pubu 電子書城",
     "url": "https://www.pubu.com.tw/",
-    "description": "Taiwan e-books and magazines.",
+    "description": "Taiwanese store for e-books, comics and magazines.",
     "category": "ebooks",
     "type": "website",
     "tags": [
@@ -212,7 +212,7 @@
     "id": "dangdang",
     "name": "当当云阅读 Dangdang",
     "url": "https://e.dangdang.com/",
-    "description": "Dangdang e-books.",
+    "description": "E-books from Dangdang, one of China's oldest online bookstores.",
     "category": "ebooks",
     "type": "website",
     "tags": [

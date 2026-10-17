@@ -37,7 +37,7 @@
     "id": "iqiyi-movie-theater",
     "name": "爱奇艺大电影 iQIYI Movie Theater",
     "url": "https://www.youtube.com/@iQIYIMOVIETHEATER",
-    "description": "Full-length Chinese films.",
+    "description": "Full-length Chinese films uploaded officially by iQIYI.",
     "category": "drama_film",
     "type": "youtube",
     "tags": [
@@ -139,7 +139,7 @@
     "id": "youku-chinese-drama",
     "name": "优酷华语剧场 Youku Chinese Drama",
     "url": "https://www.youtube.com/@youkuhuayu",
-    "description": "Youku Chinese drama theatre.",
+    "description": "Full Chinese dramas from Youku, many with subtitles.",
     "category": "drama_film",
     "type": "youtube",
     "tags": [
@@ -241,7 +241,7 @@
     "id": "huanyu-entertainment",
     "name": "欢娱影视 Huanyu Entertainment",
     "url": "https://www.youtube.com/@chinahuanyuent.officialchannel",
-    "description": "Costume and palace dramas.",
+    "description": "Studio behind popular costume and palace dramas such as Story of Yanxi Palace.",
     "category": "drama_film",
     "type": "youtube",
     "tags": [
@@ -310,7 +310,7 @@
     "id": "cctv-drama",
     "name": "CCTV电视剧 CCTV Drama",
     "url": "https://www.youtube.com/@CCTVDrama",
-    "description": "CCTV-8 drama channel.",
+    "description": "CCTV-8's official channel with full mainland TV dramas.",
     "category": "drama_film",
     "type": "youtube",
     "tags": [
@@ -344,7 +344,7 @@
     "id": "mangotv-mystery",
     "name": "MangoTV Mystery 芒果TV推理宇宙",
     "url": "https://www.youtube.com/channel/UCKm7iuaBY41nzqIk6J8eX0g",
-    "description": "Mystery and suspense dramas.",
+    "description": "Mystery, crime and suspense dramas from Mango TV.",
     "category": "drama_film",
     "type": "youtube",
     "tags": [
@@ -379,7 +379,7 @@
     "id": "pts-drama",
     "name": "公視戲劇 PTS Drama",
     "url": "https://www.youtube.com/@ptsdrama",
-    "description": "Taiwan public TV dramas.",
+    "description": "Full dramas from Taiwan's public broadcaster, known for high-quality series.",
     "category": "drama_film",
     "type": "youtube",
     "tags": [
@@ -413,7 +413,7 @@
     "id": "mediacorp-drama",
     "name": "Mediacorp Drama",
     "url": "https://www.youtube.com/@MediacorpDrama",
-    "description": "Singapore Chinese dramas.",
+    "description": "Full Singaporean Chinese dramas from Mediacorp.",
     "category": "drama_film",
     "type": "youtube",
     "tags": [
@@ -482,7 +482,7 @@
     "id": "chinese-old-movies",
     "name": "华语老电影 Chinese Old Movies",
     "url": "https://www.youtube.com/@Chineseoldmovie",
-    "description": "Older Chinese films.",
+    "description": "Older mainland Chinese films, uploaded in full.",
     "category": "drama_film",
     "type": "youtube",
     "tags": [
@@ -621,7 +621,7 @@
     "id": "dian-ying-zui-top",
     "name": "电影最TOP",
     "url": "https://space.bilibili.com/17819768",
-    "description": "Film reviews and summaries.",
+    "description": "Film reviews, recommendations and plot summaries.",
     "category": "drama_film",
     "type": "bilibili",
     "tags": [

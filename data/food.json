@@ -244,9 +244,9 @@
   },
   {
     "id": "mianyang-liaoli-bilibili",
-    "name": "绵羊料理 (Bilibili)",
+    "name": "绵羊料理",
     "url": "https://space.bilibili.com/18202105",
-    "description": "MianYang LiaoLi on Bilibili.",
+    "description": "Ambitious home recreations of famous dishes.",
     "category": "food",
     "type": "bilibili",
     "tags": [
@@ -347,9 +347,9 @@
   },
   {
     "id": "daoyueshe-bilibili",
-    "name": "盗月社食遇记 (Bilibili)",
+    "name": "盗月社食遇记",
     "url": "https://space.bilibili.com/99157282",
-    "description": "DaoYueShe on Bilibili.",
+    "description": "Food-travel hosts explore restaurants and markets across China.",
     "category": "food",
     "type": "bilibili",
     "tags": [
@@ -690,9 +690,9 @@
   },
   {
     "id": "hua-nong-xiong-di-bilibili",
-    "name": "华农兄弟 (Bilibili)",
+    "name": "华农兄弟",
     "url": "https://space.bilibili.com/250858633",
-    "description": "Huanong Brothers on Bilibili.",
+    "description": "Farming brothers and their bamboo rats, famously deadpan.",
     "category": "food",
     "type": "bilibili",
     "tags": [

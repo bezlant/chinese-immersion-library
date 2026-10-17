@@ -8,14 +8,14 @@
   "web_icon": "trending-up",
   "description": "Economics explainers, markets and business media."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 18,
  "resources": [
   {
    "id": "21-shi-ji-jing-ji-bao-dao",
    "name": "21世纪经济报道",
    "url": "https://www.21jingji.com/",
-   "description": "21st Century Business Herald.",
+   "description": "21st Century Business Herald: economic news and company coverage.",
    "category": "business",
    "type": "website",
    "level": [
@@ -95,7 +95,7 @@
    "id": "wallstreetcn",
    "name": "华尔街见闻 Wallstreetcn",
    "url": "https://wallstreetcn.com/",
-   "description": "Global markets news.",
+   "description": "Global markets, macroeconomics and investing news.",
    "category": "business",
    "type": "website",
    "level": [
@@ -118,7 +118,7 @@
    "id": "business-weekly-video",
    "name": "商業周刊 Business Weekly",
    "url": "https://www.youtube.com/@bwnet",
-   "description": "Taiwan Business Weekly video.",
+   "description": "Video explainers on business, careers and personal finance from Taiwan's Business Weekly.",
    "category": "business",
    "type": "youtube",
    "level": [
@@ -151,7 +151,7 @@
    "id": "business-weekly",
    "name": "商業周刊 Business Weekly",
    "url": "https://www.businessweekly.com.tw/",
-   "description": "Taiwan business magazine.",
+   "description": "Taiwanese business magazine on companies, careers and money.",
    "category": "business",
    "type": "website",
    "level": [
@@ -173,9 +173,9 @@
   },
   {
    "id": "commonwealth-video",
-   "name": "天下雜誌 video",
+   "name": "天下雜誌 CommonWealth",
    "url": "https://www.youtube.com/@cwvideo",
-   "description": "CommonWealth Magazine video.",
+   "description": "Video reports and interviews from CommonWealth, a leading Taiwanese magazine.",
    "category": "business",
    "type": "youtube",
    "level": [
@@ -240,9 +240,9 @@
   },
   {
    "id": "xiao-lin-shuo-bilibili",
-   "name": "小Lin说 (Bilibili)",
+   "name": "小Lin说",
    "url": "https://space.bilibili.com/520819684",
-   "description": "Xiao Lin's finance explainers on Bilibili.",
+   "description": "Clear, fun explanations of finance and economics.",
    "category": "business",
    "type": "bilibili",
    "level": [
@@ -306,9 +306,9 @@
   },
   {
    "id": "wu-shi-cai-jing-bilibili",
-   "name": "巫师财经 (Bilibili)",
+   "name": "巫师财经",
    "url": "https://space.bilibili.com/472747194",
-   "description": "Wizard Finance on Bilibili.",
+   "description": "Deep-dive videos on business, finance and economics.",
    "category": "business",
    "type": "bilibili",
    "level": [
@@ -372,9 +372,9 @@
   },
   {
    "id": "suo-zhang-lin-chao-bilibili",
-   "name": "所长林超 (Bilibili)",
+   "name": "所长林超",
    "url": "https://space.bilibili.com/520155988",
-   "description": "Lin Chao on Bilibili.",
+   "description": "Mental models, business and science explainers by Lin Chao.",
    "category": "business",
    "type": "bilibili",
    "level": [
@@ -438,9 +438,9 @@
   },
   {
    "id": "ying-he-de-ban-fu-xian-ren-bilibili",
-   "name": "硬核的半佛仙人 (Bilibili)",
+   "name": "硬核的半佛仙人",
    "url": "https://space.bilibili.com/37663924",
-   "description": "Banfo on Bilibili.",
+   "description": "Fast-paced commentary on business scandals and how companies really work.",
    "category": "business",
    "type": "bilibili",
    "level": [

@@ -8,7 +8,7 @@
   "web_icon": "atom",
   "description": "Popular science, talks, encyclopedias and Q&A."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 23,
  "resources": [
   {
@@ -261,42 +261,8 @@
    "image": "https://i0.hdslb.com/bfs/face/6de12181ed59518fc7beff2046fb3218d50206cc.jpg"
   },
   {
-   "id": "li-yongle-official",
-   "name": "李永乐老师 (official)",
-   "url": "https://www.youtube.com/@李永乐老师官方",
-   "description": "Li Yongle official channel.",
-   "category": "science",
-   "type": "youtube",
-   "level": [
-    "advanced"
-   ],
-   "script": "simplified",
-   "region": "cn",
-   "language": "zh",
-   "pricing": "free",
-   "tags": [
-    "maths",
-    "physics"
-   ],
-   "for_learners": false,
-   "dialect": "mandarin",
-   "platforms": [
-    "web",
-    "ios",
-    "android"
-   ],
-   "feed": {
-    "format": "youtube",
-    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ"
-   },
-   "ids": {
-    "youtube_channel_id": "UCvNxfitQbWkmLuCd44UfrYQ"
-   },
-   "image": "https://yt3.googleusercontent.com/gs_-qVWE__RtVwwbTMgSwORzPEWJngI-VEh4T8LkPu85vRj9SA7uSyhqOlT3RxpjG0jhYYPiTg=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
    "id": "li-yongle-bilibili",
-   "name": "李永乐老师官方 (Bilibili)",
+   "name": "李永乐老师 Li Yongle",
    "url": "https://space.bilibili.com/9458053",
    "description": "Li Yongle's science and maths lessons on Bilibili.",
    "category": "science",
@@ -329,10 +295,44 @@
    "image": "https://i1.hdslb.com/bfs/face/b299b0e20dc4fbbd45e13ba86f330d890c0a0118.jpg"
   },
   {
+   "id": "li-yongle-official",
+   "name": "李永乐老师 Li Yongle",
+   "url": "https://www.youtube.com/@李永乐老师官方",
+   "description": "Teacher Li Yongle's science and maths lessons in fast, clear Mandarin.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "maths",
+    "physics"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvNxfitQbWkmLuCd44UfrYQ"
+   },
+   "image": "https://yt3.googleusercontent.com/gs_-qVWE__RtVwwbTMgSwORzPEWJngI-VEh4T8LkPu85vRj9SA7uSyhqOlT3RxpjG0jhYYPiTg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
    "id": "guokr",
    "name": "果壳 Guokr",
    "url": "https://www.guokr.com/",
-   "description": "Popular science articles.",
+   "description": "Popular-science articles on health, nature and technology.",
    "category": "science",
    "type": "website",
    "level": [
@@ -386,9 +386,9 @@
   },
   {
    "id": "bi-dao-bilibili",
-   "name": "毕导 (Bilibili)",
+   "name": "毕导",
    "url": "https://space.bilibili.com/254463269",
-   "description": "Bi Dao on Bilibili.",
+   "description": "Funny science experiments and explanations from a Tsinghua PhD.",
    "category": "science",
    "type": "bilibili",
    "level": [
@@ -455,7 +455,7 @@
    "id": "pansci",
    "name": "泛科學 PanSci",
    "url": "https://pansci.asia/",
-   "description": "Taiwan popular science.",
+   "description": "Taiwanese popular-science articles and videos.",
    "category": "science",
    "type": "website",
    "level": [

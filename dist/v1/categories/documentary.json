@@ -8,7 +8,7 @@
   "web_icon": "video",
   "description": "Food, history, nature and craft documentaries."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 10,
  "resources": [
   {
@@ -159,7 +159,7 @@
   },
   {
    "id": "ren-sheng-yi-chuan",
-   "name": "人生一串 (Bilibili)",
+   "name": "人生一串",
    "url": "https://www.bilibili.com/bangumi/media/md134912/",
    "description": "Bilibili documentary on Chinese street barbecue culture.",
    "category": "documentary",
@@ -207,7 +207,7 @@
   },
   {
    "id": "wo-zai-gu-gong-xiu-wen-wu",
-   "name": "我在故宫修文物 (Bilibili)",
+   "name": "我在故宫修文物",
    "url": "https://www.bilibili.com/bangumi/media/md28228731/",
    "description": "Restoring relics inside the Forbidden City.",
    "category": "documentary",

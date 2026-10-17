@@ -8,14 +8,14 @@
   "web_icon": "music",
   "description": "Streaming services, lyrics sites, labels and artists."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 31,
  "resources": [
   {
    "id": "9m88",
    "name": "9m88",
    "url": "https://www.youtube.com/@9m88.",
-   "description": "Taiwanese jazz-soul singer.",
+   "description": "Taiwanese jazz and soul singer.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -49,7 +49,7 @@
    "id": "amei",
    "name": "aMEI 張惠妹",
    "url": "https://www.youtube.com/@amei",
-   "description": "Official channel of A-Mei.",
+   "description": "Official channel of A-Mei, one of Mandopop's biggest stars.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -118,7 +118,7 @@
    "id": "gem",
    "name": "GEM 鄧紫棋",
    "url": "https://www.youtube.com/@gem0816",
-   "description": "Official channel of G.E.M.",
+   "description": "Official channel of G.E.M., the Hong Kong-born singer-songwriter who sings mostly in Mandarin.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -402,7 +402,7 @@
    "id": "zjstv-music-channel",
    "name": "ZJSTV Music Channel",
    "url": "https://www.youtube.com/@ZJSTV-Music",
-   "description": "Music from Zhejiang TV shows.",
+   "description": "Live performances from Zhejiang TV's music shows.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -436,7 +436,7 @@
    "id": "accusefive",
    "name": "告五人 Accusefive",
    "url": "https://www.youtube.com/@Accusefive",
-   "description": "Taiwanese indie-pop band.",
+   "description": "Taiwanese indie-pop band with catchy, lyric-driven songs.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -538,7 +538,7 @@
    "id": "new-pants",
    "name": "新褲子 New Pants",
    "url": "https://www.youtube.com/@NewPants",
-   "description": "Beijing new-wave rock band.",
+   "description": "Beijing new-wave band with retro synth-pop songs.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -771,7 +771,7 @@
    "id": "no-party-for-cao-dong",
    "name": "草東沒有派對 No Party For Cao Dong",
    "url": "https://www.youtube.com/@nopartyforcaodong",
-   "description": "Taiwanese indie-rock band.",
+   "description": "Acclaimed Taiwanese indie-rock band.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -874,7 +874,7 @@
    "id": "sunset-rollercoaster",
    "name": "落日飛車 Sunset Rollercoaster",
    "url": "https://www.youtube.com/@SunsetRollercoaster",
-   "description": "Taiwanese indie band.",
+   "description": "Taiwanese indie band with mellow, jazzy soft-rock songs.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -942,7 +942,7 @@
    "id": "kugou",
    "name": "酷狗音乐 Kugou",
    "url": "https://www.kugou.com/",
-   "description": "Music streaming and karaoke.",
+   "description": "Music streaming and karaoke app with synced lyrics.",
    "category": "music",
    "type": "website",
    "level": [
@@ -968,7 +968,7 @@
    "id": "weibird",
    "name": "韋禮安 WeiBird",
    "url": "https://www.youtube.com/@weibird_official",
-   "description": "Official channel of WeiBird.",
+   "description": "Official channel of Taiwanese singer-songwriter WeiBird.",
    "category": "music",
    "type": "youtube",
    "level": [

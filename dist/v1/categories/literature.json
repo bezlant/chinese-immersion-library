@@ -8,7 +8,7 @@
   "web_icon": "scroll-text",
   "description": "Classical poetry, prose and public-domain texts."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 12,
  "resources": [
   {
@@ -63,7 +63,7 @@
    "id": "zhonghuadiancang",
    "name": "中华典藏 Zhonghuadiancang",
    "url": "https://www.zhonghuadiancang.com/",
-   "description": "Classic texts collection.",
+   "description": "Searchable collection of classical texts, from philosophy to history.",
    "category": "literature",
    "type": "website",
    "level": [

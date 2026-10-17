@@ -57,7 +57,7 @@
     "id": "ptt",
     "name": "PTT",
     "url": "https://www.ptt.cc/bbs/index.html",
-    "description": "Taiwan's classic BBS forum.",
+    "description": "Taiwan's classic text-based forum, full of everyday slang.",
     "category": "social",
     "type": "website",
     "tags": [
@@ -109,7 +109,7 @@
     "id": "lihkg",
     "name": "LIHKG 連登",
     "url": "https://lihkg.com/",
-    "description": "Hong Kong forum (Cantonese).",
+    "description": "Popular Hong Kong forum, written mostly in Cantonese.",
     "category": "social",
     "type": "website",
     "tags": [
@@ -188,7 +188,7 @@
     "id": "zhihu-daily",
     "name": "知乎日报 Zhihu Daily",
     "url": "https://daily.zhihu.com/",
-    "description": "Daily curated Zhihu stories.",
+    "description": "Daily selection of in-depth answers from Zhihu.",
     "category": "social",
     "type": "website",
     "tags": [

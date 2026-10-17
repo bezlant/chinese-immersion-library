@@ -8,7 +8,7 @@
   "web_icon": "plane",
   "description": "Travel vlogs, guides and review sites."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 17,
  "resources": [
   {
@@ -140,7 +140,7 @@
    "id": "qunar",
    "name": "去哪儿 Qunar",
    "url": "https://www.qunar.com/",
-   "description": "Travel search and booking.",
+   "description": "Flight and hotel search with destination guides.",
    "category": "travel",
    "type": "website",
    "level": [

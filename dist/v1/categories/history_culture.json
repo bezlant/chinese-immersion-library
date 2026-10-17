@@ -8,7 +8,7 @@
   "web_icon": "landmark",
   "description": "History storytelling, museums, art and culture."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 16,
  "resources": [
   {
@@ -74,7 +74,7 @@
    "id": "lifeweek",
    "name": "三联生活周刊 Lifeweek",
    "url": "https://www.lifeweek.com.cn/",
-   "description": "Culture and society weekly.",
+   "description": "Weekly magazine on culture, society and lifestyle in China.",
    "category": "history_culture",
    "type": "website",
    "level": [
@@ -300,9 +300,9 @@
   },
   {
    "id": "xiao-yue-han-ke-han-bilibili",
-   "name": "小约翰可汗 (Bilibili)",
+   "name": "小约翰可汗",
    "url": "https://space.bilibili.com/23947287",
-   "description": "Little John Khan on Bilibili.",
+   "description": "Humorous deep-dives into world history and quirky dictators.",
    "category": "history_culture",
    "type": "bilibili",
    "level": [

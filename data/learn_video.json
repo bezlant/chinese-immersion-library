@@ -1828,40 +1828,6 @@
     }
   },
   {
-    "id": "li-yongle",
-    "name": "李永乐老师 Li Yongle",
-    "url": "https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw",
-    "description": "Free science and maths lessons in fast, clear Mandarin with whiteboard explanations.",
-    "category": "learn_video",
-    "type": "youtube",
-    "tags": [
-      "science",
-      "maths"
-    ],
-    "level": [
-      "advanced"
-    ],
-    "for_learners": false,
-    "script": "simplified",
-    "region": "cn",
-    "dialect": "mandarin",
-    "language": "zh",
-    "pricing": "free",
-    "platforms": [
-      "web",
-      "ios",
-      "android"
-    ],
-    "ids": {
-      "youtube_channel_id": "UCSs4A6HYKmHA2MG_0z-F0xw"
-    },
-    "image": "https://yt3.googleusercontent.com/PKf7sPKOn9HXfTvM5cuUwDqV_nX3ImK9uIIOzjUDLnF8mHolj7lROmQOBvF6NKhdEZBZ33HLlA=s900-c-k-c0x00ffffff-no-rj",
-    "feed": {
-      "format": "youtube",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSs4A6HYKmHA2MG_0z-F0xw"
-    }
-  },
-  {
     "id": "harbin-mandarin",
     "name": "Harbin Mandarin",
     "url": "https://www.youtube.com/@HarbinMandarin",

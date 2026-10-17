@@ -84,7 +84,7 @@
     "id": "tencent-video",
     "name": "腾讯视频 Tencent Video",
     "url": "https://v.qq.com/",
-    "description": "Tencent's streaming platform.",
+    "description": "Tencent's streaming platform for dramas, variety shows and films.",
     "category": "video_platform",
     "type": "website",
     "tags": [
@@ -139,7 +139,7 @@
     "id": "youku",
     "name": "优酷 Youku",
     "url": "https://www.youku.com/",
-    "description": "Alibaba's streaming platform.",
+    "description": "Alibaba's streaming platform for dramas, films and documentaries.",
     "category": "video_platform",
     "type": "website",
     "tags": [
@@ -195,7 +195,7 @@
     "id": "cctv-video",
     "name": "央视频 CCTV Video",
     "url": "https://www.yangshipin.cn/",
-    "description": "CCTV's live TV and video app.",
+    "description": "CCTV's app for live TV channels and on-demand programmes.",
     "category": "video_platform",
     "type": "website",
     "tags": [
@@ -222,7 +222,7 @@
     "id": "douyin",
     "name": "抖音 Douyin",
     "url": "https://www.douyin.com/",
-    "description": "China's TikTok: short videos.",
+    "description": "China's version of TikTok: short videos on every topic.",
     "category": "video_platform",
     "type": "website",
     "tags": [
@@ -274,7 +274,7 @@
     "id": "xigua-video",
     "name": "西瓜视频 Xigua Video",
     "url": "https://www.ixigua.com/",
-    "description": "Medium-length videos.",
+    "description": "ByteDance video platform for longer creator videos.",
     "category": "video_platform",
     "type": "website",
     "tags": [
@@ -353,7 +353,7 @@
     "id": "pts-plus",
     "name": "公視+ PTS+",
     "url": "https://www.ptsplus.tv/",
-    "description": "Taiwan Public TV streaming.",
+    "description": "Streaming service of Taiwan's public broadcaster.",
     "category": "video_platform",
     "type": "website",
     "tags": [
@@ -378,9 +378,9 @@
   },
   {
     "id": "line-tv-myvideo",
-    "name": "LINE TV / myVideo",
+    "name": "myVideo",
     "url": "https://www.myvideo.net.tw/",
-    "description": "Taiwan streaming service.",
+    "description": "Taiwanese streaming service for dramas, films and anime.",
     "category": "video_platform",
     "type": "website",
     "tags": [
@@ -433,7 +433,7 @@
     "id": "catchplay",
     "name": "CATCHPLAY+",
     "url": "https://www.catchplay.com/",
-    "description": "Taiwan film streaming.",
+    "description": "Taiwanese streaming service for films and series.",
     "category": "video_platform",
     "type": "website",
     "tags": [
@@ -485,7 +485,7 @@
     "id": "mytv-super",
     "name": "myTV SUPER",
     "url": "https://www.mytvsuper.com/",
-    "description": "TVB streaming (Cantonese).",
+    "description": "TVB's streaming service for Hong Kong dramas (Cantonese).",
     "category": "video_platform",
     "type": "website",
     "tags": [

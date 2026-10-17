@@ -36,7 +36,7 @@
     "id": "de-yun-she-tv",
     "name": "德云社TV",
     "url": "https://www.youtube.com/@dys888",
-    "description": "Deyunshe performances.",
+    "description": "Full xiangsheng (crosstalk) performances from the Deyunshe troupe.",
     "category": "comedy",
     "type": "youtube",
     "tags": [
@@ -167,9 +167,9 @@
   },
   {
     "id": "papi-jiang-bilibili",
-    "name": "papi酱 (Bilibili)",
+    "name": "papi酱",
     "url": "https://space.bilibili.com/1532165",
-    "description": "papi酱 on Bilibili.",
+    "description": "Rapid-fire comedy sketches about everyday life.",
     "category": "comedy",
     "type": "bilibili",
     "tags": [
@@ -368,7 +368,7 @@
     "id": "zhong-liang-ji-crowd",
     "name": "眾量級CROWD",
     "url": "https://www.youtube.com/@crowd1111",
-    "description": "Taiwanese comedy skits.",
+    "description": "Taiwanese comedy group known for skits, parodies and challenges.",
     "category": "comedy",
     "type": "youtube",
     "tags": [

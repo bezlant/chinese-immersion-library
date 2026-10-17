@@ -15,7 +15,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 ## Contents
 
 - **[Learn](#learn)**
-  - <img src="assets/icons/circle-play.svg" width="14" height="14" alt=""> [Learn Chinese: Video](#learn-chinese-video) · 59
+  - <img src="assets/icons/circle-play.svg" width="14" height="14" alt=""> [Learn Chinese: Video](#learn-chinese-video) · 58
   - <img src="assets/icons/headphones.svg" width="14" height="14" alt=""> [Learn Chinese: Podcasts](#learn-chinese-podcasts) · 43
   - <img src="assets/icons/book-open.svg" width="14" height="14" alt=""> [Graded Reading](#graded-reading) · 21
   - <img src="assets/icons/graduation-cap.svg" width="14" height="14" alt=""> [Courses & Grammar](#courses--grammar) · 24
@@ -53,7 +53,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
   - <img src="assets/icons/mic.svg" width="14" height="14" alt=""> [Chinese Podcasts](#chinese-podcasts) · 36
   - <img src="assets/icons/radio.svg" width="14" height="14" alt=""> [Radio & Audiobooks](#radio--audiobooks) · 10
 
-**723 resources.** After each entry: *For learners* when it is made for learners, then level · 简 simplified / 繁 traditional · region · language if not all Chinese · pricing if not free.
+**722 resources.** After each entry: *For learners* when it is made for learners, then level · 简 simplified / 繁 traditional · region · language if not all Chinese · pricing if not free.
 
 ## Learn
 
@@ -121,7 +121,6 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [Will Hart 何威](https://www.youtube.com/@willhartmandarin) - A British advanced learner speaking Chinese on pronunciation and characters, plus learning tips. <sub>*For learners* · Intermediate–Advanced · 简 · CN · Bilingual</sub>
 - [Xiaogua Chinese](https://www.youtube.com/@xiaoguachinese) - Large level-labelled library of stories, podcasts, travel videos and everyday topics. <sub>*For learners* · Beginner–Intermediate · 简 · CN</sub>
 - [Yoyo Chinese](https://www.youtube.com/@YoyoChinese) - Large library of English-taught lessons on grammar, pronunciation and characters. <sub>*For learners* · Beginner–Intermediate · 简 · CN · English</sub>
-- [李永乐老师 Li Yongle](https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw) - Free science and maths lessons in fast, clear Mandarin with whiteboard explanations. <sub>Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
 
@@ -328,7 +327,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [HelloTalk](https://www.hellotalk.com/) - Language exchange app with native Chinese speakers. <sub>*For learners* · All levels · 简 · CN · Bilingual · Freemium</sub>
 - [italki](https://www.italki.com/en/teachers/chinese) - One-to-one Chinese lessons with professional teachers and tutors. <sub>*For learners* · All levels · 简 · CN · Bilingual · Paid</sub>
 - [Lang-8 / HiNative](https://hinative.com/) - Ask native speakers questions about Chinese usage. <sub>*For learners* · All levels · 简 · CN · Bilingual · Freemium</sub>
-- [Preply](https://preply.com/en/online/chinese-tutors) - Online Chinese tutors. <sub>*For learners* · All levels · 简 · CN · Bilingual · Paid</sub>
+- [Preply](https://preply.com/en/online/chinese-tutors) - Book one-to-one lessons with Chinese tutors at a range of prices. <sub>*For learners* · All levels · 简 · CN · Bilingual · Paid</sub>
 - [r/Chinese](https://www.reddit.com/r/Chinese/) - Reddit community about Chinese language and culture. <sub>*For learners* · All levels · 简 · CN · Bilingual</sub>
 - [r/ChineseHistory](https://www.reddit.com/r/ChineseHistory/) - Discussion of Chinese history. <sub>*For learners* · All levels · 简 · CN · Bilingual</sub>
 - [r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/) - Large Reddit community for Chinese learners. <sub>*For learners* · All levels · 简 · CN · Bilingual</sub>
@@ -353,9 +352,9 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [RealTime Mandarin](https://www.realtimemandarin.com/) - Newsletter teaching advanced Mandarin through current news. <sub>*For learners* · Advanced · 简繁 · Global · English</sub>
 - [Sixth Tone](https://www.sixthtone.com/) - English-language stories about contemporary Chinese society. <sub>*For learners* · All levels · 简繁 · Global · English</sub>
 - [SupChina / The China Project archive](https://thechinaproject.com/) - Archive of news and culture about China. <sub>*For learners* · All levels · 简繁 · Global · English</sub>
-- [Taiwan News](https://www.taiwannews.com.tw/) - English news from Taiwan. <sub>*For learners* · All levels · 简繁 · Global · English</sub>
-- [That's Shanghai](https://www.thatsmags.com/shanghai) - Expat guide to Shanghai life. <sub>*For learners* · All levels · 简繁 · Global · English</sub>
-- [The Beijinger](https://www.thebeijinger.com/) - Expat guide to Beijing life. <sub>*For learners* · All levels · 简繁 · Global · English</sub>
+- [Taiwan News](https://www.taiwannews.com.tw/) - English-language news from Taiwan, useful for context on local stories. <sub>*For learners* · All levels · 简繁 · Global · English</sub>
+- [That's Shanghai](https://www.thatsmags.com/shanghai) - English guide to living in Shanghai: food, culture and events. <sub>*For learners* · All levels · 简繁 · Global · English</sub>
+- [The Beijinger](https://www.thebeijinger.com/) - English guide to living in Beijing: food, events and city news. <sub>*For learners* · All levels · 简繁 · Global · English</sub>
 - [What's on Weibo](https://www.whatsonweibo.com/) - Trends and social media in China explained in English. <sub>*For learners* · All levels · 简繁 · Global · English</sub>
 
 [Back to contents](#contents)
@@ -371,18 +370,18 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [8视界 8world](https://www.8world.com/) - Mediacorp Chinese news and entertainment. <sub>Advanced · 简 · SG</sub>
 - [ABC 中文 (Australia)](https://www.abc.net.au/chinese) - Australian Broadcasting Corporation Chinese news. <sub>Advanced · 简繁 · Global</sub>
 - [BBC News 中文](https://www.bbc.com/zhongwen/simp) - BBC World Service Chinese: world and China news. <sub>Advanced · 简繁 · Global</sub>
-- [ETtoday 新聞雲](https://www.ettoday.net/) - Taiwan online news. <sub>Advanced · 繁 · TW</sub>
+- [ETtoday 新聞雲](https://www.ettoday.net/) - Popular Taiwanese online news site. <sub>Advanced · 繁 · TW</sub>
 - [FT中文网 FT Chinese](https://www.ftchinese.com/) - Financial Times Chinese: business, economics and bilingual reading. <sub>Advanced · 简繁 · Global · Freemium</sub>
 - [RFA 自由亚洲电台](https://www.rfa.org/mandarin/) - Radio Free Asia Mandarin service. <sub>Advanced · 简 · Global</sub>
 - [SBS 中文 (Australia)](https://www.sbs.com.au/language/chinese/zh-hans) - SBS Mandarin news and podcasts. <sub>Advanced · 简 · Global</sub>
 - [中国国际电视台 CGTN 中文](https://www.cgtn.com/) - China Global Television Network. <sub>Advanced · 简 · CN · Bilingual</sub>
-- [中国报 China Press](https://www.chinapress.com.my/) - Malaysian Chinese daily. <sub>Advanced · 简 · MY</sub>
+- [中国报 China Press](https://www.chinapress.com.my/) - Malaysian Chinese-language daily with local and regional news. <sub>Advanced · 简 · MY</sub>
 - [中国数字时代 China Digital Times](https://chinadigitaltimes.net/chinese/) - Archive of censored Chinese internet content and commentary. <sub>Advanced · 简繁 · Global</sub>
 - [中国新闻网 China News](https://www.chinanews.com.cn/) - China News Service: breaking national and international news. <sub>Advanced · 简 · CN</sub>
-- [中国日报中文网 China Daily](https://cn.chinadaily.com.cn/) - China Daily Chinese edition. <sub>Advanced · 简 · CN</sub>
+- [中国日报中文网 China Daily](https://cn.chinadaily.com.cn/) - Chinese-language edition of China Daily. <sub>Advanced · 简 · CN</sub>
 - [中国青年网 Youth.cn](http://www.youth.cn/) - News for young readers from China Youth Daily. <sub>Advanced · 简 · CN</sub>
-- [中央社 CNA](https://www.cna.com.tw/) - Taiwan's Central News Agency. <sub>Advanced · 繁 · TW</sub>
-- [中時新聞網 China Times](https://www.chinatimes.com/) - Taiwan China Times news. <sub>Advanced · 繁 · TW</sub>
+- [中央社 CNA](https://www.cna.com.tw/) - Taiwan's national news agency, with clear, formal news writing. <sub>Advanced · 繁 · TW</sub>
+- [中時新聞網 China Times](https://www.chinatimes.com/) - News site of the China Times, a major Taiwanese newspaper. <sub>Advanced · 繁 · TW</sub>
 - [人民网 People's Daily](http://www.people.com.cn/) - People's Daily online: politics, society and economy. <sub>Advanced · 简 · CN</sub>
 - [光明网 Guangming](https://www.gmw.cn/) - Guangming Daily: culture, education and science news. <sub>Advanced · 简 · CN</sub>
 - [公視新聞網 PNN](https://news.pts.org.tw/) - Taiwan public television news. <sub>Advanced · 繁 · TW</sub>
@@ -393,10 +392,10 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [天下雜誌 CommonWealth](https://www.cw.com.tw/) - Taiwan business and society magazine. <sub>Advanced · 繁 · TW · Freemium</sub>
 - [央视网 CCTV.com](https://www.cctv.com/) - China Central Television news, programmes and live streams. <sub>Advanced · 简 · CN</sub>
 - [德国之声 DW 中文](https://www.dw.com/zh/) - Deutsche Welle Chinese: Europe and world news. <sub>Advanced · 简繁 · Global</sub>
-- [搜狐新闻 Sohu News](https://news.sohu.com/) - Sohu portal news. <sub>Advanced · 简 · CN</sub>
+- [搜狐新闻 Sohu News](https://news.sohu.com/) - Sohu's news portal with national and international stories. <sub>Advanced · 简 · CN</sub>
 - [新京报 Beijing News](https://www.bjnews.com.cn/) - Beijing daily news and features. <sub>Advanced · 简 · CN</sub>
 - [新华网 Xinhua](http://www.xinhuanet.com/) - China's state news agency: national and world news. <sub>Advanced · 简 · CN</sub>
-- [新浪新闻 Sina News](https://news.sina.com.cn/) - Sina portal news. <sub>Advanced · 简 · CN</sub>
+- [新浪新闻 Sina News](https://news.sina.com.cn/) - News portal from Sina covering China and the world. <sub>Advanced · 简 · CN</sub>
 - [日经中文网 Nikkei Chinese](https://cn.nikkei.com/) - Nikkei Asia business news in Chinese. <sub>Advanced · 简 · Global · Freemium</sub>
 - [明報 Ming Pao](https://news.mingpao.com/) - Hong Kong daily news (written Chinese). <sub>Advanced · 繁 · HK</sub>
 - [星島頭條 Sing Tao](https://www.stheadline.com/) - Hong Kong Sing Tao Daily news. <sub>Advanced · 繁 · HK</sub>
@@ -404,55 +403,55 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [法广 RFI 华语](https://www.rfi.fr/cn/) - Radio France Internationale Chinese service. <sub>Advanced · 简繁 · Global</sub>
 - [澎湃新闻 The Paper](https://www.thepaper.cn/) - Shanghai-based digital news with in-depth reporting. <sub>Advanced · 简 · CN</sub>
 - [环球网 Huanqiu](https://www.huanqiu.com/) - Global Times Chinese site: international news. <sub>Advanced · 简 · CN</sub>
-- [界面新闻 Jiemian](https://www.jiemian.com/) - Business and lifestyle news. <sub>Advanced · 简 · CN</sub>
+- [界面新闻 Jiemian](https://www.jiemian.com/) - Shanghai-based news on business, culture and lifestyle. <sub>Advanced · 简 · CN</sub>
 - [端傳媒 Initium Media](https://theinitium.com/) - In-depth Chinese-language reporting on Greater China. <sub>Advanced · 繁 · HK · Paid</sub>
-- [第一财经 Yicai](https://www.yicai.com/) - Financial and business news. <sub>Advanced · 简 · CN</sub>
+- [第一财经 Yicai](https://www.yicai.com/) - Business and financial news from China Business Network. <sub>Advanced · 简 · CN</sub>
 - [纽约时报中文网 NYT Chinese](https://cn.nytimes.com/) - New York Times Chinese edition with bilingual articles. <sub>Advanced · 简繁 · Global · Freemium</sub>
 - [网易新闻 NetEase News](https://news.163.com/) - Popular portal news aggregator. <sub>Advanced · 简 · CN</sub>
 - [美国之音 VOA Chinese](https://www.voachinese.com/) - Voice of America Mandarin news, video and podcasts. <sub>Advanced · 简 · Global</sub>
 - [联合国 United Nations 中文](https://www.un.org/zh/) - United Nations Chinese site: news, reports and global issues in formal written Chinese. <sub>Advanced · 简 · Global</sub>
 - [联合早报 Lianhe Zaobao](https://www.zaobao.com.sg/) - Singapore's leading Chinese daily: Southeast Asia, China and world news. <sub>Advanced · 简 · SG</sub>
 - [聯合新聞網 UDN](https://udn.com/news/index) - United Daily News: Taiwan news portal. <sub>Advanced · 繁 · TW</sub>
-- [腾讯新闻 Tencent News](https://news.qq.com/) - Tencent portal news. <sub>Advanced · 简 · CN</sub>
-- [自由時報 Liberty Times](https://www.ltn.com.tw/) - Major Taiwan daily. <sub>Advanced · 繁 · TW</sub>
+- [腾讯新闻 Tencent News](https://news.qq.com/) - Tencent's news portal covering national and international stories. <sub>Advanced · 简 · CN</sub>
+- [自由時報 Liberty Times](https://www.ltn.com.tw/) - One of Taiwan's largest daily newspapers. <sub>Advanced · 繁 · TW</sub>
 - [观察者网 Guancha](https://www.guancha.cn/) - Current affairs commentary and international news. <sub>Advanced · 简 · CN</sub>
 - [财新网 Caixin](https://www.caixin.com/) - Business and investigative journalism. <sub>Advanced · 简 · CN · Freemium</sub>
-- [關鍵評論網 The News Lens](https://www.thenewslens.com/) - Taiwan news and commentary. <sub>Advanced · 繁 · TW</sub>
+- [關鍵評論網 The News Lens](https://www.thenewslens.com/) - Taiwanese news, commentary and international coverage. <sub>Advanced · 繁 · TW</sub>
 - [韩联社 Yonhap 中文](https://cn.yna.co.kr/) - Yonhap News Agency Chinese edition. <sub>Advanced · 简 · Global</sub>
 - [風傳媒 Storm Media](https://www.storm.mg/) - Taiwan politics and current affairs. <sub>Advanced · 繁 · TW</sub>
-- [香港01 HK01](https://www.hk01.com/) - Hong Kong digital news. <sub>Advanced · 繁 · HK</sub>
+- [香港01 HK01](https://www.hk01.com/) - Hong Kong digital news and features in written Chinese. <sub>Advanced · 繁 · HK</sub>
 - [香港電台 RTHK 新聞](https://news.rthk.hk/rthk/ch/) - Hong Kong public broadcaster news. <sub>Advanced · 繁 · HK</sub>
 
 <img src="assets/icons/youtube.svg" width="16" height="16" alt=""> **YouTube**
 
-- [8world (YouTube)](https://www.youtube.com/@8worldSG) - Mediacorp Chinese news and features. <sub>Advanced · 简 · SG</sub>
-- [BBC News 中文 (YouTube)](https://www.youtube.com/@bbcnewschinese) - BBC Chinese video reports and explainers. <sub>Advanced · 简繁 · Global</sub>
+- [8world](https://www.youtube.com/@8worldSG) - Mediacorp Chinese news and features. <sub>Advanced · 简 · SG</sub>
+- [BBC News 中文](https://www.youtube.com/@bbcnewschinese) - BBC Chinese video reports and explainers. <sub>Advanced · 简繁 · Global</sub>
 - [CCTV 中国中央电视台](https://www.youtube.com/@CCTV) - Official CCTV channel with news programmes, galas and shows. <sub>Advanced · 简 · CN</sub>
 - [CCTV中文 (CCTV-4)](https://www.youtube.com/@CCTVCH) - CCTV international Chinese channel: news, documentaries and culture. <sub>Advanced · 简 · CN</sub>
-- [DW 中文 (YouTube)](https://www.youtube.com/@dwchinese) - Deutsche Welle Chinese video. <sub>Advanced · 简繁 · Global</sub>
-- [RFI 华语 (YouTube)](https://www.youtube.com/@RFI_Cn) - RFI Chinese video. <sub>Advanced · 简繁 · Global</sub>
+- [DW 中文](https://www.youtube.com/@dwchinese) - Deutsche Welle's Chinese video reports on Europe and the world. <sub>Advanced · 简繁 · Global</sub>
+- [RFI 华语](https://www.youtube.com/@RFI_Cn) - Radio France Internationale's Chinese-language video reports. <sub>Advanced · 简繁 · Global</sub>
 - [RTHK 香港電台](https://www.youtube.com/@RTHK) - Hong Kong public broadcaster (mostly Cantonese). <sub>Advanced · 繁 · HK · Cantonese</sub>
 - [TaiwanPlus News](https://www.youtube.com/@TaiwanPlusNews) - Taiwan international broadcaster (English and Mandarin). <sub>Advanced · 繁 · TW · Bilingual</sub>
-- [TVBS NEWS](https://www.youtube.com/@TVBSNEWS01) - Taiwan TVBS news channel. <sub>Advanced · 繁 · TW</sub>
-- [三立新聞 SETN](https://www.youtube.com/@setn) - Taiwan SET News. <sub>Advanced · 繁 · TW</sub>
-- [公視新聞網 PNN (YouTube)](https://www.youtube.com/@PNNPTS) - Taiwan public TV news video. <sub>Advanced · 繁 · TW</sub>
+- [TVBS NEWS](https://www.youtube.com/@TVBSNEWS01) - Major Taiwanese TV news channel with live streams. <sub>Advanced · 繁 · TW</sub>
+- [三立新聞 SETN](https://www.youtube.com/@setn) - News channel of Taiwan's SET broadcaster, with live streams. <sub>Advanced · 繁 · TW</sub>
+- [公視新聞網 PNN](https://www.youtube.com/@PNNPTS) - News reports and documentaries from Taiwan's public broadcaster. <sub>Advanced · 繁 · TW</sub>
 - [凤凰卫视 Phoenix TV](https://www.youtube.com/@phoenixtvglobal) - Hong Kong-based Mandarin satellite TV news and talk. <sub>Advanced · 简繁 · HK</sub>
-- [台視新聞 TTV News](https://www.youtube.com/@TTV_NEWS) - Taiwan Television news. <sub>Advanced · 繁 · TW</sub>
-- [報導者 The Reporter (YouTube)](https://www.youtube.com/@TwreporterOrg) - Documentary-style investigative videos. <sub>Advanced · 繁 · TW</sub>
+- [台視新聞 TTV News](https://www.youtube.com/@TTV_NEWS) - News channel of Taiwan Television, the island's oldest broadcaster. <sub>Advanced · 繁 · TW</sub>
+- [報導者 The Reporter](https://www.youtube.com/@TwreporterOrg) - Documentary-style investigative videos. <sub>Advanced · 繁 · TW</sub>
 - [新华社 Xinhua](https://www.youtube.com/@XinhuaNews) - Xinhua News Agency Chinese video. <sub>Advanced · 简 · CN</sub>
-- [東森新聞 EBC News](https://www.youtube.com/@newsebc) - Taiwan EBC news. <sub>Advanced · 繁 · TW</sub>
-- [民視新聞 FTV News](https://www.youtube.com/@FTV_News) - Formosa TV News. <sub>Advanced · 繁 · TW</sub>
-- [紐約時報中文網 (YouTube)](https://www.youtube.com/@紐約時報中文網-m8t) - NYT Chinese video. <sub>Advanced · 简繁 · Global</sub>
-- [美国之音中文网 (YouTube)](https://www.youtube.com/@voachinese) - VOA Mandarin news video. <sub>Advanced · 简 · Global</sub>
-- [联合早报 zaobao (YouTube)](https://www.youtube.com/@zaobaodotsg) - Lianhe Zaobao video news. <sub>Advanced · 简 · SG</sub>
+- [東森新聞 EBC News](https://www.youtube.com/@newsebc) - News channel of Taiwan's Eastern Broadcasting Company. <sub>Advanced · 繁 · TW</sub>
+- [民視新聞 FTV News](https://www.youtube.com/@FTV_News) - News channel of Formosa TV, a major Taiwanese broadcaster. <sub>Advanced · 繁 · TW</sub>
+- [紐約時報中文網](https://www.youtube.com/@紐約時報中文網-m8t) - New York Times Chinese video reports. <sub>Advanced · 简繁 · Global</sub>
+- [美国之音中文网](https://www.youtube.com/@voachinese) - Voice of America's Mandarin news reports and interviews. <sub>Advanced · 简 · Global</sub>
+- [联合早报 zaobao](https://www.youtube.com/@zaobaodotsg) - Video news from Singapore's Lianhe Zaobao. <sub>Advanced · 简 · SG</sub>
 - [華視新聞 CTS News](https://www.youtube.com/@CtsTw) - Chinese Television System news. <sub>Advanced · 繁 · TW</sub>
-- [關鍵評論網 The News Lens (YouTube)](https://www.youtube.com/@TheNewsLens) - Explainers and commentary. <sub>Advanced · 繁 · TW</sub>
-- [香港01 (YouTube)](https://www.youtube.com/@01official) - HK01 news video (Cantonese). <sub>Advanced · 繁 · HK · Cantonese</sub>
+- [關鍵評論網 The News Lens](https://www.youtube.com/@TheNewsLens) - Short video explainers on news and current affairs. <sub>Advanced · 繁 · TW</sub>
+- [香港01](https://www.youtube.com/@01official) - Hong Kong news video, mostly in Cantonese. <sub>Advanced · 繁 · HK · Cantonese</sub>
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
-- [央视新闻 (Bilibili)](https://space.bilibili.com/456664753) - CCTV News official Bilibili account. <sub>Advanced · 简 · CN</sub>
-- [观察者网 (Bilibili)](https://space.bilibili.com/10330740) - Guancha current affairs videos on Bilibili. <sub>Advanced · 简 · CN</sub>
+- [央视新闻](https://space.bilibili.com/456664753) - Official CCTV News account with news clips and live coverage. <sub>Advanced · 简 · CN</sub>
+- [观察者网](https://space.bilibili.com/10330740) - Current-affairs explainers and commentary from Guancha. <sub>Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
 
@@ -463,40 +462,40 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
 - [36氪 36Kr](https://36kr.com/) - Startup, tech and venture news. <sub>Advanced · 简 · CN</sub>
-- [cnBeta](https://www.cnbeta.com.tw/) - Tech news aggregator. <sub>Advanced · 简 · CN</sub>
+- [cnBeta](https://www.cnbeta.com.tw/) - Tech news site with an active comment section. <sub>Advanced · 简 · CN</sub>
 - [InfoQ 中文](https://www.infoq.cn/) - Software engineering news and talks. <sub>Advanced · 简 · CN</sub>
-- [INSIDE 硬塞的](https://www.inside.com.tw/) - Taiwan tech and startup news. <sub>Advanced · 繁 · TW</sub>
-- [IT之家 ITHome](https://www.ithome.com/) - Daily tech news. <sub>Advanced · 简 · CN</sub>
-- [T客邦 TechBang](https://www.techbang.com/) - Taiwan tech news and reviews. <sub>Advanced · 繁 · TW</sub>
+- [INSIDE 硬塞的](https://www.inside.com.tw/) - Taiwanese tech, internet and startup news. <sub>Advanced · 繁 · TW</sub>
+- [IT之家 ITHome](https://www.ithome.com/) - Fast daily tech and gadget news. <sub>Advanced · 简 · CN</sub>
+- [T客邦 TechBang](https://www.techbang.com/) - Taiwanese tech news, reviews and how-tos. <sub>Advanced · 繁 · TW</sub>
 - [V2EX](https://www.v2ex.com/) - Developer and creative community forum. <sub>Advanced · 简 · CN</sub>
 - [少数派 sspai](https://sspai.com/) - Apps, productivity and digital-life articles. <sub>Advanced · 简 · CN</sub>
 - [掘金 Juejin](https://juejin.cn/) - Developer articles and community. <sub>Advanced · 简 · CN</sub>
 - [数字尾巴 DGtle](https://www.dgtle.com/) - Gadgets and digital lifestyle community. <sub>Advanced · 简 · CN</sub>
 - [机器之心 Synced](https://www.jiqizhixin.com/) - AI research and industry news. <sub>Advanced · 简 · CN</sub>
-- [极客公园 GeekPark](https://www.geekpark.net/) - Tech innovation news. <sub>Advanced · 简 · CN</sub>
-- [爱范儿 ifanr](https://www.ifanr.com/) - Consumer tech and lifestyle. <sub>Advanced · 简 · CN</sub>
-- [虎嗅 Huxiu](https://www.huxiu.com/) - Tech and business commentary. <sub>Advanced · 简 · CN</sub>
-- [量子位 QbitAI](https://www.qbitai.com/) - AI news and analysis. <sub>Advanced · 简 · CN</sub>
-- [钛媒体 TMTPost](https://www.tmtpost.com/) - Tech and finance media. <sub>Advanced · 简 · CN</sub>
-- [電腦王阿達](https://www.kocpc.com.tw/) - Taiwan gadgets and tech tips. <sub>Advanced · 繁 · TW</sub>
+- [极客公园 GeekPark](https://www.geekpark.net/) - Tech innovation news, interviews and conference talks. <sub>Advanced · 简 · CN</sub>
+- [爱范儿 ifanr](https://www.ifanr.com/) - Consumer tech, apps and product design news. <sub>Advanced · 简 · CN</sub>
+- [虎嗅 Huxiu](https://www.huxiu.com/) - Tech and business commentary and long reads. <sub>Advanced · 简 · CN</sub>
+- [量子位 QbitAI](https://www.qbitai.com/) - AI research and industry news. <sub>Advanced · 简 · CN</sub>
+- [钛媒体 TMTPost](https://www.tmtpost.com/) - Tech, media and finance analysis. <sub>Advanced · 简 · CN</sub>
+- [電腦王阿達](https://www.kocpc.com.tw/) - Taiwanese gadget news, software tips and reviews. <sub>Advanced · 繁 · TW</sub>
 
 <img src="assets/icons/youtube.svg" width="16" height="16" alt=""> **YouTube**
 
 - [Joeman](https://www.youtube.com/@joeman) - Taiwanese YouTuber: gadgets, food challenges and pop culture. <sub>Advanced · 繁 · TW</sub>
 - [TESTV](https://www.youtube.com/@testvcn) - Entertaining, informative product reviews. <sub>Advanced · 简 · CN</sub>
 - [啾啾鞋](https://www.youtube.com/@chuchushoeTW) - Taiwanese explainer videos on tech, movies and curious topics. <sub>Advanced · 繁 · TW</sub>
-- [差评君](https://www.youtube.com/@xpinman) - Tech news and commentary. <sub>Advanced · 简 · CN</sub>
+- [差评君](https://www.youtube.com/@xpinman) - Tech news and commentary with a humorous edge. <sub>Advanced · 简 · CN</sub>
 - [影视飓风 MediaStorm](https://www.youtube.com/@mediastorm6801) - Cinematography, cameras and tech explorations. <sub>Advanced · 简 · CN</sub>
 - [极客湾 Geekerwan](https://www.youtube.com/@geekerwan1024) - In-depth chip, phone and PC hardware reviews. <sub>Advanced · 简 · CN</sub>
-- [科技美学](https://www.youtube.com/@KJMX) - Phone reviews and tech news. <sub>Advanced · 简 · CN</sub>
+- [科技美学](https://www.youtube.com/@KJMX) - Phone reviews, comparisons and tech news. <sub>Advanced · 简 · CN</sub>
 - [老师好我叫何同学 HTX Studio](https://www.youtube.com/@hetongxue) - Creative, beautifully made tech videos. <sub>Advanced · 简 · CN</sub>
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
-- [影视飓风 (Bilibili)](https://space.bilibili.com/946974) - MediaStorm on Bilibili. <sub>Advanced · 简 · CN</sub>
-- [极客湾 Geekerwan (Bilibili)](https://space.bilibili.com/25876945) - Geekerwan on Bilibili. <sub>Advanced · 简 · CN</sub>
+- [影视飓风](https://space.bilibili.com/946974) - Cinematography, cameras and tech explorations. <sub>Advanced · 简 · CN</sub>
+- [极客湾 Geekerwan](https://space.bilibili.com/25876945) - In-depth chip, phone and PC hardware reviews. <sub>Advanced · 简 · CN</sub>
 - [爱否科技 FView](https://space.bilibili.com/7458285) - Phone and gadget reviews. <sub>Advanced · 简 · CN</sub>
-- [老师好我叫何同学 (Bilibili)](https://space.bilibili.com/163637592) - He Tongxue's Bilibili channel. <sub>Advanced · 简 · CN</sub>
+- [老师好我叫何同学](https://space.bilibili.com/163637592) - Creative, beautifully made tech videos. <sub>Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
 
@@ -506,10 +505,10 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
-- [21世纪经济报道](https://www.21jingji.com/) - 21st Century Business Herald. <sub>Advanced · 简 · CN</sub>
+- [21世纪经济报道](https://www.21jingji.com/) - 21st Century Business Herald: economic news and company coverage. <sub>Advanced · 简 · CN</sub>
 - [东方财富 Eastmoney](https://www.eastmoney.com/) - Stock market data and finance news. <sub>Advanced · 简 · CN</sub>
-- [华尔街见闻 Wallstreetcn](https://wallstreetcn.com/) - Global markets news. <sub>Advanced · 简 · CN</sub>
-- [商業周刊 Business Weekly](https://www.businessweekly.com.tw/) - Taiwan business magazine. <sub>Advanced · 繁 · TW · Freemium</sub>
+- [华尔街见闻 Wallstreetcn](https://wallstreetcn.com/) - Global markets, macroeconomics and investing news. <sub>Advanced · 简 · CN</sub>
+- [商業周刊 Business Weekly](https://www.businessweekly.com.tw/) - Taiwanese business magazine on companies, careers and money. <sub>Advanced · 繁 · TW · Freemium</sub>
 - [經理人 Manager Today](https://www.managertoday.com.tw/) - Management and career articles. <sub>Advanced · 繁 · TW</sub>
 - [经济观察网 EEO](https://www.eeo.com.cn/) - Economic Observer business news. <sub>Advanced · 简 · CN</sub>
 - [雪球 Xueqiu](https://xueqiu.com/) - Investor community and finance news. <sub>Advanced · 简 · CN</sub>
@@ -517,8 +516,8 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 <img src="assets/icons/youtube.svg" width="16" height="16" alt=""> **YouTube**
 
 - [IC实验室 IC Lab](https://www.youtube.com/@ICLAB) - Consumer trends, internet business and pop culture explained. <sub>Advanced · 简繁 · CN</sub>
-- [商業周刊 Business Weekly](https://www.youtube.com/@bwnet) - Taiwan Business Weekly video. <sub>Advanced · 繁 · TW</sub>
-- [天下雜誌 video](https://www.youtube.com/@cwvideo) - CommonWealth Magazine video. <sub>Advanced · 繁 · TW</sub>
+- [商業周刊 Business Weekly](https://www.youtube.com/@bwnet) - Video explainers on business, careers and personal finance from Taiwan's Business Weekly. <sub>Advanced · 繁 · TW</sub>
+- [天下雜誌 CommonWealth](https://www.youtube.com/@cwvideo) - Video reports and interviews from CommonWealth, a leading Taiwanese magazine. <sub>Advanced · 繁 · TW</sub>
 - [小Lin说](https://www.youtube.com/@xiao_lin_shuo) - Clear, fun explanations of finance and economics. <sub>Advanced · 简 · CN</sub>
 - [巫师财经](https://www.youtube.com/@巫师财经) - Deep-dive videos on business and economics. <sub>Advanced · 简 · CN</sub>
 - [所长林超](https://www.youtube.com/@所长林超) - Mental models, business and science explainers. <sub>Advanced · 简 · CN</sub>
@@ -526,10 +525,10 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
-- [小Lin说 (Bilibili)](https://space.bilibili.com/520819684) - Xiao Lin's finance explainers on Bilibili. <sub>Advanced · 简 · CN</sub>
-- [巫师财经 (Bilibili)](https://space.bilibili.com/472747194) - Wizard Finance on Bilibili. <sub>Advanced · 简 · CN</sub>
-- [所长林超 (Bilibili)](https://space.bilibili.com/520155988) - Lin Chao on Bilibili. <sub>Advanced · 简 · CN</sub>
-- [硬核的半佛仙人 (Bilibili)](https://space.bilibili.com/37663924) - Banfo on Bilibili. <sub>Advanced · 简 · CN</sub>
+- [小Lin说](https://space.bilibili.com/520819684) - Clear, fun explanations of finance and economics. <sub>Advanced · 简 · CN</sub>
+- [巫师财经](https://space.bilibili.com/472747194) - Deep-dive videos on business, finance and economics. <sub>Advanced · 简 · CN</sub>
+- [所长林超](https://space.bilibili.com/520155988) - Mental models, business and science explainers by Lin Chao. <sub>Advanced · 简 · CN</sub>
+- [硬核的半佛仙人](https://space.bilibili.com/37663924) - Fast-paced commentary on business scandals and how companies really work. <sub>Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
 
@@ -541,8 +540,8 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 - [中国国家地理 Chinese National Geography](http://www.dili360.com/) - Geography, nature and travel magazine. <sub>Advanced · 简 · CN</sub>
 - [中文维基百科 Chinese Wikipedia](https://zh.wikipedia.org/) - The free encyclopedia in Chinese with simplified/traditional conversion. <sub>Advanced · 简繁 · Global</sub>
-- [果壳 Guokr](https://www.guokr.com/) - Popular science articles. <sub>Advanced · 简 · CN</sub>
-- [泛科學 PanSci](https://pansci.asia/) - Taiwan popular science. <sub>Advanced · 繁 · TW</sub>
+- [果壳 Guokr](https://www.guokr.com/) - Popular-science articles on health, nature and technology. <sub>Advanced · 简 · CN</sub>
+- [泛科學 PanSci](https://pansci.asia/) - Taiwanese popular-science articles and videos. <sub>Advanced · 繁 · TW</sub>
 - [百度百科 Baidu Baike](https://baike.baidu.com/) - Large Chinese online encyclopedia. <sub>Advanced · 简 · CN</sub>
 - [知乎 Zhihu](https://www.zhihu.com/) - China's largest Q&A knowledge community. <sub>Advanced · 简 · CN</sub>
 - [科普中国 Science China](https://www.kepuchina.cn/) - Official science popularisation portal. <sub>Advanced · 简 · CN</sub>
@@ -554,7 +553,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [回形针 PaperClip](https://www.youtube.com/@paperclip6992) - Fast, animated explainers on how everyday technology and industry work. <sub>Advanced · 简 · CN</sub>
 - [妈咪说 MommyTalk](https://www.youtube.com/@Sci1729) - Physics and maths explained simply. <sub>Advanced · 简 · CN</sub>
 - [开讲啦 The Voice](https://www.youtube.com/@The_Voice) - CCTV talk show where public figures lecture young audiences. <sub>Advanced · 简 · CN</sub>
-- [李永乐老师 (official)](https://www.youtube.com/@李永乐老师官方) - Li Yongle official channel. <sub>Advanced · 简 · CN</sub>
+- [李永乐老师 Li Yongle](https://www.youtube.com/@李永乐老师官方) - Teacher Li Yongle's science and maths lessons in fast, clear Mandarin. <sub>Advanced · 简 · CN</sub>
 - [柴知道 ChaiKnows](https://www.youtube.com/@chaiknowsofficialchannel982) - Clearly narrated science videos on biology, physics and psychology. <sub>Advanced · 简 · CN</sub>
 - [毕导THU](https://www.youtube.com/@thu4878) - Funny science experiments and explanations from a Tsinghua PhD. <sub>Advanced · 简 · CN</sub>
 - [混乱博物馆 ChaosMuseum](https://www.youtube.com/@chaosmuseum) - Natural history and science curiosities. <sub>Advanced · 简 · CN</sub>
@@ -565,8 +564,8 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
 - [无穷小亮的科普日常](https://space.bilibili.com/14804670) - Biologist Zhang Chenliang identifies strange creatures and debunks myths. <sub>Advanced · 简 · CN</sub>
-- [李永乐老师官方 (Bilibili)](https://space.bilibili.com/9458053) - Li Yongle's science and maths lessons on Bilibili. <sub>Advanced · 简 · CN</sub>
-- [毕导 (Bilibili)](https://space.bilibili.com/254463269) - Bi Dao on Bilibili. <sub>Advanced · 简 · CN</sub>
+- [李永乐老师 Li Yongle](https://space.bilibili.com/9458053) - Li Yongle's science and maths lessons on Bilibili. <sub>Advanced · 简 · CN</sub>
+- [毕导](https://space.bilibili.com/254463269) - Funny science experiments and explanations from a Tsinghua PhD. <sub>Advanced · 简 · CN</sub>
 - [罗翔说刑法](https://space.bilibili.com/517327498) - Law professor Luo Xiang's hugely popular criminal-law lectures. <sub>Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
@@ -578,7 +577,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
 - [The World of Chinese](https://www.theworldofchinese.com/) - Magazine on Chinese language, culture and society (English with Chinese). <sub>*For learners* · Beginner–Intermediate · 简繁 · Global · Bilingual</sub>
-- [三联生活周刊 Lifeweek](https://www.lifeweek.com.cn/) - Culture and society weekly. <sub>Advanced · 简 · CN</sub>
+- [三联生活周刊 Lifeweek](https://www.lifeweek.com.cn/) - Weekly magazine on culture, society and lifestyle in China. <sub>Advanced · 简 · CN</sub>
 - [中国哲学书电子化计划 Chinese Text Project](https://ctext.org/) - Database of pre-modern Chinese texts with translations. <sub>Advanced · 简 · CN</sub>
 - [中国国家博物馆 National Museum of China](https://www.chnmuseum.cn/) - Collections and exhibitions of China's national museum. <sub>Advanced · 简 · CN</sub>
 - [国家图书馆 National Library of China](https://www.nlc.cn/) - Digital collections and ancient books. <sub>Advanced · 简 · CN</sub>
@@ -597,7 +596,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
-- [小约翰可汗 (Bilibili)](https://space.bilibili.com/23947287) - Little John Khan on Bilibili. <sub>Advanced · 简 · CN</sub>
+- [小约翰可汗](https://space.bilibili.com/23947287) - Humorous deep-dives into world history and quirky dictators. <sub>Advanced · 简 · CN</sub>
 - [食贫道](https://space.bilibili.com/39627524) - Documentary-style vlogs exploring places and social issues worldwide. <sub>Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
@@ -608,21 +607,21 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
-- [17K小说网](https://www.17k.com/) - Web fiction platform. <sub>Advanced · 简 · CN · Freemium</sub>
+- [17K小说网](https://www.17k.com/) - Web-fiction platform with a large free and paid catalogue. <sub>Advanced · 简 · CN · Freemium</sub>
 - [POPO原創](https://www.popo.tw/) - Taiwanese romance web fiction. <sub>Advanced · 繁 · TW · Freemium</sub>
 - [Webnovel (Qidian International)](https://www.webnovel.com/) - English translations of Chinese web novels, useful for side-by-side reading. <sub>All levels · 简繁 · Global · English · Freemium</sub>
 - [Wuxiaworld](https://www.wuxiaworld.com/) - Licensed English translations of xianxia/wuxia novels. <sub>All levels · 简繁 · Global · English · Freemium</sub>
-- [七猫免费小说 Qimao](https://www.qimao.com/) - Free web novels. <sub>Advanced · 简 · CN</sub>
+- [七猫免费小说 Qimao](https://www.qimao.com/) - Ad-supported app with free web novels across all genres. <sub>Advanced · 简 · CN</sub>
 - [刺猬猫 Ciweimao](https://www.ciweimao.com/) - Light novels and ACG-style web fiction. <sub>Advanced · 简 · CN · Freemium</sub>
 - [晋江文学城 Jinjiang](https://www.jjwxc.net/) - Leading platform for romance and danmei web novels. <sub>Advanced · 简 · CN · Freemium</sub>
-- [潇湘书院 Xiaoxiang](https://www.xxsy.net/) - Women's web fiction. <sub>Advanced · 简 · CN · Freemium</sub>
+- [潇湘书院 Xiaoxiang](https://www.xxsy.net/) - Web-fiction platform focused on romance and historical novels. <sub>Advanced · 简 · CN · Freemium</sub>
 - [番茄小说 Fanqie Novel](https://fanqienovel.com/) - Free ad-supported web novels from ByteDance. <sub>Advanced · 简 · CN</sub>
-- [红袖添香 Hongxiu](https://www.hongxiu.com/) - Women's web fiction. <sub>Advanced · 简 · CN · Freemium</sub>
-- [纵横中文网 Zongheng](https://www.zongheng.com/) - Web fiction platform. <sub>Advanced · 简 · CN · Freemium</sub>
+- [红袖添香 Hongxiu](https://www.hongxiu.com/) - Web-fiction platform focused on romance for women readers. <sub>Advanced · 简 · CN · Freemium</sub>
+- [纵横中文网 Zongheng](https://www.zongheng.com/) - Web-fiction platform with fantasy, history and urban novels. <sub>Advanced · 简 · CN · Freemium</sub>
 - [起点中文网 Qidian](https://www.qidian.com/) - China's largest web-novel platform: xianxia, fantasy, urban. <sub>Advanced · 简 · CN · Freemium</sub>
 - [鏡文學 Mirror Fiction](https://www.mirrorfiction.com/) - Taiwanese original fiction platform. <sub>Advanced · 繁 · TW · Freemium</sub>
-- [长佩文学 Changpei](https://www.gongzicp.com/) - Danmei and romance fiction. <sub>Advanced · 简 · CN · Freemium</sub>
-- [飞卢小说网 Faloo](https://b.faloo.com/) - Web fiction platform. <sub>Advanced · 简 · CN · Freemium</sub>
+- [长佩文学 Changpei](https://www.gongzicp.com/) - Web-fiction platform for danmei and romance novels. <sub>Advanced · 简 · CN · Freemium</sub>
+- [飞卢小说网 Faloo](https://b.faloo.com/) - Web-fiction platform known for fast-paced fan fiction and fantasy. <sub>Advanced · 简 · CN · Freemium</sub>
 
 [Back to contents](#contents)
 
@@ -634,7 +633,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 - [Chinese Poems (chinese-poems.com)](http://www.chinese-poems.com/) - Tang poems with pinyin, word-by-word glosses and translations. <sub>*For learners* · Intermediate–Advanced · 简繁 · Global · Bilingual</sub>
 - [Project Gutenberg: Chinese](https://www.gutenberg.org/browse/languages/zh) - Public-domain Chinese books as free e-books. <sub>Advanced · 简繁 · Global</sub>
-- [中华典藏 Zhonghuadiancang](https://www.zhonghuadiancang.com/) - Classic texts collection. <sub>Advanced · 简 · CN</sub>
+- [中华典藏 Zhonghuadiancang](https://www.zhonghuadiancang.com/) - Searchable collection of classical texts, from philosophy to history. <sub>Advanced · 简 · CN</sub>
 - [中国作家网 China Writers](https://www.chinawriter.com.cn/) - News and works from contemporary Chinese literature. <sub>Advanced · 简 · CN</sub>
 - [书格 Shuge](https://www.shuge.org/) - High-quality scans of rare ancient Chinese books. <sub>Advanced · 简 · CN</sub>
 - [古诗文网 Gushiwen](https://www.gushiwen.cn/) - Classical poems and prose with translations, notes and audio. <sub>Advanced · 简 · CN</sub>
@@ -653,13 +652,13 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
-- [Kobo 中文電子書](https://www.kobo.com/tw/zh) - Kobo Chinese e-books. <sub>Intermediate–Advanced · 繁 · TW · Paid</sub>
-- [Pubu 電子書城](https://www.pubu.com.tw/) - Taiwan e-books and magazines. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
-- [Readmoo 讀墨](https://readmoo.com/) - Taiwan e-book store. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
+- [Kobo 中文電子書](https://www.kobo.com/tw/zh) - Kobo's Chinese-language e-book store (traditional characters). <sub>Intermediate–Advanced · 繁 · TW · Paid</sub>
+- [Pubu 電子書城](https://www.pubu.com.tw/) - Taiwanese store for e-books, comics and magazines. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
+- [Readmoo 讀墨](https://readmoo.com/) - Taiwanese e-book store and reading app with traditional-character titles. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
 - [博客來 Books.com.tw](https://www.books.com.tw/) - Taiwan's largest online bookstore. <sub>Intermediate–Advanced · 繁 · TW · Paid</sub>
-- [当当云阅读 Dangdang](https://e.dangdang.com/) - Dangdang e-books. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
+- [当当云阅读 Dangdang](https://e.dangdang.com/) - E-books from Dangdang, one of China's oldest online bookstores. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
 - [微信读书 WeRead](https://weread.qq.com/) - Tencent's e-book reader with a huge Chinese catalogue. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
-- [掌阅 iReader](https://www.ireader.com/) - E-book store and reader. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
+- [掌阅 iReader](https://www.ireader.com/) - E-book store and reading app with a large Chinese catalogue. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
 - [豆瓣读书 Douban Books](https://book.douban.com/) - Book reviews, ratings and reading lists. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [豆瓣阅读 Douban Read](https://read.douban.com/) - Original fiction and non-fiction e-books. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
 
@@ -695,11 +694,11 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
 - [Dcard](https://www.dcard.tw/) - Taiwan's popular young people's forum. <sub>Intermediate–Advanced · 繁 · TW</sub>
-- [LIHKG 連登](https://lihkg.com/) - Hong Kong forum (Cantonese). <sub>Intermediate–Advanced · 繁 · HK · Cantonese</sub>
-- [PTT](https://www.ptt.cc/bbs/index.html) - Taiwan's classic BBS forum. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [LIHKG 連登](https://lihkg.com/) - Popular Hong Kong forum, written mostly in Cantonese. <sub>Intermediate–Advanced · 繁 · HK · Cantonese</sub>
+- [PTT](https://www.ptt.cc/bbs/index.html) - Taiwan's classic text-based forum, full of everyday slang. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [微信公众号 search (Sogou)](https://weixin.sogou.com/) - Search WeChat official account articles. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [百度贴吧 Tieba](https://tieba.baidu.com/) - Topic-based forums on everything. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [知乎日报 Zhihu Daily](https://daily.zhihu.com/) - Daily curated Zhihu stories. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [知乎日报 Zhihu Daily](https://daily.zhihu.com/) - Daily selection of in-depth answers from Zhihu. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [简书 Jianshu](https://www.jianshu.com/) - Writing and blogging community. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [豆瓣 Douban](https://www.douban.com/) - Books, films, music and interest groups. <sub>Intermediate–Advanced · 简 · CN</sub>
 
@@ -713,27 +712,27 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
-- [CATCHPLAY+](https://www.catchplay.com/) - Taiwan film streaming. <sub>Intermediate–Advanced · 繁 · TW · Paid</sub>
+- [CATCHPLAY+](https://www.catchplay.com/) - Taiwanese streaming service for films and series. <sub>Intermediate–Advanced · 繁 · TW · Paid</sub>
 - [iQIYI International](https://www.iq.com/) - International iQIYI app with subtitles. <sub>Intermediate–Advanced · 简繁 · Global · Bilingual · Freemium</sub>
-- [LINE TV / myVideo](https://www.myvideo.net.tw/) - Taiwan streaming service. <sub>Intermediate–Advanced · 繁 · TW · Paid</sub>
 - [LiTV](https://www.litv.tv/) - Taiwan online TV and streaming. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
-- [myTV SUPER](https://www.mytvsuper.com/) - TVB streaming (Cantonese). <sub>Intermediate–Advanced · 繁 · HK · Cantonese · Freemium</sub>
+- [myTV SUPER](https://www.mytvsuper.com/) - TVB's streaming service for Hong Kong dramas (Cantonese). <sub>Intermediate–Advanced · 繁 · HK · Cantonese · Freemium</sub>
+- [myVideo](https://www.myvideo.net.tw/) - Taiwanese streaming service for dramas, films and anime. <sub>Intermediate–Advanced · 繁 · TW · Paid</sub>
 - [Viki](https://www.viki.com/) - Asian dramas with fan-made multilingual subtitles. <sub>Intermediate–Advanced · 简繁 · Global · Bilingual · Freemium</sub>
 - [Viu](https://www.viu.com/) - Asian dramas and variety streaming. <sub>Intermediate–Advanced · 简繁 · Global · Freemium</sub>
 - [WeTV](https://wetv.vip/) - Tencent Video's international app with multilingual subtitles. <sub>Intermediate–Advanced · 简繁 · Global · Bilingual · Freemium</sub>
-- [优酷 Youku](https://www.youku.com/) - Alibaba's streaming platform. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
-- [公視+ PTS+](https://www.ptsplus.tv/) - Taiwan Public TV streaming. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
+- [优酷 Youku](https://www.youku.com/) - Alibaba's streaming platform for dramas, films and documentaries. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
+- [公視+ PTS+](https://www.ptsplus.tv/) - Streaming service of Taiwan's public broadcaster. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
 - [哔哩哔哩 Bilibili](https://www.bilibili.com/) - China's top video community with danmaku comments: anime, knowledge, gaming, vlogs. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
-- [央视频 CCTV Video](https://www.yangshipin.cn/) - CCTV's live TV and video app. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [央视频 CCTV Video](https://www.yangshipin.cn/) - CCTV's app for live TV channels and on-demand programmes. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [小红书 Xiaohongshu (RED)](https://www.xiaohongshu.com/) - Lifestyle notes and short videos. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [巴哈姆特動畫瘋](https://ani.gamer.com.tw/) - Licensed anime streaming in Taiwan with Chinese subtitles. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
 - [微博 Weibo](https://weibo.com/) - China's Twitter-like microblog. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [快手 Kuaishou](https://www.kuaishou.com/) - Short videos and live streaming. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [抖音 Douyin](https://www.douyin.com/) - China's TikTok: short videos. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [抖音 Douyin](https://www.douyin.com/) - China's version of TikTok: short videos on every topic. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [爱奇艺 iQIYI](https://www.iqiyi.com/) - Major streaming platform for Chinese dramas, variety and films. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
-- [腾讯视频 Tencent Video](https://v.qq.com/) - Tencent's streaming platform. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
+- [腾讯视频 Tencent Video](https://v.qq.com/) - Tencent's streaming platform for dramas, variety shows and films. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
 - [芒果TV Mango TV](https://www.mgtv.com/) - Hunan TV's streaming platform: variety shows and dramas. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
-- [西瓜视频 Xigua Video](https://www.ixigua.com/) - Medium-length videos. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [西瓜视频 Xigua Video](https://www.ixigua.com/) - ByteDance video platform for longer creator videos. <sub>Intermediate–Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
 
@@ -748,23 +747,23 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/youtube.svg" width="16" height="16" alt=""> **YouTube**
 
-- [CCTV电视剧 CCTV Drama](https://www.youtube.com/@CCTVDrama) - CCTV-8 drama channel. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [CCTV电视剧 CCTV Drama](https://www.youtube.com/@CCTVDrama) - CCTV-8's official channel with full mainland TV dramas. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [China Huace TV 华策影视](https://www.youtube.com/@huace) - Full dramas from Huace, one of China's largest drama studios. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [China Zone 剧乐部](https://www.youtube.com/@ChinaZoneDrama) - Full Chinese dramas with subtitles. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [iQIYI 爱奇艺](https://www.youtube.com/@iQIYIofficial) - Official iQIYI channel: full Chinese dramas with subtitles. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [MangoTV Mystery 芒果TV推理宇宙](https://www.youtube.com/channel/UCKm7iuaBY41nzqIk6J8eX0g) - Mystery and suspense dramas. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [Mediacorp Drama](https://www.youtube.com/@MediacorpDrama) - Singapore Chinese dramas. <sub>Intermediate–Advanced · 简 · SG</sub>
+- [MangoTV Mystery 芒果TV推理宇宙](https://www.youtube.com/channel/UCKm7iuaBY41nzqIk6J8eX0g) - Mystery, crime and suspense dramas from Mango TV. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [Mediacorp Drama](https://www.youtube.com/@MediacorpDrama) - Full Singaporean Chinese dramas from Mediacorp. <sub>Intermediate–Advanced · 简 · SG</sub>
 - [Tencent Video 腾讯视频](https://www.youtube.com/@TencentVideo) - Official Tencent Video channel with full dramas. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [WeTV English](https://www.youtube.com/@WeTVEnglish) - Chinese dramas with English subtitles. <sub>Intermediate–Advanced · 简 · CN · Bilingual</sub>
 - [YOUKU MOVIE 优酷电影](https://www.youtube.com/@youkumovie) - Full-length Chinese films from Youku. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [YOUKU 优酷](https://www.youtube.com/@youku-official) - Official Youku channel: dramas with multilingual subtitles. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [优酷华语剧场 Youku Chinese Drama](https://www.youtube.com/@youkuhuayu) - Youku Chinese drama theatre. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [公視戲劇 PTS Drama](https://www.youtube.com/@ptsdrama) - Taiwan public TV dramas. <sub>Intermediate–Advanced · 繁 · TW</sub>
-- [华语老电影 Chinese Old Movies](https://www.youtube.com/@Chineseoldmovie) - Older Chinese films. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [优酷华语剧场 Youku Chinese Drama](https://www.youtube.com/@youkuhuayu) - Full Chinese dramas from Youku, many with subtitles. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [公視戲劇 PTS Drama](https://www.youtube.com/@ptsdrama) - Full dramas from Taiwan's public broadcaster, known for high-quality series. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [华语老电影 Chinese Old Movies](https://www.youtube.com/@Chineseoldmovie) - Older mainland Chinese films, uploaded in full. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [后宫甄嬛传 Legend of Concubine Zhen Huan](https://www.youtube.com/@LegendofConcubineZhenHuan) - Official channel of the hit palace drama. <sub>Advanced · 简 · CN</sub>
-- [欢娱影视 Huanyu Entertainment](https://www.youtube.com/@chinahuanyuent.officialchannel) - Costume and palace dramas. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [欢娱影视 Huanyu Entertainment](https://www.youtube.com/@chinahuanyuent.officialchannel) - Studio behind popular costume and palace dramas such as Story of Yanxi Palace. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [正午阳光 Daylight Entertainment](https://www.youtube.com/@DaylightEntertainmentDrama) - Acclaimed realistic dramas (琅琊榜, 欢乐颂). <sub>Intermediate–Advanced · 简 · CN</sub>
-- [爱奇艺大电影 iQIYI Movie Theater](https://www.youtube.com/@iQIYIMOVIETHEATER) - Full-length Chinese films. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [爱奇艺大电影 iQIYI Movie Theater](https://www.youtube.com/@iQIYIMOVIETHEATER) - Full-length Chinese films uploaded officially by iQIYI. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [經典華語老電影 Chinese Classic Movies](https://www.youtube.com/@chnclassic) - Classic Chinese-language films. <sub>Intermediate–Advanced · 简繁 · Global</sub>
 - [西游记 Journey to the West (1986)](https://www.youtube.com/@JourneyTotheWest86) - The classic 1986 CCTV TV series. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [谷阿莫 Amo](https://www.youtube.com/@amogood) - Movies summarised in minutes with snarky narration. <sub>Intermediate–Advanced · 繁 · TW</sub>
@@ -772,7 +771,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
 - [木鱼水心](https://space.bilibili.com/927587) - Thoughtful film and novel analysis. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [电影最TOP](https://space.bilibili.com/17819768) - Film reviews and summaries. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [电影最TOP](https://space.bilibili.com/17819768) - Film reviews, recommendations and plot summaries. <sub>Intermediate–Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
 
@@ -791,7 +790,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [江苏卫视 Jiangsu TV](https://www.youtube.com/@ChinaJiangsuTVOfficialChannel) - Jiangsu TV shows (非诚勿扰, 最强大脑). <sub>Advanced · 简 · CN</sub>
 - [浙江卫视 Zhejiang STV](https://www.youtube.com/@ZhejiangStv) - Zhejiang TV: Running Man China, Sing! China. <sub>Advanced · 简 · CN</sub>
 - [湖南卫视芒果TV官方频道](https://www.youtube.com/@MangoTV-Official) - Hunan TV: China's most-watched variety shows. <sub>Advanced · 简 · CN</sub>
-- [華視綜藝 CTS Show](https://www.youtube.com/@CTSSHOW) - Taiwan variety shows. <sub>Advanced · 繁 · TW</sub>
+- [華視綜藝 CTS Show](https://www.youtube.com/@CTSSHOW) - Variety and entertainment shows from Taiwan's CTS. <sub>Advanced · 繁 · TW</sub>
 - [锵锵三人行](https://www.youtube.com/@锵锵三人行-t3i) - Classic Phoenix TV talk show hosted by Dou Wentao. <sub>Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
@@ -807,8 +806,8 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [STR Network 博恩夜夜秀](https://www.youtube.com/@STRNetworkasia) - Taiwan late-night satire and stand-up. <sub>Advanced · 繁 · TW</sub>
 - [反骨男孩 WACKYBOYS](https://www.youtube.com/@WACKYBOYS520) - Taiwanese comedy pranks and challenges. <sub>Advanced · 繁 · TW</sub>
 - [德云相声社 Deyun Crosstalk](https://www.youtube.com/@DeYun-Crosstalk) - Xiangsheng (crosstalk) by Guo Degang, Yu Qian and Deyunshe. <sub>Advanced · 简 · CN</sub>
-- [德云社TV](https://www.youtube.com/@dys888) - Deyunshe performances. <sub>Advanced · 简 · CN</sub>
-- [眾量級CROWD](https://www.youtube.com/@crowd1111) - Taiwanese comedy skits. <sub>Advanced · 繁 · TW</sub>
+- [德云社TV](https://www.youtube.com/@dys888) - Full xiangsheng (crosstalk) performances from the Deyunshe troupe. <sub>Advanced · 简 · CN</sub>
+- [眾量級CROWD](https://www.youtube.com/@crowd1111) - Taiwanese comedy group known for skits, parodies and challenges. <sub>Advanced · 繁 · TW</sub>
 - [笑果 XiaoGuo Comedy](https://www.youtube.com/@XiaoGuoComedy_CN) - Stand-up from the producers of Rock & Roast (脱口秀大会). <sub>Advanced · 简 · CN</sub>
 - [蔡阿嘎](https://www.youtube.com/@TsaiAGa) - Taiwanese comedy, lifestyle and social commentary. <sub>Advanced · 繁 · TW</sub>
 - [試當真 Trial & Error](https://www.youtube.com/@trialanderror924) - Hong Kong comedy group (Cantonese). <sub>Advanced · 繁 · HK · Cantonese</sub>
@@ -817,7 +816,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
-- [papi酱 (Bilibili)](https://space.bilibili.com/1532165) - papi酱 on Bilibili. <sub>Advanced · 简 · CN</sub>
+- [papi酱](https://space.bilibili.com/1532165) - Rapid-fire comedy sketches about everyday life. <sub>Advanced · 简 · CN</sub>
 - [三根葱](https://space.bilibili.com/332835876) - Sketches with regional accents and realistic everyday scenes. <sub>Advanced · 简 · CN</sub>
 - [中国BOY超级大猩猩](https://space.bilibili.com/562197) - Bizarre challenges and comedy. <sub>Advanced · 简 · CN</sub>
 - [敬汉卿](https://space.bilibili.com/9824766) - Quirky challenges and comedy videos. <sub>Advanced · 简 · CN</sub>
@@ -832,9 +831,9 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 - [Bilibili 纪录片](https://www.bilibili.com/documentary/) - Bilibili's documentary channel. <sub>Advanced · 简 · CN</sub>
 - [CCTV 纪录频道 (cctv.com)](https://tv.cctv.com/cctv9/) - Watch CCTV-9 documentaries online. <sub>Advanced · 简 · CN</sub>
-- [人生一串 (Bilibili)](https://www.bilibili.com/bangumi/media/md134912/) - Bilibili documentary on Chinese street barbecue culture. <sub>Advanced · 简 · CN</sub>
+- [人生一串](https://www.bilibili.com/bangumi/media/md134912/) - Bilibili documentary on Chinese street barbecue culture. <sub>Advanced · 简 · CN</sub>
 - [如果国宝会说话 (CCTV)](https://tv.cctv.com/2018/01/02/VIDA1514868883838179.shtml) - 5-minute episodes on national treasures. <sub>Advanced · 简 · CN</sub>
-- [我在故宫修文物 (Bilibili)](https://www.bilibili.com/bangumi/media/md28228731/) - Restoring relics inside the Forbidden City. <sub>Advanced · 简 · CN</sub>
+- [我在故宫修文物](https://www.bilibili.com/bangumi/media/md28228731/) - Restoring relics inside the Forbidden City. <sub>Advanced · 简 · CN</sub>
 
 <img src="assets/icons/youtube.svg" width="16" height="16" alt=""> **YouTube**
 
@@ -861,17 +860,17 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [周六野 Zoey](https://www.youtube.com/@WildSaturday) - Home workouts and healthy living. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [志祺七七](https://www.youtube.com/@shasha77) - Taiwanese explainers on social issues and current events. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [阿滴 RayDu](https://www.youtube.com/@rayduenglish) - Taiwanese English teacher's channel (mostly in Mandarin). <sub>Intermediate–Advanced · 繁 · TW</sub>
-- [阿滴日常](https://www.youtube.com/@raydudaily) - Ray Du's daily vlogs. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [阿滴日常](https://www.youtube.com/@raydudaily) - Daily-life vlogs from Taiwanese creator Ray Du. <sub>Intermediate–Advanced · 繁 · TW</sub>
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
-- [=咬人猫=](https://space.bilibili.com/116683) - Dance and lifestyle creator. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [=咬人猫=](https://space.bilibili.com/116683) - Dance covers and lifestyle videos. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [Pro米修猫](https://space.bilibili.com/1530159224) - Daily food and restaurant culture in Korea. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [renasteps](https://space.bilibili.com/99059156) - Family vlogs, fashion and skincare. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [刘畅木法沙](https://space.bilibili.com/517742404) - Actor Liu Chang's daily life and challenges. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [到车请故意](https://space.bilibili.com/280754190) - Origami and paper-folding projects. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [吃花椒的喵酱 (王冰冰)](https://space.bilibili.com/2026561407) - CCTV reporter Wang Bingbing's vlogs. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [帅soserious](https://space.bilibili.com/66391032) - Fitness and lifestyle vlogs. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [帅soserious](https://space.bilibili.com/66391032) - Fitness, training and lifestyle vlogs. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [徐大虾咯](https://space.bilibili.com/13354765) - Food challenges and quirky experiments. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [旻MinChen](https://space.bilibili.com/449359189) - Exchange student's life and solo travel in Germany. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [猫森璐](https://space.bilibili.com/418335676) - Short, well-edited travel vlogs across China and East Asia. <sub>Intermediate–Advanced · 简 · CN</sub>
@@ -912,9 +911,9 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
-- [华农兄弟 (Bilibili)](https://space.bilibili.com/250858633) - Huanong Brothers on Bilibili. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [盗月社食遇记 (Bilibili)](https://space.bilibili.com/99157282) - DaoYueShe on Bilibili. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [绵羊料理 (Bilibili)](https://space.bilibili.com/18202105) - MianYang LiaoLi on Bilibili. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [华农兄弟](https://space.bilibili.com/250858633) - Farming brothers and their bamboo rats, famously deadpan. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [盗月社食遇记](https://space.bilibili.com/99157282) - Food-travel hosts explore restaurants and markets across China. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [绵羊料理](https://space.bilibili.com/18202105) - Ambitious home recreations of famous dishes. <sub>Intermediate–Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
 
@@ -925,7 +924,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
 - [Taiwan Tourism 台灣觀光](https://www.taiwan.net.tw/) - Official Taiwan tourism site in Chinese and other languages. <sub>Advanced · 繁 · TW</sub>
-- [去哪儿 Qunar](https://www.qunar.com/) - Travel search and booking. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [去哪儿 Qunar](https://www.qunar.com/) - Flight and hotel search with destination guides. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [大众点评 Dianping](https://www.dianping.com/) - Restaurant and local business reviews. <sub>Advanced · 简 · CN</sub>
 - [携程 Trip.com 攻略](https://you.ctrip.com/) - Ctrip travel guides and reviews. <sub>Advanced · 简 · CN</sub>
 - [穷游网 Qyer](https://www.qyer.com/) - Backpacking guides and forums. <sub>Advanced · 简 · CN</sub>
@@ -954,7 +953,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
 - [上海美术电影制片厂 Shanghai Animation Film Studio](https://www.ssfs.cn/) - Studio behind classic Chinese animation (大闹天宫, 葫芦兄弟). <sub>Intermediate · 简 · CN</sub>
-- [中国奇谭 Yao-Chinese Folktales (Bilibili)](https://www.bilibili.com/bangumi/media/md28339735/) - Anthology of folktale-inspired shorts by Shanghai Animation Film Studio. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [中国奇谭 Yao-Chinese Folktales](https://www.bilibili.com/bangumi/media/md28339735/) - Anthology of folktale-inspired shorts by Shanghai Animation Film Studio. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [哔哩哔哩国创 Bilibili Guochuang](https://www.bilibili.com/guochuang/) - Bilibili's hub for Chinese animation (国创). <sub>Intermediate–Advanced · 简 · CN</sub>
 - [哔哩哔哩番剧 Bilibili Anime](https://www.bilibili.com/anime/) - Licensed anime with Chinese subtitles. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
 - [腾讯视频动漫 Tencent Animation](https://v.qq.com/channel/cartoon) - Tencent Video's donghua channel: 斗罗大陆, 一人之下, 狐妖小红娘. <sub>Intermediate–Advanced · 简 · CN</sub>
@@ -971,7 +970,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
-- [原神 Genshin Impact (Bilibili)](https://space.bilibili.com/401742377) - Official Genshin Impact Chinese account: animated shorts and character trailers. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [原神 Genshin Impact](https://space.bilibili.com/401742377) - Official Genshin Impact Chinese account: animated shorts and character trailers. <sub>Intermediate–Advanced · 简 · CN</sub>
 
 [Back to contents](#contents)
 
@@ -991,13 +990,13 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [Chinese Fairy Tales 中文童话](https://www.youtube.com/@ChineseFairyTales) - Classic fairy tales animated in Mandarin. <sub>Beginner · 简 · CN</sub>
 - [CoComelon 中文](https://www.youtube.com/@CoComelonMandarin) - CoComelon nursery rhymes in Mandarin. <sub>Beginner · 简 · CN</sub>
 - [Miss Panda Chinese](https://www.youtube.com/@misspandachinese) - Songs and lessons for kids learning Mandarin. <sub>*For learners* · Beginner · 简 · CN · Bilingual</sub>
-- [Moonbug Kids 中文](https://www.youtube.com/@MoonbugKidsMandarin) - Kids' cartoons in Mandarin. <sub>Beginner · 简 · CN</sub>
+- [Moonbug Kids 中文](https://www.youtube.com/@MoonbugKidsMandarin) - Popular kids' cartoons dubbed in Mandarin. <sub>Beginner · 简 · CN</sub>
 - [中华成语故事](https://www.youtube.com/@中华成语故事-倒霉先) - Animated stories behind Chinese idioms. <sub>Beginner–Intermediate · 简 · CN</sub>
 - [喜羊羊與灰太狼 Pleasant Goat](https://www.youtube.com/@XYY-Cartoon) - Classic Chinese cartoon Pleasant Goat and Big Big Wolf. <sub>Beginner · 简 · CN</sub>
 - [大耳朵TV (大耳朵图图)](https://www.youtube.com/@大耳朵TV) - Big Ears Tutu, a classic Chinese family cartoon. <sub>Beginner · 简 · CN</sub>
 - [寶寶巴士 BabyBus 中文](https://www.youtube.com/@BabyBusTC) - Songs, nursery rhymes and cartoons for toddlers. <sub>Beginner · 繁 · CN</sub>
 - [小猪佩奇 Peppa Pig 中文官方](https://www.youtube.com/@PeppaPigChineseOfficial) - Official Mandarin Peppa Pig: simple, repetitive everyday language. <sub>Beginner · 简 · CN</sub>
-- [汪汪隊立大功 PAW Patrol (Mandarin)](https://www.youtube.com/@PAWPatrolMandarin) - PAW Patrol in Mandarin. <sub>Beginner · 简 · CN</sub>
+- [汪汪隊立大功 PAW Patrol (Mandarin)](https://www.youtube.com/@PAWPatrolMandarin) - Episodes of PAW Patrol dubbed in Mandarin. <sub>Beginner · 简 · CN</sub>
 - [熊出没 Boonie Bears](https://www.youtube.com/channel/UCexhmwhQ2zmBDt2Q6qM3hdg) - Hit Chinese cartoon about two bears protecting their forest. <sub>Beginner · 简 · CN</sub>
 - [碰碰狐 Pinkfong 简体中文](https://www.youtube.com/channel/UC8iy9jYvsQsqgWMO8SSwxWw) - Baby Shark and children's songs in Mandarin (simplified subtitles). <sub>Beginner · 简 · CN</sub>
 - [碰碰狐 Pinkfong 繁體中文](https://www.youtube.com/@Pinkfong繁體中文) - Children's songs in Mandarin (traditional subtitles). <sub>Beginner · 繁 · TW</sub>
@@ -1018,11 +1017,11 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
-- [NGA 玩家社区](https://bbs.nga.cn/) - Gaming forums. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [NGA 玩家社区](https://bbs.nga.cn/) - Large gaming forum with game-specific boards and guides. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [巴哈姆特 Gamer.com.tw](https://www.gamer.com.tw/) - Taiwan's biggest gaming and ACG community. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [机核 Gcores](https://www.gcores.com/) - Gaming culture articles, videos and radio. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [游民星空 Gamersky](https://www.gamersky.com/) - Gaming news and guides. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [触乐 Chuapp](https://www.chuapp.com/) - Thoughtful gaming journalism. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [游民星空 Gamersky](https://www.gamersky.com/) - Gaming news, reviews and walkthroughs. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [触乐 Chuapp](https://www.chuapp.com/) - Thoughtful long-form journalism about games and the people who make them. <sub>Intermediate–Advanced · 简 · CN</sub>
 
 <img src="assets/icons/youtube.svg" width="16" height="16" alt=""> **YouTube**
 
@@ -1030,14 +1029,14 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [Gamker攻壳](https://www.youtube.com/@Gamker-YT) - Game culture and design analysed from a developer's point of view. <sub>Advanced · 简 · CN</sub>
 - [敖厂长](https://www.youtube.com/@hawkaoaoful) - Retro gaming history and trash-game reviews. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [老孫聊遊戲 Old Sun Games](https://www.youtube.com/@oldsungame) - Long-form talks on game history, studios and the industry. <sub>Advanced · 简 · CN</sub>
-- [逍遥散人 (YouTube)](https://www.youtube.com/@sanrenGAMES) - Xiaoyao Sanren's playthroughs on YouTube. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [逍遥散人](https://www.youtube.com/@sanrenGAMES) - Xiaoyao Sanren's playthroughs on YouTube. <sub>Intermediate–Advanced · 简 · CN</sub>
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
-- [EdmundDZhang](https://space.bilibili.com/433351) - Gaming and esports streamer. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [LexBurner](https://space.bilibili.com/777536) - Anime and game commentary. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [你的影月月](https://space.bilibili.com/431073645) - Popular gaming creator. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [敖厂长 (Bilibili)](https://space.bilibili.com/122879) - Ao Changzhang on Bilibili. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [EdmundDZhang](https://space.bilibili.com/433351) - Esports and gaming streams with energetic commentary. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [LexBurner](https://space.bilibili.com/777536) - Commentary on anime, games and internet culture. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [你的影月月](https://space.bilibili.com/431073645) - Playthroughs of popular and indie games with lively commentary. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [敖厂长](https://space.bilibili.com/122879) - Retro gaming history and reviews of notoriously bad games. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [老番茄](https://space.bilibili.com/546195) - Bilibili's most-followed gaming and comedy creator. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [逍遥散人](https://space.bilibili.com/168598) - Story-driven game playthroughs with commentary. <sub>Intermediate–Advanced · 简 · CN</sub>
 
@@ -1049,13 +1048,13 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
-- [ETtoday 運動雲](https://sports.ettoday.net/) - Taiwan sports news. <sub>Intermediate–Advanced · 繁 · TW</sub>
-- [Keep](https://www.gotokeep.com/) - Popular Chinese fitness app. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
-- [央视体育 CCTV Sports](https://sports.cctv.com/) - CCTV-5 sports news and video. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [懂球帝 Dongqiudi](https://www.dongqiudi.com/) - Football news and community. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [新浪体育 Sina Sports](https://sports.sina.com.cn/) - Sports news. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [ETtoday 運動雲](https://sports.ettoday.net/) - Sports news from Taiwan's ETtoday. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [Keep](https://www.gotokeep.com/) - Chinese fitness app with guided workout videos. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
+- [央视体育 CCTV Sports](https://sports.cctv.com/) - CCTV-5 sports news, highlights and video. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [懂球帝 Dongqiudi](https://www.dongqiudi.com/) - Football news, scores and a lively fan community. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [新浪体育 Sina Sports](https://sports.sina.com.cn/) - Sports news, scores and commentary from Sina. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [直播吧 Zhibo8](https://www.zhibo8.com/) - Live scores, sports news and streams. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [腾讯体育 Tencent Sports](https://sports.qq.com/) - Sports news and streams. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [腾讯体育 Tencent Sports](https://sports.qq.com/) - Sports news, highlights and live streams from Tencent. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [薄荷健康 Boohee](https://www.boohee.com/) - Diet and fitness tracking with food database. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [虎扑 Hupu](https://www.hupu.com/) - Sports community: NBA, football, esports. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [运动视界 SportsV](https://www.sportsv.net/) - Taiwanese sports commentary and analysis. <sub>Intermediate–Advanced · 繁 · TW</sub>
@@ -1079,35 +1078,35 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 - [QQ音乐 QQ Music](https://y.qq.com/) - Huge Chinese music library with synced lyrics. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
 - [StreetVoice 街聲](https://streetvoice.com/) - Indie music platform from Taiwan and China. <sub>Intermediate–Advanced · 简繁 · TW</sub>
 - [网易云音乐 NetEase Cloud Music](https://music.163.com/) - Music streaming loved for its comments and playlists. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
-- [酷狗音乐 Kugou](https://www.kugou.com/) - Music streaming and karaoke. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
+- [酷狗音乐 Kugou](https://www.kugou.com/) - Music streaming and karaoke app with synced lyrics. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>
 - [魔鏡歌詞網 Mojim](https://mojim.com/) - Large Chinese lyrics database. <sub>Intermediate–Advanced · 简繁 · TW</sub>
 
 <img src="assets/icons/youtube.svg" width="16" height="16" alt=""> **YouTube**
 
-- [9m88](https://www.youtube.com/@9m88.) - Taiwanese jazz-soul singer. <sub>Intermediate–Advanced · 繁 · TW</sub>
-- [aMEI 張惠妹](https://www.youtube.com/@amei) - Official channel of A-Mei. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [9m88](https://www.youtube.com/@9m88.) - Taiwanese jazz and soul singer. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [aMEI 張惠妹](https://www.youtube.com/@amei) - Official channel of A-Mei, one of Mandopop's biggest stars. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [Eason Chan 陳奕迅](https://www.youtube.com/@easonchan) - Official channel of Eason Chan (Mandarin & Cantonese). <sub>Intermediate–Advanced · 繁 · HK</sub>
-- [GEM 鄧紫棋](https://www.youtube.com/@gem0816) - Official channel of G.E.M. <sub>Intermediate–Advanced · 繁 · HK</sub>
+- [GEM 鄧紫棋](https://www.youtube.com/@gem0816) - Official channel of G.E.M., the Hong Kong-born singer-songwriter who sings mostly in Mandarin. <sub>Intermediate–Advanced · 繁 · HK</sub>
 - [JJ Lin 林俊傑](https://www.youtube.com/@jjlin) - Official channel of the Singaporean singer-songwriter. <sub>Intermediate–Advanced · 简繁 · SG</sub>
 - [JOLIN 蔡依林](https://www.youtube.com/@jolin_cai) - Official channel of Jolin Tsai. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [MangoTV Music Channel](https://www.youtube.com/@MangoTV-Music) - Live performances from Hunan TV music shows. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [Sony Music Taiwan 台灣索尼音樂](https://www.youtube.com/@SonyMusicTaiwan) - Sony's Chinese-language artists. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [Universal Music Taiwan 環球音樂](https://www.youtube.com/@universaltwn) - Universal's Chinese-language artists. <sub>Intermediate–Advanced · 繁 · TW</sub>
-- [ZJSTV Music Channel](https://www.youtube.com/@ZJSTV-Music) - Music from Zhejiang TV shows. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [告五人 Accusefive](https://www.youtube.com/@Accusefive) - Taiwanese indie-pop band. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [ZJSTV Music Channel](https://www.youtube.com/@ZJSTV-Music) - Live performances from Zhejiang TV's music shows. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [告五人 Accusefive](https://www.youtube.com/@Accusefive) - Taiwanese indie-pop band with catchy, lyric-driven songs. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [周杰倫 Jay Chou](https://www.youtube.com/@jaychou) - Official channel of Mandopop's king. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [孫燕姿 Stefanie Sun](https://www.youtube.com/@Stefsunyanzi) - Official channel of Stefanie Sun. <sub>Intermediate–Advanced · 简繁 · SG</sub>
-- [新褲子 New Pants](https://www.youtube.com/@NewPants) - Beijing new-wave rock band. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [新褲子 New Pants](https://www.youtube.com/@NewPants) - Beijing new-wave band with retro synth-pop songs. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [李榮浩 Ronghao Li](https://www.youtube.com/@ronghaolisofficialchannel9864) - Official channel of Li Ronghao. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [滾石唱片 Rock Records](https://www.youtube.com/@RockRecordsTaipei) - Classic and modern Mandopop label. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [田馥甄 Hebe Tien](https://www.youtube.com/@hebe_tien_0330) - Official channel of Hebe Tien. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [相信音樂 B'in Music](https://www.youtube.com/@binmusictaipei) - Label of Mayday and many Taiwanese bands. <sub>Intermediate–Advanced · 繁 · TW</sub>
-- [草東沒有派對 No Party For Cao Dong](https://www.youtube.com/@nopartyforcaodong) - Taiwanese indie-rock band. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [草東沒有派對 No Party For Cao Dong](https://www.youtube.com/@nopartyforcaodong) - Acclaimed Taiwanese indie-rock band. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [華研國際 HIM Music](https://www.youtube.com/@himmusic_official) - Label of S.H.E, Hebe and others. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [華納音樂 Warner Music Taiwan](https://www.youtube.com/@warnermusictaiwan) - Music videos from Warner's Chinese artists. <sub>Intermediate–Advanced · 繁 · TW</sub>
-- [落日飛車 Sunset Rollercoaster](https://www.youtube.com/@SunsetRollercoaster) - Taiwanese indie band. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [落日飛車 Sunset Rollercoaster](https://www.youtube.com/@SunsetRollercoaster) - Taiwanese indie band with mellow, jazzy soft-rock songs. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [薛之謙 Joker Xue](https://www.youtube.com/@JokerXue1707) - Official channel of Joker Xue. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [韋禮安 WeiBird](https://www.youtube.com/@weibird_official) - Official channel of WeiBird. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [韋禮安 WeiBird](https://www.youtube.com/@weibird_official) - Official channel of Taiwanese singer-songwriter WeiBird. <sub>Intermediate–Advanced · 繁 · TW</sub>
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
@@ -1166,7 +1165,7 @@ This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-
 
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
-- [Firstory](https://firstory.me/) - Taiwanese podcast platform. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
+- [Firstory](https://firstory.me/) - Taiwanese podcast platform for discovering Mandarin shows. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
 - [Radio Garden (China)](https://radio.garden/) - Tune into live radio stations across China and Taiwan on a globe. <sub>Intermediate–Advanced · 简繁 · Global</sub>
 - [SoundOn](https://www.soundon.fm/) - Taiwanese podcast hosting and discovery. <sub>Intermediate–Advanced · 繁 · TW · Freemium</sub>
 - [云听 Yunting (CNR)](https://www.radio.cn/) - China National Radio live and on-demand. <sub>Intermediate–Advanced · 简 · CN · Freemium</sub>

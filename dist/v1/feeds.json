@@ -1,6 +1,6 @@
 {
- "data_version": "70936f4fc0fc",
- "count": 430,
+ "data_version": "9785f721564e",
+ "count": 429,
  "feeds": [
   {
    "id": "acquire-mandarin",
@@ -639,17 +639,6 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJyGe2H0C9q6QH0-hH04zw"
    },
    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n3O6uF9azGsb-YqOxSuJXyPIL7ceZLlyJXuobJ3qeZB5um=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
-   "id": "li-yongle",
-   "name": "李永乐老师 Li Yongle",
-   "category": "learn_video",
-   "type": "youtube",
-   "feed": {
-    "format": "youtube",
-    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSs4A6HYKmHA2MG_0z-F0xw"
-   },
-   "image": "https://yt3.googleusercontent.com/PKf7sPKOn9HXfTvM5cuUwDqV_nX3ImK9uIIOzjUDLnF8mHolj7lROmQOBvF6NKhdEZBZ33HLlA=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": "chillchat",
@@ -1377,7 +1366,7 @@
   },
   {
    "id": "8world-youtube",
-   "name": "8world (YouTube)",
+   "name": "8world",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1398,7 +1387,7 @@
   },
   {
    "id": "bbc-news-youtube",
-   "name": "BBC News 中文 (YouTube)",
+   "name": "BBC News 中文",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1431,7 +1420,7 @@
   },
   {
    "id": "dw-chinese-youtube",
-   "name": "DW 中文 (YouTube)",
+   "name": "DW 中文",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1442,7 +1431,7 @@
   },
   {
    "id": "rfi-youtube",
-   "name": "RFI 华语 (YouTube)",
+   "name": "RFI 华语",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1497,7 +1486,7 @@
   },
   {
    "id": "pnn-youtube",
-   "name": "公視新聞網 PNN (YouTube)",
+   "name": "公視新聞網 PNN",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1540,7 +1529,7 @@
   },
   {
    "id": "the-reporter-youtube",
-   "name": "報導者 The Reporter (YouTube)",
+   "name": "報導者 The Reporter",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1551,7 +1540,7 @@
   },
   {
    "id": "cctv-news-bilibili",
-   "name": "央视新闻 (Bilibili)",
+   "name": "央视新闻",
    "category": "news",
    "type": "bilibili",
    "feed": {
@@ -1625,7 +1614,7 @@
   },
   {
    "id": "nyt-chinese-youtube",
-   "name": "紐約時報中文網 (YouTube)",
+   "name": "紐約時報中文網",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1656,7 +1645,7 @@
   },
   {
    "id": "voa-chinese-youtube",
-   "name": "美国之音中文网 (YouTube)",
+   "name": "美国之音中文网",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1677,7 +1666,7 @@
   },
   {
    "id": "zaobao-youtube",
-   "name": "联合早报 zaobao (YouTube)",
+   "name": "联合早报 zaobao",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1719,7 +1708,7 @@
   },
   {
    "id": "guancha-bilibili",
-   "name": "观察者网 (Bilibili)",
+   "name": "观察者网",
    "category": "news",
    "type": "bilibili",
    "feed": {
@@ -1730,7 +1719,7 @@
   },
   {
    "id": "the-news-lens-youtube",
-   "name": "關鍵評論網 The News Lens (YouTube)",
+   "name": "關鍵評論網 The News Lens",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1741,7 +1730,7 @@
   },
   {
    "id": "hk01-youtube",
-   "name": "香港01 (YouTube)",
+   "name": "香港01",
    "category": "news",
    "type": "youtube",
    "feed": {
@@ -1846,7 +1835,7 @@
   },
   {
    "id": "mediastorm-bilibili",
-   "name": "影视飓风 (Bilibili)",
+   "name": "影视飓风",
    "category": "tech",
    "type": "bilibili",
    "feed": {
@@ -1879,7 +1868,7 @@
   },
   {
    "id": "geekerwan-bilibili",
-   "name": "极客湾 Geekerwan (Bilibili)",
+   "name": "极客湾 Geekerwan",
    "category": "tech",
    "type": "bilibili",
    "feed": {
@@ -1922,7 +1911,7 @@
   },
   {
    "id": "he-tong-xue-bilibili",
-   "name": "老师好我叫何同学 (Bilibili)",
+   "name": "老师好我叫何同学",
    "category": "tech",
    "type": "bilibili",
    "feed": {
@@ -1976,7 +1965,7 @@
   },
   {
    "id": "commonwealth-video",
-   "name": "天下雜誌 video",
+   "name": "天下雜誌 CommonWealth",
    "category": "business",
    "type": "youtube",
    "feed": {
@@ -1998,7 +1987,7 @@
   },
   {
    "id": "xiao-lin-shuo-bilibili",
-   "name": "小Lin说 (Bilibili)",
+   "name": "小Lin说",
    "category": "business",
    "type": "bilibili",
    "feed": {
@@ -2020,7 +2009,7 @@
   },
   {
    "id": "wu-shi-cai-jing-bilibili",
-   "name": "巫师财经 (Bilibili)",
+   "name": "巫师财经",
    "category": "business",
    "type": "bilibili",
    "feed": {
@@ -2042,7 +2031,7 @@
   },
   {
    "id": "suo-zhang-lin-chao-bilibili",
-   "name": "所长林超 (Bilibili)",
+   "name": "所长林超",
    "category": "business",
    "type": "bilibili",
    "feed": {
@@ -2064,7 +2053,7 @@
   },
   {
    "id": "ying-he-de-ban-fu-xian-ren-bilibili",
-   "name": "硬核的半佛仙人 (Bilibili)",
+   "name": "硬核的半佛仙人",
    "category": "business",
    "type": "bilibili",
    "feed": {
@@ -2140,19 +2129,8 @@
    "image": "https://i0.hdslb.com/bfs/face/6de12181ed59518fc7beff2046fb3218d50206cc.jpg"
   },
   {
-   "id": "li-yongle-official",
-   "name": "李永乐老师 (official)",
-   "category": "science",
-   "type": "youtube",
-   "feed": {
-    "format": "youtube",
-    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ"
-   },
-   "image": "https://yt3.googleusercontent.com/gs_-qVWE__RtVwwbTMgSwORzPEWJngI-VEh4T8LkPu85vRj9SA7uSyhqOlT3RxpjG0jhYYPiTg=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
    "id": "li-yongle-bilibili",
-   "name": "李永乐老师官方 (Bilibili)",
+   "name": "李永乐老师 Li Yongle",
    "category": "science",
    "type": "bilibili",
    "feed": {
@@ -2160,6 +2138,17 @@
     "url": "https://rsshub.app/bilibili/user/video/9458053"
    },
    "image": "https://i1.hdslb.com/bfs/face/b299b0e20dc4fbbd45e13ba86f330d890c0a0118.jpg"
+  },
+  {
+   "id": "li-yongle-official",
+   "name": "李永乐老师 Li Yongle",
+   "category": "science",
+   "type": "youtube",
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ"
+   },
+   "image": "https://yt3.googleusercontent.com/gs_-qVWE__RtVwwbTMgSwORzPEWJngI-VEh4T8LkPu85vRj9SA7uSyhqOlT3RxpjG0jhYYPiTg=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": "chaiknows",
@@ -2174,7 +2163,7 @@
   },
   {
    "id": "bi-dao-bilibili",
-   "name": "毕导 (Bilibili)",
+   "name": "毕导",
    "category": "science",
    "type": "bilibili",
    "feed": {
@@ -2316,7 +2305,7 @@
   },
   {
    "id": "xiao-yue-han-ke-han-bilibili",
-   "name": "小约翰可汗 (Bilibili)",
+   "name": "小约翰可汗",
    "category": "history_culture",
    "type": "bilibili",
    "feed": {
@@ -2776,7 +2765,7 @@
   },
   {
    "id": "papi-jiang-bilibili",
-   "name": "papi酱 (Bilibili)",
+   "name": "papi酱",
    "category": "comedy",
    "type": "bilibili",
    "feed": {
@@ -3260,7 +3249,7 @@
   },
   {
    "id": "hua-nong-xiong-di-bilibili",
-   "name": "华农兄弟 (Bilibili)",
+   "name": "华农兄弟",
    "category": "food",
    "type": "bilibili",
    "feed": {
@@ -3358,7 +3347,7 @@
   },
   {
    "id": "daoyueshe-bilibili",
-   "name": "盗月社食遇记 (Bilibili)",
+   "name": "盗月社食遇记",
    "category": "food",
    "type": "bilibili",
    "feed": {
@@ -3380,7 +3369,7 @@
   },
   {
    "id": "mianyang-liaoli-bilibili",
-   "name": "绵羊料理 (Bilibili)",
+   "name": "绵羊料理",
    "category": "food",
    "type": "bilibili",
    "feed": {
@@ -3622,7 +3611,7 @@
   },
   {
    "id": "genshin-impact-bilibili",
-   "name": "原神 Genshin Impact (Bilibili)",
+   "name": "原神 Genshin Impact",
    "category": "animation",
    "type": "bilibili",
    "feed": {
@@ -3929,7 +3918,7 @@
   },
   {
    "id": "ao-chang-zhang-bilibili",
-   "name": "敖厂长 (Bilibili)",
+   "name": "敖厂长",
    "category": "gaming",
    "type": "bilibili",
    "feed": {
@@ -3973,7 +3962,7 @@
   },
   {
    "id": "xiao-yao-san-ren",
-   "name": "逍遥散人 (YouTube)",
+   "name": "逍遥散人",
    "category": "gaming",
    "type": "youtube",
    "feed": {

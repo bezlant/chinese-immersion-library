@@ -1,6 +1,6 @@
 {
- "data_version": "70936f4fc0fc",
- "count": 723,
+ "data_version": "9785f721564e",
+ "count": 722,
  "resources": [
   {
    "id": "acquire-mandarin",
@@ -2001,40 +2001,6 @@
     "youtube_channel_id": "UCSJyGe2H0C9q6QH0-hH04zw"
    },
    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n3O6uF9azGsb-YqOxSuJXyPIL7ceZLlyJXuobJ3qeZB5um=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
-   "id": "li-yongle",
-   "name": "李永乐老师 Li Yongle",
-   "url": "https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw",
-   "description": "Free science and maths lessons in fast, clear Mandarin with whiteboard explanations.",
-   "category": "learn_video",
-   "type": "youtube",
-   "level": [
-    "advanced"
-   ],
-   "script": "simplified",
-   "region": "cn",
-   "language": "zh",
-   "pricing": "free",
-   "tags": [
-    "maths",
-    "science"
-   ],
-   "for_learners": false,
-   "dialect": "mandarin",
-   "platforms": [
-    "web",
-    "ios",
-    "android"
-   ],
-   "feed": {
-    "format": "youtube",
-    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSs4A6HYKmHA2MG_0z-F0xw"
-   },
-   "ids": {
-    "youtube_channel_id": "UCSs4A6HYKmHA2MG_0z-F0xw"
-   },
-   "image": "https://yt3.googleusercontent.com/PKf7sPKOn9HXfTvM5cuUwDqV_nX3ImK9uIIOzjUDLnF8mHolj7lROmQOBvF6NKhdEZBZ33HLlA=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": "chillchat",
@@ -6026,7 +5992,7 @@
    "id": "preply",
    "name": "Preply",
    "url": "https://preply.com/en/online/chinese-tutors",
-   "description": "Online Chinese tutors.",
+   "description": "Book one-to-one lessons with Chinese tutors at a range of prices.",
    "category": "community",
    "type": "website",
    "level": [
@@ -6472,7 +6438,7 @@
    "id": "taiwan-news",
    "name": "Taiwan News",
    "url": "https://www.taiwannews.com.tw/",
-   "description": "English news from Taiwan.",
+   "description": "English-language news from Taiwan, useful for context on local stories.",
    "category": "blogs_en",
    "type": "website",
    "level": [
@@ -6498,7 +6464,7 @@
    "id": "thats-shanghai",
    "name": "That's Shanghai",
    "url": "https://www.thatsmags.com/shanghai",
-   "description": "Expat guide to Shanghai life.",
+   "description": "English guide to living in Shanghai: food, culture and events.",
    "category": "blogs_en",
    "type": "website",
    "level": [
@@ -6524,7 +6490,7 @@
    "id": "the-beijinger",
    "name": "The Beijinger",
    "url": "https://www.thebeijinger.com/",
-   "description": "Expat guide to Beijing life.",
+   "description": "English guide to living in Beijing: food, events and city news.",
    "category": "blogs_en",
    "type": "website",
    "level": [
@@ -6578,7 +6544,7 @@
   },
   {
    "id": "8world-youtube",
-   "name": "8world (YouTube)",
+   "name": "8world",
    "url": "https://www.youtube.com/@8worldSG",
    "description": "Mediacorp Chinese news and features.",
    "category": "news",
@@ -6685,7 +6651,7 @@
   },
   {
    "id": "bbc-news-youtube",
-   "name": "BBC News 中文 (YouTube)",
+   "name": "BBC News 中文",
    "url": "https://www.youtube.com/@bbcnewschinese",
    "description": "BBC Chinese video reports and explainers.",
    "category": "news",
@@ -6786,9 +6752,9 @@
   },
   {
    "id": "dw-chinese-youtube",
-   "name": "DW 中文 (YouTube)",
+   "name": "DW 中文",
    "url": "https://www.youtube.com/@dwchinese",
-   "description": "Deutsche Welle Chinese video.",
+   "description": "Deutsche Welle's Chinese video reports on Europe and the world.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -6821,7 +6787,7 @@
    "id": "ettoday",
    "name": "ETtoday 新聞雲",
    "url": "https://www.ettoday.net/",
-   "description": "Taiwan online news.",
+   "description": "Popular Taiwanese online news site.",
    "category": "news",
    "type": "website",
    "level": [
@@ -6889,9 +6855,9 @@
   },
   {
    "id": "rfi-youtube",
-   "name": "RFI 华语 (YouTube)",
+   "name": "RFI 华语",
    "url": "https://www.youtube.com/@RFI_Cn",
-   "description": "RFI Chinese video.",
+   "description": "Radio France Internationale's Chinese-language video reports.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -7015,7 +6981,7 @@
    "id": "tvbs-news",
    "name": "TVBS NEWS",
    "url": "https://www.youtube.com/@TVBSNEWS01",
-   "description": "Taiwan TVBS news channel.",
+   "description": "Major Taiwanese TV news channel with live streams.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -7049,7 +7015,7 @@
    "id": "setn",
    "name": "三立新聞 SETN",
    "url": "https://www.youtube.com/@setn",
-   "description": "Taiwan SET News.",
+   "description": "News channel of Taiwan's SET broadcaster, with live streams.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -7107,7 +7073,7 @@
    "id": "china-press",
    "name": "中国报 China Press",
    "url": "https://www.chinapress.com.my/",
-   "description": "Malaysian Chinese daily.",
+   "description": "Malaysian Chinese-language daily with local and regional news.",
    "category": "news",
    "type": "website",
    "level": [
@@ -7177,7 +7143,7 @@
    "id": "china-daily",
    "name": "中国日报中文网 China Daily",
    "url": "https://cn.chinadaily.com.cn/",
-   "description": "China Daily Chinese edition.",
+   "description": "Chinese-language edition of China Daily.",
    "category": "news",
    "type": "website",
    "level": [
@@ -7223,7 +7189,7 @@
    "id": "cna",
    "name": "中央社 CNA",
    "url": "https://www.cna.com.tw/",
-   "description": "Taiwan's Central News Agency.",
+   "description": "Taiwan's national news agency, with clear, formal news writing.",
    "category": "news",
    "type": "website",
    "level": [
@@ -7247,7 +7213,7 @@
    "id": "china-times",
    "name": "中時新聞網 China Times",
    "url": "https://www.chinatimes.com/",
-   "description": "Taiwan China Times news.",
+   "description": "News site of the China Times, a major Taiwanese newspaper.",
    "category": "news",
    "type": "website",
    "level": [
@@ -7339,9 +7305,9 @@
   },
   {
    "id": "pnn-youtube",
-   "name": "公視新聞網 PNN (YouTube)",
+   "name": "公視新聞網 PNN",
    "url": "https://www.youtube.com/@PNNPTS",
-   "description": "Taiwan public TV news video.",
+   "description": "News reports and documentaries from Taiwan's public broadcaster.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -7478,7 +7444,7 @@
    "id": "ttv-news",
    "name": "台視新聞 TTV News",
    "url": "https://www.youtube.com/@TTV_NEWS",
-   "description": "Taiwan Television news.",
+   "description": "News channel of Taiwan Television, the island's oldest broadcaster.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -7538,7 +7504,7 @@
   },
   {
    "id": "the-reporter-youtube",
-   "name": "報導者 The Reporter (YouTube)",
+   "name": "報導者 The Reporter",
    "url": "https://www.youtube.com/@TwreporterOrg",
    "description": "Documentary-style investigative videos.",
    "category": "news",
@@ -7596,9 +7562,9 @@
   },
   {
    "id": "cctv-news-bilibili",
-   "name": "央视新闻 (Bilibili)",
+   "name": "央视新闻",
    "url": "https://space.bilibili.com/456664753",
-   "description": "CCTV News official Bilibili account.",
+   "description": "Official CCTV News account with news clips and live coverage.",
    "category": "news",
    "type": "bilibili",
    "level": [
@@ -7678,7 +7644,7 @@
    "id": "sohu-news",
    "name": "搜狐新闻 Sohu News",
    "url": "https://news.sohu.com/",
-   "description": "Sohu portal news.",
+   "description": "Sohu's news portal with national and international stories.",
    "category": "news",
    "type": "website",
    "level": [
@@ -7781,7 +7747,7 @@
    "id": "sina-news",
    "name": "新浪新闻 Sina News",
    "url": "https://news.sina.com.cn/",
-   "description": "Sina portal news.",
+   "description": "News portal from Sina covering China and the world.",
    "category": "news",
    "type": "website",
    "level": [
@@ -7904,7 +7870,7 @@
    "id": "ebc-news",
    "name": "東森新聞 EBC News",
    "url": "https://www.youtube.com/@newsebc",
-   "description": "Taiwan EBC news.",
+   "description": "News channel of Taiwan's Eastern Broadcasting Company.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -7938,7 +7904,7 @@
    "id": "ftv-news",
    "name": "民視新聞 FTV News",
    "url": "https://www.youtube.com/@FTV_News",
-   "description": "Formosa TV News.",
+   "description": "News channel of Formosa TV, a major Taiwanese broadcaster.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -8042,7 +8008,7 @@
    "id": "jiemian",
    "name": "界面新闻 Jiemian",
    "url": "https://www.jiemian.com/",
-   "description": "Business and lifestyle news.",
+   "description": "Shanghai-based news on business, culture and lifestyle.",
    "category": "news",
    "type": "website",
    "level": [
@@ -8092,7 +8058,7 @@
    "id": "yicai",
    "name": "第一财经 Yicai",
    "url": "https://www.yicai.com/",
-   "description": "Financial and business news.",
+   "description": "Business and financial news from China Business Network.",
    "category": "news",
    "type": "website",
    "level": [
@@ -8113,9 +8079,9 @@
   },
   {
    "id": "nyt-chinese-youtube",
-   "name": "紐約時報中文網 (YouTube)",
+   "name": "紐約時報中文網",
    "url": "https://www.youtube.com/@紐約時報中文網-m8t",
-   "description": "NYT Chinese video.",
+   "description": "New York Times Chinese video reports.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -8225,9 +8191,9 @@
   },
   {
    "id": "voa-chinese-youtube",
-   "name": "美国之音中文网 (YouTube)",
+   "name": "美国之音中文网",
    "url": "https://www.youtube.com/@voachinese",
-   "description": "VOA Mandarin news video.",
+   "description": "Voice of America's Mandarin news reports and interviews.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -8308,9 +8274,9 @@
   },
   {
    "id": "zaobao-youtube",
-   "name": "联合早报 zaobao (YouTube)",
+   "name": "联合早报 zaobao",
    "url": "https://www.youtube.com/@zaobaodotsg",
-   "description": "Lianhe Zaobao video news.",
+   "description": "Video news from Singapore's Lianhe Zaobao.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -8370,7 +8336,7 @@
    "id": "tencent-news",
    "name": "腾讯新闻 Tencent News",
    "url": "https://news.qq.com/",
-   "description": "Tencent portal news.",
+   "description": "Tencent's news portal covering national and international stories.",
    "category": "news",
    "type": "website",
    "level": [
@@ -8394,7 +8360,7 @@
    "id": "liberty-times",
    "name": "自由時報 Liberty Times",
    "url": "https://www.ltn.com.tw/",
-   "description": "Major Taiwan daily.",
+   "description": "One of Taiwan's largest daily newspapers.",
    "category": "news",
    "type": "website",
    "level": [
@@ -8453,9 +8419,9 @@
   },
   {
    "id": "guancha-bilibili",
-   "name": "观察者网 (Bilibili)",
+   "name": "观察者网",
    "url": "https://space.bilibili.com/10330740",
-   "description": "Guancha current affairs videos on Bilibili.",
+   "description": "Current-affairs explainers and commentary from Guancha.",
    "category": "news",
    "type": "bilibili",
    "level": [
@@ -8535,7 +8501,7 @@
    "id": "the-news-lens",
    "name": "關鍵評論網 The News Lens",
    "url": "https://www.thenewslens.com/",
-   "description": "Taiwan news and commentary.",
+   "description": "Taiwanese news, commentary and international coverage.",
    "category": "news",
    "type": "website",
    "level": [
@@ -8557,9 +8523,9 @@
   },
   {
    "id": "the-news-lens-youtube",
-   "name": "關鍵評論網 The News Lens (YouTube)",
+   "name": "關鍵評論網 The News Lens",
    "url": "https://www.youtube.com/@TheNewsLens",
-   "description": "Explainers and commentary.",
+   "description": "Short video explainers on news and current affairs.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -8637,9 +8603,9 @@
   },
   {
    "id": "hk01-youtube",
-   "name": "香港01 (YouTube)",
+   "name": "香港01",
    "url": "https://www.youtube.com/@01official",
-   "description": "HK01 news video (Cantonese).",
+   "description": "Hong Kong news video, mostly in Cantonese.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -8672,7 +8638,7 @@
    "id": "hk01",
    "name": "香港01 HK01",
    "url": "https://www.hk01.com/",
-   "description": "Hong Kong digital news.",
+   "description": "Hong Kong digital news and features in written Chinese.",
    "category": "news",
    "type": "website",
    "level": [
@@ -8746,7 +8712,7 @@
    "id": "cnbeta",
    "name": "cnBeta",
    "url": "https://www.cnbeta.com.tw/",
-   "description": "Tech news aggregator.",
+   "description": "Tech news site with an active comment section.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -8792,7 +8758,7 @@
    "id": "inside",
    "name": "INSIDE 硬塞的",
    "url": "https://www.inside.com.tw/",
-   "description": "Taiwan tech and startup news.",
+   "description": "Taiwanese tech, internet and startup news.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -8816,7 +8782,7 @@
    "id": "ithome",
    "name": "IT之家 ITHome",
    "url": "https://www.ithome.com/",
-   "description": "Daily tech news.",
+   "description": "Fast daily tech and gadget news.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -8910,7 +8876,7 @@
    "id": "techbang",
    "name": "T客邦 TechBang",
    "url": "https://www.techbang.com/",
-   "description": "Taiwan tech news and reviews.",
+   "description": "Taiwanese tech news, reviews and how-tos.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -9027,7 +8993,7 @@
    "id": "cha-ping-jun",
    "name": "差评君",
    "url": "https://www.youtube.com/@xpinman",
-   "description": "Tech news and commentary.",
+   "description": "Tech news and commentary with a humorous edge.",
    "category": "tech",
    "type": "youtube",
    "level": [
@@ -9058,9 +9024,9 @@
   },
   {
    "id": "mediastorm-bilibili",
-   "name": "影视飓风 (Bilibili)",
+   "name": "影视飓风",
    "url": "https://space.bilibili.com/946974",
-   "description": "MediaStorm on Bilibili.",
+   "description": "Cinematography, cameras and tech explorations.",
    "category": "tech",
    "type": "bilibili",
    "level": [
@@ -9197,7 +9163,7 @@
    "id": "geekpark",
    "name": "极客公园 GeekPark",
    "url": "https://www.geekpark.net/",
-   "description": "Tech innovation news.",
+   "description": "Tech innovation news, interviews and conference talks.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -9252,9 +9218,9 @@
   },
   {
    "id": "geekerwan-bilibili",
-   "name": "极客湾 Geekerwan (Bilibili)",
+   "name": "极客湾 Geekerwan",
    "url": "https://space.bilibili.com/25876945",
-   "description": "Geekerwan on Bilibili.",
+   "description": "In-depth chip, phone and PC hardware reviews.",
    "category": "tech",
    "type": "bilibili",
    "level": [
@@ -9320,7 +9286,7 @@
    "id": "ifanr",
    "name": "爱范儿 ifanr",
    "url": "https://www.ifanr.com/",
-   "description": "Consumer tech and lifestyle.",
+   "description": "Consumer tech, apps and product design news.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -9347,7 +9313,7 @@
    "id": "ke-ji-mei-xue",
    "name": "科技美学",
    "url": "https://www.youtube.com/@KJMX",
-   "description": "Phone reviews and tech news.",
+   "description": "Phone reviews, comparisons and tech news.",
    "category": "tech",
    "type": "youtube",
    "level": [
@@ -9378,9 +9344,9 @@
   },
   {
    "id": "he-tong-xue-bilibili",
-   "name": "老师好我叫何同学 (Bilibili)",
+   "name": "老师好我叫何同学",
    "url": "https://space.bilibili.com/163637592",
-   "description": "He Tongxue's Bilibili channel.",
+   "description": "Creative, beautifully made tech videos.",
    "category": "tech",
    "type": "bilibili",
    "level": [
@@ -9446,7 +9412,7 @@
    "id": "huxiu",
    "name": "虎嗅 Huxiu",
    "url": "https://www.huxiu.com/",
-   "description": "Tech and business commentary.",
+   "description": "Tech and business commentary and long reads.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -9469,7 +9435,7 @@
    "id": "qbitai",
    "name": "量子位 QbitAI",
    "url": "https://www.qbitai.com/",
-   "description": "AI news and analysis.",
+   "description": "AI research and industry news.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -9496,7 +9462,7 @@
    "id": "tmtpost",
    "name": "钛媒体 TMTPost",
    "url": "https://www.tmtpost.com/",
-   "description": "Tech and finance media.",
+   "description": "Tech, media and finance analysis.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -9519,7 +9485,7 @@
    "id": "dian-nao-wang-a-da",
    "name": "電腦王阿達",
    "url": "https://www.kocpc.com.tw/",
-   "description": "Taiwan gadgets and tech tips.",
+   "description": "Taiwanese gadget news, software tips and reviews.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -9543,7 +9509,7 @@
    "id": "21-shi-ji-jing-ji-bao-dao",
    "name": "21世纪经济报道",
    "url": "https://www.21jingji.com/",
-   "description": "21st Century Business Herald.",
+   "description": "21st Century Business Herald: economic news and company coverage.",
    "category": "business",
    "type": "website",
    "level": [
@@ -9623,7 +9589,7 @@
    "id": "wallstreetcn",
    "name": "华尔街见闻 Wallstreetcn",
    "url": "https://wallstreetcn.com/",
-   "description": "Global markets news.",
+   "description": "Global markets, macroeconomics and investing news.",
    "category": "business",
    "type": "website",
    "level": [
@@ -9646,7 +9612,7 @@
    "id": "business-weekly-video",
    "name": "商業周刊 Business Weekly",
    "url": "https://www.youtube.com/@bwnet",
-   "description": "Taiwan Business Weekly video.",
+   "description": "Video explainers on business, careers and personal finance from Taiwan's Business Weekly.",
    "category": "business",
    "type": "youtube",
    "level": [
@@ -9679,7 +9645,7 @@
    "id": "business-weekly",
    "name": "商業周刊 Business Weekly",
    "url": "https://www.businessweekly.com.tw/",
-   "description": "Taiwan business magazine.",
+   "description": "Taiwanese business magazine on companies, careers and money.",
    "category": "business",
    "type": "website",
    "level": [
@@ -9701,9 +9667,9 @@
   },
   {
    "id": "commonwealth-video",
-   "name": "天下雜誌 video",
+   "name": "天下雜誌 CommonWealth",
    "url": "https://www.youtube.com/@cwvideo",
-   "description": "CommonWealth Magazine video.",
+   "description": "Video reports and interviews from CommonWealth, a leading Taiwanese magazine.",
    "category": "business",
    "type": "youtube",
    "level": [
@@ -9768,9 +9734,9 @@
   },
   {
    "id": "xiao-lin-shuo-bilibili",
-   "name": "小Lin说 (Bilibili)",
+   "name": "小Lin说",
    "url": "https://space.bilibili.com/520819684",
-   "description": "Xiao Lin's finance explainers on Bilibili.",
+   "description": "Clear, fun explanations of finance and economics.",
    "category": "business",
    "type": "bilibili",
    "level": [
@@ -9834,9 +9800,9 @@
   },
   {
    "id": "wu-shi-cai-jing-bilibili",
-   "name": "巫师财经 (Bilibili)",
+   "name": "巫师财经",
    "url": "https://space.bilibili.com/472747194",
-   "description": "Wizard Finance on Bilibili.",
+   "description": "Deep-dive videos on business, finance and economics.",
    "category": "business",
    "type": "bilibili",
    "level": [
@@ -9900,9 +9866,9 @@
   },
   {
    "id": "suo-zhang-lin-chao-bilibili",
-   "name": "所长林超 (Bilibili)",
+   "name": "所长林超",
    "url": "https://space.bilibili.com/520155988",
-   "description": "Lin Chao on Bilibili.",
+   "description": "Mental models, business and science explainers by Lin Chao.",
    "category": "business",
    "type": "bilibili",
    "level": [
@@ -9966,9 +9932,9 @@
   },
   {
    "id": "ying-he-de-ban-fu-xian-ren-bilibili",
-   "name": "硬核的半佛仙人 (Bilibili)",
+   "name": "硬核的半佛仙人",
    "url": "https://space.bilibili.com/37663924",
-   "description": "Banfo on Bilibili.",
+   "description": "Fast-paced commentary on business scandals and how companies really work.",
    "category": "business",
    "type": "bilibili",
    "level": [
@@ -10318,42 +10284,8 @@
    "image": "https://i0.hdslb.com/bfs/face/6de12181ed59518fc7beff2046fb3218d50206cc.jpg"
   },
   {
-   "id": "li-yongle-official",
-   "name": "李永乐老师 (official)",
-   "url": "https://www.youtube.com/@李永乐老师官方",
-   "description": "Li Yongle official channel.",
-   "category": "science",
-   "type": "youtube",
-   "level": [
-    "advanced"
-   ],
-   "script": "simplified",
-   "region": "cn",
-   "language": "zh",
-   "pricing": "free",
-   "tags": [
-    "maths",
-    "physics"
-   ],
-   "for_learners": false,
-   "dialect": "mandarin",
-   "platforms": [
-    "web",
-    "ios",
-    "android"
-   ],
-   "feed": {
-    "format": "youtube",
-    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ"
-   },
-   "ids": {
-    "youtube_channel_id": "UCvNxfitQbWkmLuCd44UfrYQ"
-   },
-   "image": "https://yt3.googleusercontent.com/gs_-qVWE__RtVwwbTMgSwORzPEWJngI-VEh4T8LkPu85vRj9SA7uSyhqOlT3RxpjG0jhYYPiTg=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
    "id": "li-yongle-bilibili",
-   "name": "李永乐老师官方 (Bilibili)",
+   "name": "李永乐老师 Li Yongle",
    "url": "https://space.bilibili.com/9458053",
    "description": "Li Yongle's science and maths lessons on Bilibili.",
    "category": "science",
@@ -10386,10 +10318,44 @@
    "image": "https://i1.hdslb.com/bfs/face/b299b0e20dc4fbbd45e13ba86f330d890c0a0118.jpg"
   },
   {
+   "id": "li-yongle-official",
+   "name": "李永乐老师 Li Yongle",
+   "url": "https://www.youtube.com/@李永乐老师官方",
+   "description": "Teacher Li Yongle's science and maths lessons in fast, clear Mandarin.",
+   "category": "science",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "maths",
+    "physics"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvNxfitQbWkmLuCd44UfrYQ"
+   },
+   "image": "https://yt3.googleusercontent.com/gs_-qVWE__RtVwwbTMgSwORzPEWJngI-VEh4T8LkPu85vRj9SA7uSyhqOlT3RxpjG0jhYYPiTg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
    "id": "guokr",
    "name": "果壳 Guokr",
    "url": "https://www.guokr.com/",
-   "description": "Popular science articles.",
+   "description": "Popular-science articles on health, nature and technology.",
    "category": "science",
    "type": "website",
    "level": [
@@ -10443,9 +10409,9 @@
   },
   {
    "id": "bi-dao-bilibili",
-   "name": "毕导 (Bilibili)",
+   "name": "毕导",
    "url": "https://space.bilibili.com/254463269",
-   "description": "Bi Dao on Bilibili.",
+   "description": "Funny science experiments and explanations from a Tsinghua PhD.",
    "category": "science",
    "type": "bilibili",
    "level": [
@@ -10512,7 +10478,7 @@
    "id": "pansci",
    "name": "泛科學 PanSci",
    "url": "https://pansci.asia/",
-   "description": "Taiwan popular science.",
+   "description": "Taiwanese popular-science articles and videos.",
    "category": "science",
    "type": "website",
    "level": [
@@ -10840,7 +10806,7 @@
    "id": "lifeweek",
    "name": "三联生活周刊 Lifeweek",
    "url": "https://www.lifeweek.com.cn/",
-   "description": "Culture and society weekly.",
+   "description": "Weekly magazine on culture, society and lifestyle in China.",
    "category": "history_culture",
    "type": "website",
    "level": [
@@ -11066,9 +11032,9 @@
   },
   {
    "id": "xiao-yue-han-ke-han-bilibili",
-   "name": "小约翰可汗 (Bilibili)",
+   "name": "小约翰可汗",
    "url": "https://space.bilibili.com/23947287",
-   "description": "Little John Khan on Bilibili.",
+   "description": "Humorous deep-dives into world history and quirky dictators.",
    "category": "history_culture",
    "type": "bilibili",
    "level": [
@@ -11249,7 +11215,7 @@
    "id": "17k-xiao-shuo-wang",
    "name": "17K小说网",
    "url": "https://www.17k.com/",
-   "description": "Web fiction platform.",
+   "description": "Web-fiction platform with a large free and paid catalogue.",
    "category": "novels",
    "type": "website",
    "level": [
@@ -11352,7 +11318,7 @@
    "id": "qimao",
    "name": "七猫免费小说 Qimao",
    "url": "https://www.qimao.com/",
-   "description": "Free web novels.",
+   "description": "Ad-supported app with free web novels across all genres.",
    "category": "novels",
    "type": "website",
    "level": [
@@ -11427,7 +11393,7 @@
    "id": "xiaoxiang",
    "name": "潇湘书院 Xiaoxiang",
    "url": "https://www.xxsy.net/",
-   "description": "Women's web fiction.",
+   "description": "Web-fiction platform focused on romance and historical novels.",
    "category": "novels",
    "type": "website",
    "level": [
@@ -11477,7 +11443,7 @@
    "id": "hongxiu",
    "name": "红袖添香 Hongxiu",
    "url": "https://www.hongxiu.com/",
-   "description": "Women's web fiction.",
+   "description": "Web-fiction platform focused on romance for women readers.",
    "category": "novels",
    "type": "website",
    "level": [
@@ -11502,7 +11468,7 @@
    "id": "zongheng",
    "name": "纵横中文网 Zongheng",
    "url": "https://www.zongheng.com/",
-   "description": "Web fiction platform.",
+   "description": "Web-fiction platform with fantasy, history and urban novels.",
    "category": "novels",
    "type": "website",
    "level": [
@@ -11577,7 +11543,7 @@
    "id": "changpei",
    "name": "长佩文学 Changpei",
    "url": "https://www.gongzicp.com/",
-   "description": "Danmei and romance fiction.",
+   "description": "Web-fiction platform for danmei and romance novels.",
    "category": "novels",
    "type": "website",
    "level": [
@@ -11602,7 +11568,7 @@
    "id": "faloo",
    "name": "飞卢小说网 Faloo",
    "url": "https://b.faloo.com/",
-   "description": "Web fiction platform.",
+   "description": "Web-fiction platform known for fast-paced fan fiction and fantasy.",
    "category": "novels",
    "type": "website",
    "level": [
@@ -11675,7 +11641,7 @@
    "id": "zhonghuadiancang",
    "name": "中华典藏 Zhonghuadiancang",
    "url": "https://www.zhonghuadiancang.com/",
-   "description": "Classic texts collection.",
+   "description": "Searchable collection of classical texts, from philosophy to history.",
    "category": "literature",
    "type": "website",
    "level": [
@@ -11914,7 +11880,7 @@
    "id": "kobo",
    "name": "Kobo 中文電子書",
    "url": "https://www.kobo.com/tw/zh",
-   "description": "Kobo Chinese e-books.",
+   "description": "Kobo's Chinese-language e-book store (traditional characters).",
    "category": "ebooks",
    "type": "website",
    "level": [
@@ -11940,7 +11906,7 @@
    "id": "pubu",
    "name": "Pubu 電子書城",
    "url": "https://www.pubu.com.tw/",
-   "description": "Taiwan e-books and magazines.",
+   "description": "Taiwanese store for e-books, comics and magazines.",
    "category": "ebooks",
    "type": "website",
    "level": [
@@ -11966,7 +11932,7 @@
    "id": "readmoo",
    "name": "Readmoo 讀墨",
    "url": "https://readmoo.com/",
-   "description": "Taiwan e-book store.",
+   "description": "Taiwanese e-book store and reading app with traditional-character titles.",
    "category": "ebooks",
    "type": "website",
    "level": [
@@ -12018,7 +11984,7 @@
    "id": "dangdang",
    "name": "当当云阅读 Dangdang",
    "url": "https://e.dangdang.com/",
-   "description": "Dangdang e-books.",
+   "description": "E-books from Dangdang, one of China's oldest online bookstores.",
    "category": "ebooks",
    "type": "website",
    "level": [
@@ -12071,7 +12037,7 @@
    "id": "ireader",
    "name": "掌阅 iReader",
    "url": "https://www.ireader.com/",
-   "description": "E-book store and reader.",
+   "description": "E-book store and reading app with a large Chinese catalogue.",
    "category": "ebooks",
    "type": "website",
    "level": [
@@ -12469,7 +12435,7 @@
    "id": "lihkg",
    "name": "LIHKG 連登",
    "url": "https://lihkg.com/",
-   "description": "Hong Kong forum (Cantonese).",
+   "description": "Popular Hong Kong forum, written mostly in Cantonese.",
    "category": "social",
    "type": "website",
    "level": [
@@ -12495,7 +12461,7 @@
    "id": "ptt",
    "name": "PTT",
    "url": "https://www.ptt.cc/bbs/index.html",
-   "description": "Taiwan's classic BBS forum.",
+   "description": "Taiwan's classic text-based forum, full of everyday slang.",
    "category": "social",
    "type": "website",
    "level": [
@@ -12575,7 +12541,7 @@
    "id": "zhihu-daily",
    "name": "知乎日报 Zhihu Daily",
    "url": "https://daily.zhihu.com/",
-   "description": "Daily curated Zhihu stories.",
+   "description": "Daily selection of in-depth answers from Zhihu.",
    "category": "social",
    "type": "website",
    "level": [
@@ -12654,7 +12620,7 @@
    "id": "catchplay",
    "name": "CATCHPLAY+",
    "url": "https://www.catchplay.com/",
-   "description": "Taiwan film streaming.",
+   "description": "Taiwanese streaming service for films and series.",
    "category": "video_platform",
    "type": "website",
    "level": [
@@ -12704,32 +12670,6 @@
    ]
   },
   {
-   "id": "line-tv-myvideo",
-   "name": "LINE TV / myVideo",
-   "url": "https://www.myvideo.net.tw/",
-   "description": "Taiwan streaming service.",
-   "category": "video_platform",
-   "type": "website",
-   "level": [
-    "intermediate",
-    "advanced"
-   ],
-   "script": "traditional",
-   "region": "tw",
-   "language": "zh",
-   "pricing": "paid",
-   "tags": [
-    "drama"
-   ],
-   "for_learners": false,
-   "dialect": "mandarin",
-   "platforms": [
-    "web",
-    "ios",
-    "android"
-   ]
-  },
-  {
    "id": "litv",
    "name": "LiTV",
    "url": "https://www.litv.tv/",
@@ -12760,7 +12700,7 @@
    "id": "mytv-super",
    "name": "myTV SUPER",
    "url": "https://www.mytvsuper.com/",
-   "description": "TVB streaming (Cantonese).",
+   "description": "TVB's streaming service for Hong Kong dramas (Cantonese).",
    "category": "video_platform",
    "type": "website",
    "level": [
@@ -12776,6 +12716,32 @@
    ],
    "for_learners": false,
    "dialect": "cantonese",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "line-tv-myvideo",
+   "name": "myVideo",
+   "url": "https://www.myvideo.net.tw/",
+   "description": "Taiwanese streaming service for dramas, films and anime.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "paid",
+   "tags": [
+    "drama"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
    "platforms": [
     "web",
     "ios",
@@ -12866,7 +12832,7 @@
    "id": "youku",
    "name": "优酷 Youku",
    "url": "https://www.youku.com/",
-   "description": "Alibaba's streaming platform.",
+   "description": "Alibaba's streaming platform for dramas, films and documentaries.",
    "category": "video_platform",
    "type": "website",
    "level": [
@@ -12894,7 +12860,7 @@
    "id": "pts-plus",
    "name": "公視+ PTS+",
    "url": "https://www.ptsplus.tv/",
-   "description": "Taiwan Public TV streaming.",
+   "description": "Streaming service of Taiwan's public broadcaster.",
    "category": "video_platform",
    "type": "website",
    "level": [
@@ -12948,7 +12914,7 @@
    "id": "cctv-video",
    "name": "央视频 CCTV Video",
    "url": "https://www.yangshipin.cn/",
-   "description": "CCTV's live TV and video app.",
+   "description": "CCTV's app for live TV channels and on-demand programmes.",
    "category": "video_platform",
    "type": "website",
    "level": [
@@ -13082,7 +13048,7 @@
    "id": "douyin",
    "name": "抖音 Douyin",
    "url": "https://www.douyin.com/",
-   "description": "China's TikTok: short videos.",
+   "description": "China's version of TikTok: short videos on every topic.",
    "category": "video_platform",
    "type": "website",
    "level": [
@@ -13135,7 +13101,7 @@
    "id": "tencent-video",
    "name": "腾讯视频 Tencent Video",
    "url": "https://v.qq.com/",
-   "description": "Tencent's streaming platform.",
+   "description": "Tencent's streaming platform for dramas, variety shows and films.",
    "category": "video_platform",
    "type": "website",
    "level": [
@@ -13191,7 +13157,7 @@
    "id": "xigua-video",
    "name": "西瓜视频 Xigua Video",
    "url": "https://www.ixigua.com/",
-   "description": "Medium-length videos.",
+   "description": "ByteDance video platform for longer creator videos.",
    "category": "video_platform",
    "type": "website",
    "level": [
@@ -13217,7 +13183,7 @@
    "id": "cctv-drama",
    "name": "CCTV电视剧 CCTV Drama",
    "url": "https://www.youtube.com/@CCTVDrama",
-   "description": "CCTV-8 drama channel.",
+   "description": "CCTV-8's official channel with full mainland TV dramas.",
    "category": "drama_film",
    "type": "youtube",
    "level": [
@@ -13353,7 +13319,7 @@
    "id": "mangotv-mystery",
    "name": "MangoTV Mystery 芒果TV推理宇宙",
    "url": "https://www.youtube.com/channel/UCKm7iuaBY41nzqIk6J8eX0g",
-   "description": "Mystery and suspense dramas.",
+   "description": "Mystery, crime and suspense dramas from Mango TV.",
    "category": "drama_film",
    "type": "youtube",
    "level": [
@@ -13388,7 +13354,7 @@
    "id": "mediacorp-drama",
    "name": "Mediacorp Drama",
    "url": "https://www.youtube.com/@MediacorpDrama",
-   "description": "Singapore Chinese dramas.",
+   "description": "Full Singaporean Chinese dramas from Mediacorp.",
    "category": "drama_film",
    "type": "youtube",
    "level": [
@@ -13583,7 +13549,7 @@
    "id": "youku-chinese-drama",
    "name": "优酷华语剧场 Youku Chinese Drama",
    "url": "https://www.youtube.com/@youkuhuayu",
-   "description": "Youku Chinese drama theatre.",
+   "description": "Full Chinese dramas from Youku, many with subtitles.",
    "category": "drama_film",
    "type": "youtube",
    "level": [
@@ -13617,7 +13583,7 @@
    "id": "pts-drama",
    "name": "公視戲劇 PTS Drama",
    "url": "https://www.youtube.com/@ptsdrama",
-   "description": "Taiwan public TV dramas.",
+   "description": "Full dramas from Taiwan's public broadcaster, known for high-quality series.",
    "category": "drama_film",
    "type": "youtube",
    "level": [
@@ -13651,7 +13617,7 @@
    "id": "chinese-old-movies",
    "name": "华语老电影 Chinese Old Movies",
    "url": "https://www.youtube.com/@Chineseoldmovie",
-   "description": "Older Chinese films.",
+   "description": "Older mainland Chinese films, uploaded in full.",
    "category": "drama_film",
    "type": "youtube",
    "level": [
@@ -13755,7 +13721,7 @@
    "id": "huanyu-entertainment",
    "name": "欢娱影视 Huanyu Entertainment",
    "url": "https://www.youtube.com/@chinahuanyuent.officialchannel",
-   "description": "Costume and palace dramas.",
+   "description": "Studio behind popular costume and palace dramas such as Story of Yanxi Palace.",
    "category": "drama_film",
    "type": "youtube",
    "level": [
@@ -13824,7 +13790,7 @@
    "id": "iqiyi-movie-theater",
    "name": "爱奇艺大电影 iQIYI Movie Theater",
    "url": "https://www.youtube.com/@iQIYIMOVIETHEATER",
-   "description": "Full-length Chinese films.",
+   "description": "Full-length Chinese films uploaded officially by iQIYI.",
    "category": "drama_film",
    "type": "youtube",
    "level": [
@@ -13858,7 +13824,7 @@
    "id": "dian-ying-zui-top",
    "name": "电影最TOP",
    "url": "https://space.bilibili.com/17819768",
-   "description": "Film reviews and summaries.",
+   "description": "Film reviews, recommendations and plot summaries.",
    "category": "drama_film",
    "type": "bilibili",
    "level": [
@@ -14321,7 +14287,7 @@
    "id": "cts-show",
    "name": "華視綜藝 CTS Show",
    "url": "https://www.youtube.com/@CTSSHOW",
-   "description": "Taiwan variety shows.",
+   "description": "Variety and entertainment shows from Taiwan's CTS.",
    "category": "variety",
    "type": "youtube",
    "level": [
@@ -14451,9 +14417,9 @@
   },
   {
    "id": "papi-jiang-bilibili",
-   "name": "papi酱 (Bilibili)",
+   "name": "papi酱",
    "url": "https://space.bilibili.com/1532165",
-   "description": "papi酱 on Bilibili.",
+   "description": "Rapid-fire comedy sketches about everyday life.",
    "category": "comedy",
    "type": "bilibili",
    "level": [
@@ -14653,7 +14619,7 @@
    "id": "de-yun-she-tv",
    "name": "德云社TV",
    "url": "https://www.youtube.com/@dys888",
-   "description": "Deyunshe performances.",
+   "description": "Full xiangsheng (crosstalk) performances from the Deyunshe troupe.",
    "category": "comedy",
    "type": "youtube",
    "level": [
@@ -14719,7 +14685,7 @@
    "id": "zhong-liang-ji-crowd",
    "name": "眾量級CROWD",
    "url": "https://www.youtube.com/@crowd1111",
-   "description": "Taiwanese comedy skits.",
+   "description": "Taiwanese comedy group known for skits, parodies and challenges.",
    "category": "comedy",
    "type": "youtube",
    "level": [
@@ -15061,7 +15027,7 @@
   },
   {
    "id": "ren-sheng-yi-chuan",
-   "name": "人生一串 (Bilibili)",
+   "name": "人生一串",
    "url": "https://www.bilibili.com/bangumi/media/md134912/",
    "description": "Bilibili documentary on Chinese street barbecue culture.",
    "category": "documentary",
@@ -15109,7 +15075,7 @@
   },
   {
    "id": "wo-zai-gu-gong-xiu-wen-wu",
-   "name": "我在故宫修文物 (Bilibili)",
+   "name": "我在故宫修文物",
    "url": "https://www.bilibili.com/bangumi/media/md28228731/",
    "description": "Restoring relics inside the Forbidden City.",
    "category": "documentary",
@@ -15201,7 +15167,7 @@
    "id": "yao-ren-mao",
    "name": "=咬人猫=",
    "url": "https://space.bilibili.com/116683",
-   "description": "Dance and lifestyle creator.",
+   "description": "Dance covers and lifestyle videos.",
    "category": "vlog",
    "type": "bilibili",
    "level": [
@@ -15644,7 +15610,7 @@
    "id": "shuai-soserious",
    "name": "帅soserious",
    "url": "https://space.bilibili.com/66391032",
-   "description": "Fitness and lifestyle vlogs.",
+   "description": "Fitness, training and lifestyle vlogs.",
    "category": "vlog",
    "type": "bilibili",
    "level": [
@@ -15849,7 +15815,7 @@
    "id": "a-di-ri-chang",
    "name": "阿滴日常",
    "url": "https://www.youtube.com/@raydudaily",
-   "description": "Ray Du's daily vlogs.",
+   "description": "Daily-life vlogs from Taiwanese creator Ray Du.",
    "category": "vlog",
    "type": "youtube",
    "level": [
@@ -16078,9 +16044,9 @@
   },
   {
    "id": "hua-nong-xiong-di-bilibili",
-   "name": "华农兄弟 (Bilibili)",
+   "name": "华农兄弟",
    "url": "https://space.bilibili.com/250858633",
-   "description": "Huanong Brothers on Bilibili.",
+   "description": "Farming brothers and their bamboo rats, famously deadpan.",
    "category": "food",
    "type": "bilibili",
    "level": [
@@ -16383,9 +16349,9 @@
   },
   {
    "id": "daoyueshe-bilibili",
-   "name": "盗月社食遇记 (Bilibili)",
+   "name": "盗月社食遇记",
    "url": "https://space.bilibili.com/99157282",
-   "description": "DaoYueShe on Bilibili.",
+   "description": "Food-travel hosts explore restaurants and markets across China.",
    "category": "food",
    "type": "bilibili",
    "level": [
@@ -16452,9 +16418,9 @@
   },
   {
    "id": "mianyang-liaoli-bilibili",
-   "name": "绵羊料理 (Bilibili)",
+   "name": "绵羊料理",
    "url": "https://space.bilibili.com/18202105",
-   "description": "MianYang LiaoLi on Bilibili.",
+   "description": "Ambitious home recreations of famous dishes.",
    "category": "food",
    "type": "bilibili",
    "level": [
@@ -16842,7 +16808,7 @@
    "id": "qunar",
    "name": "去哪儿 Qunar",
    "url": "https://www.qunar.com/",
-   "description": "Travel search and booking.",
+   "description": "Flight and hotel search with destination guides.",
    "category": "travel",
    "type": "website",
    "level": [
@@ -17389,7 +17355,7 @@
   },
   {
    "id": "yao-chinese-folktales",
-   "name": "中国奇谭 Yao-Chinese Folktales (Bilibili)",
+   "name": "中国奇谭 Yao-Chinese Folktales",
    "url": "https://www.bilibili.com/bangumi/media/md28339735/",
    "description": "Anthology of folktale-inspired shorts by Shanghai Animation Film Studio.",
    "category": "animation",
@@ -17447,7 +17413,7 @@
   },
   {
    "id": "genshin-impact-bilibili",
-   "name": "原神 Genshin Impact (Bilibili)",
+   "name": "原神 Genshin Impact",
    "url": "https://space.bilibili.com/401742377",
    "description": "Official Genshin Impact Chinese account: animated shorts and character trailers.",
    "category": "animation",
@@ -17753,7 +17719,7 @@
    "id": "moonbug-kids",
    "name": "Moonbug Kids 中文",
    "url": "https://www.youtube.com/@MoonbugKidsMandarin",
-   "description": "Kids' cartoons in Mandarin.",
+   "description": "Popular kids' cartoons dubbed in Mandarin.",
    "category": "kids",
    "type": "youtube",
    "level": [
@@ -18102,7 +18068,7 @@
    "id": "paw-patrol",
    "name": "汪汪隊立大功 PAW Patrol (Mandarin)",
    "url": "https://www.youtube.com/@PAWPatrolMandarin",
-   "description": "PAW Patrol in Mandarin.",
+   "description": "Episodes of PAW Patrol dubbed in Mandarin.",
    "category": "kids",
    "type": "youtube",
    "level": [
@@ -18367,7 +18333,7 @@
    "id": "edmunddzhang",
    "name": "EdmundDZhang",
    "url": "https://space.bilibili.com/433351",
-   "description": "Gaming and esports streamer.",
+   "description": "Esports and gaming streams with energetic commentary.",
    "category": "gaming",
    "type": "bilibili",
    "level": [
@@ -18435,7 +18401,7 @@
    "id": "lexburner",
    "name": "LexBurner",
    "url": "https://space.bilibili.com/777536",
-   "description": "Anime and game commentary.",
+   "description": "Commentary on anime, games and internet culture.",
    "category": "gaming",
    "type": "bilibili",
    "level": [
@@ -18470,7 +18436,7 @@
    "id": "nga",
    "name": "NGA 玩家社区",
    "url": "https://bbs.nga.cn/",
-   "description": "Gaming forums.",
+   "description": "Large gaming forum with game-specific boards and guides.",
    "category": "gaming",
    "type": "website",
    "level": [
@@ -18494,7 +18460,7 @@
    "id": "ni-de-ying-yue-yue",
    "name": "你的影月月",
    "url": "https://space.bilibili.com/431073645",
-   "description": "Popular gaming creator.",
+   "description": "Playthroughs of popular and indie games with lively commentary.",
    "category": "gaming",
    "type": "bilibili",
    "level": [
@@ -18585,9 +18551,9 @@
   },
   {
    "id": "ao-chang-zhang-bilibili",
-   "name": "敖厂长 (Bilibili)",
+   "name": "敖厂长",
    "url": "https://space.bilibili.com/122879",
-   "description": "Ao Changzhang on Bilibili.",
+   "description": "Retro gaming history and reviews of notoriously bad games.",
    "category": "gaming",
    "type": "bilibili",
    "level": [
@@ -18645,7 +18611,7 @@
    "id": "gamersky",
    "name": "游民星空 Gamersky",
    "url": "https://www.gamersky.com/",
-   "description": "Gaming news and guides.",
+   "description": "Gaming news, reviews and walkthroughs.",
    "category": "gaming",
    "type": "website",
    "level": [
@@ -18738,7 +18704,7 @@
    "id": "chuapp",
    "name": "触乐 Chuapp",
    "url": "https://www.chuapp.com/",
-   "description": "Thoughtful gaming journalism.",
+   "description": "Thoughtful long-form journalism about games and the people who make them.",
    "category": "gaming",
    "type": "website",
    "level": [
@@ -18794,7 +18760,7 @@
   },
   {
    "id": "xiao-yao-san-ren",
-   "name": "逍遥散人 (YouTube)",
+   "name": "逍遥散人",
    "url": "https://www.youtube.com/@sanrenGAMES",
    "description": "Xiaoyao Sanren's playthroughs on YouTube.",
    "category": "gaming",
@@ -18830,7 +18796,7 @@
    "id": "ettoday-website",
    "name": "ETtoday 運動雲",
    "url": "https://sports.ettoday.net/",
-   "description": "Taiwan sports news.",
+   "description": "Sports news from Taiwan's ETtoday.",
    "category": "sports",
    "type": "website",
    "level": [
@@ -18858,7 +18824,7 @@
    "id": "keep",
    "name": "Keep",
    "url": "https://www.gotokeep.com/",
-   "description": "Popular Chinese fitness app.",
+   "description": "Chinese fitness app with guided workout videos.",
    "category": "sports",
    "type": "website",
    "level": [
@@ -18951,7 +18917,7 @@
    "id": "cctv-sports",
    "name": "央视体育 CCTV Sports",
    "url": "https://sports.cctv.com/",
-   "description": "CCTV-5 sports news and video.",
+   "description": "CCTV-5 sports news, highlights and video.",
    "category": "sports",
    "type": "website",
    "level": [
@@ -18975,7 +18941,7 @@
    "id": "dongqiudi",
    "name": "懂球帝 Dongqiudi",
    "url": "https://www.dongqiudi.com/",
-   "description": "Football news and community.",
+   "description": "Football news, scores and a lively fan community.",
    "category": "sports",
    "type": "website",
    "level": [
@@ -18999,7 +18965,7 @@
    "id": "sina-sports",
    "name": "新浪体育 Sina Sports",
    "url": "https://sports.sina.com.cn/",
-   "description": "Sports news.",
+   "description": "Sports news, scores and commentary from Sina.",
    "category": "sports",
    "type": "website",
    "level": [
@@ -19047,7 +19013,7 @@
    "id": "tencent-sports",
    "name": "腾讯体育 Tencent Sports",
    "url": "https://sports.qq.com/",
-   "description": "Sports news and streams.",
+   "description": "Sports news, highlights and live streams from Tencent.",
    "category": "sports",
    "type": "website",
    "level": [
@@ -19147,7 +19113,7 @@
    "id": "9m88",
    "name": "9m88",
    "url": "https://www.youtube.com/@9m88.",
-   "description": "Taiwanese jazz-soul singer.",
+   "description": "Taiwanese jazz and soul singer.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -19181,7 +19147,7 @@
    "id": "amei",
    "name": "aMEI 張惠妹",
    "url": "https://www.youtube.com/@amei",
-   "description": "Official channel of A-Mei.",
+   "description": "Official channel of A-Mei, one of Mandopop's biggest stars.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -19250,7 +19216,7 @@
    "id": "gem",
    "name": "GEM 鄧紫棋",
    "url": "https://www.youtube.com/@gem0816",
-   "description": "Official channel of G.E.M.",
+   "description": "Official channel of G.E.M., the Hong Kong-born singer-songwriter who sings mostly in Mandarin.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -19534,7 +19500,7 @@
    "id": "zjstv-music-channel",
    "name": "ZJSTV Music Channel",
    "url": "https://www.youtube.com/@ZJSTV-Music",
-   "description": "Music from Zhejiang TV shows.",
+   "description": "Live performances from Zhejiang TV's music shows.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -19568,7 +19534,7 @@
    "id": "accusefive",
    "name": "告五人 Accusefive",
    "url": "https://www.youtube.com/@Accusefive",
-   "description": "Taiwanese indie-pop band.",
+   "description": "Taiwanese indie-pop band with catchy, lyric-driven songs.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -19670,7 +19636,7 @@
    "id": "new-pants",
    "name": "新褲子 New Pants",
    "url": "https://www.youtube.com/@NewPants",
-   "description": "Beijing new-wave rock band.",
+   "description": "Beijing new-wave band with retro synth-pop songs.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -19903,7 +19869,7 @@
    "id": "no-party-for-cao-dong",
    "name": "草東沒有派對 No Party For Cao Dong",
    "url": "https://www.youtube.com/@nopartyforcaodong",
-   "description": "Taiwanese indie-rock band.",
+   "description": "Acclaimed Taiwanese indie-rock band.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -20006,7 +19972,7 @@
    "id": "sunset-rollercoaster",
    "name": "落日飛車 Sunset Rollercoaster",
    "url": "https://www.youtube.com/@SunsetRollercoaster",
-   "description": "Taiwanese indie band.",
+   "description": "Taiwanese indie band with mellow, jazzy soft-rock songs.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -20074,7 +20040,7 @@
    "id": "kugou",
    "name": "酷狗音乐 Kugou",
    "url": "https://www.kugou.com/",
-   "description": "Music streaming and karaoke.",
+   "description": "Music streaming and karaoke app with synced lyrics.",
    "category": "music",
    "type": "website",
    "level": [
@@ -20100,7 +20066,7 @@
    "id": "weibird",
    "name": "韋禮安 WeiBird",
    "url": "https://www.youtube.com/@weibird_official",
-   "description": "Official channel of WeiBird.",
+   "description": "Official channel of Taiwanese singer-songwriter WeiBird.",
    "category": "music",
    "type": "youtube",
    "level": [
@@ -21359,7 +21325,7 @@
    "id": "firstory",
    "name": "Firstory",
    "url": "https://firstory.me/",
-   "description": "Taiwanese podcast platform.",
+   "description": "Taiwanese podcast platform for discovering Mandarin shows.",
    "category": "radio_audio",
    "type": "website",
    "level": [

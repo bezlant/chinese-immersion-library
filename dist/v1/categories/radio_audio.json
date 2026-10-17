@@ -8,14 +8,14 @@
   "web_icon": "radio",
   "description": "Audio platforms, live radio and audiobooks."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 10,
  "resources": [
   {
    "id": "firstory",
    "name": "Firstory",
    "url": "https://firstory.me/",
-   "description": "Taiwanese podcast platform.",
+   "description": "Taiwanese podcast platform for discovering Mandarin shows.",
    "category": "radio_audio",
    "type": "website",
    "level": [

@@ -8,7 +8,7 @@
   "web_icon": "sparkles",
   "description": "TV stations, variety, singing and talk shows."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 11,
  "resources": [
   {
@@ -313,7 +313,7 @@
    "id": "cts-show",
    "name": "華視綜藝 CTS Show",
    "url": "https://www.youtube.com/@CTSSHOW",
-   "description": "Taiwan variety shows.",
+   "description": "Variety and entertainment shows from Taiwan's CTS.",
    "category": "variety",
    "type": "youtube",
    "level": [

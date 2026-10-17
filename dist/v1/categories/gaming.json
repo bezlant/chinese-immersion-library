@@ -8,7 +8,7 @@
   "web_icon": "gamepad-2",
   "description": "Gaming creators, news and communities."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 16,
  "resources": [
   {
@@ -49,7 +49,7 @@
    "id": "edmunddzhang",
    "name": "EdmundDZhang",
    "url": "https://space.bilibili.com/433351",
-   "description": "Gaming and esports streamer.",
+   "description": "Esports and gaming streams with energetic commentary.",
    "category": "gaming",
    "type": "bilibili",
    "level": [
@@ -117,7 +117,7 @@
    "id": "lexburner",
    "name": "LexBurner",
    "url": "https://space.bilibili.com/777536",
-   "description": "Anime and game commentary.",
+   "description": "Commentary on anime, games and internet culture.",
    "category": "gaming",
    "type": "bilibili",
    "level": [
@@ -152,7 +152,7 @@
    "id": "nga",
    "name": "NGA 玩家社区",
    "url": "https://bbs.nga.cn/",
-   "description": "Gaming forums.",
+   "description": "Large gaming forum with game-specific boards and guides.",
    "category": "gaming",
    "type": "website",
    "level": [
@@ -176,7 +176,7 @@
    "id": "ni-de-ying-yue-yue",
    "name": "你的影月月",
    "url": "https://space.bilibili.com/431073645",
-   "description": "Popular gaming creator.",
+   "description": "Playthroughs of popular and indie games with lively commentary.",
    "category": "gaming",
    "type": "bilibili",
    "level": [
@@ -267,9 +267,9 @@
   },
   {
    "id": "ao-chang-zhang-bilibili",
-   "name": "敖厂长 (Bilibili)",
+   "name": "敖厂长",
    "url": "https://space.bilibili.com/122879",
-   "description": "Ao Changzhang on Bilibili.",
+   "description": "Retro gaming history and reviews of notoriously bad games.",
    "category": "gaming",
    "type": "bilibili",
    "level": [
@@ -327,7 +327,7 @@
    "id": "gamersky",
    "name": "游民星空 Gamersky",
    "url": "https://www.gamersky.com/",
-   "description": "Gaming news and guides.",
+   "description": "Gaming news, reviews and walkthroughs.",
    "category": "gaming",
    "type": "website",
    "level": [
@@ -420,7 +420,7 @@
    "id": "chuapp",
    "name": "触乐 Chuapp",
    "url": "https://www.chuapp.com/",
-   "description": "Thoughtful gaming journalism.",
+   "description": "Thoughtful long-form journalism about games and the people who make them.",
    "category": "gaming",
    "type": "website",
    "level": [
@@ -476,7 +476,7 @@
   },
   {
    "id": "xiao-yao-san-ren",
-   "name": "逍遥散人 (YouTube)",
+   "name": "逍遥散人",
    "url": "https://www.youtube.com/@sanrenGAMES",
    "description": "Xiaoyao Sanren's playthroughs on YouTube.",
    "category": "gaming",

@@ -8,8 +8,8 @@
   "web_icon": "circle-play",
   "description": "YouTube channels made for learners: comprehensible input, lessons, grammar."
  },
- "data_version": "70936f4fc0fc",
- "count": 59,
+ "data_version": "9785f721564e",
+ "count": 58,
  "resources": [
   {
    "id": "acquire-mandarin",
@@ -2010,40 +2010,6 @@
     "youtube_channel_id": "UCSJyGe2H0C9q6QH0-hH04zw"
    },
    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n3O6uF9azGsb-YqOxSuJXyPIL7ceZLlyJXuobJ3qeZB5um=s900-c-k-c0x00ffffff-no-rj"
-  },
-  {
-   "id": "li-yongle",
-   "name": "李永乐老师 Li Yongle",
-   "url": "https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw",
-   "description": "Free science and maths lessons in fast, clear Mandarin with whiteboard explanations.",
-   "category": "learn_video",
-   "type": "youtube",
-   "level": [
-    "advanced"
-   ],
-   "script": "simplified",
-   "region": "cn",
-   "language": "zh",
-   "pricing": "free",
-   "tags": [
-    "maths",
-    "science"
-   ],
-   "for_learners": false,
-   "dialect": "mandarin",
-   "platforms": [
-    "web",
-    "ios",
-    "android"
-   ],
-   "feed": {
-    "format": "youtube",
-    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSs4A6HYKmHA2MG_0z-F0xw"
-   },
-   "ids": {
-    "youtube_channel_id": "UCSs4A6HYKmHA2MG_0z-F0xw"
-   },
-   "image": "https://yt3.googleusercontent.com/PKf7sPKOn9HXfTvM5cuUwDqV_nX3ImK9uIIOzjUDLnF8mHolj7lROmQOBvF6NKhdEZBZ33HLlA=s900-c-k-c0x00ffffff-no-rj"
   }
  ]
 }

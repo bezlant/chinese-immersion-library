@@ -8,7 +8,7 @@
   "web_icon": "cpu",
   "description": "Tech news, reviews and developer communities."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 29,
  "resources": [
   {
@@ -38,7 +38,7 @@
    "id": "cnbeta",
    "name": "cnBeta",
    "url": "https://www.cnbeta.com.tw/",
-   "description": "Tech news aggregator.",
+   "description": "Tech news site with an active comment section.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -84,7 +84,7 @@
    "id": "inside",
    "name": "INSIDE 硬塞的",
    "url": "https://www.inside.com.tw/",
-   "description": "Taiwan tech and startup news.",
+   "description": "Taiwanese tech, internet and startup news.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -108,7 +108,7 @@
    "id": "ithome",
    "name": "IT之家 ITHome",
    "url": "https://www.ithome.com/",
-   "description": "Daily tech news.",
+   "description": "Fast daily tech and gadget news.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -202,7 +202,7 @@
    "id": "techbang",
    "name": "T客邦 TechBang",
    "url": "https://www.techbang.com/",
-   "description": "Taiwan tech news and reviews.",
+   "description": "Taiwanese tech news, reviews and how-tos.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -319,7 +319,7 @@
    "id": "cha-ping-jun",
    "name": "差评君",
    "url": "https://www.youtube.com/@xpinman",
-   "description": "Tech news and commentary.",
+   "description": "Tech news and commentary with a humorous edge.",
    "category": "tech",
    "type": "youtube",
    "level": [
@@ -350,9 +350,9 @@
   },
   {
    "id": "mediastorm-bilibili",
-   "name": "影视飓风 (Bilibili)",
+   "name": "影视飓风",
    "url": "https://space.bilibili.com/946974",
-   "description": "MediaStorm on Bilibili.",
+   "description": "Cinematography, cameras and tech explorations.",
    "category": "tech",
    "type": "bilibili",
    "level": [
@@ -489,7 +489,7 @@
    "id": "geekpark",
    "name": "极客公园 GeekPark",
    "url": "https://www.geekpark.net/",
-   "description": "Tech innovation news.",
+   "description": "Tech innovation news, interviews and conference talks.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -544,9 +544,9 @@
   },
   {
    "id": "geekerwan-bilibili",
-   "name": "极客湾 Geekerwan (Bilibili)",
+   "name": "极客湾 Geekerwan",
    "url": "https://space.bilibili.com/25876945",
-   "description": "Geekerwan on Bilibili.",
+   "description": "In-depth chip, phone and PC hardware reviews.",
    "category": "tech",
    "type": "bilibili",
    "level": [
@@ -612,7 +612,7 @@
    "id": "ifanr",
    "name": "爱范儿 ifanr",
    "url": "https://www.ifanr.com/",
-   "description": "Consumer tech and lifestyle.",
+   "description": "Consumer tech, apps and product design news.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -639,7 +639,7 @@
    "id": "ke-ji-mei-xue",
    "name": "科技美学",
    "url": "https://www.youtube.com/@KJMX",
-   "description": "Phone reviews and tech news.",
+   "description": "Phone reviews, comparisons and tech news.",
    "category": "tech",
    "type": "youtube",
    "level": [
@@ -670,9 +670,9 @@
   },
   {
    "id": "he-tong-xue-bilibili",
-   "name": "老师好我叫何同学 (Bilibili)",
+   "name": "老师好我叫何同学",
    "url": "https://space.bilibili.com/163637592",
-   "description": "He Tongxue's Bilibili channel.",
+   "description": "Creative, beautifully made tech videos.",
    "category": "tech",
    "type": "bilibili",
    "level": [
@@ -738,7 +738,7 @@
    "id": "huxiu",
    "name": "虎嗅 Huxiu",
    "url": "https://www.huxiu.com/",
-   "description": "Tech and business commentary.",
+   "description": "Tech and business commentary and long reads.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -761,7 +761,7 @@
    "id": "qbitai",
    "name": "量子位 QbitAI",
    "url": "https://www.qbitai.com/",
-   "description": "AI news and analysis.",
+   "description": "AI research and industry news.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -788,7 +788,7 @@
    "id": "tmtpost",
    "name": "钛媒体 TMTPost",
    "url": "https://www.tmtpost.com/",
-   "description": "Tech and finance media.",
+   "description": "Tech, media and finance analysis.",
    "category": "tech",
    "type": "website",
    "level": [
@@ -811,7 +811,7 @@
    "id": "dian-nao-wang-a-da",
    "name": "電腦王阿達",
    "url": "https://www.kocpc.com.tw/",
-   "description": "Taiwan gadgets and tech tips.",
+   "description": "Taiwanese gadget news, software tips and reviews.",
    "category": "tech",
    "type": "website",
    "level": [

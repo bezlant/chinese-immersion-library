@@ -286,7 +286,7 @@
     "id": "the-beijinger",
     "name": "The Beijinger",
     "url": "https://www.thebeijinger.com/",
-    "description": "Expat guide to Beijing life.",
+    "description": "English guide to living in Beijing: food, events and city news.",
     "category": "blogs_en",
     "type": "website",
     "tags": [
@@ -312,7 +312,7 @@
     "id": "thats-shanghai",
     "name": "That's Shanghai",
     "url": "https://www.thatsmags.com/shanghai",
-    "description": "Expat guide to Shanghai life.",
+    "description": "English guide to living in Shanghai: food, culture and events.",
     "category": "blogs_en",
     "type": "website",
     "tags": [
@@ -338,7 +338,7 @@
     "id": "taiwan-news",
     "name": "Taiwan News",
     "url": "https://www.taiwannews.com.tw/",
-    "description": "English news from Taiwan.",
+    "description": "English-language news from Taiwan, useful for context on local stories.",
     "category": "blogs_en",
     "type": "website",
     "tags": [

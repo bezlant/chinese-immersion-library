@@ -1,8 +1,8 @@
 {
  "api_version": "v1",
  "schema_version": 1,
- "data_version": "70936f4fc0fc",
- "count": 723,
+ "data_version": "9785f721564e",
+ "count": 722,
  "endpoints": {
   "all": "all.json",
   "feeds": "feeds.json",
@@ -17,7 +17,7 @@
    "icon": "play.rectangle.fill",
    "web_icon": "circle-play",
    "description": "YouTube channels made for learners: comprehensible input, lessons, grammar.",
-   "count": 59,
+   "count": 58,
    "path": "categories/learn_video.json"
   },
   {
@@ -616,7 +616,6 @@
    "satire",
    "scenery",
    "school",
-   "science",
    "sentences",
    "shanghai",
    "short-video",

@@ -8,12 +8,12 @@
   "web_icon": "newspaper",
   "description": "Chinese-language news from mainland China, Taiwan, Hong Kong, Singapore, Malaysia and international media."
  },
- "data_version": "70936f4fc0fc",
+ "data_version": "9785f721564e",
  "count": 79,
  "resources": [
   {
    "id": "8world-youtube",
-   "name": "8world (YouTube)",
+   "name": "8world",
    "url": "https://www.youtube.com/@8worldSG",
    "description": "Mediacorp Chinese news and features.",
    "category": "news",
@@ -120,7 +120,7 @@
   },
   {
    "id": "bbc-news-youtube",
-   "name": "BBC News 中文 (YouTube)",
+   "name": "BBC News 中文",
    "url": "https://www.youtube.com/@bbcnewschinese",
    "description": "BBC Chinese video reports and explainers.",
    "category": "news",
@@ -221,9 +221,9 @@
   },
   {
    "id": "dw-chinese-youtube",
-   "name": "DW 中文 (YouTube)",
+   "name": "DW 中文",
    "url": "https://www.youtube.com/@dwchinese",
-   "description": "Deutsche Welle Chinese video.",
+   "description": "Deutsche Welle's Chinese video reports on Europe and the world.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -256,7 +256,7 @@
    "id": "ettoday",
    "name": "ETtoday 新聞雲",
    "url": "https://www.ettoday.net/",
-   "description": "Taiwan online news.",
+   "description": "Popular Taiwanese online news site.",
    "category": "news",
    "type": "website",
    "level": [
@@ -324,9 +324,9 @@
   },
   {
    "id": "rfi-youtube",
-   "name": "RFI 华语 (YouTube)",
+   "name": "RFI 华语",
    "url": "https://www.youtube.com/@RFI_Cn",
-   "description": "RFI Chinese video.",
+   "description": "Radio France Internationale's Chinese-language video reports.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -450,7 +450,7 @@
    "id": "tvbs-news",
    "name": "TVBS NEWS",
    "url": "https://www.youtube.com/@TVBSNEWS01",
-   "description": "Taiwan TVBS news channel.",
+   "description": "Major Taiwanese TV news channel with live streams.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -484,7 +484,7 @@
    "id": "setn",
    "name": "三立新聞 SETN",
    "url": "https://www.youtube.com/@setn",
-   "description": "Taiwan SET News.",
+   "description": "News channel of Taiwan's SET broadcaster, with live streams.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -542,7 +542,7 @@
    "id": "china-press",
    "name": "中国报 China Press",
    "url": "https://www.chinapress.com.my/",
-   "description": "Malaysian Chinese daily.",
+   "description": "Malaysian Chinese-language daily with local and regional news.",
    "category": "news",
    "type": "website",
    "level": [
@@ -612,7 +612,7 @@
    "id": "china-daily",
    "name": "中国日报中文网 China Daily",
    "url": "https://cn.chinadaily.com.cn/",
-   "description": "China Daily Chinese edition.",
+   "description": "Chinese-language edition of China Daily.",
    "category": "news",
    "type": "website",
    "level": [
@@ -658,7 +658,7 @@
    "id": "cna",
    "name": "中央社 CNA",
    "url": "https://www.cna.com.tw/",
-   "description": "Taiwan's Central News Agency.",
+   "description": "Taiwan's national news agency, with clear, formal news writing.",
    "category": "news",
    "type": "website",
    "level": [
@@ -682,7 +682,7 @@
    "id": "china-times",
    "name": "中時新聞網 China Times",
    "url": "https://www.chinatimes.com/",
-   "description": "Taiwan China Times news.",
+   "description": "News site of the China Times, a major Taiwanese newspaper.",
    "category": "news",
    "type": "website",
    "level": [
@@ -774,9 +774,9 @@
   },
   {
    "id": "pnn-youtube",
-   "name": "公視新聞網 PNN (YouTube)",
+   "name": "公視新聞網 PNN",
    "url": "https://www.youtube.com/@PNNPTS",
-   "description": "Taiwan public TV news video.",
+   "description": "News reports and documentaries from Taiwan's public broadcaster.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -913,7 +913,7 @@
    "id": "ttv-news",
    "name": "台視新聞 TTV News",
    "url": "https://www.youtube.com/@TTV_NEWS",
-   "description": "Taiwan Television news.",
+   "description": "News channel of Taiwan Television, the island's oldest broadcaster.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -973,7 +973,7 @@
   },
   {
    "id": "the-reporter-youtube",
-   "name": "報導者 The Reporter (YouTube)",
+   "name": "報導者 The Reporter",
    "url": "https://www.youtube.com/@TwreporterOrg",
    "description": "Documentary-style investigative videos.",
    "category": "news",
@@ -1031,9 +1031,9 @@
   },
   {
    "id": "cctv-news-bilibili",
-   "name": "央视新闻 (Bilibili)",
+   "name": "央视新闻",
    "url": "https://space.bilibili.com/456664753",
-   "description": "CCTV News official Bilibili account.",
+   "description": "Official CCTV News account with news clips and live coverage.",
    "category": "news",
    "type": "bilibili",
    "level": [
@@ -1113,7 +1113,7 @@
    "id": "sohu-news",
    "name": "搜狐新闻 Sohu News",
    "url": "https://news.sohu.com/",
-   "description": "Sohu portal news.",
+   "description": "Sohu's news portal with national and international stories.",
    "category": "news",
    "type": "website",
    "level": [
@@ -1216,7 +1216,7 @@
    "id": "sina-news",
    "name": "新浪新闻 Sina News",
    "url": "https://news.sina.com.cn/",
-   "description": "Sina portal news.",
+   "description": "News portal from Sina covering China and the world.",
    "category": "news",
    "type": "website",
    "level": [
@@ -1339,7 +1339,7 @@
    "id": "ebc-news",
    "name": "東森新聞 EBC News",
    "url": "https://www.youtube.com/@newsebc",
-   "description": "Taiwan EBC news.",
+   "description": "News channel of Taiwan's Eastern Broadcasting Company.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -1373,7 +1373,7 @@
    "id": "ftv-news",
    "name": "民視新聞 FTV News",
    "url": "https://www.youtube.com/@FTV_News",
-   "description": "Formosa TV News.",
+   "description": "News channel of Formosa TV, a major Taiwanese broadcaster.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -1477,7 +1477,7 @@
    "id": "jiemian",
    "name": "界面新闻 Jiemian",
    "url": "https://www.jiemian.com/",
-   "description": "Business and lifestyle news.",
+   "description": "Shanghai-based news on business, culture and lifestyle.",
    "category": "news",
    "type": "website",
    "level": [
@@ -1527,7 +1527,7 @@
    "id": "yicai",
    "name": "第一财经 Yicai",
    "url": "https://www.yicai.com/",
-   "description": "Financial and business news.",
+   "description": "Business and financial news from China Business Network.",
    "category": "news",
    "type": "website",
    "level": [
@@ -1548,9 +1548,9 @@
   },
   {
    "id": "nyt-chinese-youtube",
-   "name": "紐約時報中文網 (YouTube)",
+   "name": "紐約時報中文網",
    "url": "https://www.youtube.com/@紐約時報中文網-m8t",
-   "description": "NYT Chinese video.",
+   "description": "New York Times Chinese video reports.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -1660,9 +1660,9 @@
   },
   {
    "id": "voa-chinese-youtube",
-   "name": "美国之音中文网 (YouTube)",
+   "name": "美国之音中文网",
    "url": "https://www.youtube.com/@voachinese",
-   "description": "VOA Mandarin news video.",
+   "description": "Voice of America's Mandarin news reports and interviews.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -1743,9 +1743,9 @@
   },
   {
    "id": "zaobao-youtube",
-   "name": "联合早报 zaobao (YouTube)",
+   "name": "联合早报 zaobao",
    "url": "https://www.youtube.com/@zaobaodotsg",
-   "description": "Lianhe Zaobao video news.",
+   "description": "Video news from Singapore's Lianhe Zaobao.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -1805,7 +1805,7 @@
    "id": "tencent-news",
    "name": "腾讯新闻 Tencent News",
    "url": "https://news.qq.com/",
-   "description": "Tencent portal news.",
+   "description": "Tencent's news portal covering national and international stories.",
    "category": "news",
    "type": "website",
    "level": [
@@ -1829,7 +1829,7 @@
    "id": "liberty-times",
    "name": "自由時報 Liberty Times",
    "url": "https://www.ltn.com.tw/",
-   "description": "Major Taiwan daily.",
+   "description": "One of Taiwan's largest daily newspapers.",
    "category": "news",
    "type": "website",
    "level": [
@@ -1888,9 +1888,9 @@
   },
   {
    "id": "guancha-bilibili",
-   "name": "观察者网 (Bilibili)",
+   "name": "观察者网",
    "url": "https://space.bilibili.com/10330740",
-   "description": "Guancha current affairs videos on Bilibili.",
+   "description": "Current-affairs explainers and commentary from Guancha.",
    "category": "news",
    "type": "bilibili",
    "level": [
@@ -1970,7 +1970,7 @@
    "id": "the-news-lens",
    "name": "關鍵評論網 The News Lens",
    "url": "https://www.thenewslens.com/",
-   "description": "Taiwan news and commentary.",
+   "description": "Taiwanese news, commentary and international coverage.",
    "category": "news",
    "type": "website",
    "level": [
@@ -1992,9 +1992,9 @@
   },
   {
    "id": "the-news-lens-youtube",
-   "name": "關鍵評論網 The News Lens (YouTube)",
+   "name": "關鍵評論網 The News Lens",
    "url": "https://www.youtube.com/@TheNewsLens",
-   "description": "Explainers and commentary.",
+   "description": "Short video explainers on news and current affairs.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -2072,9 +2072,9 @@
   },
   {
    "id": "hk01-youtube",
-   "name": "香港01 (YouTube)",
+   "name": "香港01",
    "url": "https://www.youtube.com/@01official",
-   "description": "HK01 news video (Cantonese).",
+   "description": "Hong Kong news video, mostly in Cantonese.",
    "category": "news",
    "type": "youtube",
    "level": [
@@ -2107,7 +2107,7 @@
    "id": "hk01",
    "name": "香港01 HK01",
    "url": "https://www.hk01.com/",
-   "description": "Hong Kong digital news.",
+   "description": "Hong Kong digital news and features in written Chinese.",
    "category": "news",
    "type": "website",
    "level": [
