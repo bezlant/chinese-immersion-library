@@ -1,0 +1,836 @@
+[
+  {
+    "id": "liziqi",
+    "name": "李子柒 Liziqi",
+    "url": "https://www.youtube.com/@cnliziqi",
+    "description": "Beautiful rural Sichuan life, cooking and traditional crafts.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "rural",
+      "crafts"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCoC47do520os_4DBMEFGg4A"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lMlQg_VGO3Lv2oRmEoOTE2sJF8VJvdEGU9ScQD7HvORsA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoC47do520os_4DBMEFGg4A"
+    }
+  },
+  {
+    "id": "dianxi-xiaoge",
+    "name": "滇西小哥 Dianxi Xiaoge",
+    "url": "https://www.youtube.com/@dianxixiaoge",
+    "description": "Yunnan home cooking and countryside family life.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "rural",
+      "yunnan"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCQG_fzADCunBTV1KwjkfAQQ"
+    },
+    "image": "https://yt3.googleusercontent.com/nMI05aTIRG7vvAPSmTpzN9Mt6WA5mHqJe8TfoVyrfK7BZGdpWXxITMwSiNc7BV3Ocfip3qsp7Q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQG_fzADCunBTV1KwjkfAQQ"
+    }
+  },
+  {
+    "id": "chef-wang",
+    "name": "美食作家王刚 Chef Wang",
+    "url": "https://www.youtube.com/@chefwang",
+    "description": "Professional Sichuan chef's detailed, no-nonsense recipes.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes",
+      "sichuan"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCg0m_Ah8P_MQbnn77-vYnYw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lk6vQnrrHfbxlRMgUJe-u9R8V3fbsD1CXkjNjLTcm9raI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0m_Ah8P_MQbnn77-vYnYw"
+    }
+  },
+  {
+    "id": "lao-fan-gu",
+    "name": "老饭骨 Lao Fan Gu",
+    "url": "https://www.youtube.com/@LaoFanGu",
+    "description": "Veteran state-banquet chefs teach classic dishes.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCBJmYv3Vf_tKcQr5_qmayXg"
+    },
+    "image": "https://yt3.googleusercontent.com/kjyptydd_rCoJfkr1ZZnwMUIZ5vItq-joWaL4ctElwK5aOY6_Awb3vwFiOgMqv6wzETDvIlQvw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJmYv3Vf_tKcQr5_qmayXg"
+    }
+  },
+  {
+    "id": "magic-ingredients",
+    "name": "小高姐的 Magic Ingredients",
+    "url": "https://www.youtube.com/@MagicIngredients",
+    "description": "Northern Chinese home cooking explained clearly.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes",
+      "home-cooking"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCCKlp1JI9Yg3-cUjKPdD3mw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_ntv3-ovHxkQ5k3BhUDPcWNL2w6Exzif_X-NKISrRN1ug=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw"
+    }
+  },
+  {
+    "id": "rishiji",
+    "name": "日食记 RISHIJI",
+    "url": "https://www.youtube.com/@SeanKitchen",
+    "description": "Cosy cooking short films with a cat.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes",
+      "cinematic"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCisCgODN_XZUC-s6Y9iwm7w"
+    },
+    "image": "https://yt3.googleusercontent.com/Lg6tJ0DAuzvNpvHCFed7TztvLorNisYwMWbbN4jhaA5N3Kk3UXwxK8Rq-6RgN8fMa9sjukaj=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCisCgODN_XZUC-s6Y9iwm7w"
+    }
+  },
+  {
+    "id": "mianyang-liaoli",
+    "name": "绵羊料理 MianYang LiaoLi",
+    "url": "https://www.youtube.com/@sheephoho",
+    "description": "Ambitious home recreations of famous dishes.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCiAuybSv94YrdXhrGECtAxQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_m8QmbUcl3Np7JvLzrAZRkir5cbp7RVOnq15T7-odckPww=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiAuybSv94YrdXhrGECtAxQ"
+    }
+  },
+  {
+    "id": "mianyang-liaoli-bilibili",
+    "name": "绵羊料理 (Bilibili)",
+    "url": "https://space.bilibili.com/18202105",
+    "description": "MianYang LiaoLi on Bilibili.",
+    "category": "food",
+    "type": "bilibili",
+    "tags": [
+      "recipes"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "18202105"
+    },
+    "image": "https://i1.hdslb.com/bfs/face/54b5c9c2ad7f1baff195090bfd6afa365ef20c37.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/18202105"
+    }
+  },
+  {
+    "id": "grandpa-amu",
+    "name": "阿木爷爷 Grandpa Amu",
+    "url": "https://www.youtube.com/@GrandpaAmu",
+    "description": "Carpenter grandfather builds wooden marvels without nails.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "crafts"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UClaEdLrmti779-tyovta8zw"
+    },
+    "image": "https://yt3.googleusercontent.com/Zo8Ujt6P6X8kQQ7m5qAh4d80I13NXm7IwXQf4AMKRbHl_ypGQhGjCsWTItsKoXmi7bV9yFLttag=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClaEdLrmti779-tyovta8zw"
+    }
+  },
+  {
+    "id": "daoyueshe",
+    "name": "盗月社食遇记 DaoYueShe",
+    "url": "https://www.youtube.com/@DaoYueShe",
+    "description": "Food-travel hosts explore restaurants and markets across China.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "street-food",
+      "travel"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCP-3kpzMMSUek7EqStDWypA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nOXCXDK4XQqfx-tq1LfVBhGvei_-Ma9Ckm5GFLsmhPv14=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP-3kpzMMSUek7EqStDWypA"
+    }
+  },
+  {
+    "id": "daoyueshe-bilibili",
+    "name": "盗月社食遇记 (Bilibili)",
+    "url": "https://space.bilibili.com/99157282",
+    "description": "DaoYueShe on Bilibili.",
+    "category": "food",
+    "type": "bilibili",
+    "tags": [
+      "street-food"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "99157282"
+    },
+    "image": "https://i1.hdslb.com/bfs/face/c7fb5da587c2ec6b56ad47579933fda34c000457.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/99157282"
+    }
+  },
+  {
+    "id": "chef-sui",
+    "name": "特廚隋卞 Chef Sui",
+    "url": "https://www.youtube.com/@ChefSui",
+    "description": "Chef demonstrates restaurant dishes at home.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCZd4BcnCEHzfrWoMKRaxPTQ"
+    },
+    "image": "https://yt3.googleusercontent.com/Fuy5He-VyJiUDOuAfq3NSRqmD__gwLuQnqNQqFzHmdOhNXd-4XSqBfroNJr6TUTCOiWCdzC_rAg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZd4BcnCEHzfrWoMKRaxPTQ"
+    }
+  },
+  {
+    "id": "one-foodie",
+    "name": "一画美食 One Foodie",
+    "url": "https://www.youtube.com/@onefoodie",
+    "description": "Traditional dishes with slow, clear narration and subtitles.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC42yFsR28e17B5RTtHlQuEQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_ko53IwOCwezAM8rUMKdz9rdrTST6wIptUx-sKNu2xLOLw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC42yFsR28e17B5RTtHlQuEQ"
+    }
+  },
+  {
+    "id": "chinese-cooking-demystified",
+    "name": "Chinese Cooking Demystified",
+    "url": "https://www.youtube.com/@ChineseCookingDemystified",
+    "description": "Authentic Chinese recipes explained in English with Chinese terms.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes",
+      "english"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC54SLBnD5k5U3Q6N__UjbAw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mSW3Mwz-mFpCYN2JefONlgA42q5VXovDtpFaNSlyqrbmI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw"
+    }
+  },
+  {
+    "id": "lao-dong-bei-mei-shi",
+    "name": "老东北美食",
+    "url": "https://www.youtube.com/@laodongbeimeishi",
+    "description": "Northeastern Chinese home cooking.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes",
+      "dongbei"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCs-XyCxrRvcVZRb199HU--w"
+    },
+    "image": "https://yt3.googleusercontent.com/XOIYFmhBHX9OFgy1YF9LT5CatTtP1Eg6W2v7u_JZT3KeDPLBX3SLNyPxqDQrEfIy9If70C0BXgU=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs-XyCxrRvcVZRb199HU--w"
+    }
+  },
+  {
+    "id": "amanda-tastes",
+    "name": "曼食慢语 Amanda Tastes",
+    "url": "https://www.youtube.com/@Amandatastes",
+    "description": "Elegant Western and Chinese baking and recipes.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "baking"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCmXkJ9ReY5hjvYPcnmBwing"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kXoiwTPus11w0aOXclX4n_dtjwpaJvTChhoPlyzvVZ_xs=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmXkJ9ReY5hjvYPcnmBwing"
+    }
+  },
+  {
+    "id": "qian-qian-jin-shi-zhong",
+    "name": "千千進食中",
+    "url": "https://www.youtube.com/@Chienseating",
+    "description": "Taiwanese food vlogger tasting dishes everywhere.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "food-review"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC9i2Qgd5lizhVgJrdnxunKw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lBV22Bk2gdkR5Rf-mhrcZ-_wcz47PfVum1bRUiFYMgAOE=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9i2Qgd5lizhVgJrdnxunKw"
+    }
+  },
+  {
+    "id": "lady-flavor",
+    "name": "好味小姐 Lady Flavor",
+    "url": "https://www.youtube.com/@LadyFlavor",
+    "description": "Taiwanese cooking and food culture.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "recipes"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCOz7W0VH--2WlqAE_3jtL4w"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mFW1W2Nyfy9XrGy0uC0EWPZWXb24cACDMam_KhNoNVyUI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOz7W0VH--2WlqAE_3jtL4w"
+    }
+  },
+  {
+    "id": "wild-cooking",
+    "name": "Wild Cooking 野食小哥",
+    "url": "https://www.youtube.com/channel/UCf3MJQfuoB5ICOOOmp0oSRQ",
+    "description": "Outdoor cooking in the countryside.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "outdoor"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCf3MJQfuoB5ICOOOmp0oSRQ"
+    },
+    "image": "https://yt3.googleusercontent.com/StpnefeBXKLcqILc8fyW0jiLKgEu35ImorAszyky9ulnjjJIVUJpbU3NmBHeAASGCYzivNKwqKA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf3MJQfuoB5ICOOOmp0oSRQ"
+    }
+  },
+  {
+    "id": "hua-nong-xiong-di",
+    "name": "华农兄弟",
+    "url": "https://www.youtube.com/@huanongxiongdi37",
+    "description": "Farming brothers and their bamboo rats, famously deadpan.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "rural",
+      "humor"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCjEGRKDfUOel8Hp9Iumw5NQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n4YYUMwNr_Y4b3zuoedQAq19jM075qxL5y83o781_zoA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjEGRKDfUOel8Hp9Iumw5NQ"
+    }
+  },
+  {
+    "id": "hua-nong-xiong-di-bilibili",
+    "name": "华农兄弟 (Bilibili)",
+    "url": "https://space.bilibili.com/250858633",
+    "description": "Huanong Brothers on Bilibili.",
+    "category": "food",
+    "type": "bilibili",
+    "tags": [
+      "rural"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "250858633"
+    },
+    "image": "https://i1.hdslb.com/bfs/face/bac504655c69ab937b0be4557e27535f794b0c66.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/250858633"
+    }
+  },
+  {
+    "id": "xiachufang",
+    "name": "下厨房 Xiachufang",
+    "url": "https://www.xiachufang.com/",
+    "description": "China's biggest home-recipe community.",
+    "category": "food",
+    "type": "website",
+    "tags": [
+      "recipes"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "meishij",
+    "name": "美食杰 Meishij",
+    "url": "https://www.meishij.net/",
+    "description": "Recipe site with step-by-step photos.",
+    "category": "food",
+    "type": "website",
+    "tags": [
+      "recipes"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "icook",
+    "name": "愛料理 iCook",
+    "url": "https://icook.tw/",
+    "description": "Taiwan's largest recipe community.",
+    "category": "food",
+    "type": "website",
+    "tags": [
+      "recipes"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://icook.tw/feeds/latest.rss"
+    }
+  },
+  {
+    "id": "chinese-food-tour",
+    "name": "阿星探店 Chinese Food Tour",
+    "url": "https://www.youtube.com/@ChineseFoodTour",
+    "description": "Street-food tours around China with honest reviews.",
+    "category": "food",
+    "type": "youtube",
+    "tags": [
+      "street-food"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCT6k1jUhPL_d9GnCGNegi8A"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lyjsT8asZszvTfxyVbVeqOq439t-e_QLoa90kNri2lbCM=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT6k1jUhPL_d9GnCGNegi8A"
+    }
+  }
+]

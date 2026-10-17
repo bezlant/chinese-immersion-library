@@ -1,0 +1,527 @@
+{
+ "category": {
+  "id": "travel",
+  "group": "watch",
+  "name": "Travel",
+  "name_zh": "旅行",
+  "icon": "airplane",
+  "description": "Travel vlogs, guides and review sites."
+ },
+ "data_version": "edbc9426d061",
+ "count": 17,
+ "resources": [
+  {
+   "id": "blondie-in-china",
+   "name": "Blondie in China",
+   "url": "https://www.youtube.com/@BlondieinChina",
+   "description": "Foreign creator exploring China, speaking Mandarin and English.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "foreigner"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCISrVZmDM4x-Rq9mmNUw7Zw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCISrVZmDM4x-Rq9mmNUw7Zw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mwTLOIJf5a-29E8ip454Dtebsq48ukFFQ9gh0J9iudI-w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "taiwan-tourism",
+   "name": "Taiwan Tourism 台灣觀光",
+   "url": "https://www.taiwan.net.tw/",
+   "description": "Official Taiwan tourism site in Chinese and other languages.",
+   "category": "travel",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "official"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "zaza-in-china",
+   "name": "Zaza in China",
+   "url": "https://www.youtube.com/@zazainchina",
+   "description": "Foreign creator's adventures in China.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "foreigner"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgWzUjKQukhhAHwVv3dqGgQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCgWzUjKQukhhAHwVv3dqGgQ"
+   },
+   "image": "https://yt3.googleusercontent.com/57NXkrQG_LigFVd04RjKpRrkUXdEHpH8Na6tdTI6E7KUwFSFSFzG967q4A2erYQ46BHUmohLT9Q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "7-years-travel",
+   "name": "七年环球 7 Years Travel",
+   "url": "https://www.youtube.com/@7yearstravel",
+   "description": "A Chinese couple's seven-year round-the-world journey.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "world"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnP5Ty_aD7aVsZSRgnn1E7A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCnP5Ty_aD7aVsZSRgnn1E7A"
+   },
+   "image": "https://yt3.googleusercontent.com/NpOYhjzhfK64ShE1H9go2OUql32wfNIr_1C5dfDDCozAEX8KPVpJu89a_6aCq2nwdxVRWfulyQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "qunar",
+   "name": "去哪儿 Qunar",
+   "url": "https://www.qunar.com/",
+   "description": "Travel search and booking.",
+   "category": "travel",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "booking"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "dianping",
+   "name": "大众点评 Dianping",
+   "url": "https://www.dianping.com/",
+   "description": "Restaurant and local business reviews.",
+   "category": "travel",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "reviews"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "da-lu-xun-qi",
+   "name": "大陸尋奇",
+   "url": "https://www.youtube.com/@ctvchinatv",
+   "description": "Classic Taiwanese TV series exploring mainland China.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "classic",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXyzhBy7PVhd3JKyIB6ebEw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCXyzhBy7PVhd3JKyIB6ebEw"
+   },
+   "image": "https://yt3.googleusercontent.com/lgYau0BBp86eSt5vrGUKn126PryXWWEiL0oFmZpH3s6ye7773NfC0fkv40VJuOoAwD9A3UZQPEM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "bao-dao-shen-hen-da",
+   "name": "寶島神很大",
+   "url": "https://www.youtube.com/@godBlessBaodao",
+   "description": "Temples, festivals and local life across Taiwan.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "culture",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_s7aCmBPjzMUOgS0gcAf8g"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_s7aCmBPjzMUOgS0gcAf8g"
+   },
+   "image": "https://yt3.googleusercontent.com/HAVeOqHU2VkxG8Dvnj_ZLjKcrr9gJgcHthOpCmksxPK1nS_TPniwP8_KdwTHDth3_jaCr3iWyog=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "xiao-lu-lawrence",
+   "name": "小鹿Lawrence",
+   "url": "https://www.youtube.com/@lawrence_raw",
+   "description": "Travel vlogs around the world.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "world"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPsmetP1p137YfTBpvA7mng"
+   },
+   "ids": {
+    "youtube_channel_id": "UCPsmetP1p137YfTBpvA7mng"
+   },
+   "image": "https://yt3.googleusercontent.com/WsxZ-Igc7tOEbQqjOPL8jvf3_za6mIrPxJysThEO_2q95KqM_dWsTjxtD3-oRk2Lq_leNWMs=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "iwalker",
+   "name": "愛玩客 iWalker",
+   "url": "https://www.youtube.com/@sanlih_iwalker",
+   "description": "SET TV travel and food show around Taiwan.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX2914i1K-kGbgg1ZrLKDSQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCX2914i1K-kGbgg1ZrLKDSQ"
+   },
+   "image": "https://yt3.googleusercontent.com/wNalbdL71As6FLmbjX8WtBwSk1C6-Y11FmpO1R6vwaFMLNJrjUnenoJLJcMyYmwT-UJC8C35=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "trip-com",
+   "name": "携程 Trip.com 攻略",
+   "url": "https://you.ctrip.com/",
+   "description": "Ctrip travel guides and reviews.",
+   "category": "travel",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "guides"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "lena-and-patrick",
+   "name": "旅遊真台灣 Lena & Patrick",
+   "url": "https://www.youtube.com/@LenaPatrickTaiwan",
+   "description": "Travel videos showing Taiwan's towns and food.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0YAgB-kCdyxBX1lB-oS7cg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC0YAgB-kCdyxBX1lB-oS7cg"
+   },
+   "image": "https://yt3.googleusercontent.com/07xj21MyzvNXb7l76GamLaUw_2jOsY7eX4HtnTKeVlTpeZYHRCcWJx1wx4mjqmC5bgf4zBs_Oxs=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "qyer",
+   "name": "穷游网 Qyer",
+   "url": "https://www.qyer.com/",
+   "description": "Backpacking guides and forums.",
+   "category": "travel",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "forum",
+    "guides"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "xiaov",
+   "name": "邓小微 XiaoV",
+   "url": "https://www.youtube.com/@xiaov5455",
+   "description": "Road-trip and travel vlogs across China.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "road-trip"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_cqxOaw9GMHcn-hqKK8dIg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_cqxOaw9GMHcn-hqKK8dIg"
+   },
+   "image": "https://yt3.googleusercontent.com/u83ULpWIKz7AOfPKI1ssEN5YaqosEGTZ_AizcKN9stDcPrWXoLJRBu-YU7QLVR4NiHcZ8JDLoKg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "fliggy",
+   "name": "飞猪 Fliggy",
+   "url": "https://www.fliggy.com/",
+   "description": "Alibaba travel booking with destination guides.",
+   "category": "travel",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "booking"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "super-taste",
+   "name": "食尚玩家 Super Taste",
+   "url": "https://www.youtube.com/@supertaste",
+   "description": "Taiwan's iconic food and travel show.",
+   "category": "travel",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "food",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC00wMIWR48SYidE6jmpL7Qg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC00wMIWR48SYidE6jmpL7Qg"
+   },
+   "image": "https://yt3.googleusercontent.com/k9IvztamTMx1p5iCVkJfXJuB54YEaKRa2PrDgribNh4Vc4LPOJ4gk42SXcIp_6yk3tzzS8QHbA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mafengwo",
+   "name": "马蜂窝 Mafengwo",
+   "url": "https://www.mafengwo.cn/",
+   "description": "Travel guides and user travelogues.",
+   "category": "travel",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "guides",
+    "travelogues"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,482 @@
+{
+ "category": {
+  "id": "history_culture",
+  "group": "read",
+  "name": "History & Culture",
+  "name_zh": "历史文化",
+  "icon": "building.columns.fill",
+  "description": "History storytelling, museums, art and culture."
+ },
+ "data_version": "edbc9426d061",
+ "count": 16,
+ "resources": [
+  {
+   "id": "lecture-room",
+   "name": "CCTV百家讲坛 Lecture Room",
+   "url": "https://www.youtube.com/@ChinaHistoryTalks",
+   "description": "CCTV's famous lecture series on history and classics (易中天, 于丹, 王立群).",
+   "category": "history_culture",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "history",
+    "lectures"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQH_AXSKJ5qUp1CXW3044sg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCQH_AXSKJ5qUp1CXW3044sg"
+   },
+   "image": "https://yt3.googleusercontent.com/4i5Uja4FoMqSPINQJc9xiiOpETdXIMLeAHZSZjm0NZF6jkce03bM8Vk3pWNAT-njhRRJwu0s1g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-world-of-chinese",
+   "name": "The World of Chinese",
+   "url": "https://www.theworldofchinese.com/",
+   "description": "Magazine on Chinese language, culture and society (English with Chinese).",
+   "category": "history_culture",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "culture",
+    "magazine"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "lifeweek",
+   "name": "三联生活周刊 Lifeweek",
+   "url": "https://www.lifeweek.com.cn/",
+   "description": "Culture and society weekly.",
+   "category": "history_culture",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "magazine"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "chinese-text-project",
+   "name": "中国哲学书电子化计划 Chinese Text Project",
+   "url": "https://ctext.org/",
+   "description": "Database of pre-modern Chinese texts with translations.",
+   "category": "history_culture",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "classical"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "national-museum-of-china",
+   "name": "中国国家博物馆 National Museum of China",
+   "url": "https://www.chnmuseum.cn/",
+   "description": "Collections and exhibitions of China's national museum.",
+   "category": "history_culture",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "museum"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "taiwan-bar",
+   "name": "台灣吧 Taiwan Bar",
+   "url": "https://www.youtube.com/@TaiwanBar",
+   "description": "Animated Taiwanese history and culture explainers.",
+   "category": "history_culture",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "animation",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRNsHFT7BFoAPBcuAa5sgEQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCRNsHFT7BFoAPBcuAa5sgEQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_n9n8jzg80WjoM7upBN8d7wYzED3RzZPgRJsU5hHbZof_w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "histodome",
+   "name": "史图馆 Histodome",
+   "url": "https://www.youtube.com/@Histodome",
+   "description": "Animated history maps and timelines.",
+   "category": "history_culture",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "animation",
+    "maps"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqVd0cpvMnzigYTeyMYCq2w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCqVd0cpvMnzigYTeyMYCq2w"
+   },
+   "image": "https://yt3.googleusercontent.com/2PpJ5oUOnazO_0z26KpflUm4mqyT_Mhw1aOL5gRGG4i1XucCgJ8pX3xa19MtWDyD8Z6EZNgSLA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "national-library-of-china",
+   "name": "国家图书馆 National Library of China",
+   "url": "https://www.nlc.cn/",
+   "description": "Digital collections and ancient books.",
+   "category": "history_culture",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "library"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "national-palace-museum",
+   "name": "國立故宮博物院 National Palace Museum",
+   "url": "https://www.youtube.com/@NPMmedia",
+   "description": "Taipei Palace Museum artefacts and exhibitions.",
+   "category": "history_culture",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "art",
+    "museum"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk-ctCMSDyiOAZdAG0Qw_HA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCk-ctCMSDyiOAZdAG0Qw_HA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nvgOUay1j8WZOQmWu_QFcodi9h6ohc1yWL7rEjh5yTsw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "xiao-yue-han-ke-han",
+   "name": "小约翰可汗",
+   "url": "https://www.youtube.com/@wbclg",
+   "description": "Humorous deep-dives into world history and quirky dictators.",
+   "category": "history_culture",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "humor",
+    "world-history"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAeIZxbLS06qOpBTAGT1qxA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCAeIZxbLS06qOpBTAGT1qxA"
+   },
+   "image": "https://yt3.googleusercontent.com/y_NtcB63n-dQvaXN6JSgRUuy3rNfXEByNLs3O5avNkuOzNSVGHHUA1SJGFnxotgD3elV-H1Yj8Q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "xiao-yue-han-ke-han-bilibili",
+   "name": "小约翰可汗 (Bilibili)",
+   "url": "https://space.bilibili.com/23947287",
+   "description": "Little John Khan on Bilibili.",
+   "category": "history_culture",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "world-history"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/23947287"
+   },
+   "ids": {
+    "bilibili_mid": "23947287"
+   },
+   "image": "https://i0.hdslb.com/bfs/face/ecb990b965898d9cb3a9f651a15d91f64f51d59a.jpg"
+  },
+  {
+   "id": "yi-gong-zi",
+   "name": "意公子",
+   "url": "https://www.youtube.com/@EYart-yigongzi",
+   "description": "Chinese art, poetry and culture explained with passion.",
+   "category": "history_culture",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "art",
+    "poetry"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLwXrQxfMXJN9J0leING0Xg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCLwXrQxfMXJN9J0leING0Xg"
+   },
+   "image": "https://yt3.googleusercontent.com/3TUbh94C_e0a6YJArXR91R3nM7CJpCuhKEa9F6iXOaSV9vo_TQnZ1-0xsQRsUlwMNtmGq3kJjMM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "storystudio",
+   "name": "故事 StoryStudio",
+   "url": "https://www.youtube.com/@GushiTw",
+   "description": "Taiwanese history storytelling.",
+   "category": "history_culture",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjzvbmgnDThBvppKFutlqag"
+   },
+   "ids": {
+    "youtube_channel_id": "UCjzvbmgnDThBvppKFutlqag"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_ko8-r397N7c_sGeJcCeS3yhQvZ207rpg6NvCC7ulsneVM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-palace-museum",
+   "name": "故宫博物院 The Palace Museum",
+   "url": "https://www.dpm.org.cn/",
+   "description": "Beijing Palace Museum collections and stories.",
+   "category": "history_culture",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "art",
+    "museum"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "bai-jia-jiang-tan",
+   "name": "百家讲坛 (CCTV)",
+   "url": "https://tv.cctv.com/lm/bjjt/",
+   "description": "Watch Lecture Room episodes on CCTV.",
+   "category": "history_culture",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "lectures"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "shi-pin-dao",
+   "name": "食贫道",
+   "url": "https://space.bilibili.com/39627524",
+   "description": "Documentary-style vlogs exploring places and social issues worldwide.",
+   "category": "history_culture",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "documentary",
+    "travel"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/39627524"
+   },
+   "ids": {
+    "bilibili_mid": "39627524"
+   },
+   "image": "https://i2.hdslb.com/bfs/face/eef12b850c10b0d7a7929236abb08604955823c0.jpg"
+  }
+ ]
+}

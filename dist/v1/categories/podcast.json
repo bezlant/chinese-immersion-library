@@ -1,0 +1,1213 @@
+{
+ "category": {
+  "id": "podcast",
+  "group": "listen",
+  "name": "Chinese Podcasts",
+  "name_zh": "中文播客",
+  "icon": "mic.fill",
+  "description": "Native-speaker podcasts on culture, business, society and comedy."
+ },
+ "data_version": "edbc9426d061",
+ "count": 36,
+ "resources": [
+  {
+   "id": "the-real-story",
+   "name": "The Real Story by 報導者",
+   "url": "https://podcasts.apple.com/podcast/id1525816185",
+   "description": "Taiwanese current-affairs discussions and interviews.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "investigative",
+    "news"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1525816185"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ce/69/8e/ce698e2d-b2cc-bdf1-00da-adeddc5bb5c3/mza_10567444119736672954.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "san-wu-huan",
+   "name": "三五环",
+   "url": "https://podcasts.apple.com/podcast/id1475113228",
+   "description": "Tech-industry and product conversations by Liu Fei.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "tech"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://proxy.wavpub.com/35huan.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1475113228"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6e/d0/de/6ed0dedb-d782-a562-e40b-043ce20441d3/mza_5066303992234991879.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "theweirdo",
+   "name": "不合时宜 TheWeirdo",
+   "url": "https://podcasts.apple.com/podcast/id1487143507",
+   "description": "Thoughtful discussion of social issues and current events.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "society"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.xyzfm.space/ww7cqnybekty"
+   },
+   "ids": {
+    "apple_podcast_id": "1487143507"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/12/9b/31/129b31cc-166a-1799-7085-9e1f0fe5c215/mza_4089001267238303775.png/600x600bb.jpg"
+  },
+  {
+   "id": "bu-ming-bai-bo-ke",
+   "name": "不明白播客",
+   "url": "https://podcasts.apple.com/podcast/id1625856906",
+   "description": "Journalist Yuan Li's interviews on Chinese society and politics.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "interviews",
+    "society"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/68004395b4ef799a7a410371"
+   },
+   "ids": {
+    "apple_podcast_id": "1625856906"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/63/6e/7a636e4a-d18d-8a43-246b-cba3f3df12e1/mza_4264737305780961420.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "dong-qiang-xi-diao",
+   "name": "东腔西调",
+   "url": "https://podcasts.apple.com/podcast/id1533768416",
+   "description": "Cultural sociology and urban life discussions.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "society"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.ximalaya.com/album/41153937.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1533768416"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/77/78/92/77789215-5d34-7ab7-c5a7-10c98272e7b6/mza_4912387649739782493.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "jing-hu-duan-hui-yi",
+   "name": "井户端会议",
+   "url": "https://podcasts.apple.com/podcast/id1493417568",
+   "description": "Chatty conversations on Japanese and Chinese pop culture.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "pop-culture"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.xyzfm.space/68acw4ke4frl"
+   },
+   "ids": {
+    "apple_podcast_id": "1493417568"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/39/8c/8b/398c8b3d-0852-7406-bc3a-cf2f2cb98072/mza_9566519173523636264.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "morning-taiwan-glocal-news",
+   "name": "全球串連早安新聞 Morning Taiwan Glocal News",
+   "url": "https://podcasts.apple.com/podcast/id1618675067",
+   "description": "Daily morning world news in Taiwanese Mandarin.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "daily",
+    "news"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.firstory.me/rss/user/cklqae6gy388f0892i2qmv851"
+   },
+   "ids": {
+    "apple_podcast_id": "1618675067"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/d3/c9/b0/d3c9b0a8-2716-eda1-6e5e-2d88e1dee3a6/mza_7456646857369534699.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "ao-tu-dian-bo",
+   "name": "凹凸电波",
+   "url": "https://podcasts.apple.com/podcast/id1455784513",
+   "description": "Light-hearted talk about life and pop culture.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "pop-culture"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://www.ximalaya.com/album/19206382.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1455784513"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/30/24/93/302493e7-be1c-958c-366e-8d13c2fc698c/mza_10993420535667969042.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "ban-na-tie-shang-ye-chen-fu-lu",
+   "name": "半拿铁 | 商业沉浮录",
+   "url": "https://podcasts.apple.com/podcast/id1615939013",
+   "description": "Narrative stories about companies, products and entrepreneurs.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "business",
+    "storytelling"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://proxy.wavpub.com/caffebreve.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1615939013"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/95/33/4d/95334de1-1492-1ab0-aa7b-8f246bf89bde/mza_10728614257690800956.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "fa-fa-da-wang",
+   "name": "发发大王",
+   "url": "https://podcasts.apple.com/podcast/id1468249055",
+   "description": "Two Beijing hosts chat about everyday life and stories.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "daily-life"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://s2.proxy.wavpub.com/fafadawang.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1468249055"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/af/f0/b8/aff0b864-51c5-de8b-05e6-2376703535d6/mza_12695065017079385273.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "tai-wan-tong-qin-di-yi-pin-pai",
+   "name": "台灣通勤第一品牌",
+   "url": "https://podcasts.apple.com/podcast/id1510554676",
+   "description": "Hugely popular Taiwanese comedy talk podcast.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comedy"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/1ea77470/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1510554676"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/02/4c/58/024c58d2-5b90-84a2-4861-f052b147e1d6/mza_3950128602506399095.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "wu-dan-ru-ren-sheng-shi-yong-shang-xue-yuan",
+   "name": "吳淡如人生實用商學院",
+   "url": "https://podcasts.apple.com/podcast/id1536242998",
+   "description": "Business and life lessons from Taiwanese host Wu Danru.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "business"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.soundon.fm/podcasts/73930beb-4136-4b36-a910-39984335b7bb.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1536242998"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/16/0b/60/160b60b0-4694-23f4-016a-4fe9d7e2f25c/mza_15190995056488794561.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "xi-tan-lu",
+   "name": "嘻谈录",
+   "url": "https://podcasts.apple.com/podcast/id1536887853",
+   "description": "Comedy podcast with stand-up comedian guests.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comedy"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://www.ximalaya.com/album/43044571.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1536887853"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/49/eb/54/49eb54fe-65cb-0c5c-1b7f-66795c368d74/mza_13996517717403285737.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "sheng-dong-ji-xi",
+   "name": "声东击西",
+   "url": "https://podcasts.apple.com/podcast/id1183662640",
+   "description": "Stories and ideas across culture, tech and society.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "culture"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.fireside.fm/shengdongjixi/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1183662640"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/fe/fd/34fefd10-2039-380d-7015-dbc28b79f625/mza_7380566725793754773.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "sheng-dong-zao-ka-fei",
+   "name": "声动早咖啡",
+   "url": "https://podcasts.apple.com/podcast/id1573189055",
+   "description": "Short weekday morning briefing on business and tech news.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "business",
+    "news"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.ximalaya.com/album/51076156.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1573189055"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/a9/7f/7a/a97f7a8f-4451-05bc-bacc-637773b1b06a/mza_16067595309054880476.png/600x600bb.jpg"
+  },
+  {
+   "id": "da-ren-de-small-talk",
+   "name": "大人的Small Talk",
+   "url": "https://podcasts.apple.com/podcast/id1452688611",
+   "description": "Taiwanese consultants talk work, growth and finance.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "career"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.soundon.fm/podcasts/6731d283-54f0-49ec-a040-e5a641c3125f.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1452688611"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/e6/95/d3/e695d318-cf53-c958-00db-469e24db5320/mza_12371573070380247547.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "da-nei-mi-tan",
+   "name": "大内密谈",
+   "url": "https://podcasts.apple.com/podcast/id657765158",
+   "description": "Long-running panel talk on music, film, art and life.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "culture"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://rss.lizhi.fm/rss/14275.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "657765158"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2d/57/59/2d5759d5-a2e7-1eac-f692-6e7ab41caa2a/mza_12105036362162660893.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "tian-cai-bu-shou-fm",
+   "name": "天才捕手FM",
+   "url": "https://podcasts.apple.com/podcast/id1503858543",
+   "description": "Fascinating career stories from unusual professions.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "careers",
+    "storytelling"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://s1.proxy.wavpub.com/storyhunting.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1503858543"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/1f/03/d91f03e9-7573-f2a4-4c5b-4f121a4c68c0/mza_9435049543128708476.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "zhan-kai-jiang-jiang",
+   "name": "展开讲讲",
+   "url": "https://podcasts.apple.com/podcast/id1470561691",
+   "description": "Deep-dive explanations of society and culture.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "society"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://www.ximalaya.com/album/24672021.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1470561691"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/5a/a0/645aa00c-a37a-46e9-cce2-767b56bcac85/mza_11485774630476479159.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "qiang-zhe-wo-peng-you-by-zhi-qi-qi-qi",
+   "name": "強者我朋友 by 志祺七七",
+   "url": "https://podcasts.apple.com/podcast/id1552655948",
+   "description": "Interviews with inspiring people from Taiwan.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "interviews"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.firstory.me/rss/user/ckks5eepbgcwl0815tfre8q3s"
+   },
+   "ids": {
+    "apple_podcast_id": "1552655948"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/89/4f/09/894f095e-f5e2-e25a-3d96-63b93824a89a/mza_2142082596257955114.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "de-yi-wang-xing",
+   "name": "得意忘形",
+   "url": "https://podcasts.apple.com/podcast/id1200767928",
+   "description": "Ideas on self, freedom and modern life.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "philosophy"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.xyzfm.space/klaak6nmc3ux"
+   },
+   "ids": {
+    "apple_podcast_id": "1200767928"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/c9/11/22/c9112227-9d0f-02bb-8d24-242e8a3b1974/mza_5182228873476864380.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "hu-zuo-hu-you",
+   "name": "忽左忽右",
+   "url": "https://podcasts.apple.com/podcast/id1493503146",
+   "description": "Culture, history and current affairs conversations from JustPod.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "culture",
+    "history"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.xyzfm.space/cv4bkgpuglwp"
+   },
+   "ids": {
+    "apple_podcast_id": "1493503146"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/57/ff/ae/57ffae55-7f91-adfe-b34b-e5621f6a4f75/mza_14365442965271077171.png/600x600bb.jpg"
+  },
+  {
+   "id": "one-call-away",
+   "name": "打个电话给你 One Call Away",
+   "url": "https://podcasts.apple.com/podcast/id1521651031",
+   "description": "Two friends chat about daily life; great intermediate-advanced listening.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "daily-life"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://www.ximalaya.com/album/29294593.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1521651031"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/0f/88/c8/0f88c884-58b0-ebf8-d54b-a9ebfff95a52/mza_17971398733806458907.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "gu-shi-fm",
+   "name": "故事FM",
+   "url": "https://podcasts.apple.com/podcast/id1256399960",
+   "description": "Real people telling their own life stories: China's most popular storytelling podcast.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "storytelling"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.storyfm.cn/storyfm.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1256399960"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/65/3c/2a/653c2a3c-e158-e0a7-3521-f44d7c281978/mza_2401098770430920951.png/600x600bb.jpg"
+  },
+  {
+   "id": "ri-tan-gong-yuan",
+   "name": "日谈公园",
+   "url": "https://podcasts.apple.com/podcast/id1166949390",
+   "description": "Free-flowing conversations on pop culture, film, society and tech.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "pop-culture"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://www.ximalaya.com/album/5574153.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1166949390"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7f/94/9e/7f949e9e-4b07-0e66-0321-733843fed63c/mza_2625935947068091835.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "gcores-podcast",
+   "name": "机核游戏频道 Gcores",
+   "url": "https://podcasts.apple.com/podcast/id420660752",
+   "description": "Gaming culture radio from Gcores.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "gaming"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://alioss.gcores.com/feeds/apple_podcast_v1.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "420660752"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/fb/c2/66/fbc26663-f3b2-37dc-0f3e-32430843d7e1/mza_11184489343271545713.png/600x600bb.jpg"
+  },
+  {
+   "id": "cyberpink",
+   "name": "疲惫娇娃 CyberPink",
+   "url": "https://podcasts.apple.com/podcast/id1613244624",
+   "description": "Native-level pop culture and society discussions.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "pop-culture"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://cyberpinkfm.typlog.io/feed/audio.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1613244624"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/df/99/49/df994998-b01b-5ab6-a2be-763cdd3e31b0/mza_15428043777765335636.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "bai-ling-guo-news",
+   "name": "百靈果 News",
+   "url": "https://podcasts.apple.com/podcast/id1106847606",
+   "description": "Bilingual Taiwanese current-affairs comedy podcast.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "comedy",
+    "news"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.firstory.me/rss/user/cmjaz594i0000hdvpdpnd4fw8"
+   },
+   "ids": {
+    "apple_podcast_id": "1106847606"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/42/e6/9b/42e69b29-8267-28a0-89d1-6a8a27d2c42e/mza_17512456390832780230.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "kan-li-xiang-yuan-zhuo",
+   "name": "看理想圆桌",
+   "url": "https://podcasts.apple.com/podcast/id1418358464",
+   "description": "Vistopia roundtable discussions on culture and ideas.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "culture"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://api.vistopia.com.cn/rss/program/13.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1418358464"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/da/78/b5/da78b512-2cc8-b1c4-72d5-bd662eee56eb/mza_11522024847893340272.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "zhi-xing-xiao-jiu-guan",
+   "name": "知行小酒馆",
+   "url": "https://podcasts.apple.com/podcast/id1559695855",
+   "description": "Personal finance and investing life stories.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "finance"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
+   },
+   "ids": {
+    "apple_podcast_id": "1559695855"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/b3/96/fc/b396fcc5-6e2b-d34e-8d3d-c849c43b6215/mza_4090324763067558601.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "luo-si-zai-ning-jin",
+   "name": "螺丝在拧紧",
+   "url": "https://podcasts.apple.com/podcast/id1555601768",
+   "description": "Wu Qi's literary and humanities conversations.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "literature"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://www.ximalaya.com/album/47008946.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1555601768"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/59/c9/0d/59c90d23-f026-b894-b118-cfa4b20f09aa/mza_17061161275088803044.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "bei-wang-lu",
+   "name": "贝望录",
+   "url": "https://podcasts.apple.com/podcast/id1492415440",
+   "description": "Interviews on architecture, design and culture.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "design"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://www.ximalaya.com/album/42715423.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1492415440"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/f3/53/c6/f353c6b0-9a93-fb09-6a9f-a84b6450fe4e/mza_668194395525164743.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "chi-zao-geng-xin",
+   "name": "迟早更新",
+   "url": "https://podcasts.apple.com/podcast/id1451277133",
+   "description": "Technology, design, business and daily life.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "design",
+    "tech"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://podcast.weareones.com/feed/audio.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1451277133"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/33/b7/e4/33b7e475-7b72-0fa1-9612-ce7a25add795/mza_15233543567295755803.png/600x600bb.jpg"
+  },
+  {
+   "id": "stochasticvolatility",
+   "name": "随机波动 StochasticVolatility",
+   "url": "https://podcasts.apple.com/podcast/id1504681387",
+   "description": "Feminist cultural podcast by three women journalists.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "culture",
+    "society"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.fireside.fm/stovol/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1504681387"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a7/38/33/a7383380-6228-6a13-cf35-0488e2155deb/mza_4307002624117949781.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "shi-ri-tan",
+   "name": "食日谈",
+   "url": "https://podcasts.apple.com/podcast/id1621249685",
+   "description": "Food culture conversations by 食通社.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "food"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://www.ximalaya.com/album/57085293.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1621249685"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/70/a6/fb/70a6fb5a-fcaa-bfa0-95a2-f849a6db67b4/mza_4796474905736357779.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "hei-shui-gong-yuan",
+   "name": "黑水公园",
+   "url": "https://podcasts.apple.com/podcast/id1078007055",
+   "description": "Mystery, horror and urban legends storytelling.",
+   "category": "podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "mystery"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "http://www.ximalaya.com/album/3558668.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1078007055"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/70/b1/8e/70b18ea9-cb8a-6e0d-7847-d16ca86625e4/mza_14578376421436744234.jpeg/600x600bb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+name: Add a resource
+description: Suggest a channel, podcast, site or app for the list
+title: "Add: "
+labels: ["new resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! Please check the [guidelines](https://github.com/krmanik/chinese-immersion-library/blob/main/CONTRIBUTING.md#what-belongs-here) first: official or licensed sources only, no re-uploads or piracy.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: 美食作家王刚 Chef Wang
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: Homepage, YouTube channel, Bilibili space or Apple Podcasts page
+      placeholder: https://www.youtube.com/@chefwang
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Learn Chinese: Video
+        - Learn Chinese: Podcasts
+        - Graded Reading
+        - Courses & Grammar
+        - Dictionaries & Tools
+        - Learning Apps
+        - HSK & TOCFL
+        - Tutors & Community
+        - About China (English)
+        - News
+        - Tech
+        - Business & Finance
+        - Science & Knowledge
+        - History & Culture
+        - Web Novels
+        - Literature & Classics
+        - Books & E-books
+        - Comics & Manhua
+        - Social & Forums
+        - Streaming Platforms
+        - Drama & Film
+        - Variety & Talk Shows
+        - Comedy & Crosstalk
+        - Documentaries
+        - Vlogs & Lifestyle
+        - Food & Cooking
+        - Travel
+        - Animation (Donghua)
+        - Kids & Family
+        - Gaming
+        - Sports & Fitness
+        - Music
+        - Chinese Podcasts
+        - Radio & Audiobooks
+        - Other / new category
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: One sentence in English. What is it and why does it help learners?
+    validations:
+      required: true
+  - type: checkboxes
+    id: level
+    attributes:
+      label: Who can follow it?
+      options:
+        - label: Beginner
+        - label: Intermediate
+        - label: Advanced / native level
+  - type: dropdown
+    id: script
+    attributes:
+      label: Characters used
+      options: [Simplified, Traditional, Both, Not sure]
+  - type: dropdown
+    id: region
+    attributes:
+      label: Region
+      options: [Mainland China, Taiwan, Hong Kong, Singapore, Malaysia, Global / other]
+  - type: checkboxes
+    id: extra
+    attributes:
+      label: Details
+      options:
+        - label: Made specifically for learners of Chinese
+        - label: Cantonese rather than Mandarin
+        - label: Paid, or free with a paid tier
+        - label: I'm affiliated with this resource

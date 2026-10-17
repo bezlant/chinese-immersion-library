@@ -1,0 +1,711 @@
+[
+  {
+    "id": "paperclip",
+    "name": "回形针 PaperClip",
+    "url": "https://www.youtube.com/@paperclip6992",
+    "description": "Fast, animated explainers on how everyday technology and industry work.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "explainers",
+      "animation"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCUGJ-yKqQHl4FSZwUmGpiUg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kgd3X7VUPABgWWE4iXZQdMc0QCmjIZtCWN2S3y5zkG7w=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUGJ-yKqQHl4FSZwUmGpiUg"
+    }
+  },
+  {
+    "id": "chaiknows",
+    "name": "柴知道 ChaiKnows",
+    "url": "https://www.youtube.com/@chaiknowsofficialchannel982",
+    "description": "Clearly narrated science videos on biology, physics and psychology.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "explainers"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCQtwvRQWnT5Buh9hpvNNryQ"
+    },
+    "image": "https://yt3.googleusercontent.com/3_egpakzc59tA4uAHeiRUK1S5tTInRA_BGEdEljt59hVcnf_OHzN3DzUWiFCWeO-kep6IKLOTaM=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQtwvRQWnT5Buh9hpvNNryQ"
+    }
+  },
+  {
+    "id": "mr-and-mrs-gao",
+    "name": "老高與小茉 Mr & Mrs Gao",
+    "url": "https://www.youtube.com/@laogao",
+    "description": "Hugely popular narrated mysteries, science and history (Taiwan-accented Mandarin).",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "mysteries",
+      "storytelling"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCMUnInmOkrWN4gof9KlhNmQ"
+    },
+    "image": "https://yt3.googleusercontent.com/WkqPeeZSOxzUz3eNJ-ztvIkHXqNvIqDy6_cGiIZIQm2PGDNnGW6DfIIUfQ8_CsqKoiAT2oz6FQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMUnInmOkrWN4gof9KlhNmQ"
+    }
+  },
+  {
+    "id": "bi-dao-thu",
+    "name": "毕导THU",
+    "url": "https://www.youtube.com/@thu4878",
+    "description": "Funny science experiments and explanations from a Tsinghua PhD.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "experiments",
+      "comedy"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCKJvfb-6icHloy6MBpHg9aw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_modFj7v6t_LJN1KlcxeinnngXHlx0G9WgFEJGexfzx=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKJvfb-6icHloy6MBpHg9aw"
+    }
+  },
+  {
+    "id": "bi-dao-bilibili",
+    "name": "毕导 (Bilibili)",
+    "url": "https://space.bilibili.com/254463269",
+    "description": "Bi Dao on Bilibili.",
+    "category": "science",
+    "type": "bilibili",
+    "tags": [
+      "experiments"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "254463269"
+    },
+    "image": "https://i2.hdslb.com/bfs/face/ec34c6f6de3b28bada6a62fcdce14f5f438c9cdb.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/254463269"
+    }
+  },
+  {
+    "id": "mommytalk",
+    "name": "妈咪说 MommyTalk",
+    "url": "https://www.youtube.com/@Sci1729",
+    "description": "Physics and maths explained simply.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "physics",
+      "maths"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCLROLAN8kmU7tGQDs6KH-bQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lkDlyI6_T431VuOHSxKpWHU8gRowRX2jJTSWz8qgXLZg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLROLAN8kmU7tGQDs6KH-bQ"
+    }
+  },
+  {
+    "id": "chaosmuseum",
+    "name": "混乱博物馆 ChaosMuseum",
+    "url": "https://www.youtube.com/@chaosmuseum",
+    "description": "Natural history and science curiosities.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "natural-history"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCsFM7d3CsTEnUgNQl9QO7ZA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_k5wKmNXRsoobr3SfF_YHVo_G-nrCrCWriNs4OxKen_Wg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsFM7d3CsTEnUgNQl9QO7ZA"
+    }
+  },
+  {
+    "id": "wu-qiong-xiao-liang-de-ke-pu-ri-chang",
+    "name": "无穷小亮的科普日常",
+    "url": "https://space.bilibili.com/14804670",
+    "description": "Biologist Zhang Chenliang identifies strange creatures and debunks myths.",
+    "category": "science",
+    "type": "bilibili",
+    "tags": [
+      "biology",
+      "nature"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "14804670"
+    },
+    "image": "https://i0.hdslb.com/bfs/face/6de12181ed59518fc7beff2046fb3218d50206cc.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/14804670"
+    }
+  },
+  {
+    "id": "li-yongle-bilibili",
+    "name": "李永乐老师官方 (Bilibili)",
+    "url": "https://space.bilibili.com/9458053",
+    "description": "Li Yongle's science and maths lessons on Bilibili.",
+    "category": "science",
+    "type": "bilibili",
+    "tags": [
+      "maths",
+      "physics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "9458053"
+    },
+    "image": "https://i1.hdslb.com/bfs/face/b299b0e20dc4fbbd45e13ba86f330d890c0a0118.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/9458053"
+    }
+  },
+  {
+    "id": "li-yongle-official",
+    "name": "李永乐老师 (official)",
+    "url": "https://www.youtube.com/@李永乐老师官方",
+    "description": "Li Yongle official channel.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "maths",
+      "physics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCvNxfitQbWkmLuCd44UfrYQ"
+    },
+    "image": "https://yt3.googleusercontent.com/gs_-qVWE__RtVwwbTMgSwORzPEWJngI-VEh4T8LkPu85vRj9SA7uSyhqOlT3RxpjG0jhYYPiTg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ"
+    }
+  },
+  {
+    "id": "li-ke-tai-tai",
+    "name": "理科太太 Li Ke Tai Tai",
+    "url": "https://www.youtube.com/@liketaitai",
+    "description": "Taiwanese science and health explainers.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "health",
+      "taiwan"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCHfY_EOzB1i57hYLSw_rYMg"
+    },
+    "image": "https://yt3.googleusercontent.com/T8ka19EpMlgqk7wu6CrngC7hQP99TQi5H8X3rqb6HkF_rQBTDbnkC-dnQr1puOZjE9FIoAcuWg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHfY_EOzB1i57hYLSw_rYMg"
+    }
+  },
+  {
+    "id": "cang-lan-ge-de-yi-xue-tian-di",
+    "name": "蒼藍鴿的醫學天地",
+    "url": "https://www.youtube.com/@bluepigeon0810",
+    "description": "Doctor explains medicine and health in Mandarin.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "medicine",
+      "taiwan"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCUn77_F5A65HViL9OEvIpLw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kQkJYq34JWGMTCTfgPKvVjflW9Vnahn0XYrUEdQCsEmNI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUn77_F5A65HViL9OEvIpLw"
+    }
+  },
+  {
+    "id": "zhuzhuliving",
+    "name": "zhuzhuliving 珠猪健康",
+    "url": "https://www.youtube.com/@zhuzhuliving",
+    "description": "Certified nutritionist's health and lifestyle channel.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "health",
+      "nutrition"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCldA-AURnCp_dcdTEW7gevg"
+    },
+    "image": "https://yt3.googleusercontent.com/FwyQrqmtASY1oSzmqcojxoU6CkDa4hhemHiYX18qRJH5MYUNAFDr3D9c_HIoM7JbJNKnFC4QKQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCldA-AURnCp_dcdTEW7gevg"
+    }
+  },
+  {
+    "id": "yixi",
+    "name": "一席 YiXi",
+    "url": "https://www.youtube.com/@yixi2028",
+    "description": "TED-style talks by scientists, artists and thinkers.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "talks"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCKFB_rVEFEF3l-onQGvGx1A"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mQLoig2s9mol5eM__c8uivvvykDUCeA9oq3w2AwygRwQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKFB_rVEFEF3l-onQGvGx1A"
+    }
+  },
+  {
+    "id": "the-voice",
+    "name": "开讲啦 The Voice",
+    "url": "https://www.youtube.com/@The_Voice",
+    "description": "CCTV talk show where public figures lecture young audiences.",
+    "category": "science",
+    "type": "youtube",
+    "tags": [
+      "talks"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCtPo9-DDJNZWFsbzvaPGuZw"
+    },
+    "image": "https://yt3.googleusercontent.com/EcdL1GoZVgIiOEXDcR8WTHLietlQdlh9uixjbTM8eLACTJPTBz9EZgG4HMLfWkTlu-F2so70dg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtPo9-DDJNZWFsbzvaPGuZw"
+    }
+  },
+  {
+    "id": "luo-xiang-shuo-xing-fa",
+    "name": "罗翔说刑法",
+    "url": "https://space.bilibili.com/517327498",
+    "description": "Law professor Luo Xiang's hugely popular criminal-law lectures.",
+    "category": "science",
+    "type": "bilibili",
+    "tags": [
+      "law",
+      "lectures"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "517327498"
+    },
+    "image": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/517327498"
+    }
+  },
+  {
+    "id": "guokr",
+    "name": "果壳 Guokr",
+    "url": "https://www.guokr.com/",
+    "description": "Popular science articles.",
+    "category": "science",
+    "type": "website",
+    "tags": [
+      "articles"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "science-china",
+    "name": "科普中国 Science China",
+    "url": "https://www.kepuchina.cn/",
+    "description": "Official science popularisation portal.",
+    "category": "science",
+    "type": "website",
+    "tags": [
+      "articles"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "zhihu",
+    "name": "知乎 Zhihu",
+    "url": "https://www.zhihu.com/",
+    "description": "China's largest Q&A knowledge community.",
+    "category": "science",
+    "type": "website",
+    "tags": [
+      "q-and-a"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "pansci",
+    "name": "泛科學 PanSci",
+    "url": "https://pansci.asia/",
+    "description": "Taiwan popular science.",
+    "category": "science",
+    "type": "website",
+    "tags": [
+      "articles",
+      "taiwan"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://pansci.asia/feed"
+    }
+  },
+  {
+    "id": "chinese-wikipedia",
+    "name": "中文维基百科 Chinese Wikipedia",
+    "url": "https://zh.wikipedia.org/",
+    "description": "The free encyclopedia in Chinese with simplified/traditional conversion.",
+    "category": "science",
+    "type": "website",
+    "tags": [
+      "encyclopedia"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "baidu-baike",
+    "name": "百度百科 Baidu Baike",
+    "url": "https://baike.baidu.com/",
+    "description": "Large Chinese online encyclopedia.",
+    "category": "science",
+    "type": "website",
+    "tags": [
+      "encyclopedia"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+    "id": "chinese-national-geography",
+    "name": "中国国家地理 Chinese National Geography",
+    "url": "http://www.dili360.com/",
+    "description": "Geography, nature and travel magazine.",
+    "category": "science",
+    "type": "website",
+    "tags": [
+      "geography",
+      "nature"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  }
+]

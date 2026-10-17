@@ -1,0 +1,366 @@
+[
+  {
+    "id": "hu-nan-wei-shi-mang-guo-tv-guan-fang-pin-dao",
+    "name": "湖南卫视芒果TV官方频道",
+    "url": "https://www.youtube.com/@MangoTV-Official",
+    "description": "Hunan TV: China's most-watched variety shows.",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "tv"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC1pHFqCMAIHP8gr4lYGtNLA"
+    },
+    "image": "https://yt3.googleusercontent.com/jLNdPJeS_xFo3mDFQgC30Iwa5is8MX_9_QNCH2jfruHJDOqrfZVrxYQs8-1uNmX9sCuIRWRRPQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1pHFqCMAIHP8gr4lYGtNLA"
+    }
+  },
+  {
+    "id": "dragon-tv",
+    "name": "东方卫视 Dragon TV",
+    "url": "https://www.youtube.com/@SMGDragonTV",
+    "description": "Shanghai Dragon TV shows and dramas.",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "tv"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCJ06BguWKS5GJsEue7u79PQ"
+    },
+    "image": "https://yt3.googleusercontent.com/8O5p7ifNI--paxCc6ieDUCe2igjIcEeuNhBJCaJJOyZhKBnXYj6RcmpBDdaL0SnG2aTnC4sO=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ06BguWKS5GJsEue7u79PQ"
+    }
+  },
+  {
+    "id": "zhejiang-stv",
+    "name": "浙江卫视 Zhejiang STV",
+    "url": "https://www.youtube.com/@ZhejiangStv",
+    "description": "Zhejiang TV: Running Man China, Sing! China.",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "tv"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC52EYUUSlzcYqHj-qsx0RHg"
+    },
+    "image": "https://yt3.googleusercontent.com/NHrL0MyVx6pjug1ImHfOGH_E-6iA8oR1tjFNH0HQ9njAsI2ccQyfPMxgTQD7nglW9xIYOmT-Y7M=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52EYUUSlzcYqHj-qsx0RHg"
+    }
+  },
+  {
+    "id": "jiangsu-tv",
+    "name": "江苏卫视 Jiangsu TV",
+    "url": "https://www.youtube.com/@ChinaJiangsuTVOfficialChannel",
+    "description": "Jiangsu TV shows (非诚勿扰, 最强大脑).",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "tv"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCZWO2OrUFQ0F6Ft_zO4LqQg"
+    },
+    "image": "https://yt3.googleusercontent.com/z5a2SrwLHCFadunDYJ6qWE2nkg6L31qcE7mm_gI3WHaOD980m1tbOiK5sbVRegNi9EYzVU9R=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZWO2OrUFQ0F6Ft_zO4LqQg"
+    }
+  },
+  {
+    "id": "sing-china",
+    "name": "中国好声音 Sing! China",
+    "url": "https://www.youtube.com/@singchinaofficialchannel2915",
+    "description": "Official Sing! China singing competition.",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "music",
+      "competition"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCTmSp0HNi-NVxFinOsp1O4g"
+    },
+    "image": "https://yt3.googleusercontent.com/Omfy8i-oktjTOQuGG9nhLcqBFUfy1Q-ixuGTA3HOcl9T6BLCsu4evf5d0TNm26GfF9BMf9RB=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTmSp0HNi-NVxFinOsp1O4g"
+    }
+  },
+  {
+    "id": "shi-san-yao",
+    "name": "十三邀",
+    "url": "https://www.youtube.com/@THIRTEENTALKS",
+    "description": "Xu Zhiyuan's long-form interviews with thinkers and artists.",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "interviews"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC7eBKmeAz99qswOcm3VxOow"
+    },
+    "image": "https://yt3.googleusercontent.com/5PwJkYCDDe4DWbZ0eK8AnkC2UH5TV0xDX7hjaj4NuVQih6NpT7oNkhn4J7Xi7WWesA-y8DVXJ3U=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7eBKmeAz99qswOcm3VxOow"
+    }
+  },
+  {
+    "id": "qiang-qiang-san-ren-xing",
+    "name": "锵锵三人行",
+    "url": "https://www.youtube.com/@锵锵三人行-t3i",
+    "description": "Classic Phoenix TV talk show hosted by Dou Wentao.",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "talk"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCbi-ZrTUyuReTqPpqVGJ8pg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lZhuQqJDJN97pJs7tH28gOLC7DSp7da_h2-vbepFDkiA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbi-ZrTUyuReTqPpqVGJ8pg"
+    }
+  },
+  {
+    "id": "cts-show",
+    "name": "華視綜藝 CTS Show",
+    "url": "https://www.youtube.com/@CTSSHOW",
+    "description": "Taiwan variety shows.",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "tv"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCdpxNQgqL3276yjrK03gMXA"
+    },
+    "image": "https://yt3.googleusercontent.com/kfsFTlwOqu7N_B_Y2-mFXstSEyOk302pyHP2KHU714u65oWS7rWFR4pZDRsP434K-vQ2Zmg_=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdpxNQgqL3276yjrK03gMXA"
+    }
+  },
+  {
+    "id": "mu-yao-4-chao-wan",
+    "name": "木曜4超玩",
+    "url": "https://www.youtube.com/@Muyao4",
+    "description": "Taiwan's popular comedy variety web show.",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "comedy"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCLW_SzI9txZvtOFTPDswxqg"
+    },
+    "image": "https://yt3.googleusercontent.com/v4iGsNP3JnvxJk9hwCyOYjMU0UbGQ-rZzt2iVDyWx0-xBfn7nsY4V7L3Vcnu9mozj_IthadROQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLW_SzI9txZvtOFTPDswxqg"
+    }
+  },
+  {
+    "id": "iqiyi-lifeshow",
+    "name": "iQIYI LifeShow",
+    "url": "https://www.youtube.com/@iQIYILifeShow",
+    "description": "iQIYI variety and reality shows.",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "reality"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCQUtD6-bWjvVZyv6CYxBBwQ"
+    },
+    "image": "https://yt3.googleusercontent.com/2uYSoQcvELSJzCIJcOb6qWMar6YCs7WhamDw2JGZ3FhT8YI4Ryc_FaD9VvU6tSuBaD8ML-vj=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQUtD6-bWjvVZyv6CYxBBwQ"
+    }
+  },
+  {
+    "id": "tvb",
+    "name": "TVB 綜藝",
+    "url": "https://www.youtube.com/@TVB_Variety",
+    "description": "TVB variety shows (Cantonese).",
+    "category": "variety",
+    "type": "youtube",
+    "tags": [
+      "tv"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "hk",
+    "dialect": "cantonese",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCKh2nOrPXCW4nXuhr_ZTIzg"
+    },
+    "image": "https://yt3.googleusercontent.com/W0sYmlfNDviIXS-YSvmCH_k_0qUOYxd0N62grNLer5x7WAdqBld5dReaY1D8EMf4yz0RdSqEL34=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKh2nOrPXCW4nXuhr_ZTIzg"
+    }
+  }
+]

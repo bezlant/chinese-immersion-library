@@ -1,0 +1,267 @@
+[
+  {
+    "id": "ximalaya",
+    "name": "喜马拉雅 Ximalaya",
+    "url": "https://www.ximalaya.com/",
+    "description": "China's largest audio platform: podcasts, audiobooks, courses.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "audiobooks",
+      "podcasts"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "xiaoyuzhou-fm",
+    "name": "小宇宙 Xiaoyuzhou FM",
+    "url": "https://www.xiaoyuzhoufm.com/",
+    "description": "Popular Chinese podcast app with active comments.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "podcasts"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "qingting",
+    "name": "蜻蜓FM Qingting",
+    "url": "https://www.qingting.fm/",
+    "description": "Live radio and audio programmes.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "radio",
+      "audiobooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "lizhi",
+    "name": "荔枝 Lizhi",
+    "url": "https://www.lizhi.fm/",
+    "description": "User-generated audio and podcasts.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "podcasts"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "yunting",
+    "name": "云听 Yunting (CNR)",
+    "url": "https://www.radio.cn/",
+    "description": "China National Radio live and on-demand.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "radio",
+      "state-media"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "soundon",
+    "name": "SoundOn",
+    "url": "https://www.soundon.fm/",
+    "description": "Taiwanese podcast hosting and discovery.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "podcasts"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "firstory",
+    "name": "Firstory",
+    "url": "https://firstory.me/",
+    "description": "Taiwanese podcast platform.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "podcasts"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "dedao",
+    "name": "得到 Dedao",
+    "url": "https://www.dedao.cn/",
+    "description": "Knowledge audio courses and audiobook summaries.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "courses",
+      "audiobooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "paid",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "vistopia",
+    "name": "看理想 Vistopia",
+    "url": "https://www.vistopia.com.cn/",
+    "description": "Humanities audio programmes and courses.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "humanities"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "radio-garden",
+    "name": "Radio Garden (China)",
+    "url": "https://radio.garden/",
+    "description": "Tune into live radio stations across China and Taiwan on a globe.",
+    "category": "radio_audio",
+    "type": "website",
+    "tags": [
+      "radio",
+      "live"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  }
+]

@@ -1,0 +1,565 @@
+{
+ "category": {
+  "id": "graded_reading",
+  "group": "learn",
+  "name": "Graded Reading",
+  "name_zh": "分级阅读",
+  "icon": "book.pages",
+  "description": "Graded readers, levelled news and stories for learners."
+ },
+ "data_version": "edbc9426d061",
+ "count": 21,
+ "resources": [
+  {
+   "id": "bloom-library",
+   "name": "Bloom Library",
+   "url": "https://bloomlibrary.org/",
+   "description": "Free picture books including many in Chinese.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "kids",
+    "picture-books"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "chinese-boost-reading",
+   "name": "Chinese Boost Reading",
+   "url": "https://www.chineseboost.com/",
+   "description": "Grammar, reading tips and graded resources.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "chinese-graded-reader",
+   "name": "Chinese Graded Reader (Imagin8 Press)",
+   "url": "https://www.imagin8press.com/",
+   "description": "Graded readers and short stories with audio for learners.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "paid",
+   "tags": [
+    "books"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "chinese-reading-practice",
+   "name": "Chinese Reading Practice",
+   "url": "https://chinesereadingpractice.com/",
+   "description": "Beginner to advanced reading texts with full English translations.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "translations"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://chinesereadingpractice.com/feed/"
+   }
+  },
+  {
+   "id": "chinese-text-analyser",
+   "name": "Chinese Text Analyser",
+   "url": "https://www.chinesetextanalyser.com/",
+   "description": "Analyse any Chinese text against your known words to choose readable material.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "paid",
+   "tags": [
+    "tool"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "decipher-chinese",
+   "name": "Decipher Chinese",
+   "url": "https://decipherchinese.com/",
+   "description": "Weekly graded news readings at multiple levels.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "news"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "du-chinese",
+   "name": "Du Chinese",
+   "url": "https://www.duchinese.net/",
+   "description": "Graded reading app with audio, pinyin toggles and HSK-levelled stories and articles.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "audio",
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "global-storybooks-chinese",
+   "name": "Global Storybooks: Chinese",
+   "url": "https://globalstorybooks.net/",
+   "description": "Free illustrated children's stories in Mandarin and Cantonese with audio.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "audio",
+    "kids",
+    "picture-books"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "haodoo",
+   "name": "Haodoo 好讀",
+   "url": "https://www.haodoo.net/",
+   "description": "Free classic and modern Chinese e-books (traditional characters).",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "classics",
+    "ebooks"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "hsk-reading",
+   "name": "HSK Reading",
+   "url": "https://hskreading.com/",
+   "description": "Free reading passages for HSK 1-6 with comprehension questions.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "exam",
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://hskreading.com/feed/"
+   }
+  },
+  {
+   "id": "lets-read-asia",
+   "name": "Let's Read Asia",
+   "url": "https://www.letsreadasia.org/",
+   "description": "Free digital children's books in many languages including Chinese.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "kids",
+    "picture-books"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "android"
+   ]
+  },
+  {
+   "id": "lingq-chinese",
+   "name": "LingQ Chinese",
+   "url": "https://www.lingq.com/en/learn-chinese-online/",
+   "description": "Import and read any Chinese content with word tracking and audio.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "reader"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "maayot",
+   "name": "maayot",
+   "url": "https://maayot.com/",
+   "description": "Daily short Chinese stories delivered at your HSK level with exercises.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "daily",
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "mandarin-bean",
+   "name": "Mandarin Bean",
+   "url": "https://mandarinbean.com/",
+   "description": "Free HSK-graded readings and stories with adjustable-speed audio and transcripts.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "audio",
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://mandarinbean.com/feed/"
+   }
+  },
+  {
+   "id": "mandarin-companion",
+   "name": "Mandarin Companion",
+   "url": "https://mandarincompanion.com/",
+   "description": "Graded readers adapted from classic stories, from 150 to 450 characters.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "paid",
+   "tags": [
+    "books"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://mandarincompanion.com/feed/"
+   }
+  },
+  {
+   "id": "mandarin-matrix",
+   "name": "Mandarin Matrix",
+   "url": "https://www.mandarinmatrix.org/",
+   "description": "Graded readers and curriculum for young learners.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "paid",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://mandarinmatrix.org/feed/"
+   }
+  },
+  {
+   "id": "pandaist",
+   "name": "Pandaist",
+   "url": "https://pandaist.com/",
+   "description": "Graded news and stories with an integrated dictionary.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "news"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "readibu",
+   "name": "Readibu",
+   "url": "https://readibu.com/",
+   "description": "Read native Chinese web novels with built-in dictionary and learner tools.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "novels"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "storyweaver",
+   "name": "StoryWeaver",
+   "url": "https://storyweaver.org.in/",
+   "description": "Open-licence children's stories, many translated into Chinese.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "kids",
+    "picture-books"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "the-chairmans-bao",
+   "name": "The Chairman's Bao",
+   "url": "https://www.thechairmansbao.com/",
+   "description": "News-based graded reader sorted by HSK level with audio for each article.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "audio",
+    "hsk",
+    "news"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "todaii-easy-chinese",
+   "name": "Todaii Easy Chinese",
+   "url": "https://easychinese.io/",
+   "description": "Simplified news app with HSK highlighting and audio.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "hsk",
+    "news"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  }
+ ]
+}

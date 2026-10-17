@@ -1,0 +1,262 @@
+{
+ "category": {
+  "id": "community",
+  "group": "learn",
+  "name": "Tutors & Community",
+  "name_zh": "社区与老师",
+  "icon": "person.2.fill",
+  "description": "Tutors, language exchange and learner communities."
+ },
+ "data_version": "edbc9426d061",
+ "count": 9,
+ "resources": [
+  {
+   "id": "hellotalk",
+   "name": "HelloTalk",
+   "url": "https://www.hellotalk.com/",
+   "description": "Language exchange app with native Chinese speakers.",
+   "category": "community",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "exchange"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "italki",
+   "name": "italki",
+   "url": "https://www.italki.com/en/teachers/chinese",
+   "description": "One-to-one Chinese lessons with professional teachers and tutors.",
+   "category": "community",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "paid",
+   "tags": [
+    "tutors"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "lang-8-hinative",
+   "name": "Lang-8 / HiNative",
+   "url": "https://hinative.com/",
+   "description": "Ask native speakers questions about Chinese usage.",
+   "category": "community",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "q-and-a"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "preply",
+   "name": "Preply",
+   "url": "https://preply.com/en/online/chinese-tutors",
+   "description": "Online Chinese tutors.",
+   "category": "community",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "paid",
+   "tags": [
+    "tutors"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "r-chinese",
+   "name": "r/Chinese",
+   "url": "https://www.reddit.com/r/Chinese/",
+   "description": "Reddit community about Chinese language and culture.",
+   "category": "community",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "forum",
+    "reddit"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "r-chinesehistory",
+   "name": "r/ChineseHistory",
+   "url": "https://www.reddit.com/r/ChineseHistory/",
+   "description": "Discussion of Chinese history.",
+   "category": "community",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "forum",
+    "history",
+    "reddit"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "r-chineselanguage",
+   "name": "r/ChineseLanguage",
+   "url": "https://www.reddit.com/r/ChineseLanguage/",
+   "description": "Large Reddit community for Chinese learners.",
+   "category": "community",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "forum",
+    "reddit"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "r-mandarinchinese",
+   "name": "r/MandarinChinese",
+   "url": "https://www.reddit.com/r/MandarinChinese/",
+   "description": "Reddit community for Mandarin learners.",
+   "category": "community",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "forum",
+    "reddit"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "tandem",
+   "name": "Tandem",
+   "url": "https://www.tandem.net/",
+   "description": "Language exchange app to practise with native speakers.",
+   "category": "community",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "exchange"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  }
+ ]
+}

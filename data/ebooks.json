@@ -1,0 +1,237 @@
+[
+  {
+    "id": "weread",
+    "name": "微信读书 WeRead",
+    "url": "https://weread.qq.com/",
+    "description": "Tencent's e-book reader with a huge Chinese catalogue.",
+    "category": "ebooks",
+    "type": "website",
+    "tags": [
+      "ebooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+    "id": "douban-read",
+    "name": "豆瓣阅读 Douban Read",
+    "url": "https://read.douban.com/",
+    "description": "Original fiction and non-fiction e-books.",
+    "category": "ebooks",
+    "type": "website",
+    "tags": [
+      "ebooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "douban-books",
+    "name": "豆瓣读书 Douban Books",
+    "url": "https://book.douban.com/",
+    "description": "Book reviews, ratings and reading lists.",
+    "category": "ebooks",
+    "type": "website",
+    "tags": [
+      "reviews"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "ireader",
+    "name": "掌阅 iReader",
+    "url": "https://www.ireader.com/",
+    "description": "E-book store and reader.",
+    "category": "ebooks",
+    "type": "website",
+    "tags": [
+      "ebooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "readmoo",
+    "name": "Readmoo 讀墨",
+    "url": "https://readmoo.com/",
+    "description": "Taiwan e-book store.",
+    "category": "ebooks",
+    "type": "website",
+    "tags": [
+      "ebooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "books-com-tw",
+    "name": "博客來 Books.com.tw",
+    "url": "https://www.books.com.tw/",
+    "description": "Taiwan's largest online bookstore.",
+    "category": "ebooks",
+    "type": "website",
+    "tags": [
+      "ebooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "paid",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "kobo",
+    "name": "Kobo 中文電子書",
+    "url": "https://www.kobo.com/tw/zh",
+    "description": "Kobo Chinese e-books.",
+    "category": "ebooks",
+    "type": "website",
+    "tags": [
+      "ebooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "paid",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "pubu",
+    "name": "Pubu 電子書城",
+    "url": "https://www.pubu.com.tw/",
+    "description": "Taiwan e-books and magazines.",
+    "category": "ebooks",
+    "type": "website",
+    "tags": [
+      "ebooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "dangdang",
+    "name": "当当云阅读 Dangdang",
+    "url": "https://e.dangdang.com/",
+    "description": "Dangdang e-books.",
+    "category": "ebooks",
+    "type": "website",
+    "tags": [
+      "ebooks"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  }
+]

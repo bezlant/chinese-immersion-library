@@ -1,0 +1,2048 @@
+{
+ "category": {
+  "id": "learn_video",
+  "group": "learn",
+  "name": "Learn Chinese: Video",
+  "name_zh": "学中文视频",
+  "icon": "play.rectangle.fill",
+  "description": "YouTube channels made for learners: comprehensible input, lessons, grammar."
+ },
+ "data_version": "edbc9426d061",
+ "count": 59,
+ "resources": [
+  {
+   "id": "acquire-mandarin",
+   "name": "Acquire Mandarin",
+   "url": "https://www.youtube.com/@acquiremandarin",
+   "description": "Chinese-only content using pictures and body language for beginner to intermediate learners.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtRuJmUVIsFdOMM3iPjFTfA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCtRuJmUVIsFdOMM3iPjFTfA"
+   },
+   "image": "https://yt3.googleusercontent.com/3FzMxeoVD6dzLEb0gbJhPTSPPiqJHr5R7cm9Bg4vsQuPsRaA36SSe1CjCm-d3GWJDdcnvf6l=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "alison-mandarin",
+   "name": "Alison Mandarin",
+   "url": "https://www.youtube.com/@alisonmandarin1729",
+   "description": "Natural conversations and stories, each in normal-speed and slower versions.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "conversation"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5nodRZ4XwjIT4kO_DSi2ZQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC5nodRZ4XwjIT4kO_DSi2ZQ"
+   },
+   "image": "https://yt3.googleusercontent.com/JAxrI1DsvXJPdKIhQxe5WvYILydGyyqJLNzlyS1tPzIF09Qm54KpTQj6UCAHFTngAzFzQYDN=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "blabla-chinese",
+   "name": "BlaBla Chinese",
+   "url": "https://www.youtube.com/@blablachinese7526",
+   "description": "Well-produced, slow-paced story videos for super-beginners to intermediate learners.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cxiLPlL29mxFHgQegTlPQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC9cxiLPlL29mxFHgQegTlPQ"
+   },
+   "image": "https://yt3.googleusercontent.com/9ta3zNCxaB0KEbYdb0i3glyWOzuO27qyYv3OTebDK0Nph3hzytVwmjycxfRMWI2mlmRXR2dT7A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "canto-to-mando",
+   "name": "Canto to Mando",
+   "url": "https://www.youtube.com/@cantotomando",
+   "description": "A Cantonese speaker's journey learning Mandarin, with comparisons and tips.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "cantonese",
+    "learning-tips"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR89oo3MbaDC0yrr6LJZgzA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCR89oo3MbaDC0yrr6LJZgzA"
+   },
+   "image": "https://yt3.googleusercontent.com/3dDEwYbXDOnPW5QQogNrFB52pX1d9Ak9FMr582MNwkVYQmF-jo5zSpr1OSDKtiYyTUFYFg49=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chinese-daily-podcast",
+   "name": "Chinese Daily Podcast",
+   "url": "https://www.youtube.com/@ChineseDailyPodcast",
+   "description": "Daily conversational listening practice with subtitles.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "listening",
+    "podcast"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyYT-HdG1FXua6_vwyXNqhg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCyYT-HdG1FXua6_vwyXNqhg"
+   },
+   "image": "https://yt3.googleusercontent.com/SCwG515u_HmmE6rEI6KwfdISDYAdL5vG7yehgUF49i5oAjTvgMDmWVTjJXYLbNXmuqXsyk2Nl9M=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chinese-mandarin-cherry",
+   "name": "Chinese Mandarin Cherry",
+   "url": "https://www.youtube.com/@chinesemandarincherry",
+   "description": "A2-level listening-practice videos; many work well as audio-only.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "listening"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN9Otl_f67SWjW5S_YLcSXg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCN9Otl_f67SWjW5S_YLcSXg"
+   },
+   "image": "https://yt3.googleusercontent.com/2YU4yQ7m64ZuuXlpiMtTljdglmhe941JTiPuIuWvrtQkl20SvEZLgAVHUYV2EBPWyWxh-6YcfmM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chinese-podcast-with-shenglan-youtube",
+   "name": "Chinese Podcast With Shenglan",
+   "url": "https://www.youtube.com/@ChinesePodcastWithShenglan",
+   "description": "Video podcasts and vlogs on travel, daily life, news and history that bridge to native content.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "podcast",
+    "vlog"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZs2_qqVNU5K32XxhHFY_MQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCZs2_qqVNU5K32XxhHFY_MQ"
+   },
+   "image": "https://yt3.googleusercontent.com/KnnnCyO3etJhnnidiAGlvDljP-RdkssHVKhrxUeJr4ftNSdf0E-8yAYK26hsw-JIAL2jR8HuJw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chinese-with-jessie",
+   "name": "Chinese with Jessie",
+   "url": "https://www.youtube.com/@ChinesewithJessie",
+   "description": "Hugely popular beginner lessons on phrases, grammar and conversation.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "beginner",
+    "phrases"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI_EXjUIOC1caoKECKrOT7Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCI_EXjUIOC1caoKECKrOT7Q"
+   },
+   "image": "https://yt3.googleusercontent.com/efrGgYVTk9OmVizNSfGSOvWR5UYIgZqcs1ilo2u4mE8rlR6OskwdtSEA__N83V8dlc-vR2TAeA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chinese-with-ltl",
+   "name": "Chinese with LTL",
+   "url": "https://www.youtube.com/@LTLChinese",
+   "description": "LTL Mandarin School lessons, slang and culture videos.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "culture",
+    "slang"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-phspvnr3ohyDieHzjWfvQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC-phspvnr3ohyDieHzjWfvQ"
+   },
+   "image": "https://yt3.googleusercontent.com/2kG4Ct5q9Il8nAgpbGNafVkAmBiobtJ1l5pJxSxaJpi7mkS2vxEUbTDPGdpluNQPnHxcO348Hg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chinese-with-mandarin-hq",
+   "name": "Chinese with Mandarin HQ",
+   "url": "https://www.youtube.com/@MandarinHQ",
+   "description": "Real-world Mandarin, accent comparisons and HSK vocabulary videos.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "accents",
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpRbKSf-CN5_UQF-OkWIJCw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCpRbKSf-CN5_UQF-OkWIJCw"
+   },
+   "image": "https://yt3.googleusercontent.com/-bjJMajP51LcB9fR9PRnP1imSwlevn0r7lqraG1--UzxaGaI57xXJdIa_L4_OBO0A1k13g_7=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chinese-zero-to-hero-youtube",
+   "name": "Chinese Zero to Hero",
+   "url": "https://www.youtube.com/@ChineseZeroToHero",
+   "description": "Well-organised HSK-aligned grammar and vocabulary lessons, including new HSK 7-9.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ3IlLg5VGeydxtswBoyt6A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCQ3IlLg5VGeydxtswBoyt6A"
+   },
+   "image": "https://yt3.googleusercontent.com/HDB7l3KPeRNxDPVHujUDHT-bD-z82caD1HwfSdqvIvI22aB0ecazUJusOo3W36ezm_cPiyZ4UGo=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chineseclass101",
+   "name": "ChineseClass101",
+   "url": "https://www.youtube.com/@ChineseClass101",
+   "description": "Bite-sized English-taught lessons for absolute beginners upward.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "freemium",
+   "tags": [
+    "beginner"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhnlRY-oKpanPGSvL8Ml8Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCJhnlRY-oKpanPGSvL8Ml8Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mMPF14i6Qm5h07QGooBtBwyl9dJ3b4hEqpB4w_bgQaN0ST=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chinesefor-us-youtube",
+   "name": "ChineseFor.Us",
+   "url": "https://www.youtube.com/@ChineseForUsOfficial",
+   "description": "In-depth grammar videos and HSK courses taught in English.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgCrOLcWvSFl5K2ld0nKS7w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCgCrOLcWvSFl5K2ld0nKS7w"
+   },
+   "image": "https://yt3.googleusercontent.com/iI-za-nw3RYlR9ZovOH-IqFlYqzzyEpcUrgE1wW2SHVMqpWHsPbRrWEs3FXTOHJX9opZKeohpw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chinesepod-youtube",
+   "name": "ChinesePod",
+   "url": "https://www.youtube.com/@ChinesePodTV",
+   "description": "Long-running dialogue-based lessons organised by level.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "dialogues"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRY8eBLd9tPFw5-JY7S7O8Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCRY8eBLd9tPFw5-JY7S7O8Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kNFxNUTISK4-Xd-3avLow8RlP_iAX-qJkCM5re6OfRHEs=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chloe-chinese-class",
+   "name": "Chloe Chinese Class",
+   "url": "https://www.youtube.com/@chloechinesecoach",
+   "description": "Learner podcasts, conversations, story lessons and vlogs about life in China.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "conversation",
+    "vlog"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxOhdldi9RED-8zi6EWxp_w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCxOhdldi9RED-8zi6EWxp_w"
+   },
+   "image": "https://yt3.googleusercontent.com/DZ_8zmJHQu2YRu-Si4NBGB8EUx6It3YrqmKmJAN_K0jA7RBsdMA6lacXfIepsGDy7-gJz0h-=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "crazie-laoshi",
+   "name": "Crazie Laoshi",
+   "url": "https://www.youtube.com/@CrazieLaoshi",
+   "description": "Story-based teaching with many beginner-friendly playlists.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpsy7Un_RbnwPOcPhUMUt4g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCpsy7Un_RbnwPOcPhUMUt4g"
+   },
+   "image": "https://yt3.googleusercontent.com/b9JhpsJ6CY0ksHCnkbBIx1LHbunBdqA0g2lgXuSdd6futN1P__GixZjSwgayxX8Gf_95XXns=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "dashu-mandarin",
+   "name": "Dashu Mandarin 大叔中文",
+   "url": "https://www.youtube.com/@dashumandarin",
+   "description": "Unscripted conversations between teachers and guests on China and culture.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "conversation",
+    "culture"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfsNycNoClXZA1FuUJSGT0w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCfsNycNoClXZA1FuUJSGT0w"
+   },
+   "image": "https://yt3.googleusercontent.com/ivBEYc1Im0OasUHs9dgaeaj0V0HXlaQYFd89wAQ3w07pmRvrSB4J2sn8WF_GUXjzuuw4b9al-Q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "diane-neubauer",
+   "name": "Diane Neubauer 杜雁子",
+   "url": "https://www.youtube.com/@DianeNeubauer",
+   "description": "Comprehension-based teacher channel with beginner Mandarin and reading playlists.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "reading"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtCASxFEa9ym88EUrWZxFQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCFtCASxFEa9ym88EUrWZxFQ"
+   },
+   "image": "https://yt3.googleusercontent.com/xo2U9jKqlVup063BGJcfzI5adBpsReTR3Zk2QfTc5b55elITvGPlu1Lx6YWwLujfsvPlMMygDg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "du-chinese-youtube",
+   "name": "Du Chinese",
+   "url": "https://www.youtube.com/@DuChinese",
+   "description": "Video versions of Du Chinese graded lessons.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "graded-reading"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwZq7MvS8QpvbGfuh7Ifcbw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCwZq7MvS8QpvbGfuh7Ifcbw"
+   },
+   "image": "https://yt3.googleusercontent.com/k5N-Fo5XgAmEkg0J5yR2eaqh3qUvvoduIx94hynlrugxvD7W2SglyxSKAfxc-5qWcWBH564Zew=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "everyday-chinese",
+   "name": "Everyday Chinese",
+   "url": "https://www.youtube.com/@EverydayChinese",
+   "description": "Situational dialogues for daily life: shopping, doctor, travel and more.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "daily-life",
+    "dialogues"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSXriUqkzZmAQklQ0N9XFVw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCSXriUqkzZmAQklQ0N9XFVw"
+   },
+   "image": "https://yt3.googleusercontent.com/qFhdL4x8TkoBo3azbRCSPwQ7ut0b37q-rZ9u0G0Qjia_iL0It4liHpsBcTxkc7fUQN3yTIwVaKM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "grace-mandarin-chinese",
+   "name": "Grace Mandarin Chinese",
+   "url": "https://www.youtube.com/@GraceMandarinChinese",
+   "description": "Popular English-language videos on grammar, vocabulary, pronunciation and culture.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "pronunciation"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC_fdR7zZ_5SU--xuOrEdKw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCC_fdR7zZ_5SU--xuOrEdKw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nMYQbabY8BXB5kvWIIkVNFlf153mnRpTouYJKexUYOhw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "hacking-chinese-youtube",
+   "name": "Hacking Chinese",
+   "url": "https://www.youtube.com/@HackingChinese",
+   "description": "Learning strategies for Mandarin by Olle Linge.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "learning-tips"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvBmje-WnV2so3SG7F-axHw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCvBmje-WnV2so3SG7F-axHw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kH-hj95envo6jv6mG9zo9lCPRjq4A4JeQsIThSsW2kY_g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "harbin-mandarin",
+   "name": "Harbin Mandarin",
+   "url": "https://www.youtube.com/@HarbinMandarin",
+   "description": "Popular Chinese lessons and culture videos from Harbin.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "culture"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8sCINlHlbkxEdDKQRSHK_w"
+   },
+   "ids": {
+    "youtube_channel_id": "UC8sCINlHlbkxEdDKQRSHK_w"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nboRQW7fkp8kvUU_NGGOa82tWt_isiOcr9Fix_wdadnSM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "hit-chinese",
+   "name": "Hit Chinese",
+   "url": "https://www.youtube.com/@HitChinese",
+   "description": "Beginner lessons using writing, drawing and body language.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv33mxPEDfd_Ee1pz1y8KLw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCv33mxPEDfd_Ee1pz1y8KLw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_msIGmWJuHh0RQpLPAw3HwhS3maOi7gxyNYqs68VHhzAGo=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "kevin-in-shanghai",
+   "name": "Kevin in Shanghai",
+   "url": "https://www.youtube.com/@KevininShanghai",
+   "description": "Skits, street interviews and commentary on everyday life in China.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "culture",
+    "interviews"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HW6aVLpyvPIhc7w8YA8Ag"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_HW6aVLpyvPIhc7w8YA8Ag"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nUTe1PtS1BSxazfC1-Qt8fdWS6c9TQRjcOy8XkOHMMwE4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "lazy-chinese",
+   "name": "Lazy Chinese",
+   "url": "https://www.youtube.com/@Lazy-Chinese",
+   "description": "Chinese-only comprehensible-input stories, culture and casual talk with visual support.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSFDgRCzh_1ZPhxChVgK7Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCjSFDgRCzh_1ZPhxChVgK7Q"
+   },
+   "image": "https://yt3.googleusercontent.com/jwxSWhwhNv0nckyrslp6GDNUe-9ZFMp_GQMc4dsqFW8Gt8ZBU2VcaqBiQqoX98QUAtDVYWGTV4k=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-chinese-online",
+   "name": "Learn Chinese Online",
+   "url": "https://www.youtube.com/@LearnChineseOnline",
+   "description": "Structured beginner course videos.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "course"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYqtl651AtrH3Ys5OK-DbbA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCYqtl651AtrH3Ys5OK-DbbA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nPTDJ4scS-CukLm2aYG4sTwQKWDig3_8BhZXRINtnb6BM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-chinese-through-podcast",
+   "name": "Learn Chinese Through Podcast",
+   "url": "https://www.youtube.com/@LearnChineseThroughPodcast",
+   "description": "Podcast-style Mandarin listening practice with subtitles.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "listening",
+    "podcast"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI8Liuxdz6UPv5rgMskfwPg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCI8Liuxdz6UPv5rgMskfwPg"
+   },
+   "image": "https://yt3.googleusercontent.com/kktBp1SQXYDWo0I_MeGIAWG7zIw08ggZX3rBtdqsHSJBFE547GF3o09H-vsIK0CuSRGx-KMt=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-chinese-with-litao",
+   "name": "Learn Chinese with Litao",
+   "url": "https://www.youtube.com/@LitaoChinese",
+   "description": "Pronunciation-focused lessons on pinyin, tones and common mistakes.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "pinyin",
+    "pronunciation"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjf10tuGdICcczoW05Iqe0A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCjf10tuGdICcczoW05Iqe0A"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kt2VYXw-i2Ple_rKzJIfe9unVuYKMPa7fdCf7PB6vr3js=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "learn-chinese-with-yi-zhao",
+   "name": "Learn Chinese with Yi Zhao",
+   "url": "https://www.youtube.com/@YiZhaoHomemadeChinese",
+   "description": "Homemade Chinese lessons on grammar, culture and listening.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "grammar"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPS5lOyQ2HfaYgapBV22H0A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCPS5lOyQ2HfaYgapBV22H0A"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_k-_Okdm3WQTuFaK9hPue1GpUGlL053ftpoZDwAfo6Sfg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "little-fox-chinese-youtube",
+   "name": "Little Fox Chinese",
+   "url": "https://www.youtube.com/@LittleFoxChinese",
+   "description": "Animated stories and songs for young learners of Chinese.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "animation",
+    "kids",
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCipQJmg3yqouy6MRtPv_0Bg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCipQJmg3yqouy6MRtPv_0Bg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nDoQmECmi5cuzYDvA0-XEkwpBDbT2djba1w4OhyavQsP0=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mandarin-blueprint-youtube",
+   "name": "Mandarin Blueprint",
+   "url": "https://www.youtube.com/@MandarinBlueprint",
+   "description": "Character-learning method, pronunciation and learner mindset videos.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "characters",
+    "method"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc5ueW8aqO73Q6MevB8L5PA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCc5ueW8aqO73Q6MevB8L5PA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_laOIYeB6bk6cYafFi0Yuryvh1b5ynNOVeIx_euft211f8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mandarin-click",
+   "name": "Mandarin Click",
+   "url": "https://www.youtube.com/@MandarinClick",
+   "description": "Slow, clear Chinese-only graded stories with strong visual and body-language support, organised by HSK level.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "hsk",
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcvTOgUiplI80SPR73ogCEQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCcvTOgUiplI80SPR73ogCEQ"
+   },
+   "image": "https://yt3.googleusercontent.com/XVBoRjVH1Dhzf2PxE5h_bYwFRZluu8u52cd8kJYG1zxHtnsxW3HFri9xpAmAinMjn1LPvWZQIg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mandarin-companion-youtube",
+   "name": "Mandarin Companion",
+   "url": "https://www.youtube.com/@MandarinCompanion",
+   "description": "Graded reader publisher: reading tips and story trailers.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "graded-reading"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEMjz6grJabXyE_bBv-TuGw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCEMjz6grJabXyE_bBv-TuGw"
+   },
+   "image": "https://yt3.googleusercontent.com/lP4nhP6f6dXQU_-K2SYvXhaGkfFaMylMxEeJsMk8YqjMr-XfcRKiQutxazSuLQ3-Or1elkCyBA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mandarin-corner-youtube",
+   "name": "Mandarin Corner",
+   "url": "https://www.youtube.com/@MandarinCorner2",
+   "description": "Street interviews and long conversations with detailed Chinese/pinyin/English subtitles.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "interviews",
+    "subtitles"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2fAiRQHRQT9aj9P_ijYeow"
+   },
+   "ids": {
+    "youtube_channel_id": "UC2fAiRQHRQT9aj9P_ijYeow"
+   },
+   "image": "https://yt3.googleusercontent.com/kSb7vnxtVzrxdVnUjM64lSlErsDC_NaF4soow9JSsOrIlQU8rOlghBKexAfAb8ayONkh_veS1A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mandarin-corner-main",
+   "name": "Mandarin Corner (Main)",
+   "url": "https://www.youtube.com/@MandarinCorner",
+   "description": "Mandarin Corner's main channel with beginner series and vocabulary videos.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "subtitles"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3B-DH5W60TfVs1AKw_P1kw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC3B-DH5W60TfVs1AKw_P1kw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nYCGSLGc3e3fVOoPcsHgJG91dkLTGg53rcf3OAkb8GHA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mandarin-monkey",
+   "name": "Mandarin Monkey",
+   "url": "https://www.youtube.com/@MandarinMonkey",
+   "description": "Bilingual podcast-style conversations between a learner and native speaker.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "conversation",
+    "podcast"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC74G8nF0GZncPg_vv8cSXkQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC74G8nF0GZncPg_vv8cSXkQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mI1fB3DBvgEP9nx1x5l_tMBT2LsVy4BGq3vWCQa5MUdrA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mandarin-village",
+   "name": "Mandarin Village 中文村",
+   "url": "https://www.youtube.com/@MandarinVillage",
+   "description": "Chinese stories and bedtime tales for learners.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_QOI65lGkLxRqyo17SfEaA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_QOI65lGkLxRqyo17SfEaA"
+   },
+   "image": "https://yt3.googleusercontent.com/-GwT9whC9CKA2by-Lg9tt1JYDyLx68PyGCiywJJVb6nEKF8K7URIoGqctCXdwvv9IugqLgn8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mandarinbean",
+   "name": "MandarinBean",
+   "url": "https://www.youtube.com/@MandarinBean",
+   "description": "Graded HSK readings and stories with audio.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "graded-reading",
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDGT00hxfI15N4-p_gHgtNg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCDGT00hxfI15N4-p_gHgtNg"
+   },
+   "image": "https://yt3.googleusercontent.com/LrJPX-b6S2b3ScJi5L8k7Vaj8qQr_NWuU5_tXwKO3vVQ3oOW_-ah6nWT81Mqa15Ifga1yjXRYA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "maomi-chinese-youtube",
+   "name": "MaoMi Chinese",
+   "url": "https://www.youtube.com/@maomichinese3683",
+   "description": "Video versions of the MaoMi Chinese podcast: read-aloud monologues on current topics.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "podcast"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9xJNZQ2YwSKuIm_VUB1F4w"
+   },
+   "ids": {
+    "youtube_channel_id": "UC9xJNZQ2YwSKuIm_VUB1F4w"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kdLxHNH3wIlg6Zg94W7MdwPQNv_tHrovm9nricDL6peg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "outlier-linguistics-youtube",
+   "name": "Outlier Linguistics",
+   "url": "https://www.youtube.com/@OutlierLinguistics",
+   "description": "How Chinese characters really work, plus learning advice.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "characters",
+    "etymology"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGcewL4nAdWtH8JlSQ-6Y9Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCGcewL4nAdWtH8JlSQ-6Y9Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nmJiKC3BQij9W7dOXKsZBVs08yeJL9lisxcsRs1DYj_qA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "peggyteacheschinese",
+   "name": "PeggyTeachesChinese",
+   "url": "https://www.youtube.com/@PeggyTeachesChinese",
+   "description": "Street interviews, Taiwan travel, everyday talk and HSK prep.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "interviews",
+    "taiwan"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPUcnh4zOQnAL_lsVKl2blQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCPUcnh4zOQnAL_lsVKl2blQ"
+   },
+   "image": "https://yt3.googleusercontent.com/6OE23i2sY-U9H97_bY5Thfo7uZ4v15AdubI83fpcWqW7Xbxwg3udPtCCo3_rAiflPYIAEJXT2A=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "say-ninhao",
+   "name": "Say Ninhao",
+   "url": "https://www.youtube.com/@sayninhao-chinese",
+   "description": "HSK-structured lessons and listening practice.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaABTHpiXTRchxAbO5I6jKg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCaABTHpiXTRchxAbO5I6jKg"
+   },
+   "image": "https://yt3.googleusercontent.com/0cC2AGF_YS1hJUCzd2L-d1mCwhdwH6QTW6uGv1cdHWfFZs8YoW9Bebuy6r7T_D1eTB3nHV6EBPU=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "shuoshuochinese",
+   "name": "ShuoshuoChinese 说说中文",
+   "url": "https://www.youtube.com/@ShuoshuoChinese",
+   "description": "English-language videos on phrases, grammar and pronunciation.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "phrases"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_Aiv9xguPQxZ6msnNoz3HQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_Aiv9xguPQxZ6msnNoz3HQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kODGQBA-_i_ZfEpJaju_c2CpMAOQ0KgxYez5e48t9iPD8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "skritter-youtube",
+   "name": "Skritter",
+   "url": "https://www.youtube.com/@SkritterHQ",
+   "description": "Videos on characters, culture and history with English scaffolding.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "characters"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjgfULWh8BVpW4kebqEr91w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCjgfULWh8BVpW4kebqEr91w"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lb4x34zvE1O3__fEfN08XFlefKyWMkGaCj3Bl7qckjgCI=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "slow-and-clear-chinese",
+   "name": "Slow & Clear Chinese",
+   "url": "https://www.youtube.com/@immersivechinese",
+   "description": "Beginner listening practice with no English, using gestures, props and images.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "listening"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdwdSGQsSbcapDmODtOr58g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCdwdSGQsSbcapDmODtOr58g"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_n8fjHMRFkS98DCBmIHMWIyF4fTidRbNHodiWhacwoVXkQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "speak-chinese-with-da-peng-youtube",
+   "name": "Speak Chinese with Da Peng 大鹏说中文",
+   "url": "https://www.youtube.com/@chinese9339",
+   "description": "Clear-speaking host with daily expressions, learner interviews and monologues.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "expressions",
+    "listening"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNmZr4WBw71bdJYjaycLodA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCNmZr4WBw71bdJYjaycLodA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lWtaWVPOKG6-LCt0SbePIges-WCFtXApTuDfz7nSBlLg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "stickynote-chinese",
+   "name": "Stickynote Chinese",
+   "url": "https://www.youtube.com/@Stickynote.Chinese",
+   "description": "Small set of comprehensible-input videos for absolute beginners.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuZUvuPqPuj1G078fzQ3TsQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCuZUvuPqPuj1G078fzQ3TsQ"
+   },
+   "image": "https://yt3.googleusercontent.com/wPRCVRDXq9a6MmHjngPty19PJEux4U4_cHaH481MOXXHfkD9PmsHHCLmmtjLBGHwCHzcXkpCpg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "story-learning-chinese-with-annie",
+   "name": "Story Learning Chinese with Annie",
+   "url": "https://www.youtube.com/@annieluo1307",
+   "description": "Longer relaxed stories, picture talks, listening games and shadowing, mostly in Chinese.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa2MkPgQHW7hZC9E8xBk6fQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCa2MkPgQHW7hZC9E8xBk6fQ"
+   },
+   "image": "https://yt3.googleusercontent.com/uqpjWPITRjbjl9MwbM-Um0Nut_42AjBD3mo7AzgHCS9xNjRzIYbXBunBRE3WgLa7HAmfNp5I=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "sys-mandarin",
+   "name": "SyS Mandarin",
+   "url": "https://www.youtube.com/@sysmandarin",
+   "description": "Learn Chinese through authentic materials: dramas, songs and native content.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "authentic-content",
+    "drama"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUjFsQAUUS1IFM7oyUXeB1g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCUjFsQAUUS1IFM7oyUXeB1g"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_k2Nk5QO3WVjN_6UeyIZvgV7xAxYaxB5pAun-PtMJR94Q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "taiwanese-mandarin-with-miss-lin",
+   "name": "Taiwanese Mandarin With Miss Lin",
+   "url": "https://www.youtube.com/@MandarinWithMissLin",
+   "description": "Taiwanese Mandarin lessons and TOCFL-oriented practice.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "taiwan",
+    "tocfl"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXYZ2Xk6JsJccQFwDsTkgyQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCXYZ2Xk6JsJccQFwDsTkgyQ"
+   },
+   "image": "https://yt3.googleusercontent.com/-N7ynTEjD9E8TZFxAdu6dsTnfngziOjp0WddKKyNyZ_Wo0QeTps4SrKPUh9-5PzCSvmsr1yf=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "teatime-chinese-youtube",
+   "name": "TeaTime Chinese 茶歇中文",
+   "url": "https://www.youtube.com/@TeaTimeChinese",
+   "description": "Slow, clear Chinese monologues on varied topics, almost entirely in Chinese.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "podcast"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd62LH5bViDMIiPYhwcJXVQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCd62LH5bViDMIiPYhwcJXVQ"
+   },
+   "image": "https://yt3.googleusercontent.com/KCFGybHo7bNK1Y7EHoP6BGoPv-IT5lCONWSjhNDCu7nQ5P3_W-2MHiJdB3TGJP7gAHPW8vpbvQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "thats-mandarin",
+   "name": "That's Mandarin",
+   "url": "https://www.youtube.com/@ThatsMandarin",
+   "description": "Mandarin school channel with lessons on vocabulary, grammar and culture.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "school"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCnsesKQqyQEeuoeRso7gg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCFCnsesKQqyQEeuoeRso7gg"
+   },
+   "image": "https://yt3.googleusercontent.com/h1zLabapUDPAdB0UxQFi1X03ln6QJeK09UvqIckNbWbdg7YrSrgGKyUpB7s1vyYKlnuLGjUAZQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "tingting-comprehensible-chinese",
+   "name": "Tingting Comprehensible Chinese",
+   "url": "https://www.youtube.com/@ComprehensibleChinese",
+   "description": "Comprehensible-input Mandarin videos for beginners.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsl1lX__xQ2IGf8c9r6xH8A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCsl1lX__xQ2IGf8c9r6xH8A"
+   },
+   "image": "https://yt3.googleusercontent.com/jhOFmrkGqrCMGjfxzK07_NSdsiLpIIFr4B_U_yjR3wsLOGNm7-Il2Au3XuLwCvX10ZR0_GP2Rg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "unconventional-chinese",
+   "name": "Unconventional Chinese",
+   "url": "https://www.youtube.com/@unconventionalchinese",
+   "description": "Language and travel content; the intermediate playlist is entertaining and travel-focused.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "travel"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqLWT3swHvP9_4bv7Qssxw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCxqLWT3swHvP9_4bv7Qssxw"
+   },
+   "image": "https://yt3.googleusercontent.com/rZ8qHk5KL7yuf38JkW0Cq25oRACDaAZPrJjjbySTB0X1ZGNlAmyj0NzSB1Xwao5LifKrzQmm=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "will-hart",
+   "name": "Will Hart 何威",
+   "url": "https://www.youtube.com/@willhartmandarin",
+   "description": "A British advanced learner speaking Chinese on pronunciation and characters, plus learning tips.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "learning-tips"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7LmgMa8XhIusF7RI7YI_KQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC7LmgMa8XhIusF7RI7YI_KQ"
+   },
+   "image": "https://yt3.googleusercontent.com/t97lAT_iOkKbSqS7QSqvgzselfRGdnrHX34YG9iIYLJlyHT376dsNoicZkS-xIIgchlTIKVNkB8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "xiaogua-chinese",
+   "name": "Xiaogua Chinese",
+   "url": "https://www.youtube.com/@xiaoguachinese",
+   "description": "Large level-labelled library of stories, podcasts, travel videos and everyday topics.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc-YIMz_tv1K_FKE4noY_Cw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCc-YIMz_tv1K_FKE4noY_Cw"
+   },
+   "image": "https://yt3.googleusercontent.com/xAQDeP0A3pOjXzU_jSRWON1UbP7Rg8UldzMe_TwykTDuzu5pmlG7mRRb9KS6g14a9-sJVPE_DA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "yoyo-chinese-youtube",
+   "name": "Yoyo Chinese",
+   "url": "https://www.youtube.com/@YoyoChinese",
+   "description": "Large library of English-taught lessons on grammar, pronunciation and characters.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "pronunciation"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJyGe2H0C9q6QH0-hH04zw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCSJyGe2H0C9q6QH0-hH04zw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_n3O6uF9azGsb-YqOxSuJXyPIL7ceZLlyJXuobJ3qeZB5um=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "li-yongle",
+   "name": "李永乐老师 Li Yongle",
+   "url": "https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw",
+   "description": "Free science and maths lessons in fast, clear Mandarin with whiteboard explanations.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "maths",
+    "science"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSs4A6HYKmHA2MG_0z-F0xw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCSs4A6HYKmHA2MG_0z-F0xw"
+   },
+   "image": "https://yt3.googleusercontent.com/PKf7sPKOn9HXfTvM5cuUwDqV_nX3ImK9uIIOzjUDLnF8mHolj7lROmQOBvF6NKhdEZBZ33HLlA=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

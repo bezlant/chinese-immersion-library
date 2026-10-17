@@ -1,0 +1,720 @@
+{
+ "category": {
+  "id": "kids",
+  "group": "watch",
+  "name": "Kids & Family",
+  "name_zh": "少儿",
+  "icon": "figure.and.child.holdinghands",
+  "description": "Cartoons, songs and stories: simple, repetitive Chinese."
+ },
+ "data_version": "edbc9426d061",
+ "count": 22,
+ "resources": [
+  {
+   "id": "chinese-fairy-tales",
+   "name": "Chinese Fairy Tales 中文童话",
+   "url": "https://www.youtube.com/@ChineseFairyTales",
+   "description": "Classic fairy tales animated in Mandarin.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids",
+    "stories"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZh0I81cEMmC6MOk4WM8foA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCZh0I81cEMmC6MOk4WM8foA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kfY_PcbWhsm5pynDiK8pKGzt1wPXy2-CxqXLIYtzrs-g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "cocomelon",
+   "name": "CoComelon 中文",
+   "url": "https://www.youtube.com/@CoComelonMandarin",
+   "description": "CoComelon nursery rhymes in Mandarin.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9oCMwabf-4jTTC3GN4hjew"
+   },
+   "ids": {
+    "youtube_channel_id": "UC9oCMwabf-4jTTC3GN4hjew"
+   },
+   "image": "https://yt3.googleusercontent.com/FHG9TD9I1sjQhwIYdv8ZnHUEt9MY45qrF7QXaZb5B3Tqqs2cEtlVjRtbcCF9ZknxXiwpab1X_B8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "little-fox-chinese",
+   "name": "Little Fox Chinese",
+   "url": "https://chinese.littlefox.com/",
+   "description": "Animated stories and songs graded for young learners of Chinese.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "miss-panda-chinese",
+   "name": "Miss Panda Chinese",
+   "url": "https://www.youtube.com/@misspandachinese",
+   "description": "Songs and lessons for kids learning Mandarin.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "kids",
+    "songs"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRVqX3p7QRPHGHPBYkrte3w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCRVqX3p7QRPHGHPBYkrte3w"
+   },
+   "image": "https://yt3.googleusercontent.com/ZJanTXaaPSF6FWkBSgd7xXEQp3GkBcNSJunl1QtZMDylFdIGHXcNnhqFWWQVboUDrAI16F7jfQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "moonbug-kids",
+   "name": "Moonbug Kids 中文",
+   "url": "https://www.youtube.com/@MoonbugKidsMandarin",
+   "description": "Kids' cartoons in Mandarin.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMusEEP7ipIz5YQdoFXbJVg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCMusEEP7ipIz5YQdoFXbJVg"
+   },
+   "image": "https://yt3.googleusercontent.com/2vcSOgQTZGQJQNd7WZkjdB6NaGpZCAJrVHE0vrZTfAOSjWIhMkzRPGxYQQiumgkXPFr_qJJgpyY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "zhong-hua-cheng-yu-gu-shi",
+   "name": "中华成语故事",
+   "url": "https://www.youtube.com/@中华成语故事-倒霉先",
+   "description": "Animated stories behind Chinese idioms.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "idioms",
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-pO3E4SbiGTR9hRsegY7kw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC-pO3E4SbiGTR9hRsegY7kw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nmnq0k8YMRKrCuXEOw-57SdWqSIQLxz-WLdhkhWOYm_sk=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "yun-duo-jie-jie-jiang-gu-shi",
+   "name": "云朵姐姐讲故事",
+   "url": "https://podcasts.apple.com/podcast/id1800637761",
+   "description": "Bedtime fantasy stories for children.",
+   "category": "kids",
+   "type": "podcast",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids",
+    "stories"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.ximalaya.com/album/85844782.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1800637761"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c4/55/bd/c455bd85-e391-4065-7825-d195c355b18e/mza_8661607130779781059.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "broadcast-4-kids",
+   "name": "兒童世界報報 Broadcast 4 Kids",
+   "url": "https://podcasts.apple.com/podcast/id1636822889",
+   "description": "Taiwanese news podcast for children.",
+   "category": "kids",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids",
+    "news"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.firstory.me/rss/user/cl64nlc3v02jb01uhbqr0d15i"
+   },
+   "ids": {
+    "apple_podcast_id": "1636822889"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/50/4c/03/504c031d-65d9-695d-099b-972e9c743942/mza_3258645333626443798.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "kaishu-story",
+   "name": "凯叔讲故事 Kaishu Story",
+   "url": "https://www.kaishustory.com/",
+   "description": "Hugely popular Chinese children's storytelling app.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "pleasant-goat",
+   "name": "喜羊羊與灰太狼 Pleasant Goat",
+   "url": "https://www.youtube.com/@XYY-Cartoon",
+   "description": "Classic Chinese cartoon Pleasant Goat and Big Big Wolf.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbELDDHGqMbjsA_4Kyd7vMw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCbELDDHGqMbjsA_4Kyd7vMw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nm3PcPTBx7xbCnomqgizPkkXy9owtohGfEhz5HrSkh-TM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mandarin-daily-news",
+   "name": "國語日報 Mandarin Daily News",
+   "url": "https://www.mdnkids.com/",
+   "description": "Taiwan's children's newspaper with zhuyin annotations.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids",
+    "news",
+    "zhuyin"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://www.mdnkids.com/rss/"
+   }
+  },
+  {
+   "id": "da-er-duo-tv",
+   "name": "大耳朵TV (大耳朵图图)",
+   "url": "https://www.youtube.com/@大耳朵TV",
+   "description": "Big Ears Tutu, a classic Chinese family cartoon.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD_cg9Tak9SvlPHRsWxUIpA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCD_cg9Tak9SvlPHRsWxUIpA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nuf7LHfLMC33qojvNLZB8FvELMO9aUlodvT6RlPNjJJMk=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "babybus",
+   "name": "宝宝巴士 BabyBus",
+   "url": "https://www.babybus.com/",
+   "description": "Educational apps and cartoons for toddlers.",
+   "category": "kids",
+   "type": "website",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "babybus-youtube",
+   "name": "寶寶巴士 BabyBus 中文",
+   "url": "https://www.youtube.com/@BabyBusTC",
+   "description": "Songs, nursery rhymes and cartoons for toddlers.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "traditional",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCttafJi4SCirZhlxsxISbyA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCttafJi4SCirZhlxsxISbyA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_m3eoS3sohejLJ1AO1QzniT8DQ5sx99WIR3-uzbndNxFuE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "peppa-pig",
+   "name": "小猪佩奇 Peppa Pig 中文官方",
+   "url": "https://www.youtube.com/@PeppaPigChineseOfficial",
+   "description": "Official Mandarin Peppa Pig: simple, repetitive everyday language.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRi0sw4PDw-C2C7fS9hrx5Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCRi0sw4PDw-C2C7fS9hrx5Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lfWMT5GuZoDtYuLaJ5XsRteIUuP1zY2WpuKr7bMvJdJz0=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "paw-patrol",
+   "name": "汪汪隊立大功 PAW Patrol (Mandarin)",
+   "url": "https://www.youtube.com/@PAWPatrolMandarin",
+   "description": "PAW Patrol in Mandarin.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfUg5VwJSgauQe1EbkqjE-w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCfUg5VwJSgauQe1EbkqjE-w"
+   },
+   "image": "https://yt3.googleusercontent.com/PTB1dBgKT9f4qtlux-US9D4KM_LlK7DNkYEVRb0OBXPS5zQGgU3aYwS2f7GfORIOJF2Yb3vavg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "boonie-bears",
+   "name": "熊出没 Boonie Bears",
+   "url": "https://www.youtube.com/channel/UCexhmwhQ2zmBDt2Q6qM3hdg",
+   "description": "Hit Chinese cartoon about two bears protecting their forest.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCexhmwhQ2zmBDt2Q6qM3hdg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCexhmwhQ2zmBDt2Q6qM3hdg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lkgaFAE5HkrJ-f7DCCZM0EFt31J3uZ9cZo2_fxVpn0AF0=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "pinkfong",
+   "name": "碰碰狐 Pinkfong 简体中文",
+   "url": "https://www.youtube.com/channel/UC8iy9jYvsQsqgWMO8SSwxWw",
+   "description": "Baby Shark and children's songs in Mandarin (simplified subtitles).",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8iy9jYvsQsqgWMO8SSwxWw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC8iy9jYvsQsqgWMO8SSwxWw"
+   },
+   "image": "https://yt3.googleusercontent.com/YJEvR-_aYTGfynx9CJG3bz_l4M-Etd1NOtHyeSkOfyM-_bQMHuERY6R9oDDROwPWc-quz5hV=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "pinkfong-youtube",
+   "name": "碰碰狐 Pinkfong 繁體中文",
+   "url": "https://www.youtube.com/@Pinkfong繁體中文",
+   "description": "Children's songs in Mandarin (traditional subtitles).",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrLO-yoAu4ZTzRSdmWqS53A"
+   },
+   "ids": {
+    "youtube_channel_id": "UCrLO-yoAu4ZTzRSdmWqS53A"
+   },
+   "image": "https://yt3.googleusercontent.com/LkJXyNJgj-KMqgs5b0utSJUJie8LEGKlhqhfHTvQYRqPdQdI7Od5Sc_Pm4nYg-s-xPx6MxRFSQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "gg-bond",
+   "name": "豬豬俠 GG Bond",
+   "url": "https://www.youtube.com/@ggbond",
+   "description": "GG Bond superhero pig cartoon.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZEAp9eums1QhETaNVp9wvg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCZEAp9eums1QhETaNVp9wvg"
+   },
+   "image": "https://yt3.googleusercontent.com/X5b396CHKc-pzHh_CEF3nTQvHkmko6jUA9WjYZik9cMlyxok7fcAzOgHdhaW90yRYXVGQVAQ5OE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "barry-tiger",
+   "name": "貝樂虎 Barry Tiger",
+   "url": "https://www.youtube.com/@barrytiger_zh",
+   "description": "Nursery rhymes, cartoons and classic stories.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg7ABWP7MUYBWkY0vBtVJwA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCg7ABWP7MUYBWkY0vBtVJwA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nabOY31A_irHf9oIvx80yAkzdk8cNtZwV6rcRUZbiCeg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "super-wings",
+   "name": "超级飞侠 Super Wings 中文",
+   "url": "https://www.youtube.com/@SuperWings_CN",
+   "description": "Super Wings cartoon in Mandarin.",
+   "category": "kids",
+   "type": "youtube",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "kids"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm0uzKZeG72de0XIHJEK6jw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCm0uzKZeG72de0XIHJEK6jw"
+   },
+   "image": "https://yt3.googleusercontent.com/JF4LWbWM7sLmwL1CguhX2DuU2SFKNoZ8ivGXl0qGqA1Zg5NyLJ6c0s5_E1lOe6nQcLDjFiDy=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

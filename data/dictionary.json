@@ -1,0 +1,575 @@
+[
+  {
+    "id": "mdbg-chinese-dictionary",
+    "name": "MDBG Chinese Dictionary",
+    "url": "https://www.mdbg.net/chinese/dictionary",
+    "description": "Free online Chinese-English dictionary based on CC-CEDICT with handwriting and stroke order.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "cc-cedict"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "atom",
+      "url": "https://www.mdbg.net/chinese/feed?feed=hsk_1"
+    }
+  },
+  {
+    "id": "pleco",
+    "name": "Pleco",
+    "url": "https://www.pleco.com/",
+    "description": "The essential Chinese dictionary app with OCR, reader and flashcards.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "app",
+      "ocr"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "hanzii",
+    "name": "Hanzii",
+    "url": "https://hanzii.net/",
+    "description": "Chinese dictionary with handwriting, examples and HSK lists.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "arch-chinese",
+    "name": "Arch Chinese",
+    "url": "https://www.archchinese.com/",
+    "description": "Dictionary with stroke animations, worksheets and audio.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "stroke-order",
+      "worksheets"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "yellowbridge",
+    "name": "YellowBridge",
+    "url": "https://www.yellowbridge.com/chinese/dictionary.php",
+    "description": "Dictionary with etymology, character decomposition and audio.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "etymology"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "zdic",
+    "name": "汉典 Zdic",
+    "url": "https://www.zdic.net/",
+    "description": "Comprehensive Chinese-Chinese dictionary of characters, words, idioms and classical usage.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "monolingual",
+      "idioms"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "moedict",
+    "name": "萌典 Moedict",
+    "url": "https://www.moedict.tw/",
+    "description": "Open-source dictionary of Taiwan MOE data, with Taiwanese and Hakka.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "monolingual",
+      "taiwan"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "jiao-yu-bu-zhong-bian-guo-yu-ci-dian-xiu-ding-ben",
+    "name": "教育部重編國語辭典修訂本",
+    "url": "https://dict.revised.moe.edu.tw/",
+    "description": "Taiwan Ministry of Education official Mandarin dictionary.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "monolingual",
+      "official"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "wiktionary",
+    "name": "Wiktionary (Chinese)",
+    "url": "https://en.wiktionary.org/wiki/Category:Chinese_language",
+    "description": "Multilingual entries with etymology, readings and dialect pronunciations.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "etymology",
+      "dialects"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "cc-cedict",
+    "name": "CC-CEDICT",
+    "url": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict",
+    "description": "Open community-maintained Chinese-English dictionary data.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "open-data"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "hanzi-writer",
+    "name": "Hanzi Writer",
+    "url": "https://hanziwriter.org/",
+    "description": "Open-source stroke-order animations and quizzes for Chinese characters.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "stroke-order",
+      "open-source"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "forvo-chinese",
+    "name": "Forvo Chinese",
+    "url": "https://forvo.com/languages/zh/",
+    "description": "Native speaker pronunciations of Chinese words.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "pronunciation",
+      "audio"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "youdao-dictionary",
+    "name": "Youdao Dictionary 有道词典",
+    "url": "https://dict.youdao.com/",
+    "description": "Popular Chinese-English dictionary and translator.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "translator"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "baidu-translate",
+    "name": "Baidu Translate 百度翻译",
+    "url": "https://fanyi.baidu.com/",
+    "description": "Machine translation with dictionary examples.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "translator"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+    "id": "deepl-chinese",
+    "name": "DeepL Chinese",
+    "url": "https://www.deepl.com/translator",
+    "description": "High-quality machine translation supporting Chinese.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "translator"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chinese-text-project-dictionary",
+    "name": "Chinese Text Project Dictionary",
+    "url": "https://ctext.org/dictionary.pl",
+    "description": "Classical Chinese character dictionary linked to pre-modern texts.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "classical"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "hanzicraft",
+    "name": "HanziCraft",
+    "url": "https://hanzicraft.com/",
+    "description": "Character decomposition, frequency and phonetic components.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "characters"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "dong-chinese",
+    "name": "Dong Chinese",
+    "url": "https://www.dong-chinese.com/",
+    "description": "Character dictionary with etymology and learning app.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "characters",
+      "etymology"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "tatoeba",
+    "name": "Tatoeba (Chinese)",
+    "url": "https://tatoeba.org/en/sentences/search?from=cmn&to=eng",
+    "description": "Open database of example sentences with translations.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "sentences",
+      "open-data"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chinese-idioms-dictionary",
+    "name": "Chinese Idioms (chengyu) Dictionary",
+    "url": "https://www.chinese-tools.com/chinese/chengyu/dictionary/",
+    "description": "Searchable chengyu dictionary with meanings.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "idioms"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "wenlin",
+    "name": "Wenlin",
+    "url": "https://wenlin.com/",
+    "description": "Professional Chinese dictionary software with ABC dictionary.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "software"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "paid",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://wenlin.com/rss.xml"
+    }
+  },
+  {
+    "id": "google-translate",
+    "name": "Google Translate (Chinese)",
+    "url": "https://translate.google.com/?sl=zh-CN&tl=en",
+    "description": "Machine translation with handwriting and camera input.",
+    "category": "dictionary",
+    "type": "website",
+    "tags": [
+      "translator"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  }
+]

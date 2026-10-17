@@ -1,0 +1,286 @@
+[
+  {
+    "id": "cctv-documentary",
+    "name": "CCTV纪录 CCTV Documentary",
+    "url": "https://www.youtube.com/@CCTVDocumentary",
+    "description": "CCTV-9 documentaries: food, history, nature and craft.",
+    "category": "documentary",
+    "type": "youtube",
+    "tags": [
+      "tv"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCAYkj2Fz9EvAe2fGJEGMXnQ"
+    },
+    "image": "https://yt3.googleusercontent.com/BSkpR98s8IHQDbs0hwwyrswZ0dtBOw_fdH09_om9_iqRrhXDbqOlqAo-QpnCBpV5Gr5uq5heRg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYkj2Fz9EvAe2fGJEGMXnQ"
+    }
+  },
+  {
+    "id": "a-bite-of-china",
+    "name": "舌尖上的中国 A Bite of China",
+    "url": "https://www.youtube.com/@ABiteofChinaOfficialChannel",
+    "description": "Landmark food documentary series about China's cuisine and people.",
+    "category": "documentary",
+    "type": "youtube",
+    "tags": [
+      "food"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCq9R_DkXJbDC9omoIPnMk9g"
+    },
+    "image": "https://yt3.googleusercontent.com/lHMRfv_TSqkU-LRk4bfoDNZv2MzMpPeVbqe5UkdK9esj28-oUTaOk3xJZhU1DMc3TCmw3xZtIA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq9R_DkXJbDC9omoIPnMk9g"
+    }
+  },
+  {
+    "id": "ji-shi-shuo",
+    "name": "纪实说",
+    "url": "https://www.youtube.com/@C-Documentary",
+    "description": "Documentaries and talk-show episodes.",
+    "category": "documentary",
+    "type": "youtube",
+    "tags": [
+      "talk"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC9zs6wZpy_V3XfynMh8pQmw"
+    },
+    "image": "https://yt3.googleusercontent.com/speABC4szTzvt1Pa46RGq_cVrkLiQHPXgdyOe2wVyqFfLkBv9DhNXrdeY9ko7g-48IoQ9_vnYI4=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9zs6wZpy_V3XfynMh8pQmw"
+    }
+  },
+  {
+    "id": "cctv-9-documentary",
+    "name": "CCTV 纪录频道 (cctv.com)",
+    "url": "https://tv.cctv.com/cctv9/",
+    "description": "Watch CCTV-9 documentaries online.",
+    "category": "documentary",
+    "type": "website",
+    "tags": [
+      "tv"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "ru-guo-guo-bao-hui-shuo-hua",
+    "name": "如果国宝会说话 (CCTV)",
+    "url": "https://tv.cctv.com/2018/01/02/VIDA1514868883838179.shtml",
+    "description": "5-minute episodes on national treasures.",
+    "category": "documentary",
+    "type": "website",
+    "tags": [
+      "history",
+      "museum"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+    "id": "ren-sheng-yi-chuan",
+    "name": "人生一串 (Bilibili)",
+    "url": "https://www.bilibili.com/bangumi/media/md134912/",
+    "description": "Bilibili documentary on Chinese street barbecue culture.",
+    "category": "documentary",
+    "type": "website",
+    "tags": [
+      "food"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "wo-zai-gu-gong-xiu-wen-wu",
+    "name": "我在故宫修文物 (Bilibili)",
+    "url": "https://www.bilibili.com/bangumi/media/md28228731/",
+    "description": "Restoring relics inside the Forbidden City.",
+    "category": "documentary",
+    "type": "website",
+    "tags": [
+      "craft",
+      "museum"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "bilibili-documentary",
+    "name": "Bilibili 纪录片",
+    "url": "https://www.bilibili.com/documentary/",
+    "description": "Bilibili's documentary channel.",
+    "category": "documentary",
+    "type": "website",
+    "tags": [
+      "platform"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "youku-documentary",
+    "name": "YOUKU DOCUMENTARY 优酷纪实",
+    "url": "https://www.youtube.com/@youkudocumentary",
+    "description": "Full documentaries from Youku on history, food and nature.",
+    "category": "documentary",
+    "type": "youtube",
+    "tags": [
+      "platform"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UClrB06PsOMunWlRUe7k9m9w"
+    },
+    "image": "https://yt3.googleusercontent.com/IHYeQd63_1A60BI7mVTPQFRD6d_RL-ypTHbqTIIwzWAfZ68-NC9ZKfRuCUdWNFNOKvAE2fRVdQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClrB06PsOMunWlRUe7k9m9w"
+    }
+  },
+  {
+    "id": "beautiful-china-4k",
+    "name": "Beautiful China 美丽的中国 4K",
+    "url": "https://www.youtube.com/@DUNQI",
+    "description": "4K scenery and landscapes across China.",
+    "category": "documentary",
+    "type": "youtube",
+    "tags": [
+      "scenery"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCzsJplmidmkyWuEAvzjh-oQ"
+    },
+    "image": "https://yt3.googleusercontent.com/BCdfjRApRvp3c90RrBr2nMQb_TVjSNmGw4wXPH3sSwRdHlqkzGYe7eciTGWmdT-IsCtPJfm9=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzsJplmidmkyWuEAvzjh-oQ"
+    }
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "id": "tencent-comics",
+    "name": "腾讯动漫 Tencent Comics",
+    "url": "https://ac.qq.com/",
+    "description": "Huge licensed manhua library: 一人之下, 狐妖小红娘, 中国惊奇先生.",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "manhua"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+    "id": "kuaikan-manhua",
+    "name": "快看漫画 Kuaikan Manhua",
+    "url": "https://www.kuaikanmanhua.com/",
+    "description": "China's most popular vertical-scroll webcomic platform.",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "manhua"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "bilibili-comics",
+    "name": "哔哩哔哩漫画 Bilibili Comics",
+    "url": "https://manga.bilibili.com/",
+    "description": "Licensed manhua and manga in Chinese.",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "manhua"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "u17",
+    "name": "有妖气 U17",
+    "url": "https://www.u17.com/",
+    "description": "Original Chinese webcomics (镇魂街, 十万个冷笑话).",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "manhua"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+    "id": "dongman",
+    "name": "咚漫 Dongman (Webtoon China)",
+    "url": "https://www.dongmanmanhua.cn/",
+    "description": "Webtoon's mainland Chinese platform.",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "manhua"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "line-webtoon",
+    "name": "LINE WEBTOON 繁體中文",
+    "url": "https://www.webtoons.com/zh-hant/",
+    "description": "Webtoon in traditional Chinese with many Chinese and Taiwanese creators.",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "manhua"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "mkzhan",
+    "name": "漫客栈 Mkzhan",
+    "url": "https://www.mkzhan.com/",
+    "description": "Official licensed manhua reader.",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "manhua"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "ccc-zhui-man-tai",
+    "name": "CCC追漫台",
+    "url": "https://www.creative-comic.tw/",
+    "description": "Taiwanese original comics platform.",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "manhua"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "lianhuanhua",
+    "name": "中国连环画 Lianhuanhua (Wikipedia)",
+    "url": "https://zh.wikipedia.org/wiki/%E8%BF%9E%E7%8E%AF%E7%94%BB",
+    "description": "Background on classic Chinese picture-story comics.",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "classic",
+      "history"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "sanmao",
+    "name": "三毛流浪记 Sanmao (Zhang Leping)",
+    "url": "https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B%E6%B5%81%E6%B5%AA%E8%AE%B0",
+    "description": "Classic wordless-friendly comic about the orphan Sanmao: great for beginners.",
+    "category": "comics",
+    "type": "website",
+    "tags": [
+      "classic"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "motioncomic",
+    "name": "抖漫 MotionComic",
+    "url": "https://www.youtube.com/@motioncomic",
+    "description": "Motion comics adapted from popular manhua, with Mandarin voice-over.",
+    "category": "comics",
+    "type": "youtube",
+    "tags": [
+      "manhua",
+      "motion-comic"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCfHgyAigw8aIeU3Trwkuuig"
+    },
+    "image": "https://yt3.googleusercontent.com/ol_MjARv5W0lozHFkiKxmfLYPXsgndluSN2BsvQ36ga7xS6AvT_iWfDaaBq6ca3APcUnFbQkyQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfHgyAigw8aIeU3Trwkuuig"
+    }
+  }
+]

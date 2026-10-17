@@ -1,0 +1,544 @@
+{
+ "category": {
+  "id": "comedy",
+  "group": "watch",
+  "name": "Comedy & Crosstalk",
+  "name_zh": "喜剧相声",
+  "icon": "theatermasks.fill",
+  "description": "Xiangsheng, stand-up and sketch comedy."
+ },
+ "data_version": "edbc9426d061",
+ "count": 16,
+ "resources": [
+  {
+   "id": "happy-night-live",
+   "name": "Happy Night Live 笑口常开",
+   "url": "https://www.youtube.com/@Happy23333",
+   "description": "Chinese comedy and sketch clips.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "sketches"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeepJ7g6Us3Vt-H6dllF5rQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCeepJ7g6Us3Vt-H6dllF5rQ"
+   },
+   "image": "https://yt3.googleusercontent.com/dizgXNa93y2PpnvFbSmClpVWie1pB7Wsv0CkJMiTQe9b4AIYxoxaWFdgj3kidQVwM-gImkKcjw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "papi-jiang",
+   "name": "papi酱",
+   "url": "https://www.youtube.com/@papi_jiang",
+   "description": "Rapid-fire comedy sketches about everyday life.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "sketches"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgHXsynhD8GxbFcNlPEn-_w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCgHXsynhD8GxbFcNlPEn-_w"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mGn0fGWwAs-0mveakJM4vE3lJ7LXh8lrfqUqztvL3llk8=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "papi-jiang-bilibili",
+   "name": "papi酱 (Bilibili)",
+   "url": "https://space.bilibili.com/1532165",
+   "description": "papi酱 on Bilibili.",
+   "category": "comedy",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "sketches"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/1532165"
+   },
+   "ids": {
+    "bilibili_mid": "1532165"
+   },
+   "image": "https://i2.hdslb.com/bfs/face/e45a7b248f496fad8b32d3b9cfa0335339331798.jpg"
+  },
+  {
+   "id": "str-network",
+   "name": "STR Network 博恩夜夜秀",
+   "url": "https://www.youtube.com/@STRNetworkasia",
+   "description": "Taiwan late-night satire and stand-up.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "satire",
+    "stand-up"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrswN-SqWh7Kii62h9aXGA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCDrswN-SqWh7Kii62h9aXGA"
+   },
+   "image": "https://yt3.googleusercontent.com/DiL-pd5z552ZRlykDB5GwMD1ftUAG7XoolqkgaO4P89V575B-QsAbxe5mwAl140AkbiFqdwZVA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "san-gen-cong",
+   "name": "三根葱",
+   "url": "https://space.bilibili.com/332835876",
+   "description": "Sketches with regional accents and realistic everyday scenes.",
+   "category": "comedy",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "accents",
+    "sketches"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/332835876"
+   },
+   "ids": {
+    "bilibili_mid": "332835876"
+   },
+   "image": "https://i0.hdslb.com/bfs/face/5bd15d03218b04cb36166f2b5f169816a0819537.jpg"
+  },
+  {
+   "id": "zhong-guo-boy-chao-ji-da-xing-xing",
+   "name": "中国BOY超级大猩猩",
+   "url": "https://space.bilibili.com/562197",
+   "description": "Bizarre challenges and comedy.",
+   "category": "comedy",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "challenges"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/562197"
+   },
+   "ids": {
+    "bilibili_mid": "562197"
+   },
+   "image": "https://i0.hdslb.com/bfs/face/ffb50dd4e712386eb888030ebc6f4aea3a65cd8e.jpg"
+  },
+  {
+   "id": "wackyboys",
+   "name": "反骨男孩 WACKYBOYS",
+   "url": "https://www.youtube.com/@WACKYBOYS520",
+   "description": "Taiwanese comedy pranks and challenges.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "pranks"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEfetJrzg6OcXWWuX8uhdhw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCEfetJrzg6OcXWWuX8uhdhw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lQyOaetGLWqNqKS4EWS9idoi2QeMHpIs7dhr7GQZCSLIY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "deyun-crosstalk",
+   "name": "德云相声社 Deyun Crosstalk",
+   "url": "https://www.youtube.com/@DeYun-Crosstalk",
+   "description": "Xiangsheng (crosstalk) by Guo Degang, Yu Qian and Deyunshe.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "xiangsheng"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQxikYvT9VtTHYwZAi87PgA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCQxikYvT9VtTHYwZAi87PgA"
+   },
+   "image": "https://yt3.googleusercontent.com/lFDo3ZjiRFY0WrRgRayEHaBBDDdU0Re7_sgDwzF3XmJOE5JOiO-gKklpYKQ_vcAD7uuc8cwM=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "de-yun-she-tv",
+   "name": "德云社TV",
+   "url": "https://www.youtube.com/@dys888",
+   "description": "Deyunshe performances.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "xiangsheng"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPBtCCuQaswRFuoCUhA37mg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCPBtCCuQaswRFuoCUhA37mg"
+   },
+   "image": "https://yt3.googleusercontent.com/jskPvpWyH9Wt_0epQneAjcye6BXo7C2gZOjN9fBOzYzONtYelERgOEEo6ApATbqgNQeJ7QQL=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "jing-han-qing",
+   "name": "敬汉卿",
+   "url": "https://space.bilibili.com/9824766",
+   "description": "Quirky challenges and comedy videos.",
+   "category": "comedy",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "challenges"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/9824766"
+   },
+   "ids": {
+    "bilibili_mid": "9824766"
+   },
+   "image": "https://i0.hdslb.com/bfs/face/fd8d7ad17af295f7c4256959705f009c5f67e9c6.jpg"
+  },
+  {
+   "id": "zhong-liang-ji-crowd",
+   "name": "眾量級CROWD",
+   "url": "https://www.youtube.com/@crowd1111",
+   "description": "Taiwanese comedy skits.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "sketches"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3LBFXbWtEBdOOUb8-qJm9Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UC3LBFXbWtEBdOOUb8-qJm9Q"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mwp7AFDiEm-ZBesZa9JjIYAIDb9xRyWOxNy-VFMhUBZvc=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "xiaoguo-comedy",
+   "name": "笑果 XiaoGuo Comedy",
+   "url": "https://www.youtube.com/@XiaoGuoComedy_CN",
+   "description": "Stand-up from the producers of Rock & Roast (脱口秀大会).",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "stand-up"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPiiTWdr5S2y0jqaDFXs5fw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCPiiTWdr5S2y0jqaDFXs5fw"
+   },
+   "image": "https://yt3.googleusercontent.com/L-i8Pry0WIeie9__TREB42RhAS_HM5FSi1FcTcjSWD7i1gExTuzAzGWX6L9NYRiLXOfQqmya=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "cai-a-ga",
+   "name": "蔡阿嘎",
+   "url": "https://www.youtube.com/@TsaiAGa",
+   "description": "Taiwanese comedy, lifestyle and social commentary.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "lifestyle"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPwxSX0DYDMQxCvgfeVDv_g"
+   },
+   "ids": {
+    "youtube_channel_id": "UCPwxSX0DYDMQxCvgfeVDv_g"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lOds4XAfx0iffK2bljusnTGhYTpH53QntkLKBdp-gUvFUZ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "trial-and-error",
+   "name": "試當真 Trial & Error",
+   "url": "https://www.youtube.com/@trialanderror924",
+   "description": "Hong Kong comedy group (Cantonese).",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "sketches"
+   ],
+   "for_learners": false,
+   "dialect": "cantonese",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcfdsRaC34Y4IKTiihYxBrQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCcfdsRaC34Y4IKTiihYxBrQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lBBBcQsyEr_nmDurFJT1bL6kPy3j6r4DtIswK3iPDlbEg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "tgop",
+   "name": "這群人 TGOP",
+   "url": "https://www.youtube.com/@thisgroupofpeople",
+   "description": "Iconic Taiwanese sketch-comedy group.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "sketches"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6FcYHEm7SO1jpu5TKjNXEA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC6FcYHEm7SO1jpu5TKjNXEA"
+   },
+   "image": "https://yt3.googleusercontent.com/WC94vtsDuxJmvl55B_xx_pFdfvk7P_stgemWh32npyv0sROnNxE1FHRJLuZVFynyGLfnHLmlkcY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "huang-shi-xiong-di",
+   "name": "黃氏兄弟",
+   "url": "https://www.youtube.com/@黃氏兄弟",
+   "description": "Taiwanese brothers' comedy and experiments.",
+   "category": "comedy",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "sketches"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV_S2S-Zs8LeuJxK-T3RQQg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCV_S2S-Zs8LeuJxK-T3RQQg"
+   },
+   "image": "https://yt3.googleusercontent.com/6x212Wk0_chwQQWjJCVhT-3Bw8qdXdtY6O0GhAwANBgdeeAc-Tzkjjyv4WTzBMSHjuxp3BBlkw=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

@@ -1,0 +1,543 @@
+{
+ "category": {
+  "id": "business",
+  "group": "read",
+  "name": "Business & Finance",
+  "name_zh": "商业财经",
+  "icon": "chart.line.uptrend.xyaxis",
+  "description": "Economics explainers, markets and business media."
+ },
+ "data_version": "edbc9426d061",
+ "count": 18,
+ "resources": [
+  {
+   "id": "21-shi-ji-jing-ji-bao-dao",
+   "name": "21世纪经济报道",
+   "url": "https://www.21jingji.com/",
+   "description": "21st Century Business Herald.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "economics"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "ic-lab",
+   "name": "IC实验室 IC Lab",
+   "url": "https://www.youtube.com/@ICLAB",
+   "description": "Consumer trends, internet business and pop culture explained.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "companies",
+    "pop-culture"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ1zX4FZA15dwE2olLAO3-w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCJ1zX4FZA15dwE2olLAO3-w"
+   },
+   "image": "https://yt3.googleusercontent.com/k5-TUulvA2_fd3FdC2PsbpWNGnLNHKQWxDqdDIT8SfDyKwiieTVs1rrklbJt78YmOU-O9t6r=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "eastmoney",
+   "name": "东方财富 Eastmoney",
+   "url": "https://www.eastmoney.com/",
+   "description": "Stock market data and finance news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "investing"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "wallstreetcn",
+   "name": "华尔街见闻 Wallstreetcn",
+   "url": "https://wallstreetcn.com/",
+   "description": "Global markets news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "markets"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "business-weekly-video",
+   "name": "商業周刊 Business Weekly",
+   "url": "https://www.youtube.com/@bwnet",
+   "description": "Taiwan Business Weekly video.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwlpC8vX_GkRngPYSnwkJxg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCwlpC8vX_GkRngPYSnwkJxg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lyTTRW4D3tELjeHN6WHC9F3En7wqhcN4-6rpPivkR2SZg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "business-weekly",
+   "name": "商業周刊 Business Weekly",
+   "url": "https://www.businessweekly.com.tw/",
+   "description": "Taiwan business magazine.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "magazine",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "commonwealth-video",
+   "name": "天下雜誌 video",
+   "url": "https://www.youtube.com/@cwvideo",
+   "description": "CommonWealth Magazine video.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoS753iLrVE-1PZrsUak6Qg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCoS753iLrVE-1PZrsUak6Qg"
+   },
+   "image": "https://yt3.googleusercontent.com/1gqU--gDo-ZWkWMwFSwXMPqkVXi0ZhSj7i_GP6QwvnT6Bj1noA20LSuzZ6R8LmJVQhK0G8PV=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "xiao-lin-shuo",
+   "name": "小Lin说",
+   "url": "https://www.youtube.com/@xiao_lin_shuo",
+   "description": "Clear, fun explanations of finance and economics.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "economics",
+    "explainers"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCilwQlk62k1z7aUEZPOB6yw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCilwQlk62k1z7aUEZPOB6yw"
+   },
+   "image": "https://yt3.googleusercontent.com/dDOuCyzkVBwGapJot3mAGqq1_2_sng7pgnPtkGF1uSmcleO4p6O4Ox6flFzwF7vYDiuNv2I_mA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "xiao-lin-shuo-bilibili",
+   "name": "小Lin说 (Bilibili)",
+   "url": "https://space.bilibili.com/520819684",
+   "description": "Xiao Lin's finance explainers on Bilibili.",
+   "category": "business",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "economics"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/520819684"
+   },
+   "ids": {
+    "bilibili_mid": "520819684"
+   },
+   "image": "https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg"
+  },
+  {
+   "id": "wu-shi-cai-jing",
+   "name": "巫师财经",
+   "url": "https://www.youtube.com/@巫师财经",
+   "description": "Deep-dive videos on business and economics.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "economics"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC55ahPQ7m5iJdVWcOfmuE6g"
+   },
+   "ids": {
+    "youtube_channel_id": "UC55ahPQ7m5iJdVWcOfmuE6g"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_koxTwstsjJXqhybO6htUE8zEryHYPlH6wGWFIeBsFaHA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "wu-shi-cai-jing-bilibili",
+   "name": "巫师财经 (Bilibili)",
+   "url": "https://space.bilibili.com/472747194",
+   "description": "Wizard Finance on Bilibili.",
+   "category": "business",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "economics"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/472747194"
+   },
+   "ids": {
+    "bilibili_mid": "472747194"
+   },
+   "image": "https://i0.hdslb.com/bfs/face/c518dc95663850d075a90897de617cc634151f7a.jpg"
+  },
+  {
+   "id": "suo-zhang-lin-chao",
+   "name": "所长林超",
+   "url": "https://www.youtube.com/@所长林超",
+   "description": "Mental models, business and science explainers.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "thinking"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDAMXqexiNMSzN_Vcwj72AQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCDAMXqexiNMSzN_Vcwj72AQ"
+   },
+   "image": "https://yt3.googleusercontent.com/HAYWqt-Ld3eN9ojAp1LVLxSfYNHfYglS2PVJb7wy1yBlTsBUDtGllGusMPHgPBRqkiOfekl0-Q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "suo-zhang-lin-chao-bilibili",
+   "name": "所长林超 (Bilibili)",
+   "url": "https://space.bilibili.com/520155988",
+   "description": "Lin Chao on Bilibili.",
+   "category": "business",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "thinking"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/520155988"
+   },
+   "ids": {
+    "bilibili_mid": "520155988"
+   },
+   "image": "https://i1.hdslb.com/bfs/face/feb90ae3d7dfac3699e3cc7d1efa0c04c9205470.jpg"
+  },
+  {
+   "id": "ying-he-de-ban-fu-xian-ren",
+   "name": "硬核的半佛仙人",
+   "url": "https://www.youtube.com/@banfoxianren",
+   "description": "Fast-paced commentary on business scandals and companies.",
+   "category": "business",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "companies"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyO-Rh1EX_6VNn3RKPeJ6kQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCyO-Rh1EX_6VNn3RKPeJ6kQ"
+   },
+   "image": "https://yt3.googleusercontent.com/X90FqC3rErl4oNUfTgVtAoWQWGgbEx8kdVk5lIWqXRTdEJRbI82NwwsONzqU6VC23rSm2f9X0w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "ying-he-de-ban-fu-xian-ren-bilibili",
+   "name": "硬核的半佛仙人 (Bilibili)",
+   "url": "https://space.bilibili.com/37663924",
+   "description": "Banfo on Bilibili.",
+   "category": "business",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "companies"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/37663924"
+   },
+   "ids": {
+    "bilibili_mid": "37663924"
+   },
+   "image": "https://i1.hdslb.com/bfs/face/aaf33dced1941af0946f37c62f4b48fcaba9c9a2.jpg"
+  },
+  {
+   "id": "manager-today",
+   "name": "經理人 Manager Today",
+   "url": "https://www.managertoday.com.tw/",
+   "description": "Management and career articles.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "career",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "eeo",
+   "name": "经济观察网 EEO",
+   "url": "https://www.eeo.com.cn/",
+   "description": "Economic Observer business news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "economics"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "xueqiu",
+   "name": "雪球 Xueqiu",
+   "url": "https://xueqiu.com/",
+   "description": "Investor community and finance news.",
+   "category": "business",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "community",
+    "investing"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  }
+ ]
+}

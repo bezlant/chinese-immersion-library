@@ -1,0 +1,411 @@
+{
+ "category": {
+  "id": "animation",
+  "group": "watch",
+  "name": "Animation (Donghua)",
+  "name_zh": "国产动画",
+  "icon": "wand.and.stars",
+  "description": "Chinese animation hubs and official channels."
+ },
+ "data_version": "edbc9426d061",
+ "count": 13,
+ "resources": [
+  {
+   "id": "douluo-theater",
+   "name": "Douluo Theater 斗罗剧场",
+   "url": "https://www.youtube.com/@Douluojuchang",
+   "description": "Official Soul Land (斗罗大陆) donghua episodes.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC99ylcEAEH82gQLl4pHSgng"
+   },
+   "ids": {
+    "youtube_channel_id": "UC99ylcEAEH82gQLl4pHSgng"
+   },
+   "image": "https://yt3.googleusercontent.com/OEXw8QG_7H5WF_J10EH807Po6jqsl0hYI8qVisygNjN5ztrlgfdqjBpuzl5dWA1Dm4IK0hiSMg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "made-by-bilibili",
+   "name": "Made By Bilibili",
+   "url": "https://www.youtube.com/@MadeByBilibili",
+   "description": "Official Bilibili donghua: 凡人修仙传, 天官赐福, 时光代理人 and more.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQFyMGc6h30NMCd6HCk0ZPA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCQFyMGc6h30NMCd6HCk0ZPA"
+   },
+   "image": "https://yt3.googleusercontent.com/6fSWn_gXiql_pQKGbTvVEfrTr7TVBmTohBzTpFnRzXkvKixWqYZOPgsUCKyDkzt7cep34Gqu1w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "tencent-video-animation",
+   "name": "Tencent Video Animation",
+   "url": "https://www.youtube.com/@TencentVideoAnimation",
+   "description": "Official donghua episodes from Tencent with subtitles.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdpiId0eJGnnIvfhpbJIM1w"
+   },
+   "ids": {
+    "youtube_channel_id": "UCdpiId0eJGnnIvfhpbJIM1w"
+   },
+   "image": "https://yt3.googleusercontent.com/5VMDdtEdC4OnWS7MoJBSKYTdOyXuuYmAFU36_COU5bJdYfwmSnsfiCequ_QFdxw6uAokzlnuClE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "yuewen-animation",
+   "name": "Yuewen Animation",
+   "url": "https://www.youtube.com/@yuewenanimation",
+   "description": "Donghua adapted from Yuewen web novels.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM5qb75ErC1JMmdgWjN8HJA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCM5qb75ErC1JMmdgWjN8HJA"
+   },
+   "image": "https://yt3.googleusercontent.com/UIWpRPHeO_EraXBkM5nSJi0TiTLOsFf1mKS1sMcAIBa5lrS1FyI_LDewZC3Y7Jigd691Q7u5=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "shanghai-animation-film-studio",
+   "name": "上海美术电影制片厂 Shanghai Animation Film Studio",
+   "url": "https://www.ssfs.cn/",
+   "description": "Studio behind classic Chinese animation (大闹天宫, 葫芦兄弟).",
+   "category": "animation",
+   "type": "website",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "classic",
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "yao-chinese-folktales",
+   "name": "中国奇谭 Yao-Chinese Folktales (Bilibili)",
+   "url": "https://www.bilibili.com/bangumi/media/md28339735/",
+   "description": "Anthology of folktale-inspired shorts by Shanghai Animation Film Studio.",
+   "category": "animation",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "liu-dao-wu-yu-dong-hua-gong-zuo-shi",
+   "name": "六道无鱼动画工作室 (雾山五行)",
+   "url": "https://www.youtube.com/@六道无鱼动画工作室",
+   "description": "Studio behind Fog Hill of Five Elements.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWOPjMDcx-u2Vzgd39gQrSg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCWOPjMDcx-u2Vzgd39gQrSg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nxzF9taUYEEmPgFwQgbDE3O6nYGTSabMHId8CoME3AYw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "genshin-impact-bilibili",
+   "name": "原神 Genshin Impact (Bilibili)",
+   "url": "https://space.bilibili.com/401742377",
+   "description": "Official Genshin Impact Chinese account: animated shorts and character trailers.",
+   "category": "animation",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua",
+    "gaming"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/401742377"
+   },
+   "ids": {
+    "bilibili_mid": "401742377"
+   },
+   "image": "https://i2.hdslb.com/bfs/face/e63bacc8b9e68f59f401cc41728a99262ba661a3.jpg"
+  },
+  {
+   "id": "bilibili-guochuang",
+   "name": "哔哩哔哩国创 Bilibili Guochuang",
+   "url": "https://www.bilibili.com/guochuang/",
+   "description": "Bilibili's hub for Chinese animation (国创).",
+   "category": "animation",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "bilibili-anime",
+   "name": "哔哩哔哩番剧 Bilibili Anime",
+   "url": "https://www.bilibili.com/anime/",
+   "description": "Licensed anime with Chinese subtitles.",
+   "category": "animation",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "anime"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "link-click",
+   "name": "时光代理人 Link Click",
+   "url": "https://www.youtube.com/@时光LinkClick",
+   "description": "Official Link Click clips and episodes.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC40HIPkcYVQ_5r2-vhQs9Lw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC40HIPkcYVQ_5r2-vhQs9Lw"
+   },
+   "image": "https://yt3.googleusercontent.com/hIAJd4RMpPgS2Ek7rb6zFW631nS4XwK6iDR2f7jLewPgO7kiy9dOdcZfCo1zrBRYnxo_5L0Xdw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-legend-of-hei",
+   "name": "羅小黑戰記 The Legend of Hei",
+   "url": "https://www.youtube.com/@luoxiaohei",
+   "description": "Official channel of the beloved Chinese animated series and film.",
+   "category": "animation",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua",
+    "film"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPVlLWXABJgR3SEkqbZLnxw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCPVlLWXABJgR3SEkqbZLnxw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mqXDH3l2M5HPvzaqs6R6VqL0vNELU0ci8dpaIbC2pB6Q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "tencent-animation",
+   "name": "腾讯视频动漫 Tencent Animation",
+   "url": "https://v.qq.com/channel/cartoon",
+   "description": "Tencent Video's donghua channel: 斗罗大陆, 一人之下, 狐妖小红娘.",
+   "category": "animation",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "donghua"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  }
+ ]
+}

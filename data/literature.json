@@ -1,0 +1,289 @@
+[
+  {
+    "id": "gushiwen",
+    "name": "古诗文网 Gushiwen",
+    "url": "https://www.gushiwen.cn/",
+    "description": "Classical poems and prose with translations, notes and audio.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "poetry",
+      "classical"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "shicimingju",
+    "name": "诗词名句网 Shicimingju",
+    "url": "https://www.shicimingju.com/",
+    "description": "Classical poetry and full texts of the Four Great Novels.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "classics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.shicimingju.com/feed/"
+    }
+  },
+  {
+    "id": "sou-yun",
+    "name": "搜韵 Sou-yun",
+    "url": "https://sou-yun.cn/",
+    "description": "Classical poetry search and metre tools.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "poetry"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chinese-wikisource",
+    "name": "维基文库 Chinese Wikisource",
+    "url": "https://zh.wikisource.org/",
+    "description": "Free library of public-domain Chinese texts.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "classics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "shidian-guji",
+    "name": "识典古籍 Shidian Guji",
+    "url": "https://www.shidianguji.com/",
+    "description": "Peking University/ByteDance digitised classical texts with punctuation.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "classics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "shuge",
+    "name": "书格 Shuge",
+    "url": "https://www.shuge.org/",
+    "description": "High-quality scans of rare ancient Chinese books.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "classics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.shuge.org/feed/"
+    }
+  },
+  {
+    "id": "project-gutenberg-chinese",
+    "name": "Project Gutenberg: Chinese",
+    "url": "https://www.gutenberg.org/browse/languages/zh",
+    "description": "Public-domain Chinese books as free e-books.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "classics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "guoxuedashi",
+    "name": "国学大师 Guoxuedashi",
+    "url": "https://www.guoxuedashi.net/",
+    "description": "Classical Chinese reference library and dictionaries.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "classics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "zhonghuadiancang",
+    "name": "中华典藏 Zhonghuadiancang",
+    "url": "https://www.zhonghuadiancang.com/",
+    "description": "Classic texts collection.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "classics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chinese-poems",
+    "name": "Chinese Poems (chinese-poems.com)",
+    "url": "http://www.chinese-poems.com/",
+    "description": "Tang poems with pinyin, word-by-word glosses and translations.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "poetry",
+      "translations"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "china-writers",
+    "name": "中国作家网 China Writers",
+    "url": "https://www.chinawriter.com.cn/",
+    "description": "News and works from contemporary Chinese literature.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "contemporary"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "lu-xun-quan-ji",
+    "name": "鲁迅全集 (维基文库)",
+    "url": "https://zh.wikisource.org/wiki/%E9%AD%AF%E8%BF%85%E5%85%A8%E9%9B%86",
+    "description": "Lu Xun's complete works on Wikisource.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "modern-classics"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  }
+]

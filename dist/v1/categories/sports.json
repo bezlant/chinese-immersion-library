@@ -1,0 +1,331 @@
+{
+ "category": {
+  "id": "sports",
+  "group": "watch",
+  "name": "Sports & Fitness",
+  "name_zh": "体育健身",
+  "icon": "figure.run",
+  "description": "Sports news, communities and fitness."
+ },
+ "data_version": "edbc9426d061",
+ "count": 12,
+ "resources": [
+  {
+   "id": "ettoday-website",
+   "name": "ETtoday 運動雲",
+   "url": "https://sports.ettoday.net/",
+   "description": "Taiwan sports news.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "news"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://feeds.feedburner.com/ettoday/sport"
+   }
+  },
+  {
+   "id": "keep",
+   "name": "Keep",
+   "url": "https://www.gotokeep.com/",
+   "description": "Popular Chinese fitness app.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "fitness"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "keep-youtube",
+   "name": "Keep",
+   "url": "https://www.youtube.com/@Keep-China",
+   "description": "Keep fitness app's workout videos.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "fitness"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa5z5-YvFEcWEe3jnn0L8sA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCa5z5-YvFEcWEe3jnn0L8sA"
+   },
+   "image": "https://yt3.googleusercontent.com/D9uVPTj8I-J0rn6QXzaF0x_noaCMDzWli287D_fzGCylNuSTFRPBYV_0Rj9JKVZ9QV-69dTfk20=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "will-liu",
+   "name": "劉畊宏 Will Liu",
+   "url": "https://www.youtube.com/@willliu2989",
+   "description": "Home workout livestream sensation.",
+   "category": "sports",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "fitness"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPikCyIJhEw1v1gDY6PlPMw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCPikCyIJhEw1v1gDY6PlPMw"
+   },
+   "image": "https://yt3.googleusercontent.com/uxArIlUNPFRg2okk3j0cSRNRLFRUg-S2rwIXGBOnAyoxY5gOGV09Hd_XWAZNZQdDWvrDyo2HgQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "cctv-sports",
+   "name": "央视体育 CCTV Sports",
+   "url": "https://sports.cctv.com/",
+   "description": "CCTV-5 sports news and video.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "dongqiudi",
+   "name": "懂球帝 Dongqiudi",
+   "url": "https://www.dongqiudi.com/",
+   "description": "Football news and community.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "football"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "sina-sports",
+   "name": "新浪体育 Sina Sports",
+   "url": "https://sports.sina.com.cn/",
+   "description": "Sports news.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "news"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "zhibo8",
+   "name": "直播吧 Zhibo8",
+   "url": "https://www.zhibo8.com/",
+   "description": "Live scores, sports news and streams.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "live"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "tencent-sports",
+   "name": "腾讯体育 Tencent Sports",
+   "url": "https://sports.qq.com/",
+   "description": "Sports news and streams.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "news"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "boohee",
+   "name": "薄荷健康 Boohee",
+   "url": "https://www.boohee.com/",
+   "description": "Diet and fitness tracking with food database.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "fitness",
+    "nutrition"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "hupu",
+   "name": "虎扑 Hupu",
+   "url": "https://www.hupu.com/",
+   "description": "Sports community: NBA, football, esports.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "community"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "sportsv",
+   "name": "运动视界 SportsV",
+   "url": "https://www.sportsv.net/",
+   "description": "Taiwanese sports commentary and analysis.",
+   "category": "sports",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "analysis"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  }
+ ]
+}

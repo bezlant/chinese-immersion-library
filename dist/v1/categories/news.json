@@ -1,0 +1,2157 @@
+{
+ "category": {
+  "id": "news",
+  "group": "read",
+  "name": "News",
+  "name_zh": "新闻",
+  "icon": "newspaper.fill",
+  "description": "Chinese-language news from mainland China, Taiwan, Hong Kong, Singapore, Malaysia and international media."
+ },
+ "data_version": "edbc9426d061",
+ "count": 79,
+ "resources": [
+  {
+   "id": "8world-youtube",
+   "name": "8world (YouTube)",
+   "url": "https://www.youtube.com/@8worldSG",
+   "description": "Mediacorp Chinese news and features.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "sg",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "singapore"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUqUtr0w-K8W4AfpbHiYSaQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCUqUtr0w-K8W4AfpbHiYSaQ"
+   },
+   "image": "https://yt3.googleusercontent.com/RzL5_-FLLnD2b_4aySrhQE4mdnZdmVDx4Wys3e0z9_Xrk9Hwii1RyCnIY8jS892lwcpeCm-kug=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "8world",
+   "name": "8视界 8world",
+   "url": "https://www.8world.com/",
+   "description": "Mediacorp Chinese news and entertainment.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "sg",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "singapore",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "abc-chinese",
+   "name": "ABC 中文 (Australia)",
+   "url": "https://www.abc.net.au/chinese",
+   "description": "Australian Broadcasting Corporation Chinese news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "bbc-news",
+   "name": "BBC News 中文",
+   "url": "https://www.bbc.com/zhongwen/simp",
+   "description": "BBC World Service Chinese: world and China news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"
+   }
+  },
+  {
+   "id": "bbc-news-youtube",
+   "name": "BBC News 中文 (YouTube)",
+   "url": "https://www.youtube.com/@bbcnewschinese",
+   "description": "BBC Chinese video reports and explainers.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb3TZ4SD_Ys3j4z0-8o6auA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCb3TZ4SD_Ys3j4z0-8o6auA"
+   },
+   "image": "https://yt3.googleusercontent.com/zfLDpMaOaNOsNdaIESj8ekuIjlX6fkpXsytTufvpy_y3U9OzBA9MQ25p5XYXMvN9-Y-KhMvCMKs=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "cctv-youtube",
+   "name": "CCTV 中国中央电视台",
+   "url": "https://www.youtube.com/@CCTV",
+   "description": "Official CCTV channel with news programmes, galas and shows.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "state-media",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcLK3j-XWdGBnt5bR9NJHaQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCcLK3j-XWdGBnt5bR9NJHaQ"
+   },
+   "image": "https://yt3.googleusercontent.com/UldwlGABN4ST-DVLUDoaKlA4bcE3TvYpLoJvcQslZeJdo2qJrDMR1ZHmFVIhBSxdDUUNgDEAFw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "cctv-4",
+   "name": "CCTV中文 (CCTV-4)",
+   "url": "https://www.youtube.com/@CCTVCH",
+   "description": "CCTV international Chinese channel: news, documentaries and culture.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "state-media",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnAsZ46UTeFEgwOEwMezngQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCnAsZ46UTeFEgwOEwMezngQ"
+   },
+   "image": "https://yt3.googleusercontent.com/NWzBVQUL43t_JX992ePg1gB8csUZKvO5CSV1oLgFBgUDSkI6tfWqHnVEq21GPBKi9vx20cTW=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "dw-chinese-youtube",
+   "name": "DW 中文 (YouTube)",
+   "url": "https://www.youtube.com/@dwchinese",
+   "description": "Deutsche Welle Chinese video.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC99XkAM3Y82ONvdpwUYmOZg"
+   },
+   "ids": {
+    "youtube_channel_id": "UC99XkAM3Y82ONvdpwUYmOZg"
+   },
+   "image": "https://yt3.googleusercontent.com/34RoKQYBNoCKjxIOgtwx6-thqxU4YleVDGsNewhT7hj-rVS1id0lAwXfUrZsGXlrRf6QAXmH=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "ettoday",
+   "name": "ETtoday 新聞雲",
+   "url": "https://www.ettoday.net/",
+   "description": "Taiwan online news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "ft-chinese",
+   "name": "FT中文网 FT Chinese",
+   "url": "https://www.ftchinese.com/",
+   "description": "Financial Times Chinese: business, economics and bilingual reading.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "bilingual",
+    "business"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "rfa",
+   "name": "RFA 自由亚洲电台",
+   "url": "https://www.rfa.org/mandarin/",
+   "description": "Radio Free Asia Mandarin service.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "rfi-youtube",
+   "name": "RFI 华语 (YouTube)",
+   "url": "https://www.youtube.com/@RFI_Cn",
+   "description": "RFI Chinese video.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0NEYEic019u0gp5UwRFmQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCg0NEYEic019u0gp5UwRFmQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lmVtxfTcYIg4zfHWLaRk8t1i_oFCLsMQlGiJu04SzSJA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "rthk-youtube",
+   "name": "RTHK 香港電台",
+   "url": "https://www.youtube.com/@RTHK",
+   "description": "Hong Kong public broadcaster (mostly Cantonese).",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "hong-kong",
+    "public-media"
+   ],
+   "for_learners": false,
+   "dialect": "cantonese",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6of7UYhctnYmqABjUqzuxw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC6of7UYhctnYmqABjUqzuxw"
+   },
+   "image": "https://yt3.googleusercontent.com/M6iV4eesWybx93qEC-3__-NNP1e4kHBzdSzuvM8LPUJL3mE3qztNRbNCwlS917yetduSW5qgbyQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "sbs-chinese",
+   "name": "SBS 中文 (Australia)",
+   "url": "https://www.sbs.com.au/language/chinese/zh-hans",
+   "description": "SBS Mandarin news and podcasts.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international",
+    "podcast"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "taiwanplus-news",
+   "name": "TaiwanPlus News",
+   "url": "https://www.youtube.com/@TaiwanPlusNews",
+   "description": "Taiwan international broadcaster (English and Mandarin).",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCJBSLNtozkO-NqjpPZujiQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCCJBSLNtozkO-NqjpPZujiQ"
+   },
+   "image": "https://yt3.googleusercontent.com/IK9gUaHUadmZo2-jetUUuXrUxg2yWpkyq1qv9aUS0Yy1CSuuPFh3n3_EGA6RfimjlhXRAc58EA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "tvbs-news",
+   "name": "TVBS NEWS",
+   "url": "https://www.youtube.com/@TVBSNEWS01",
+   "description": "Taiwan TVBS news channel.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5nwNW4KdC0SzrhF9BXEYOQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC5nwNW4KdC0SzrhF9BXEYOQ"
+   },
+   "image": "https://yt3.googleusercontent.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "setn",
+   "name": "三立新聞 SETN",
+   "url": "https://www.youtube.com/@setn",
+   "description": "Taiwan SET News.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIU8ha-NHmLjtUwU7dFiXUA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCIU8ha-NHmLjtUwU7dFiXUA"
+   },
+   "image": "https://yt3.googleusercontent.com/rIgJU_kbOlmNIFsL_FMlfnM3MuKsfUHjIydWeRtmExsSjA_nf5HBVyH6QX1mQhGGerHpx7RgpA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "cgtn",
+   "name": "中国国际电视台 CGTN 中文",
+   "url": "https://www.cgtn.com/",
+   "description": "China Global Television Network.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "state-media",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "china-press",
+   "name": "中国报 China Press",
+   "url": "https://www.chinapress.com.my/",
+   "description": "Malaysian Chinese daily.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "my",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "malaysia"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "china-digital-times-website",
+   "name": "中国数字时代 China Digital Times",
+   "url": "https://chinadigitaltimes.net/chinese/",
+   "description": "Archive of censored Chinese internet content and commentary.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "censorship",
+    "internet"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "china-news",
+   "name": "中国新闻网 China News",
+   "url": "https://www.chinanews.com.cn/",
+   "description": "China News Service: breaking national and international news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "state-media"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "china-daily",
+   "name": "中国日报中文网 China Daily",
+   "url": "https://cn.chinadaily.com.cn/",
+   "description": "China Daily Chinese edition.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "state-media"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "youth-cn",
+   "name": "中国青年网 Youth.cn",
+   "url": "http://www.youth.cn/",
+   "description": "News for young readers from China Youth Daily.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "youth"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "cna",
+   "name": "中央社 CNA",
+   "url": "https://www.cna.com.tw/",
+   "description": "Taiwan's Central News Agency.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "agency",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "china-times",
+   "name": "中時新聞網 China Times",
+   "url": "https://www.chinatimes.com/",
+   "description": "Taiwan China Times news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "peoples-daily",
+   "name": "人民网 People's Daily",
+   "url": "http://www.people.com.cn/",
+   "description": "People's Daily online: politics, society and economy.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "state-media"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "guangming",
+   "name": "光明网 Guangming",
+   "url": "https://www.gmw.cn/",
+   "description": "Guangming Daily: culture, education and science news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "culture",
+    "education"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "pnn",
+   "name": "公視新聞網 PNN",
+   "url": "https://news.pts.org.tw/",
+   "description": "Taiwan public television news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "public-media",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "pnn-youtube",
+   "name": "公視新聞網 PNN (YouTube)",
+   "url": "https://www.youtube.com/@PNNPTS",
+   "description": "Taiwan public TV news video.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "public-media",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCexpzYDEnfmAvPSfG4xbcjA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCexpzYDEnfmAvPSfG4xbcjA"
+   },
+   "image": "https://yt3.googleusercontent.com/JY3kTIUsWsz3Tm8xO9A79pvzAl0PWkqioShESz6hoZWzZ9QthZJIyX3yj_U2dgJhJW0VKPTxWw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "phoenix-tv",
+   "name": "凤凰卫视 Phoenix TV",
+   "url": "https://www.youtube.com/@phoenixtvglobal",
+   "description": "Hong Kong-based Mandarin satellite TV news and talk.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4vnLYInDvXtLKGOZieMeMw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC4vnLYInDvXtLKGOZieMeMw"
+   },
+   "image": "https://yt3.googleusercontent.com/0DVIlBXVrcph_VblCI-B0lFTXHOQ9ottOBU4I8dY57IQl600eVqiM3dTp4aaNe1Ee7RFYosd4Ls=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "ifeng",
+   "name": "凤凰网 iFeng",
+   "url": "https://www.ifeng.com/",
+   "description": "Phoenix New Media news portal.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "portal"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "southern-weekly",
+   "name": "南方周末 Southern Weekly",
+   "url": "https://www.infzm.com/",
+   "description": "In-depth weekly features and investigations.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "in-depth",
+    "weekly"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "nanyang-siang-pau",
+   "name": "南洋商报 Nanyang Siang Pau",
+   "url": "https://www.enanyang.my/",
+   "description": "Malaysian Chinese business and general news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "my",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "malaysia"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "ttv-news",
+   "name": "台視新聞 TTV News",
+   "url": "https://www.youtube.com/@TTV_NEWS",
+   "description": "Taiwan Television news.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ROUUjHzEQm-ndb69CX8Ww"
+   },
+   "ids": {
+    "youtube_channel_id": "UC8ROUUjHzEQm-ndb69CX8Ww"
+   },
+   "image": "https://yt3.googleusercontent.com/7PGt2KNBgi9Yj0EATq91tUIHl-xGBJX7mUOkt-iMTMjOuzwMBZjxhTj-YIxru3syWqyuZM3FrQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "the-reporter",
+   "name": "報導者 The Reporter",
+   "url": "https://www.twreporter.org/",
+   "description": "Non-profit in-depth investigative journalism from Taiwan.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "investigative",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://www.twreporter.org/a/rss2.xml"
+   }
+  },
+  {
+   "id": "the-reporter-youtube",
+   "name": "報導者 The Reporter (YouTube)",
+   "url": "https://www.youtube.com/@TwreporterOrg",
+   "description": "Documentary-style investigative videos.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "investigative",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWm0FTcQgRyc--ZsAzGcRA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCbWm0FTcQgRyc--ZsAzGcRA"
+   },
+   "image": "https://yt3.googleusercontent.com/nNqj8Aq-LUAVgxvmn66_3nMrKNkfCpk6-LrsZ_L4Fxn_7V_e2TmYpqjEEUpRsnBupvWvw8C4=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "commonwealth",
+   "name": "天下雜誌 CommonWealth",
+   "url": "https://www.cw.com.tw/",
+   "description": "Taiwan business and society magazine.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "magazine",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "cctv-news-bilibili",
+   "name": "央视新闻 (Bilibili)",
+   "url": "https://space.bilibili.com/456664753",
+   "description": "CCTV News official Bilibili account.",
+   "category": "news",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "state-media"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/456664753"
+   },
+   "ids": {
+    "bilibili_mid": "456664753"
+   },
+   "image": "https://i1.hdslb.com/bfs/face/58a736c94a78f4dd46309f6818d7c8de0566ca6a.jpg"
+  },
+  {
+   "id": "cctv-com",
+   "name": "央视网 CCTV.com",
+   "url": "https://www.cctv.com/",
+   "description": "China Central Television news, programmes and live streams.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "state-media",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "dw-chinese",
+   "name": "德国之声 DW 中文",
+   "url": "https://www.dw.com/zh/",
+   "description": "Deutsche Welle Chinese: Europe and world news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "sohu-news",
+   "name": "搜狐新闻 Sohu News",
+   "url": "https://news.sohu.com/",
+   "description": "Sohu portal news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "portal"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "beijing-news",
+   "name": "新京报 Beijing News",
+   "url": "https://www.bjnews.com.cn/",
+   "description": "Beijing daily news and features.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "daily"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "xinhua-youtube",
+   "name": "新华社 Xinhua",
+   "url": "https://www.youtube.com/@XinhuaNews",
+   "description": "Xinhua News Agency Chinese video.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "state-media"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdAHr2gjiYCiLrlJqSAL8vA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCdAHr2gjiYCiLrlJqSAL8vA"
+   },
+   "image": "https://yt3.googleusercontent.com/MI30_XbhsVZjjftrwcf66XmM5Anr_mlAOOLoRJ96IerXi7QMHyVNJHIAIPbI0xnL_g22avstow=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "xinhua",
+   "name": "新华网 Xinhua",
+   "url": "http://www.xinhuanet.com/",
+   "description": "China's state news agency: national and world news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "state-media"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "sina-news",
+   "name": "新浪新闻 Sina News",
+   "url": "https://news.sina.com.cn/",
+   "description": "Sina portal news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "portal"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://rss.sina.com.cn/news/marquee/ddt.xml"
+   }
+  },
+  {
+   "id": "nikkei-chinese",
+   "name": "日经中文网 Nikkei Chinese",
+   "url": "https://cn.nikkei.com/",
+   "description": "Nikkei Asia business news in Chinese.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "business"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "ming-pao",
+   "name": "明報 Ming Pao",
+   "url": "https://news.mingpao.com/",
+   "description": "Hong Kong daily news (written Chinese).",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "hong-kong"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "sing-tao",
+   "name": "星島頭條 Sing Tao",
+   "url": "https://www.stheadline.com/",
+   "description": "Hong Kong Sing Tao Daily news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "hong-kong"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://www.stheadline.com/rss"
+   }
+  },
+  {
+   "id": "sin-chew-daily",
+   "name": "星洲日报 Sin Chew Daily",
+   "url": "https://www.sinchew.com.my/",
+   "description": "Malaysia's largest Chinese-language daily.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "my",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "malaysia"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "ebc-news",
+   "name": "東森新聞 EBC News",
+   "url": "https://www.youtube.com/@newsebc",
+   "description": "Taiwan EBC news.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR3asjvr_WAaxwJYEDV_Bfw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCR3asjvr_WAaxwJYEDV_Bfw"
+   },
+   "image": "https://yt3.googleusercontent.com/3SP20B5NfOMGNTvAd4PkffLIHt7vA5_SrtefsCbmKBm4k4uD5JhSE2LzDsPyxWT6RP3BiW4vAA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "ftv-news",
+   "name": "民視新聞 FTV News",
+   "url": "https://www.youtube.com/@FTV_News",
+   "description": "Formosa TV News.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2VmWn8dAqkzlQqvy02E1PA"
+   },
+   "ids": {
+    "youtube_channel_id": "UC2VmWn8dAqkzlQqvy02E1PA"
+   },
+   "image": "https://yt3.googleusercontent.com/eq9GJ0t1CmnqrVFqohCpAQYtW6pzTwtg4ATiPJbjOtKGlHrcQ8FmY7b5taNl0crRQXs3GnOl=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "rfi",
+   "name": "法广 RFI 华语",
+   "url": "https://www.rfi.fr/cn/",
+   "description": "Radio France Internationale Chinese service.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international",
+    "radio"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "the-paper",
+   "name": "澎湃新闻 The Paper",
+   "url": "https://www.thepaper.cn/",
+   "description": "Shanghai-based digital news with in-depth reporting.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "in-depth"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "huanqiu",
+   "name": "环球网 Huanqiu",
+   "url": "https://www.huanqiu.com/",
+   "description": "Global Times Chinese site: international news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "world"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "jiemian",
+   "name": "界面新闻 Jiemian",
+   "url": "https://www.jiemian.com/",
+   "description": "Business and lifestyle news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "business"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "initium-media",
+   "name": "端傳媒 Initium Media",
+   "url": "https://theinitium.com/",
+   "description": "In-depth Chinese-language reporting on Greater China.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "paid",
+   "tags": [
+    "in-depth"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://theinitium.com/rss/"
+   }
+  },
+  {
+   "id": "yicai",
+   "name": "第一财经 Yicai",
+   "url": "https://www.yicai.com/",
+   "description": "Financial and business news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "finance"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "nyt-chinese-youtube",
+   "name": "紐約時報中文網 (YouTube)",
+   "url": "https://www.youtube.com/@紐約時報中文網-m8t",
+   "description": "NYT Chinese video.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa37l88L_6Db70pPvA7_uPQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCa37l88L_6Db70pPvA7_uPQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_nYHuzT-N8cHnckBOa9szDPi-jX4jwIXsyHIfI0ZkKm_g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "nyt-chinese",
+   "name": "纽约时报中文网 NYT Chinese",
+   "url": "https://cn.nytimes.com/",
+   "description": "New York Times Chinese edition with bilingual articles.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "bilingual",
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://cn.nytimes.com/rss/"
+   }
+  },
+  {
+   "id": "netease-news",
+   "name": "网易新闻 NetEase News",
+   "url": "https://news.163.com/",
+   "description": "Popular portal news aggregator.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "portal"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "voa-chinese",
+   "name": "美国之音 VOA Chinese",
+   "url": "https://www.voachinese.com/",
+   "description": "Voice of America Mandarin news, video and podcasts.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://www.voachinese.com/api/"
+   }
+  },
+  {
+   "id": "voa-chinese-youtube",
+   "name": "美国之音中文网 (YouTube)",
+   "url": "https://www.youtube.com/@voachinese",
+   "description": "VOA Mandarin news video.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCt5zpwa264A0B-gaYtv1IpA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCt5zpwa264A0B-gaYtv1IpA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_lfmf_ZiCadTjQG6IE46QmDwceM8rhVRlkzdo1t3lksJuuc=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "un-chinese",
+   "name": "联合国 United Nations 中文",
+   "url": "https://www.un.org/zh/",
+   "description": "United Nations Chinese site: news, reports and global issues in formal written Chinese.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://www.un.org/zh/rss.xml"
+   }
+  },
+  {
+   "id": "lianhe-zaobao",
+   "name": "联合早报 Lianhe Zaobao",
+   "url": "https://www.zaobao.com.sg/",
+   "description": "Singapore's leading Chinese daily: Southeast Asia, China and world news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "sg",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "singapore"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "zaobao-youtube",
+   "name": "联合早报 zaobao (YouTube)",
+   "url": "https://www.youtube.com/@zaobaodotsg",
+   "description": "Lianhe Zaobao video news.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "sg",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "singapore"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrbQxu0YkoVWu2dw5b1MzNg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCrbQxu0YkoVWu2dw5b1MzNg"
+   },
+   "image": "https://yt3.googleusercontent.com/Xb7ObIo6BXNvgtqTnkJPMF3IqoY3ugcd2KXs3NmGwwsl-oAvvIQk5MuTqALxCj_4dALryKI-B7U=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "udn",
+   "name": "聯合新聞網 UDN",
+   "url": "https://udn.com/news/index",
+   "description": "United Daily News: Taiwan news portal.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://udn.com/news/rssfeed"
+   }
+  },
+  {
+   "id": "tencent-news",
+   "name": "腾讯新闻 Tencent News",
+   "url": "https://news.qq.com/",
+   "description": "Tencent portal news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "portal"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "liberty-times",
+   "name": "自由時報 Liberty Times",
+   "url": "https://www.ltn.com.tw/",
+   "description": "Major Taiwan daily.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://news.ltn.com.tw/rss/all.xml"
+   }
+  },
+  {
+   "id": "cts-news",
+   "name": "華視新聞 CTS News",
+   "url": "https://www.youtube.com/@CtsTw",
+   "description": "Chinese Television System news.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDCJyLpbfgeVE9iZiEam-Kg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCDCJyLpbfgeVE9iZiEam-Kg"
+   },
+   "image": "https://yt3.googleusercontent.com/bNiPVeUS2UrnSYACw9l-MmxLPus732f22CycYL5El6Z5pgH865m0jEfqcxNNFsXEKPPt0wWc=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "guancha-bilibili",
+   "name": "观察者网 (Bilibili)",
+   "url": "https://space.bilibili.com/10330740",
+   "description": "Guancha current affairs videos on Bilibili.",
+   "category": "news",
+   "type": "bilibili",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "commentary"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/10330740"
+   },
+   "ids": {
+    "bilibili_mid": "10330740"
+   },
+   "image": "https://i0.hdslb.com/bfs/face/3d0dba3789065512f5217387ab135a093ae10c45.jpg"
+  },
+  {
+   "id": "guancha",
+   "name": "观察者网 Guancha",
+   "url": "https://www.guancha.cn/",
+   "description": "Current affairs commentary and international news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "commentary"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "caixin",
+   "name": "财新网 Caixin",
+   "url": "https://www.caixin.com/",
+   "description": "Business and investigative journalism.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "business",
+    "investigative"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "the-news-lens",
+   "name": "關鍵評論網 The News Lens",
+   "url": "https://www.thenewslens.com/",
+   "description": "Taiwan news and commentary.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "commentary",
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "the-news-lens-youtube",
+   "name": "關鍵評論網 The News Lens (YouTube)",
+   "url": "https://www.youtube.com/@TheNewsLens",
+   "description": "Explainers and commentary.",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4bokYuSrVGpI6_WYv7Gdbw"
+   },
+   "ids": {
+    "youtube_channel_id": "UC4bokYuSrVGpI6_WYv7Gdbw"
+   },
+   "image": "https://yt3.googleusercontent.com/2kOAni0b7alX2cfplG-abyKBKpfp6HynGWfuObHf92GiD9fwfv2z35-pHKnUikmmdRkmSf4kt-k=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "yonhap",
+   "name": "韩联社 Yonhap 中文",
+   "url": "https://cn.yna.co.kr/",
+   "description": "Yonhap News Agency Chinese edition.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "international",
+    "korea"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "storm-media",
+   "name": "風傳媒 Storm Media",
+   "url": "https://www.storm.mg/",
+   "description": "Taiwan politics and current affairs.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "hk01-youtube",
+   "name": "香港01 (YouTube)",
+   "url": "https://www.youtube.com/@01official",
+   "description": "HK01 news video (Cantonese).",
+   "category": "news",
+   "type": "youtube",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "hong-kong"
+   ],
+   "for_learners": false,
+   "dialect": "cantonese",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTxyBu9VWUq5LXezXwy_SGg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCTxyBu9VWUq5LXezXwy_SGg"
+   },
+   "image": "https://yt3.googleusercontent.com/y4quIkvtdQ9_hszPJZKWuyQv8OI0CtceLSrlE55-uFTpYtFrkZbzIsujps4M6HhDpatlmWdMJw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "hk01",
+   "name": "香港01 HK01",
+   "url": "https://www.hk01.com/",
+   "description": "Hong Kong digital news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "hong-kong"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "rthk",
+   "name": "香港電台 RTHK 新聞",
+   "url": "https://news.rthk.hk/rthk/ch/",
+   "description": "Hong Kong public broadcaster news.",
+   "category": "news",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "hong-kong",
+    "public-media"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://news.rthk.hk/rthk/ch/?format=feed&type=rss"
+   }
+  }
+ ]
+}

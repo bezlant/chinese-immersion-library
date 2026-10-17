@@ -1,0 +1,291 @@
+{
+ "category": {
+  "id": "exam",
+  "group": "learn",
+  "name": "HSK & TOCFL",
+  "name_zh": "考试备考",
+  "icon": "checkmark.seal.fill",
+  "description": "Official exam sites, mock tests and level lists."
+ },
+ "data_version": "edbc9426d061",
+ "count": 10,
+ "resources": [
+  {
+   "id": "allset-learning-hsk-grammar",
+   "name": "AllSet Learning HSK Grammar",
+   "url": "https://resources.allsetlearning.com/chinese/grammar/HSK_grammar_points",
+   "description": "Grammar points listed by HSK level.",
+   "category": "exam",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "chinese-plus",
+   "name": "Chinese Plus 中文联播",
+   "url": "https://www.chineseplus.net/",
+   "description": "Center for Language Education and Cooperation's learning portal with HSK resources.",
+   "category": "exam",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "hsk",
+    "official"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "chinese-testing-international",
+   "name": "Chinese Testing International (HSK official)",
+   "url": "https://www.chinesetest.cn/",
+   "description": "Official HSK, HSKK and YCT registration and information.",
+   "category": "exam",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "hsk",
+    "official"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "hsk-academy",
+   "name": "HSK Academy",
+   "url": "https://hsk.academy/",
+   "description": "HSK vocabulary lists, flashcards and practice.",
+   "category": "exam",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "hsk",
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "hsk-lord",
+   "name": "HSK Lord",
+   "url": "https://hsklord.com/",
+   "description": "HSK 3.0 vocabulary, guides and practice.",
+   "category": "exam",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "hsk",
+    "hsk-3"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://hsklord.com/blog/feed.xml"
+   }
+  },
+  {
+   "id": "hsk-mock",
+   "name": "HSK Mock",
+   "url": "https://www.hskmock.com/",
+   "description": "Online HSK mock exams with real test format.",
+   "category": "exam",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "hsk",
+    "mock-tests"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "hsk-online",
+   "name": "HSK Online (汉语考试服务网)",
+   "url": "https://www.hskonline.com/",
+   "description": "HSK mock tests and preparation.",
+   "category": "exam",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "hsk",
+    "mock-tests"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "mandarin-bean-hsk",
+   "name": "Mandarin Bean HSK",
+   "url": "https://mandarinbean.com/hsk/",
+   "description": "HSK-levelled readings and vocabulary.",
+   "category": "exam",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "feed": {
+    "format": "rss",
+    "url": "https://mandarinbean.com/feed/"
+   }
+  },
+  {
+   "id": "sc-top-tocfl",
+   "name": "SC-TOP TOCFL",
+   "url": "https://tocfl.edu.tw/",
+   "description": "Official Taiwan TOCFL exam information and practice tests.",
+   "category": "exam",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "official",
+    "tocfl"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ]
+  },
+  {
+   "id": "tocfl-hsk-chinese",
+   "name": "TOCFL-HSK Chinese",
+   "url": "https://www.youtube.com/@tocfl-hskchinese",
+   "description": "Practice videos for TOCFL and HSK.",
+   "category": "exam",
+   "type": "youtube",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "hsk",
+    "tocfl"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_mhVGuNhU3_UfCOFNEUPJQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC_mhVGuNhU3_UfCOFNEUPJQ"
+   },
+   "image": "https://yt3.googleusercontent.com/dbsfTdrU96lucLkBEk65fa5DU84DtpSJkwqbc2_eygWqX3A5K7Bve8uk1xNO1ZidHhr70zKhMw=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

@@ -1,0 +1,1015 @@
+[
+  {
+    "id": "qq-music",
+    "name": "QQ音乐 QQ Music",
+    "url": "https://y.qq.com/",
+    "description": "Huge Chinese music library with synced lyrics.",
+    "category": "music",
+    "type": "website",
+    "tags": [
+      "streaming",
+      "lyrics"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+    "id": "netease-cloud-music",
+    "name": "网易云音乐 NetEase Cloud Music",
+    "url": "https://music.163.com/",
+    "description": "Music streaming loved for its comments and playlists.",
+    "category": "music",
+    "type": "website",
+    "tags": [
+      "streaming",
+      "lyrics"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+    "id": "kugou",
+    "name": "酷狗音乐 Kugou",
+    "url": "https://www.kugou.com/",
+    "description": "Music streaming and karaoke.",
+    "category": "music",
+    "type": "website",
+    "tags": [
+      "streaming"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "kkbox",
+    "name": "KKBOX",
+    "url": "https://www.kkbox.com/",
+    "description": "Taiwan's leading music streaming service.",
+    "category": "music",
+    "type": "website",
+    "tags": [
+      "streaming"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "paid",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "mojim",
+    "name": "魔鏡歌詞網 Mojim",
+    "url": "https://mojim.com/",
+    "description": "Large Chinese lyrics database.",
+    "category": "music",
+    "type": "website",
+    "tags": [
+      "lyrics"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "streetvoice",
+    "name": "StreetVoice 街聲",
+    "url": "https://streetvoice.com/",
+    "description": "Indie music platform from Taiwan and China.",
+    "category": "music",
+    "type": "website",
+    "tags": [
+      "indie"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "jay-chou",
+    "name": "周杰倫 Jay Chou",
+    "url": "https://www.youtube.com/@jaychou",
+    "description": "Official channel of Mandopop's king.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC8CU5nVhCQIdAGrFFp4loOQ"
+    },
+    "image": "https://yt3.googleusercontent.com/FPqiPaQ9oLussTZPAGcHkQPvv6r9EsxkLjepbYCLV53ZoAq6IYRTU_ld8JflMg3rt4-NTQ9URg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8CU5nVhCQIdAGrFFp4loOQ"
+    }
+  },
+  {
+    "id": "jj-lin",
+    "name": "JJ Lin 林俊傑",
+    "url": "https://www.youtube.com/@jjlin",
+    "description": "Official channel of the Singaporean singer-songwriter.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "sg",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCd91HSXKhsIv8PIjNrDByHQ"
+    },
+    "image": "https://yt3.googleusercontent.com/88A8LNYmzNpjXeuHCAN2pK496G418wTT2CR2Qv5FGFoBPV-MKaRg7B-NeNVMlF0XHoW2AgAI_g=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd91HSXKhsIv8PIjNrDByHQ"
+    }
+  },
+  {
+    "id": "gem",
+    "name": "GEM 鄧紫棋",
+    "url": "https://www.youtube.com/@gem0816",
+    "description": "Official channel of G.E.M.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "hk",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCsLWG2t7n9LFsvH0wR2rtpw"
+    },
+    "image": "https://yt3.googleusercontent.com/siOZcUzoJa7TbLk13Jfhmv9lwVkgcMzuVxJw5cXlTduJsYFxCYDtaehDn_2WHTGZWTrMT8rjFQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsLWG2t7n9LFsvH0wR2rtpw"
+    }
+  },
+  {
+    "id": "jolin",
+    "name": "JOLIN 蔡依林",
+    "url": "https://www.youtube.com/@jolin_cai",
+    "description": "Official channel of Jolin Tsai.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCZxdOVXIBEnJUQkhZgeOTTg"
+    },
+    "image": "https://yt3.googleusercontent.com/TYWlTSzOg3bE438PLfKe5QFf_DroBWY7ud9siD09Z4o84WcXCtfj6QkfI8YrJIuGXLitbMKIHpI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZxdOVXIBEnJUQkhZgeOTTg"
+    }
+  },
+  {
+    "id": "eason-chan",
+    "name": "Eason Chan 陳奕迅",
+    "url": "https://www.youtube.com/@easonchan",
+    "description": "Official channel of Eason Chan (Mandarin & Cantonese).",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "cantopop",
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "hk",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCnafe6M9Itwt08RFI51L6mw"
+    },
+    "image": "https://yt3.googleusercontent.com/epd4qdRJ3EG_oOeogMIp6FqSoxE8GCFcDNM5-09zkW9haaX0zZhEr5a6xznGVG-oio1Wa5n9UA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnafe6M9Itwt08RFI51L6mw"
+    }
+  },
+  {
+    "id": "ronghao-li",
+    "name": "李榮浩 Ronghao Li",
+    "url": "https://www.youtube.com/@ronghaolisofficialchannel9864",
+    "description": "Official channel of Li Ronghao.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCbGkxRgcnFTNNh3FDJOoJHA"
+    },
+    "image": "https://yt3.googleusercontent.com/JQqxjz3MMwFDyLtX1E_zOPOt6-2b8uGfTvFOoNytlbv78KLlzYKbRRnHoaQG4o0bV8_YAaSL=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbGkxRgcnFTNNh3FDJOoJHA"
+    }
+  },
+  {
+    "id": "joker-xue",
+    "name": "薛之謙 Joker Xue",
+    "url": "https://www.youtube.com/@JokerXue1707",
+    "description": "Official channel of Joker Xue.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCrLF3ndpdxlHgtrjoDkK6lw"
+    },
+    "image": "https://yt3.googleusercontent.com/u8tcXDcVOviBOzM0y5T2vZYSJe2BjV0uKG-EXH4l-wB_BFPV5SXDt2CZICji574S8BO3Hsrz=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrLF3ndpdxlHgtrjoDkK6lw"
+    }
+  },
+  {
+    "id": "accusefive",
+    "name": "告五人 Accusefive",
+    "url": "https://www.youtube.com/@Accusefive",
+    "description": "Taiwanese indie-pop band.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "indie"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCj0Dl_XdIoAKzyfbPEu9WMw"
+    },
+    "image": "https://yt3.googleusercontent.com/KZ6b_qPLe_p2U46Bin4qmhb5ia5zATRpmjcPbLNiar1SK0jBLmFeZqk48pJtZB8i5n7xCVZGcQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj0Dl_XdIoAKzyfbPEu9WMw"
+    }
+  },
+  {
+    "id": "no-party-for-cao-dong",
+    "name": "草東沒有派對 No Party For Cao Dong",
+    "url": "https://www.youtube.com/@nopartyforcaodong",
+    "description": "Taiwanese indie-rock band.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "rock",
+      "indie"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCYAyQjEhGHKARXnZe0U__9g"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lYAPQyOVK3a2C_6E0KU2C-jumiKnXwDaYsiZNacJgy7A=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYAyQjEhGHKARXnZe0U__9g"
+    }
+  },
+  {
+    "id": "sunset-rollercoaster",
+    "name": "落日飛車 Sunset Rollercoaster",
+    "url": "https://www.youtube.com/@SunsetRollercoaster",
+    "description": "Taiwanese indie band.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "indie"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCI04acmi3bs74MB4vOXUcrQ"
+    },
+    "image": "https://yt3.googleusercontent.com/0oqHHp5WHgatLTYWG2EWZA7WU8u1w412KOhajLzfZoA8UFkv7khsKSDIK6LOKrAdTZUacdLxjw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI04acmi3bs74MB4vOXUcrQ"
+    }
+  },
+  {
+    "id": "new-pants",
+    "name": "新褲子 New Pants",
+    "url": "https://www.youtube.com/@NewPants",
+    "description": "Beijing new-wave rock band.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "rock"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC0tw0QXwluSD7Bh5oXQfXvw"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_k6F1djfzeUGgikveBQHZNeJWW-Ioc25ObaJo5rcEnuhg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0tw0QXwluSD7Bh5oXQfXvw"
+    }
+  },
+  {
+    "id": "amei",
+    "name": "aMEI 張惠妹",
+    "url": "https://www.youtube.com/@amei",
+    "description": "Official channel of A-Mei.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCI1ApqO0j1KU2M9iZR1cc8A"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kmnUHXxXp6elEg42G0aWij2YLwLSx4Aw7sopY8sWQ-Zw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI1ApqO0j1KU2M9iZR1cc8A"
+    }
+  },
+  {
+    "id": "stefanie-sun",
+    "name": "孫燕姿 Stefanie Sun",
+    "url": "https://www.youtube.com/@Stefsunyanzi",
+    "description": "Official channel of Stefanie Sun.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "sg",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCZtX_KMZ4RQ6lQ_e52zOyZA"
+    },
+    "image": "https://yt3.googleusercontent.com/irPUnmrxGIe0fD5y-RfoLVRa9wBom08nCH_hWHG9wK6NI8YnNMPBO8Zya8h2ZbnsWxpCr25hqw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZtX_KMZ4RQ6lQ_e52zOyZA"
+    }
+  },
+  {
+    "id": "hebe-tien",
+    "name": "田馥甄 Hebe Tien",
+    "url": "https://www.youtube.com/@hebe_tien_0330",
+    "description": "Official channel of Hebe Tien.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCWASjJ7q476ZgxT9oWBSclg"
+    },
+    "image": "https://yt3.googleusercontent.com/eD5Hhffb9PGRGJawtw7KOfvxY-vV0gIEJdc1Uqw3lm6kao4FyFiv_CPy3uod8PQK_NxEaPbL0A=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWASjJ7q476ZgxT9oWBSclg"
+    }
+  },
+  {
+    "id": "weibird",
+    "name": "韋禮安 WeiBird",
+    "url": "https://www.youtube.com/@weibird_official",
+    "description": "Official channel of WeiBird.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "mandopop"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCeNjr6aT_-wnwmybVTRfj0w"
+    },
+    "image": "https://yt3.googleusercontent.com/A_7pGrBsGluqUSLm1rQu7h7BQsgk_-VDT3O1rAR7zHRqxOSg6uAFjqXzYDHs9R-kpU-5UBk40Q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeNjr6aT_-wnwmybVTRfj0w"
+    }
+  },
+  {
+    "id": "9m88",
+    "name": "9m88",
+    "url": "https://www.youtube.com/@9m88.",
+    "description": "Taiwanese jazz-soul singer.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "jazz"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCo95y8CD2JpOR5eePxB1a7w"
+    },
+    "image": "https://yt3.googleusercontent.com/-mf68S8FEZJDxPjWLaiLpV_y1vHX9qRQDy2mBEm6B1gGTsFOTPP_ozICAEXds23vjLBnMpxP=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo95y8CD2JpOR5eePxB1a7w"
+    }
+  },
+  {
+    "id": "warner-music-taiwan",
+    "name": "華納音樂 Warner Music Taiwan",
+    "url": "https://www.youtube.com/@warnermusictaiwan",
+    "description": "Music videos from Warner's Chinese artists.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "label"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCStpPtoeQUYII1Jsbl0qf8A"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mMP2w4P_Q7lGUa6JdUYLemRVxA7u8pf8XbyyWxN-C3vNI=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCStpPtoeQUYII1Jsbl0qf8A"
+    }
+  },
+  {
+    "id": "rock-records",
+    "name": "滾石唱片 Rock Records",
+    "url": "https://www.youtube.com/@RockRecordsTaipei",
+    "description": "Classic and modern Mandopop label.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "label",
+      "classic"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCPcF3KTqhD67ADkukx_OeDg"
+    },
+    "image": "https://yt3.googleusercontent.com/zPMySGhZ2fOFWQtvhItceAv2lNsbCWhIK0ZuIeoh3oxFtsTgstUj1h7oJuEQXWErdEfYnhohKg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPcF3KTqhD67ADkukx_OeDg"
+    }
+  },
+  {
+    "id": "bin-music",
+    "name": "相信音樂 B'in Music",
+    "url": "https://www.youtube.com/@binmusictaipei",
+    "description": "Label of Mayday and many Taiwanese bands.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "label"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC7ovu6a8ydIbDy0fAKmoZ9A"
+    },
+    "image": "https://yt3.googleusercontent.com/ScWoWqVBqGRCATh5MdbfL2ziTnxe34bsYskmCfXqaXrdx7aLu9im-6QjD8FUk387zZMltVMPgSY=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7ovu6a8ydIbDy0fAKmoZ9A"
+    }
+  },
+  {
+    "id": "him-music",
+    "name": "華研國際 HIM Music",
+    "url": "https://www.youtube.com/@himmusic_official",
+    "description": "Label of S.H.E, Hebe and others.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "label"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCCsUQXwhDj4iVlhG4VCq6Kg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mHloiVOAQ6hbuhhZOdHbKhq8_Pd3cREfG19VEi0d8Hu6E=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsUQXwhDj4iVlhG4VCq6Kg"
+    }
+  },
+  {
+    "id": "sony-music-taiwan",
+    "name": "Sony Music Taiwan 台灣索尼音樂",
+    "url": "https://www.youtube.com/@SonyMusicTaiwan",
+    "description": "Sony's Chinese-language artists.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "label"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCFtUq0ml-coWmD70Pt_urRA"
+    },
+    "image": "https://yt3.googleusercontent.com/5jJT9D4OgOpet2Ye70YB-p65SxIRhqL2f73wpGcbmYm6u8O06KTX7L66nsE6mmEMj9kDryJSD3A=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtUq0ml-coWmD70Pt_urRA"
+    }
+  },
+  {
+    "id": "universal-music-taiwan",
+    "name": "Universal Music Taiwan 環球音樂",
+    "url": "https://www.youtube.com/@universaltwn",
+    "description": "Universal's Chinese-language artists.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "label"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCgQ8olRhkepJWlVF9IVmPGQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_ksVrCFL_TSjNigglDddObk074H6mkb13oRBW8vvsP0Src=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgQ8olRhkepJWlVF9IVmPGQ"
+    }
+  },
+  {
+    "id": "mangotv-music-channel",
+    "name": "MangoTV Music Channel",
+    "url": "https://www.youtube.com/@MangoTV-Music",
+    "description": "Live performances from Hunan TV music shows.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "live"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCwnDGKPgpRsJUjuSGhATAmg"
+    },
+    "image": "https://yt3.googleusercontent.com/btI6natkOf7B2uAI0c4cZ-bGZPH6l0R3abwGbVR28s6vXDS6gVbOOqXYZjxF6dS1H6wwZs964g=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwnDGKPgpRsJUjuSGhATAmg"
+    }
+  },
+  {
+    "id": "zjstv-music-channel",
+    "name": "ZJSTV Music Channel",
+    "url": "https://www.youtube.com/@ZJSTV-Music",
+    "description": "Music from Zhejiang TV shows.",
+    "category": "music",
+    "type": "youtube",
+    "tags": [
+      "live"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCp8cPvx_Od76EL66vvCnhRA"
+    },
+    "image": "https://yt3.googleusercontent.com/hSgYsmFX8n8mblRZl-s87mMrObi21ettWlCXH78ISdh8UpZa20k-RrmUAQowrPqr0Lz7jlHJsQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp8cPvx_Od76EL66vvCnhRA"
+    }
+  },
+  {
+    "id": "mou-huan-jun",
+    "name": "某幻君",
+    "url": "https://space.bilibili.com/1577804",
+    "description": "Original songs and music videos from a top Bilibili creator.",
+    "category": "music",
+    "type": "bilibili",
+    "tags": [
+      "original"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "1577804"
+    },
+    "image": "https://i2.hdslb.com/bfs/face/a7eda2f97431d13f89a43b310262d1b19be83c01.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/1577804"
+    }
+  }
+]

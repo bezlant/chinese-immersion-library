@@ -1,0 +1,225 @@
+{
+ "category": {
+  "id": "social",
+  "group": "read",
+  "name": "Social & Forums",
+  "name_zh": "社交论坛",
+  "icon": "bubble.left.and.bubble.right.fill",
+  "description": "Forums and social platforms where native speakers talk."
+ },
+ "data_version": "edbc9426d061",
+ "count": 8,
+ "resources": [
+  {
+   "id": "dcard",
+   "name": "Dcard",
+   "url": "https://www.dcard.tw/",
+   "description": "Taiwan's popular young people's forum.",
+   "category": "social",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "forum"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "lihkg",
+   "name": "LIHKG 連登",
+   "url": "https://lihkg.com/",
+   "description": "Hong Kong forum (Cantonese).",
+   "category": "social",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "forum"
+   ],
+   "for_learners": false,
+   "dialect": "cantonese",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "ptt",
+   "name": "PTT",
+   "url": "https://www.ptt.cc/bbs/index.html",
+   "description": "Taiwan's classic BBS forum.",
+   "category": "social",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "forum"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "weixin-sogou-search",
+   "name": "微信公众号 search (Sogou)",
+   "url": "https://weixin.sogou.com/",
+   "description": "Search WeChat official account articles.",
+   "category": "social",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "articles",
+    "wechat"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "tieba",
+   "name": "百度贴吧 Tieba",
+   "url": "https://tieba.baidu.com/",
+   "description": "Topic-based forums on everything.",
+   "category": "social",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "forum"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "zhihu-daily",
+   "name": "知乎日报 Zhihu Daily",
+   "url": "https://daily.zhihu.com/",
+   "description": "Daily curated Zhihu stories.",
+   "category": "social",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "articles"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "jianshu",
+   "name": "简书 Jianshu",
+   "url": "https://www.jianshu.com/",
+   "description": "Writing and blogging community.",
+   "category": "social",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "writing"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "douban",
+   "name": "豆瓣 Douban",
+   "url": "https://www.douban.com/",
+   "description": "Books, films, music and interest groups.",
+   "category": "social",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "groups",
+    "reviews"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  }
+ ]
+}

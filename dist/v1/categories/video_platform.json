@@ -1,0 +1,577 @@
+{
+ "category": {
+  "id": "video_platform",
+  "group": "watch",
+  "name": "Streaming Platforms",
+  "name_zh": "视频平台",
+  "icon": "tv.fill",
+  "description": "Streaming and video platforms for Chinese content."
+ },
+ "data_version": "edbc9426d061",
+ "count": 21,
+ "resources": [
+  {
+   "id": "catchplay",
+   "name": "CATCHPLAY+",
+   "url": "https://www.catchplay.com/",
+   "description": "Taiwan film streaming.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "paid",
+   "tags": [
+    "film"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "iqiyi-international",
+   "name": "iQIYI International",
+   "url": "https://www.iq.com/",
+   "description": "International iQIYI app with subtitles.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "drama",
+    "subtitles"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "line-tv-myvideo",
+   "name": "LINE TV / myVideo",
+   "url": "https://www.myvideo.net.tw/",
+   "description": "Taiwan streaming service.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "paid",
+   "tags": [
+    "drama"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "litv",
+   "name": "LiTV",
+   "url": "https://www.litv.tv/",
+   "description": "Taiwan online TV and streaming.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "drama",
+    "live"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "mytv-super",
+   "name": "myTV SUPER",
+   "url": "https://www.mytvsuper.com/",
+   "description": "TVB streaming (Cantonese).",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "hk",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "drama"
+   ],
+   "for_learners": false,
+   "dialect": "cantonese",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "viki",
+   "name": "Viki",
+   "url": "https://www.viki.com/",
+   "description": "Asian dramas with fan-made multilingual subtitles.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "drama",
+    "subtitles"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "viu",
+   "name": "Viu",
+   "url": "https://www.viu.com/",
+   "description": "Asian dramas and variety streaming.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "drama"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "wetv",
+   "name": "WeTV",
+   "url": "https://wetv.vip/",
+   "description": "Tencent Video's international app with multilingual subtitles.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "drama",
+    "subtitles"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "youku",
+   "name": "优酷 Youku",
+   "url": "https://www.youku.com/",
+   "description": "Alibaba's streaming platform.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "drama",
+    "streaming"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "pts-plus",
+   "name": "公視+ PTS+",
+   "url": "https://www.ptsplus.tv/",
+   "description": "Taiwan Public TV streaming.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "drama",
+    "public-media"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "bilibili",
+   "name": "哔哩哔哩 Bilibili",
+   "url": "https://www.bilibili.com/",
+   "description": "China's top video community with danmaku comments: anime, knowledge, gaming, vlogs.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "danmaku",
+    "ugc"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "cctv-video",
+   "name": "央视频 CCTV Video",
+   "url": "https://www.yangshipin.cn/",
+   "description": "CCTV's live TV and video app.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "live",
+    "tv"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "xiaohongshu",
+   "name": "小红书 Xiaohongshu (RED)",
+   "url": "https://www.xiaohongshu.com/",
+   "description": "Lifestyle notes and short videos.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "lifestyle",
+    "short-video"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "ba-ha-mu-te-dong-hua-feng",
+   "name": "巴哈姆特動畫瘋",
+   "url": "https://ani.gamer.com.tw/",
+   "description": "Licensed anime streaming in Taiwan with Chinese subtitles.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "anime"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "weibo",
+   "name": "微博 Weibo",
+   "url": "https://weibo.com/",
+   "description": "China's Twitter-like microblog.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "social"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "kuaishou",
+   "name": "快手 Kuaishou",
+   "url": "https://www.kuaishou.com/",
+   "description": "Short videos and live streaming.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "short-video"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "douyin",
+   "name": "抖音 Douyin",
+   "url": "https://www.douyin.com/",
+   "description": "China's TikTok: short videos.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "short-video"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "iqiyi",
+   "name": "爱奇艺 iQIYI",
+   "url": "https://www.iqiyi.com/",
+   "description": "Major streaming platform for Chinese dramas, variety and films.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "drama",
+    "streaming"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  },
+  {
+   "id": "tencent-video",
+   "name": "腾讯视频 Tencent Video",
+   "url": "https://v.qq.com/",
+   "description": "Tencent's streaming platform.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "drama",
+    "streaming"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "mango-tv",
+   "name": "芒果TV Mango TV",
+   "url": "https://www.mgtv.com/",
+   "description": "Hunan TV's streaming platform: variety shows and dramas.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "streaming",
+    "variety"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "notes": "May load slowly or be unavailable outside mainland China."
+  },
+  {
+   "id": "xigua-video",
+   "name": "西瓜视频 Xigua Video",
+   "url": "https://www.ixigua.com/",
+   "description": "Medium-length videos.",
+   "category": "video_platform",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "ugc"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ]
+  }
+ ]
+}

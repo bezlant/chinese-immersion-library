@@ -1,0 +1,499 @@
+[
+  {
+    "id": "lao-fan-qie",
+    "name": "老番茄",
+    "url": "https://space.bilibili.com/546195",
+    "description": "Bilibili's most-followed gaming and comedy creator.",
+    "category": "gaming",
+    "type": "bilibili",
+    "tags": [
+      "lets-play",
+      "comedy"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "546195"
+    },
+    "image": "https://i0.hdslb.com/bfs/face/bc5ca101313d4db223c395d64779e76eb3482d60.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/546195"
+    }
+  },
+  {
+    "id": "xiao-yao-san-ren-bilibili",
+    "name": "逍遥散人",
+    "url": "https://space.bilibili.com/168598",
+    "description": "Story-driven game playthroughs with commentary.",
+    "category": "gaming",
+    "type": "bilibili",
+    "tags": [
+      "lets-play"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "168598"
+    },
+    "image": "https://i1.hdslb.com/bfs/face/8a5de2d7486251e80307d8600cbf8649eb4035fe.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/168598"
+    }
+  },
+  {
+    "id": "ni-de-ying-yue-yue",
+    "name": "你的影月月",
+    "url": "https://space.bilibili.com/431073645",
+    "description": "Popular gaming creator.",
+    "category": "gaming",
+    "type": "bilibili",
+    "tags": [
+      "lets-play"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "431073645"
+    },
+    "image": "https://i0.hdslb.com/bfs/face/2e32de7b28fc491a28281a22c6ea9f5d195cbdf5.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/431073645"
+    }
+  },
+  {
+    "id": "lexburner",
+    "name": "LexBurner",
+    "url": "https://space.bilibili.com/777536",
+    "description": "Anime and game commentary.",
+    "category": "gaming",
+    "type": "bilibili",
+    "tags": [
+      "anime",
+      "commentary"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "777536"
+    },
+    "image": "https://i2.hdslb.com/bfs/face/27e06996840a7cb3ee0fee52f6b4616cd6567def.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/777536"
+    }
+  },
+  {
+    "id": "edmunddzhang",
+    "name": "EdmundDZhang",
+    "url": "https://space.bilibili.com/433351",
+    "description": "Gaming and esports streamer.",
+    "category": "gaming",
+    "type": "bilibili",
+    "tags": [
+      "esports"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "433351"
+    },
+    "image": "https://i1.hdslb.com/bfs/face/50900541a74f7875867c38a1e8e572b44b388060.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/433351"
+    }
+  },
+  {
+    "id": "ao-chang-zhang",
+    "name": "敖厂长",
+    "url": "https://www.youtube.com/@hawkaoaoful",
+    "description": "Retro gaming history and trash-game reviews.",
+    "category": "gaming",
+    "type": "youtube",
+    "tags": [
+      "retro",
+      "history"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCCkMW93Am1pLfk2nZFKAmbQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_n0kFyOfvLJSRCSiqySMWs1CFCNxDICDqy8ekfpqfq5xA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCkMW93Am1pLfk2nZFKAmbQ"
+    }
+  },
+  {
+    "id": "ao-chang-zhang-bilibili",
+    "name": "敖厂长 (Bilibili)",
+    "url": "https://space.bilibili.com/122879",
+    "description": "Ao Changzhang on Bilibili.",
+    "category": "gaming",
+    "type": "bilibili",
+    "tags": [
+      "retro"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "122879"
+    },
+    "image": "https://i2.hdslb.com/bfs/face/71d85b84b0b2aa59009cd6af09b53aac309c3461.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/122879"
+    }
+  },
+  {
+    "id": "xiao-yao-san-ren",
+    "name": "逍遥散人 (YouTube)",
+    "url": "https://www.youtube.com/@sanrenGAMES",
+    "description": "Xiaoyao Sanren's playthroughs on YouTube.",
+    "category": "gaming",
+    "type": "youtube",
+    "tags": [
+      "lets-play"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCTfRwznpxtbjQQQJ_15Fk2w"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lZ8oKGtC8o2ych857haTo7xGcMpdxdy2U8AbKlRryxDg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTfRwznpxtbjQQQJ_15Fk2w"
+    }
+  },
+  {
+    "id": "black-myth",
+    "name": "Black Myth 黑神话",
+    "url": "https://www.youtube.com/@BlackMythGame",
+    "description": "Official channel of Black Myth: Wukong.",
+    "category": "gaming",
+    "type": "youtube",
+    "tags": [
+      "official"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC6NvS8_TrfDcCK65KawCxZg"
+    },
+    "image": "https://yt3.googleusercontent.com/X-O-q0q8JvJlBtb9tp3JzFKtKixsbdAcAkWSOYfB_Fw2QRSHSD5IlVq-goHLMSnEjh40quiy=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6NvS8_TrfDcCK65KawCxZg"
+    }
+  },
+  {
+    "id": "gcores",
+    "name": "机核 Gcores",
+    "url": "https://www.gcores.com/",
+    "description": "Gaming culture articles, videos and radio.",
+    "category": "gaming",
+    "type": "website",
+    "tags": [
+      "culture"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "gamersky",
+    "name": "游民星空 Gamersky",
+    "url": "https://www.gamersky.com/",
+    "description": "Gaming news and guides.",
+    "category": "gaming",
+    "type": "website",
+    "tags": [
+      "news"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chuapp",
+    "name": "触乐 Chuapp",
+    "url": "https://www.chuapp.com/",
+    "description": "Thoughtful gaming journalism.",
+    "category": "gaming",
+    "type": "website",
+    "tags": [
+      "journalism"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "gamer-com-tw",
+    "name": "巴哈姆特 Gamer.com.tw",
+    "url": "https://www.gamer.com.tw/",
+    "description": "Taiwan's biggest gaming and ACG community.",
+    "category": "gaming",
+    "type": "website",
+    "tags": [
+      "community"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "nga",
+    "name": "NGA 玩家社区",
+    "url": "https://bbs.nga.cn/",
+    "description": "Gaming forums.",
+    "category": "gaming",
+    "type": "website",
+    "tags": [
+      "forum"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "type": "youtube",
+    "tags": [
+      "analysis",
+      "game-design"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "id": "gamker",
+    "name": "Gamker攻壳",
+    "url": "https://www.youtube.com/@Gamker-YT",
+    "description": "Game culture and design analysed from a developer's point of view.",
+    "category": "gaming",
+    "script": "simplified",
+    "region": "cn",
+    "ids": {
+      "youtube_channel_id": "UCLgGLSFMZQB8c0WGcwE49Gw"
+    },
+    "image": "https://yt3.googleusercontent.com/RIxhtEbJnH6t24CpHIjMKKLqRDa0WzeE-9lGYVn11u6oZnn5ZkX2IcGDgTgR8b82HcEjYVloHQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLgGLSFMZQB8c0WGcwE49Gw"
+    }
+  },
+  {
+    "type": "youtube",
+    "tags": [
+      "history",
+      "industry"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "id": "lao-sun-liao-you-xi",
+    "name": "老孫聊遊戲 Old Sun Games",
+    "url": "https://www.youtube.com/@oldsungame",
+    "description": "Long-form talks on game history, studios and the industry.",
+    "category": "gaming",
+    "script": "simplified",
+    "region": "cn",
+    "ids": {
+      "youtube_channel_id": "UCKPflKAE2Y1tm8VSi32iboQ"
+    },
+    "image": "https://yt3.googleusercontent.com/l8Llu-BHs0U8ff6gKgxZshwPbX8eklWkPS0FeFEFbOq5bneqdezM4sYMT_GPp4Txn6t3_4uvZxs=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKPflKAE2Y1tm8VSi32iboQ"
+    }
+  }
+]

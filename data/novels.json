@@ -1,0 +1,380 @@
+[
+  {
+    "id": "qidian",
+    "name": "起点中文网 Qidian",
+    "url": "https://www.qidian.com/",
+    "description": "China's largest web-novel platform: xianxia, fantasy, urban.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "jinjiang",
+    "name": "晋江文学城 Jinjiang",
+    "url": "https://www.jjwxc.net/",
+    "description": "Leading platform for romance and danmei web novels.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "zongheng",
+    "name": "纵横中文网 Zongheng",
+    "url": "https://www.zongheng.com/",
+    "description": "Web fiction platform.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "17k-xiao-shuo-wang",
+    "name": "17K小说网",
+    "url": "https://www.17k.com/",
+    "description": "Web fiction platform.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "fanqie-novel",
+    "name": "番茄小说 Fanqie Novel",
+    "url": "https://fanqienovel.com/",
+    "description": "Free ad-supported web novels from ByteDance.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "qimao",
+    "name": "七猫免费小说 Qimao",
+    "url": "https://www.qimao.com/",
+    "description": "Free web novels.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "ciweimao",
+    "name": "刺猬猫 Ciweimao",
+    "url": "https://www.ciweimao.com/",
+    "description": "Light novels and ACG-style web fiction.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "changpei",
+    "name": "长佩文学 Changpei",
+    "url": "https://www.gongzicp.com/",
+    "description": "Danmei and romance fiction.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "hongxiu",
+    "name": "红袖添香 Hongxiu",
+    "url": "https://www.hongxiu.com/",
+    "description": "Women's web fiction.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "xiaoxiang",
+    "name": "潇湘书院 Xiaoxiang",
+    "url": "https://www.xxsy.net/",
+    "description": "Women's web fiction.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "faloo",
+    "name": "飞卢小说网 Faloo",
+    "url": "https://b.faloo.com/",
+    "description": "Web fiction platform.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "mirror-fiction",
+    "name": "鏡文學 Mirror Fiction",
+    "url": "https://www.mirrorfiction.com/",
+    "description": "Taiwanese original fiction platform.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "popo-yuan-chuang",
+    "name": "POPO原創",
+    "url": "https://www.popo.tw/",
+    "description": "Taiwanese romance web fiction.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "web-fiction"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "webnovel",
+    "name": "Webnovel (Qidian International)",
+    "url": "https://www.webnovel.com/",
+    "description": "English translations of Chinese web novels, useful for side-by-side reading.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "translations"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "wuxiaworld",
+    "name": "Wuxiaworld",
+    "url": "https://www.wuxiaworld.com/",
+    "description": "Licensed English translations of xianxia/wuxia novels.",
+    "category": "novels",
+    "type": "website",
+    "tags": [
+      "translations",
+      "wuxia"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "freemium",
+    "platforms": [
+      "web"
+    ]
+  }
+]

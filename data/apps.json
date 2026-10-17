@@ -1,0 +1,442 @@
+[
+  {
+    "id": "hellochinese",
+    "name": "HelloChinese",
+    "url": "https://www.hellochinese.cc/",
+    "description": "Gamified beginner course with speech recognition and handwriting.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "course",
+      "gamified"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "superchinese",
+    "name": "SuperChinese",
+    "url": "https://www.superchinese.com/",
+    "description": "AI-powered HSK course with speaking practice.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "course",
+      "ai",
+      "hsk"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "skritter",
+    "name": "Skritter",
+    "url": "https://skritter.com/",
+    "description": "Handwriting and character-writing practice with spaced repetition.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "writing",
+      "srs"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "anki",
+    "name": "Anki",
+    "url": "https://apps.ankiweb.net/",
+    "description": "Open-source spaced-repetition flashcards with thousands of shared Chinese decks.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "srs",
+      "flashcards"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "migaku",
+    "name": "Migaku",
+    "url": "https://migaku.com/",
+    "description": "Browser extension and app to mine vocabulary from Netflix, YouTube and web pages.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "immersion",
+      "flashcards"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "paid",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "language-reactor",
+    "name": "Language Reactor",
+    "url": "https://www.languagereactor.com/",
+    "description": "Dual subtitles and dictionary for Netflix and YouTube.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "subtitles",
+      "immersion"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chineseskill",
+    "name": "ChineseSkill",
+    "url": "https://www.chineseskill.com/",
+    "description": "Game-like Mandarin lessons for beginners.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "gamified"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "ninchanese",
+    "name": "Ninchanese",
+    "url": "https://ninchanese.com/",
+    "description": "Gamified Chinese learning with stories and characters.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "gamified"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://ninchanese.com/feed/"
+    }
+  },
+  {
+    "id": "drops",
+    "name": "Drops (Chinese)",
+    "url": "https://languagedrops.com/",
+    "description": "Five-minute visual vocabulary games.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "vocabulary"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "memrise",
+    "name": "Memrise (Chinese)",
+    "url": "https://www.memrise.com/",
+    "description": "Vocabulary and native-speaker videos.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "vocabulary"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "busuu",
+    "name": "Busuu (Chinese)",
+    "url": "https://www.busuu.com/en/course/learn-chinese-online",
+    "description": "Structured course with community corrections.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "course"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "lingodeer",
+    "name": "LingoDeer",
+    "url": "https://www.lingodeer.com/",
+    "description": "Grammar-focused Asian language course app.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "course",
+      "grammar"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "todaii-chinese",
+    "name": "Todaii Chinese",
+    "url": "https://easychinese.io/",
+    "description": "Easy Chinese news with HSK highlighting.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "news"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "hanping-chinese-dictionary",
+    "name": "Hanping Chinese Dictionary",
+    "url": "https://hanpingchinese.com/",
+    "description": "Android Chinese dictionary with popup and OCR.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "dictionary"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "android"
+    ]
+  },
+  {
+    "id": "chinese-reader-by-trainchinese",
+    "name": "Chinese Reader by trainchinese",
+    "url": "https://www.trainchinese.com/",
+    "description": "Dictionary, flashcards and reader.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "dictionary",
+      "flashcards"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "speechling",
+    "name": "Speechling",
+    "url": "https://speechling.com/",
+    "description": "Pronunciation feedback from human coaches.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "pronunciation",
+      "speaking"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "dong-chinese-app",
+    "name": "Dong Chinese App",
+    "url": "https://www.dong-chinese.com/learn",
+    "description": "Character-by-character learning path with etymology.",
+    "category": "apps",
+    "type": "website",
+    "tags": [
+      "characters"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+]

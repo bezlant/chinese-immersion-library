@@ -1,0 +1,822 @@
+[
+  {
+    "id": "36kr",
+    "name": "36氪 36Kr",
+    "url": "https://36kr.com/",
+    "description": "Startup, tech and venture news.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "startups"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "huxiu",
+    "name": "虎嗅 Huxiu",
+    "url": "https://www.huxiu.com/",
+    "description": "Tech and business commentary.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "business"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "sspai",
+    "name": "少数派 sspai",
+    "url": "https://sspai.com/",
+    "description": "Apps, productivity and digital-life articles.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "apps",
+      "productivity"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://sspai.com/feed"
+    }
+  },
+  {
+    "id": "ithome",
+    "name": "IT之家 ITHome",
+    "url": "https://www.ithome.com/",
+    "description": "Daily tech news.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "daily"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.ithome.com/rss/"
+    }
+  },
+  {
+    "id": "ifanr",
+    "name": "爱范儿 ifanr",
+    "url": "https://www.ifanr.com/",
+    "description": "Consumer tech and lifestyle.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "gadgets"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.ifanr.com/feed"
+    }
+  },
+  {
+    "id": "geekpark",
+    "name": "极客公园 GeekPark",
+    "url": "https://www.geekpark.net/",
+    "description": "Tech innovation news.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "innovation"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "tmtpost",
+    "name": "钛媒体 TMTPost",
+    "url": "https://www.tmtpost.com/",
+    "description": "Tech and finance media.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "finance"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "cnbeta",
+    "name": "cnBeta",
+    "url": "https://www.cnbeta.com.tw/",
+    "description": "Tech news aggregator.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "daily"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "v2ex",
+    "name": "V2EX",
+    "url": "https://www.v2ex.com/",
+    "description": "Developer and creative community forum.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "developers",
+      "forum"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "atom",
+      "url": "https://www.v2ex.com/feed/tab/tech.xml"
+    }
+  },
+  {
+    "id": "juejin",
+    "name": "掘金 Juejin",
+    "url": "https://juejin.cn/",
+    "description": "Developer articles and community.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "developers"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "infoq",
+    "name": "InfoQ 中文",
+    "url": "https://www.infoq.cn/",
+    "description": "Software engineering news and talks.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "developers"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "synced",
+    "name": "机器之心 Synced",
+    "url": "https://www.jiqizhixin.com/",
+    "description": "AI research and industry news.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "ai"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "qbitai",
+    "name": "量子位 QbitAI",
+    "url": "https://www.qbitai.com/",
+    "description": "AI news and analysis.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "ai"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.qbitai.com/feed"
+    }
+  },
+  {
+    "id": "dgtle",
+    "name": "数字尾巴 DGtle",
+    "url": "https://www.dgtle.com/",
+    "description": "Gadgets and digital lifestyle community.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "gadgets"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "techbang",
+    "name": "T客邦 TechBang",
+    "url": "https://www.techbang.com/",
+    "description": "Taiwan tech news and reviews.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "taiwan"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://feeds.feedburner.com/techbang/daily"
+    }
+  },
+  {
+    "id": "inside",
+    "name": "INSIDE 硬塞的",
+    "url": "https://www.inside.com.tw/",
+    "description": "Taiwan tech and startup news.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "taiwan",
+      "startups"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "dian-nao-wang-a-da",
+    "name": "電腦王阿達",
+    "url": "https://www.kocpc.com.tw/",
+    "description": "Taiwan gadgets and tech tips.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "taiwan",
+      "gadgets"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "testv",
+    "name": "TESTV",
+    "url": "https://www.youtube.com/@testvcn",
+    "description": "Entertaining, informative product reviews.",
+    "category": "tech",
+    "type": "youtube",
+    "tags": [
+      "reviews"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC9v3JGut2Z1PxrXEpGzgEAA"
+    },
+    "image": "https://yt3.googleusercontent.com/4MyaPTiU79xvpIOAZPLBLc5o6_h1o8cpYDXShqaMTSJbn1nA8nFJl8lfrTTBn1G8UAVpRZmR-w=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9v3JGut2Z1PxrXEpGzgEAA"
+    }
+  },
+  {
+    "id": "geekerwan",
+    "name": "极客湾 Geekerwan",
+    "url": "https://www.youtube.com/@geekerwan1024",
+    "description": "In-depth chip, phone and PC hardware reviews.",
+    "category": "tech",
+    "type": "youtube",
+    "tags": [
+      "hardware",
+      "reviews"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCeUJO1H3TEXu2syfAAPjYKQ"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nrEI7QRBYhcplYKXDUPYD9fwxzvltgdTyH7Znox41goPY=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeUJO1H3TEXu2syfAAPjYKQ"
+    }
+  },
+  {
+    "id": "geekerwan-bilibili",
+    "name": "极客湾 Geekerwan (Bilibili)",
+    "url": "https://space.bilibili.com/25876945",
+    "description": "Geekerwan on Bilibili.",
+    "category": "tech",
+    "type": "bilibili",
+    "tags": [
+      "hardware"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "25876945"
+    },
+    "image": "https://i1.hdslb.com/bfs/face/d0f7a7ee34a4a45c8390eb3a07e4d7f2d70bae91.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/25876945"
+    }
+  },
+  {
+    "id": "mediastorm",
+    "name": "影视飓风 MediaStorm",
+    "url": "https://www.youtube.com/@mediastorm6801",
+    "description": "Cinematography, cameras and tech explorations.",
+    "category": "tech",
+    "type": "youtube",
+    "tags": [
+      "video",
+      "cameras"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC2cRwTuSWxxEtrRnT4lrlQA"
+    },
+    "image": "https://yt3.googleusercontent.com/evCZ-Qagp26bc7XQqI9WHRP_r5ej_BygMzkWA4jCwjT2Cd3LriPVBb8unD4gLhPazNGsheW5=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2cRwTuSWxxEtrRnT4lrlQA"
+    }
+  },
+  {
+    "id": "mediastorm-bilibili",
+    "name": "影视飓风 (Bilibili)",
+    "url": "https://space.bilibili.com/946974",
+    "description": "MediaStorm on Bilibili.",
+    "category": "tech",
+    "type": "bilibili",
+    "tags": [
+      "video",
+      "cameras"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "946974"
+    },
+    "image": "https://i0.hdslb.com/bfs/face/c1733474892caa45952b2c09a89323157df7129a.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/946974"
+    }
+  },
+  {
+    "id": "htx-studio",
+    "name": "老师好我叫何同学 HTX Studio",
+    "url": "https://www.youtube.com/@hetongxue",
+    "description": "Creative, beautifully made tech videos.",
+    "category": "tech",
+    "type": "youtube",
+    "tags": [
+      "creative"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCP5Kd0smdWe9H_bDH-73c6Q"
+    },
+    "image": "https://yt3.googleusercontent.com/gghxgdbOVOqiYMi6qPtsg5IKNX5mPMj-pPRO_sdvSPODz8jaL6b4G_hpIMw7PtF-GMjJqyIG=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q"
+    }
+  },
+  {
+    "id": "he-tong-xue-bilibili",
+    "name": "老师好我叫何同学 (Bilibili)",
+    "url": "https://space.bilibili.com/163637592",
+    "description": "He Tongxue's Bilibili channel.",
+    "category": "tech",
+    "type": "bilibili",
+    "tags": [
+      "creative"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "163637592"
+    },
+    "image": "https://i0.hdslb.com/bfs/face/492d0bb71749332040f9d812954fa0b52e66c490.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/163637592"
+    }
+  },
+  {
+    "id": "cha-ping-jun",
+    "name": "差评君",
+    "url": "https://www.youtube.com/@xpinman",
+    "description": "Tech news and commentary.",
+    "category": "tech",
+    "type": "youtube",
+    "tags": [
+      "news"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCqlQ5ErufqtQUhkuKj1xngg"
+    },
+    "image": "https://yt3.googleusercontent.com/jkw5R5taAQySq_Er6Tb44yUa1h85eGZ5ERONWthiY4USx8djTKEiy8tshkPFaJkbsSqNrlQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqlQ5ErufqtQUhkuKj1xngg"
+    }
+  },
+  {
+    "id": "ke-ji-mei-xue",
+    "name": "科技美学",
+    "url": "https://www.youtube.com/@KJMX",
+    "description": "Phone reviews and tech news.",
+    "category": "tech",
+    "type": "youtube",
+    "tags": [
+      "reviews"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCAC204niCVvtDRDFYSiK7Cg"
+    },
+    "image": "https://yt3.googleusercontent.com/RaF7ElxxHShQXlUxJGBB8pFySsdnsAfM5WOCPA5auWDwICBvVU2IJb3aqmyxMGqib7Z1LKPySZk=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAC204niCVvtDRDFYSiK7Cg"
+    }
+  },
+  {
+    "id": "fview",
+    "name": "爱否科技 FView",
+    "url": "https://space.bilibili.com/7458285",
+    "description": "Phone and gadget reviews.",
+    "category": "tech",
+    "type": "bilibili",
+    "tags": [
+      "reviews"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "7458285"
+    },
+    "image": "https://i0.hdslb.com/bfs/face/b7efecd12b932a0e9bd4d7d3a7ba769166479fff.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/7458285"
+    }
+  },
+  {
+    "id": "joeman",
+    "name": "Joeman",
+    "url": "https://www.youtube.com/@joeman",
+    "description": "Taiwanese YouTuber: gadgets, food challenges and pop culture.",
+    "category": "tech",
+    "type": "youtube",
+    "tags": [
+      "gadgets",
+      "taiwan"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCPRWWKG0VkBA0Pqa4Jr5j0Q"
+    },
+    "image": "https://yt3.googleusercontent.com/BXZOvDXXPP-WksJl9XmJRXw2HRs3pWBsB-NHQrxol8gfdiUi6hZCyTLlZan-K8E2jL0cTonf3Q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPRWWKG0VkBA0Pqa4Jr5j0Q"
+    }
+  },
+  {
+    "id": "jiu-jiu-xie",
+    "name": "啾啾鞋",
+    "url": "https://www.youtube.com/@chuchushoeTW",
+    "description": "Taiwanese explainer videos on tech, movies and curious topics.",
+    "category": "tech",
+    "type": "youtube",
+    "tags": [
+      "explainers",
+      "taiwan"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCIF_gt4BfsWyM_2GOcKXyEQ"
+    },
+    "image": "https://yt3.googleusercontent.com/GhYUS7cwh3MNidwNvVljx4koHKpbHflvp8I4urhnWeJrYYitXywXXBtmsKpMP3TYHcqEMf8q=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIF_gt4BfsWyM_2GOcKXyEQ"
+    }
+  }
+]

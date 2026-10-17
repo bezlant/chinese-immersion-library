@@ -1,0 +1,696 @@
+{
+ "category": {
+  "id": "vlog",
+  "group": "watch",
+  "name": "Vlogs & Lifestyle",
+  "name_zh": "生活Vlog",
+  "icon": "person.crop.rectangle.fill",
+  "description": "Everyday-life creators: natural, conversational Chinese."
+ },
+ "data_version": "edbc9426d061",
+ "count": 20,
+ "resources": [
+  {
+   "id": "yao-ren-mao",
+   "name": "=咬人猫=",
+   "url": "https://space.bilibili.com/116683",
+   "description": "Dance and lifestyle creator.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "dance"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/116683"
+   },
+   "ids": {
+    "bilibili_mid": "116683"
+   },
+   "image": "https://i1.hdslb.com/bfs/face/8fad84a4470f3d894d8f0dc95555ab8f2cb10a83.jpg"
+  },
+  {
+   "id": "elenalin-qing-qing",
+   "name": "ElenaLin_青青",
+   "url": "https://www.youtube.com/@ElenaLin",
+   "description": "Chinese student's vlogs on life in Europe plus tech reviews.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "student-life"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFjqAKR9UVS28ucTNuVTexA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCFjqAKR9UVS28ucTNuVTexA"
+   },
+   "image": "https://yt3.googleusercontent.com/R74o1cNRC31aTI1e1M12o7hB1erkgvqkXApNNWgL8yoAshas1eaPc9uP_ZeMdnEGv6wel0IClsY=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "hook",
+   "name": "HOOK",
+   "url": "https://www.youtube.com/@helloiamhook",
+   "description": "Taiwanese YouTuber: social experiments and storytelling.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "storytelling"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbIJeyl_va8MG2xx0q4Uobg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCbIJeyl_va8MG2xx0q4Uobg"
+   },
+   "image": "https://yt3.googleusercontent.com/N5ohylxSjxShm_X0yZ3822lBf2agYcFxGwNNAasuq0sSpL1cxPnOSoiHZDdUcSiCXriflgE99w=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "mickeyworkstv",
+   "name": "MickeyworksTV",
+   "url": "https://www.youtube.com/@mickeyworkstv9049",
+   "description": "US-based vlogger on tech, cars and current events.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "commentary"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpzx9sMpCwKP_xTwoYZx7lA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCpzx9sMpCwKP_xTwoYZx7lA"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_m1b7RpxhrEKEVNGE-abAaPmpJsJWSYGsAAqLjHpw5w3g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "pro-mi-xiu-mao",
+   "name": "Pro米修猫",
+   "url": "https://space.bilibili.com/1530159224",
+   "description": "Daily food and restaurant culture in Korea.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "food"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/1530159224"
+   },
+   "ids": {
+    "bilibili_mid": "1530159224"
+   },
+   "image": "https://i2.hdslb.com/bfs/face/e8237d47489366ea58e0d1ab4262804fb0a60fcc.jpg"
+  },
+  {
+   "id": "renasteps",
+   "name": "renasteps",
+   "url": "https://space.bilibili.com/99059156",
+   "description": "Family vlogs, fashion and skincare.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "family"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/99059156"
+   },
+   "ids": {
+    "bilibili_mid": "99059156"
+   },
+   "image": "https://i2.hdslb.com/bfs/face/10774cc77668d21d0f69d3cb5e51f150fc42cdc9.jpg"
+  },
+  {
+   "id": "yue-jing",
+   "name": "Yue Jing 井越",
+   "url": "https://www.youtube.com/@u200915924",
+   "description": "Chatty vlogs on travel, daily life and personal philosophy.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "daily-life"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL9lfwI6GOHoZNhEcfSy2cQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCL9lfwI6GOHoZNhEcfSy2cQ"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kvrQt2gIPONvCHYhmKa-5_EuErDKjD7jHBFXOufXwyQ0s=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "liu-chang-mu-fa-sha",
+   "name": "刘畅木法沙",
+   "url": "https://space.bilibili.com/517742404",
+   "description": "Actor Liu Chang's daily life and challenges.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "daily-life"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/517742404"
+   },
+   "ids": {
+    "bilibili_mid": "517742404"
+   },
+   "image": "https://i1.hdslb.com/bfs/face/ef09a6a810ff0a0f475327340d2cea55d86110cd.jpg"
+  },
+  {
+   "id": "dao-che-qing-gu-yi",
+   "name": "到车请故意",
+   "url": "https://space.bilibili.com/280754190",
+   "description": "Origami and paper-folding projects.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "crafts"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/280754190"
+   },
+   "ids": {
+    "bilibili_mid": "280754190"
+   },
+   "image": "https://i0.hdslb.com/bfs/face/b2cba1b6ae80551bc62d4e5a926f90ffedab4928.jpg"
+  },
+  {
+   "id": "ms-yeah",
+   "name": "办公室小野 Ms Yeah",
+   "url": "https://www.youtube.com/@MsYeahOfficialChannel",
+   "description": "Creative cooking hacks in the office.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "cooking",
+    "creative"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRB4xZ_2ew7fzmrcv8aj4Lw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCRB4xZ_2ew7fzmrcv8aj4Lw"
+   },
+   "image": "https://yt3.googleusercontent.com/83yGilTN8atibJSXs4D6r0dMHN6NpsSabz3XuqW6UPzbXPT4V_Ir6uQ8BiEoknCTupiJP5yf8Q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "wawaku",
+   "name": "古娃娃 WawaKu",
+   "url": "https://www.youtube.com/@WawaKu",
+   "description": "Taiwanese lifestyle, fashion and relationships.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "lifestyle"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVw4CvsOUuVJpFyW_VPnIBQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UCVw4CvsOUuVJpFyW_VPnIBQ"
+   },
+   "image": "https://yt3.googleusercontent.com/JsKXCmsm-uE2A-TuTk8UZNsSUbw39YUjXS3HM8MLFYIHl_yxP7MqSuZKUCGMOv17J0mr7ua0rw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "chi-hua-jiao-de-miao-jiang",
+   "name": "吃花椒的喵酱 (王冰冰)",
+   "url": "https://space.bilibili.com/2026561407",
+   "description": "CCTV reporter Wang Bingbing's vlogs.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "daily-life"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/2026561407"
+   },
+   "ids": {
+    "bilibili_mid": "2026561407"
+   },
+   "image": "https://i0.hdslb.com/bfs/face/cb49e8804447945761979822437f76a9eabce318.jpg"
+  },
+  {
+   "id": "zoey",
+   "name": "周六野 Zoey",
+   "url": "https://www.youtube.com/@WildSaturday",
+   "description": "Home workouts and healthy living.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "fitness"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-PTZe2Nx-Pozlmi1o3vSyQ"
+   },
+   "ids": {
+    "youtube_channel_id": "UC-PTZe2Nx-Pozlmi1o3vSyQ"
+   },
+   "image": "https://yt3.googleusercontent.com/mUUcHSMtDdjBMs8kZSGpdID6d6gcD9n33hwkoAwQiqPf4guTXi0ac05ampP-bhfcbPSNueDK54g=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "shuai-soserious",
+   "name": "帅soserious",
+   "url": "https://space.bilibili.com/66391032",
+   "description": "Fitness and lifestyle vlogs.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "fitness"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/66391032"
+   },
+   "ids": {
+    "bilibili_mid": "66391032"
+   },
+   "image": "https://i0.hdslb.com/bfs/face/40a663bb18e9064a97901b96aaf7d84d8056e98b.jpg"
+  },
+  {
+   "id": "xu-da-xia-ge",
+   "name": "徐大虾咯",
+   "url": "https://space.bilibili.com/13354765",
+   "description": "Food challenges and quirky experiments.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "food"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/13354765"
+   },
+   "ids": {
+    "bilibili_mid": "13354765"
+   },
+   "image": "https://i1.hdslb.com/bfs/face/aa2a9cb0d30767fbca237d16157632eb7e2c5203.jpg"
+  },
+  {
+   "id": "zhi-qi-qi-qi",
+   "name": "志祺七七",
+   "url": "https://www.youtube.com/@shasha77",
+   "description": "Taiwanese explainers on social issues and current events.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "explainers"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiWXd0nmBjlKROwzMyPV-Nw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCiWXd0nmBjlKROwzMyPV-Nw"
+   },
+   "image": "https://yt3.googleusercontent.com/BYhYe7AvsjYvm_vdNGLhQdwfFiwsbiUULWhBRIamyIzycoGvV9aIdEa4jOcUFrhrdnJOmuGmlQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "min-minchen",
+   "name": "旻MinChen",
+   "url": "https://space.bilibili.com/449359189",
+   "description": "Exchange student's life and solo travel in Germany.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "student-life",
+    "travel"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/449359189"
+   },
+   "ids": {
+    "bilibili_mid": "449359189"
+   },
+   "image": "https://i1.hdslb.com/bfs/face/ac8c4dcf2d35b9150323afb17d0654cf5a58b3ab.jpg"
+  },
+  {
+   "id": "mao-sen-lu",
+   "name": "猫森璐",
+   "url": "https://space.bilibili.com/418335676",
+   "description": "Short, well-edited travel vlogs across China and East Asia.",
+   "category": "vlog",
+   "type": "bilibili",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "travel"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "rsshub",
+    "url": "https://rsshub.app/bilibili/user/video/418335676"
+   },
+   "ids": {
+    "bilibili_mid": "418335676"
+   },
+   "image": "https://i1.hdslb.com/bfs/face/43c41e0e0096755c3ffa0af2be24fbaeaff60fe5.jpg"
+  },
+  {
+   "id": "raydu",
+   "name": "阿滴 RayDu",
+   "url": "https://www.youtube.com/@rayduenglish",
+   "description": "Taiwanese English teacher's channel (mostly in Mandarin).",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "education"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeo3JwE3HezUWFdVcehQk9Q"
+   },
+   "ids": {
+    "youtube_channel_id": "UCeo3JwE3HezUWFdVcehQk9Q"
+   },
+   "image": "https://yt3.googleusercontent.com/eeXtTw-TTXzkT-mw-T6XklPuPeJKyrSdIvUPSw-MaCzQzZpvbaYJbb8RmWUn8MUjVCKZGDZQiQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "a-di-ri-chang",
+   "name": "阿滴日常",
+   "url": "https://www.youtube.com/@raydudaily",
+   "description": "Ray Du's daily vlogs.",
+   "category": "vlog",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "daily-life"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL--AnIMxQQdbcH4ESEK0Iw"
+   },
+   "ids": {
+    "youtube_channel_id": "UCL--AnIMxQQdbcH4ESEK0Iw"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_mtdkYT4SQDLrtDLcZDLTjox4gC2-_4YctZk-cvZ3GKMh4=s900-c-k-c0x00ffffff-no-rj"
+  }
+ ]
+}

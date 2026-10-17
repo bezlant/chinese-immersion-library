@@ -1,0 +1,808 @@
+[
+  {
+    "id": "iqiyi-youtube",
+    "name": "iQIYI 爱奇艺",
+    "url": "https://www.youtube.com/@iQIYIofficial",
+    "description": "Official iQIYI channel: full Chinese dramas with subtitles.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCUhpu5MJQ_bjPkXO00jyxsw"
+    },
+    "image": "https://yt3.googleusercontent.com/LD_FcD0TbPuK3HtkiGHU6tNNQ7tw4gGyAadAIK5TmcBqEpiyO357yU_Lxy0cs-_9tmRSDKxyBBE=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUhpu5MJQ_bjPkXO00jyxsw"
+    }
+  },
+  {
+    "id": "iqiyi-movie-theater",
+    "name": "爱奇艺大电影 iQIYI Movie Theater",
+    "url": "https://www.youtube.com/@iQIYIMOVIETHEATER",
+    "description": "Full-length Chinese films.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "film"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCZ8ZJNzzIiDQFuGxdGTyWcQ"
+    },
+    "image": "https://yt3.googleusercontent.com/pP1fBartYUDJ6v4EweeW4lW4kzo0_1iMQr1TIehq52e-imzy66C3qSTSw2wKDx8_udMqvV-Vkw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZ8ZJNzzIiDQFuGxdGTyWcQ"
+    }
+  },
+  {
+    "id": "tencent-video-youtube",
+    "name": "Tencent Video 腾讯视频",
+    "url": "https://www.youtube.com/@TencentVideo",
+    "description": "Official Tencent Video channel with full dramas.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCQatgKoA7lylp_UzvsLCgcw"
+    },
+    "image": "https://yt3.googleusercontent.com/BZ0BcoBm1IDjD4a3XbhnHyNZ3MkLnT9FnRxj_ioc6V3yT2nqcCxR0acvzokp7B019c036G5LHQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQatgKoA7lylp_UzvsLCgcw"
+    }
+  },
+  {
+    "id": "youku-youtube",
+    "name": "YOUKU 优酷",
+    "url": "https://www.youtube.com/@youku-official",
+    "description": "Official Youku channel: dramas with multilingual subtitles.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCYQPTeY3HOk0BprrGuCWCaA"
+    },
+    "image": "https://yt3.googleusercontent.com/l7fIGWIeTNPqCPlNXQVvbHk4iMaK8OVY_kNzVW2Qka9MYHKlnz6exbZfm8CUhQHU_nEBl-9Vsw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYQPTeY3HOk0BprrGuCWCaA"
+    }
+  },
+  {
+    "id": "youku-chinese-drama",
+    "name": "优酷华语剧场 Youku Chinese Drama",
+    "url": "https://www.youtube.com/@youkuhuayu",
+    "description": "Youku Chinese drama theatre.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCvj3DtAqbx12PPHL6IVdhiA"
+    },
+    "image": "https://yt3.googleusercontent.com/aGzA4NFUEBsd8uT6pBuehJ3cq2QgnSXuRvgNMG6LSq48wIXemjEH1Lt2Xk5ts2WvRXCFFrOvHw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvj3DtAqbx12PPHL6IVdhiA"
+    }
+  },
+  {
+    "id": "youku-movie",
+    "name": "YOUKU MOVIE 优酷电影",
+    "url": "https://www.youtube.com/@youkumovie",
+    "description": "Full-length Chinese films from Youku.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "film"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCE2UHXGOlqotRJgEWl_tiMw"
+    },
+    "image": "https://yt3.googleusercontent.com/gzm9VCPYvWahg_EfeTy58JNSVt9Mb2LnmRb7WxdFXnj1-dCW0lAqBHe6F7ijNeLEIRG2hqjPsQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE2UHXGOlqotRJgEWl_tiMw"
+    }
+  },
+  {
+    "id": "china-huace-tv",
+    "name": "China Huace TV 华策影视",
+    "url": "https://www.youtube.com/@huace",
+    "description": "Full dramas from Huace, one of China's largest drama studios.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCAMrnDQlsPnrScHun5PgrXw"
+    },
+    "image": "https://yt3.googleusercontent.com/uwrymFRQqEyyOCVB1OQorISxsWJAyXSfMK18bHoEE5DJtUZcU7MpwcFc-CzlCQbiYecMR3Z-4g=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAMrnDQlsPnrScHun5PgrXw"
+    }
+  },
+  {
+    "id": "huanyu-entertainment",
+    "name": "欢娱影视 Huanyu Entertainment",
+    "url": "https://www.youtube.com/@chinahuanyuent.officialchannel",
+    "description": "Costume and palace dramas.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama",
+      "costume"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCCZpYLIklqO2iWekzJUPRng"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kk-3JlTTrpQnC35Z_J73Si6EBFgqv_dGN_oSTaKPs3ak4=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCZpYLIklqO2iWekzJUPRng"
+    }
+  },
+  {
+    "id": "daylight-entertainment",
+    "name": "正午阳光 Daylight Entertainment",
+    "url": "https://www.youtube.com/@DaylightEntertainmentDrama",
+    "description": "Acclaimed realistic dramas (琅琊榜, 欢乐颂).",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCJq6qOdcSF3ZBUeFebC7KFQ"
+    },
+    "image": "https://yt3.googleusercontent.com/QTgJeJ_W2T9Yzi395y-c9S0r1_Jax5XO4kIp0MEum7UZLwEzV2AWtuk81Re2DIT3EuCBmwck=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJq6qOdcSF3ZBUeFebC7KFQ"
+    }
+  },
+  {
+    "id": "cctv-drama",
+    "name": "CCTV电视剧 CCTV Drama",
+    "url": "https://www.youtube.com/@CCTVDrama",
+    "description": "CCTV-8 drama channel.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC7Vl0YiY0rDlovqcCFN4yTA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_nmSD_XY2fe042W2by-EeG_NsvwOEhInTZiyF8S2YbaetE=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Vl0YiY0rDlovqcCFN4yTA"
+    }
+  },
+  {
+    "id": "mangotv-mystery",
+    "name": "MangoTV Mystery 芒果TV推理宇宙",
+    "url": "https://www.youtube.com/channel/UCKm7iuaBY41nzqIk6J8eX0g",
+    "description": "Mystery and suspense dramas.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama",
+      "mystery"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCKm7iuaBY41nzqIk6J8eX0g"
+    },
+    "image": "https://yt3.googleusercontent.com/0wq39uGvsUTBAvF7Tm_xT1znoFlBiHRmtawPegCwr5tRGxiMK9YpPkWG0w37hMXlSawXjN2DgQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKm7iuaBY41nzqIk6J8eX0g"
+    }
+  },
+  {
+    "id": "pts-drama",
+    "name": "公視戲劇 PTS Drama",
+    "url": "https://www.youtube.com/@ptsdrama",
+    "description": "Taiwan public TV dramas.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCH_5vj94el18quHAg_QwlMw"
+    },
+    "image": "https://yt3.googleusercontent.com/5nboxayX_3zxd3H__hLHnEsPJ72DE0PXsE5-CIudd1W1FVPEcaKWQieuJ4JourbcnF9B5MPsqog=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH_5vj94el18quHAg_QwlMw"
+    }
+  },
+  {
+    "id": "mediacorp-drama",
+    "name": "Mediacorp Drama",
+    "url": "https://www.youtube.com/@MediacorpDrama",
+    "description": "Singapore Chinese dramas.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "sg",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCnUQ8urh9t0vlHluTJdVLTg"
+    },
+    "image": "https://yt3.googleusercontent.com/vbBLvv_JG2h3aIv8yHipTVpxTeXzVKb1f9T1bhpo69oOVXk260D-JBuzHYk2e6K4TcpdeYGI4A=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnUQ8urh9t0vlHluTJdVLTg"
+    }
+  },
+  {
+    "id": "chinese-classic-movies",
+    "name": "經典華語老電影 Chinese Classic Movies",
+    "url": "https://www.youtube.com/@chnclassic",
+    "description": "Classic Chinese-language films.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "film",
+      "classic"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCGpsj9DhBHxMWNL3rC5ANcg"
+    },
+    "image": "https://yt3.googleusercontent.com/0pawdiYZwJOsu2FtIuFq3Y6urJrFII77a8ZNosq6eZ7BB_WOyoeOCMlEre5nFnxTtq4xKPfb9l8=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGpsj9DhBHxMWNL3rC5ANcg"
+    }
+  },
+  {
+    "id": "chinese-old-movies",
+    "name": "华语老电影 Chinese Old Movies",
+    "url": "https://www.youtube.com/@Chineseoldmovie",
+    "description": "Older Chinese films.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "film",
+      "classic"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCzYdNxSgeZ0m85jamNjovEA"
+    },
+    "image": "https://yt3.googleusercontent.com/VZGrrPrqunABGouOQ4pVt5Y1Df12L1pRKwpLDQ461mYteCoH9JaGj_y-G_jt_z0FcgfPY5xgvnQ=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzYdNxSgeZ0m85jamNjovEA"
+    }
+  },
+  {
+    "id": "wetv-english",
+    "name": "WeTV English",
+    "url": "https://www.youtube.com/@WeTVEnglish",
+    "description": "Chinese dramas with English subtitles.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCiu3bj4rR8KOYcUA4KNkOAA"
+    },
+    "image": "https://yt3.googleusercontent.com/iI9wCyPjt51JS1jObvCKs7n9GCxjDVT7w7wVgTs6ehgDwswVysdYxIEbusqigsJADtlJ-72X75c=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiu3bj4rR8KOYcUA4KNkOAA"
+    }
+  },
+  {
+    "id": "amo",
+    "name": "谷阿莫 Amo",
+    "url": "https://www.youtube.com/@amogood",
+    "description": "Movies summarised in minutes with snarky narration.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "film",
+      "summaries"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC6IMF6xi_MZ3jA1wRlPQDLA"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lGleBBukEg0OmQwm6xZYP-NjgP914JZ7GIrd8onkZVlIg=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6IMF6xi_MZ3jA1wRlPQDLA"
+    }
+  },
+  {
+    "id": "mu-yu-shui-xin",
+    "name": "木鱼水心",
+    "url": "https://space.bilibili.com/927587",
+    "description": "Thoughtful film and novel analysis.",
+    "category": "drama_film",
+    "type": "bilibili",
+    "tags": [
+      "film",
+      "analysis"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "927587"
+    },
+    "image": "https://i2.hdslb.com/bfs/face/e922d9dc09a2d21f1400ad0f02f75ecf1b3575c8.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/927587"
+    }
+  },
+  {
+    "id": "dian-ying-zui-top",
+    "name": "电影最TOP",
+    "url": "https://space.bilibili.com/17819768",
+    "description": "Film reviews and summaries.",
+    "category": "drama_film",
+    "type": "bilibili",
+    "tags": [
+      "film",
+      "reviews"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "bilibili_mid": "17819768"
+    },
+    "image": "https://i2.hdslb.com/bfs/face/6b2ade215ea603b495648875c925172a863d16d4.jpg",
+    "feed": {
+      "format": "rsshub",
+      "url": "https://rsshub.app/bilibili/user/video/17819768"
+    }
+  },
+  {
+    "id": "douban-movies",
+    "name": "豆瓣电影 Douban Movies",
+    "url": "https://movie.douban.com/",
+    "description": "Chinese film and TV database with reviews and ratings.",
+    "category": "drama_film",
+    "type": "website",
+    "tags": [
+      "reviews",
+      "database"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "mydramalist",
+    "name": "MyDramaList",
+    "url": "https://mydramalist.com/",
+    "description": "Community database of Chinese and Asian dramas.",
+    "category": "drama_film",
+    "type": "website",
+    "tags": [
+      "database"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "journey-to-the-west",
+    "name": "西游记 Journey to the West (1986)",
+    "url": "https://www.youtube.com/@JourneyTotheWest86",
+    "description": "The classic 1986 CCTV TV series.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama",
+      "classic"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCLl9R29KDIDHOFg7AqhBmaw"
+    },
+    "image": "https://yt3.googleusercontent.com/Vorc0gNA2-0TQAwoUvFVJjjedQ0FgFTUtR4c5pwWKY7qKikdktU-GBEsNxNsXhv3UXZ2OqKE=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLl9R29KDIDHOFg7AqhBmaw"
+    }
+  },
+  {
+    "id": "legend-of-concubine-zhen-huan",
+    "name": "后宫甄嬛传 Legend of Concubine Zhen Huan",
+    "url": "https://www.youtube.com/@LegendofConcubineZhenHuan",
+    "description": "Official channel of the hit palace drama.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama",
+      "costume"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UCmHdnfChhWapXurE-Av92kQ"
+    },
+    "image": "https://yt3.googleusercontent.com/dqdu3eBpnKk5fOpGvycTEJ4eKUPteml1rG__bH9ACL_kMvOH7Q-S9QbWU6MQ3Dyi2yf1zj45qw=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmHdnfChhWapXurE-Av92kQ"
+    }
+  },
+  {
+    "id": "china-zone",
+    "name": "China Zone 剧乐部",
+    "url": "https://www.youtube.com/@ChinaZoneDrama",
+    "description": "Full Chinese dramas with subtitles.",
+    "category": "drama_film",
+    "type": "youtube",
+    "tags": [
+      "drama"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "youtube_channel_id": "UC0jYsshDZfOBZC9nIJn94Cg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_mvls2hLK-tvCXSoZ6YXOgltT8idQxxuhF6MUGny9q3Ji8=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0jYsshDZfOBZC9nIJn94Cg"
+    }
+  }
+]

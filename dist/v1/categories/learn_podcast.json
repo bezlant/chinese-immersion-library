@@ -1,0 +1,1462 @@
+{
+ "category": {
+  "id": "learn_podcast",
+  "group": "learn",
+  "name": "Learn Chinese: Podcasts",
+  "name_zh": "学中文播客",
+  "icon": "headphones",
+  "description": "Podcasts made for learners, from slow Chinese to natural conversation."
+ },
+ "data_version": "edbc9426d061",
+ "count": 43,
+ "resources": [
+  {
+   "id": "chillchat",
+   "name": "Chillchat (Learn Chinese and Chill)",
+   "url": "https://podcasts.apple.com/podcast/id1475774488",
+   "description": "Shenzhen hosts teach words and phrases in context, with transcripts.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "phrases"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.buzzsprout.com/510028.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1475774488"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/35/37/b9353735-2dca-b032-c3c8-c5d58c5c8fd0/mza_14525636893400573869.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "chinese-explained",
+   "name": "Chinese Explained",
+   "url": "https://podcasts.apple.com/podcast/id1500549535",
+   "description": "Bite-sized episodes on culture and everyday expressions.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "culture"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/26c27344/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1500549535"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/94/c6/f0/94c6f021-aa94-d345-9324-8efcc04e3939/mza_9767360513181022981.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "chinese-podcast-with-shenglan",
+   "name": "Chinese Podcast With Shenglan",
+   "url": "https://podcasts.apple.com/podcast/id1630748801",
+   "description": "All-Chinese podcast on travel, life and culture for intermediate learners.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "culture"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/b955b8b0/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1630748801"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/23/7c/ff/237cffb3-b663-8946-714e-ba7f50a4f8f9/mza_10719940780540166803.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "chineseclass101-podcast",
+   "name": "ChineseClass101 Podcast",
+   "url": "https://podcasts.apple.com/podcast/id317130752",
+   "description": "English-taught beginner lessons.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "freemium",
+   "tags": [
+    "course"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.chineseclass101.com/wp-feed-audio-video.php"
+   },
+   "ids": {
+    "apple_podcast_id": "317130752"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/14/08/78/1408787b-4841-6003-ec68-f4d0a3a624b1/mza_899279384578965985.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "chinesepod-advanced",
+   "name": "ChinesePod - Advanced",
+   "url": "https://podcasts.apple.com/podcast/id1529838325",
+   "description": "All-Chinese advanced lessons and studio discussion.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "dialogues"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/317e2da0/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1529838325"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/0f/66/a10f6627-7314-72d6-489b-8933fd9f0362/mza_13247594079695170493.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "chinesepod-beginner",
+   "name": "ChinesePod - Beginner",
+   "url": "https://podcasts.apple.com/podcast/id1489328856",
+   "description": "Dialogue lessons for beginners with explanations.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "dialogues"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/109bf914/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1489328856"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/52/af/5152affe-7fd1-4937-6a8b-5fdc9861f116/mza_5926757141302167004.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "chinesepod-intermediate",
+   "name": "ChinesePod - Intermediate",
+   "url": "https://podcasts.apple.com/podcast/id1529834171",
+   "description": "Dialogue lessons for intermediate learners.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "dialogues"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/317bc3a8/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1529834171"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/61/94/19/61941919-19f3-0265-1351-4e1d736ca131/mza_14358318248869581979.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "coffee-break-chinese-podcast",
+   "name": "Coffee Break Chinese",
+   "url": "https://podcasts.apple.com/podcast/id1201255510",
+   "description": "Short structured lessons with a teacher and a learner (archive).",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "course"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/58cc3ec5-b23c-4de1-b8cb-21d229533dd9"
+   },
+   "ids": {
+    "apple_podcast_id": "1201255510"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/1c/d3/f6/1cd3f6e8-f8c0-2629-9b58-28ca32d3e06c/mza_16588498321215848109.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "dashu-mandarin-podcast",
+   "name": "Dashu Mandarin Podcast",
+   "url": "https://podcasts.apple.com/podcast/id1614411825",
+   "description": "Unscripted group conversations among teachers and guests.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/88ca316c/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1614411825"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/ee/ab/78/eeab78e0-92ef-3b0e-49d3-0a4f83805d09/mza_4798560325187208688.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "easy-mandarin-news",
+   "name": "Easy Mandarin News",
+   "url": "https://podcasts.apple.com/podcast/id1819425599",
+   "description": "Daily news retold in easy Mandarin for learners.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "news"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.buzzsprout.com/2509414.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1819425599"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/5d/fd/315dfd55-0ee3-c6cd-cb50-211940ab0604/mza_13454275442952897120.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "full-mandarin-stories-by-mandarin-monkey",
+   "name": "Full Mandarin Stories by Mandarin Monkey",
+   "url": "https://podcasts.apple.com/podcast/id1801754281",
+   "description": "Full-Mandarin storytelling episodes.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/67d190f4fa7cec3676b1cea8"
+   },
+   "ids": {
+    "apple_podcast_id": "1801754281"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/65/95/85659532-64c3-40a7-f229-280ad7785d21/mza_6558860913354856286.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "hacking-chinese-podcast",
+   "name": "Hacking Chinese Podcast",
+   "url": "https://podcasts.apple.com/podcast/id1536284827",
+   "description": "In-depth discussions on how to learn Mandarin by Olle Linge.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "learning-tips"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/388eb9e8/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1536284827"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/4d/1c/f9/4d1cf93a-4748-bd5b-eb6b-45cee4f56e7b/mza_12069485076955438993.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "im-learning-mandarin",
+   "name": "I'm Learning Mandarin",
+   "url": "https://podcasts.apple.com/podcast/id1581738411",
+   "description": "Discussions and interviews on specific topics in learning Chinese.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "learning-tips"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/647cc43c/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1581738411"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/49/40/09/49400939-7a48-b9c6-3997-ed8ed2e2994b/mza_14339012555053594060.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "lazy-chinese-podcast",
+   "name": "Lazy Chinese Podcast",
+   "url": "https://podcasts.apple.com/podcast/id1610476816",
+   "description": "Slow, easy Chinese stories using comprehensible input and TPRS.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/843fa4ec/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1610476816"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/86/83/9d86831f-ec14-a1c7-75f5-bd6a7338021f/mza_11352521658019787189.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "learn-chinese-with-ju",
+   "name": "Learn Chinese with Ju",
+   "url": "https://podcasts.apple.com/podcast/id1542797718",
+   "description": "Guess-from-context immersive lessons at a slow pace.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/42720410/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1542797718"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d5/7e/9b/d57e9bf3-4874-a27b-4cc9-ab58f1383ccb/mza_12673562739206861065.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "learn-chinese-with-kaela",
+   "name": "Learn Chinese with Kaela",
+   "url": "https://podcasts.apple.com/podcast/id1437065346",
+   "description": "English-free Chinese talks on psychology, society and feminism.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "society"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/6c75550/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1437065346"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b0/81/2c/b0812c07-f166-cea8-675a-0111b0f9dcb7/mza_170730620791272537.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "learn-mandarin-in-mandarin-with-huimin",
+   "name": "Learn Mandarin in Mandarin with Huimin",
+   "url": "https://podcasts.apple.com/podcast/id1573869563",
+   "description": "Long unscripted Taiwanese Mandarin monologues with CEFR difficulty ratings.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.firstory.me/rss/user/ckq9bl3vd660p0805d1apvgrd"
+   },
+   "ids": {
+    "apple_podcast_id": "1573869563"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a3/14/9e/a3149ec2-90a6-a1a5-c15d-770627f54e0d/mza_602776581540638893.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "learn-real-life-taiwanese-mandarin",
+   "name": "Learn real-life Taiwanese Mandarin 聽播客學中文",
+   "url": "https://podcasts.apple.com/podcast/id1567731121",
+   "description": "Real-life Taiwanese Mandarin conversations for learners.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.soundon.fm/podcasts/2358efb4-70aa-4408-9b1d-365470ab47d9.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1567731121"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d4/4a/c6/d44ac649-6cbd-2a94-47bb-7d44f927ccb7/mza_11222418047200740560.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "learn-taiwanese-mandarin",
+   "name": "Learn Taiwanese Mandarin",
+   "url": "https://podcasts.apple.com/podcast/id1502494666",
+   "description": "Casual, unscripted Taiwanese Mandarin monologues on current events and culture.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/fa1750c0/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1502494666"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/6b/a9/ad6ba987-b4b3-0d5a-5233-943de63d8dd6/mza_5807566241105151991.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "learning-chinese-through-stories",
+   "name": "Learning Chinese through Stories",
+   "url": "https://podcasts.apple.com/podcast/id942258146",
+   "description": "Story and explanation episode pairs taught almost entirely in Mandarin, graded by level.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.pdrl.fm/7a3f80/feeds.libsyn.com/130982/rss/?redirect=false"
+   },
+   "ids": {
+    "apple_podcast_id": "942258146"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3c/cb/78/3ccb788e-def4-7c31-8b99-6d22b85de53f/mza_11708184256458942884.png/600x600bb.jpg"
+  },
+  {
+   "id": "maayot-learn-chinese-with-beginner-stories",
+   "name": "maayot: Learn Chinese with Beginner Stories",
+   "url": "https://podcasts.apple.com/podcast/id1527047549",
+   "description": "Short stories under three minutes for every HSK level.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "hsk",
+    "stories"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/10b37f6ac/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1527047549"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/10/df/77/10df77af-cb17-8fd0-0c70-620666bbc66a/mza_10316156257758281511.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "mandarin-blueprint-podcast",
+   "name": "Mandarin Blueprint Podcast",
+   "url": "https://podcasts.apple.com/podcast/id1450153938",
+   "description": "Character, pronunciation and learning-method discussions.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "learning-tips"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.mandarinblueprint.com/feed/podcast/"
+   },
+   "ids": {
+    "apple_podcast_id": "1450153938"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/38/7f/fe/387ffe41-78be-87ab-7f1c-fc70e4351c39/mza_7499562090906617456.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "mandarin-monkey-podcast",
+   "name": "Mandarin Monkey Podcast",
+   "url": "https://podcasts.apple.com/podcast/id1430708691",
+   "description": "Bilingual conversations about life in Taiwan, culture and learning.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.acast.com/public/shows/671683b6c054f53907d2cb8f"
+   },
+   "ids": {
+    "apple_podcast_id": "1430708691"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/ef/7e/57ef7e06-3192-f8d2-ee32-f598891bbebb/mza_5248730181354175447.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "mandarin-to-go-daily-chinese-dialogues",
+   "name": "Mandarin To Go: Daily Chinese Dialogues",
+   "url": "https://podcasts.apple.com/podcast/id1886740987",
+   "description": "Short daily dialogues for practical Mandarin.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "dialogues"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/109357c08/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1886740987"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/e7/26/09e72663-a740-a5fc-8353-e201016684bb/mza_10910778260182356367.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "maomi-chinese",
+   "name": "MaoMi Chinese",
+   "url": "https://podcasts.apple.com/podcast/id1548129463",
+   "description": "Scripted Chinese monologues on current topics with Chinese explanations and transcripts.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "freemium",
+   "tags": [
+    "transcripts"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.buzzsprout.com/1426696.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1548129463"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/18/e1/8418e10a-8012-cbd5-ea0d-2a4ed360ae0c/mza_3865026559858765067.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "melnyks-chinese",
+   "name": "Melnyks Chinese",
+   "url": "https://podcasts.apple.com/podcast/id119843495",
+   "description": "Theme-based audio lessons with heavy repetition.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "freemium",
+   "tags": [
+    "course"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://www.melnyks.com/feed/podcast/"
+   },
+   "ids": {
+    "apple_podcast_id": "119843495"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/f1/89/77/f189778f-88be-ba30-ee33-30b4fef876af/mza_941260229949329506.png/600x600bb.jpg"
+  },
+  {
+   "id": "mini-mandarin",
+   "name": "Mini Mandarin",
+   "url": "https://podcasts.apple.com/podcast/id1346216138",
+   "description": "Short, sweet Chinese phrases step by step.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "phrases"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/219795c/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1346216138"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/d2/47/64d247f1-5c56-9daa-5e6a-afec28e6e393/mza_15161340838686650079.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "one-chinese-word-a-day",
+   "name": "One Chinese Word a Day",
+   "url": "https://podcasts.apple.com/podcast/id1496558377",
+   "description": "Two-minute episodes building words and phrases around one character.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "vocabulary"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/1214ed78/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1496558377"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/58/67/a4/5867a4cd-367e-13de-eb5d-4b34174d9364/mza_17578182714072950160.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "slow-chinese-podcast",
+   "name": "Slow Chinese Podcast (Learn Chinese with Mei)",
+   "url": "https://podcasts.apple.com/podcast/id1562798369",
+   "description": "Slow Mandarin episodes on everyday topics.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "slow"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/5669fedc/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1562798369"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/e6/4d/3de64df4-05da-c032-6162-f8d495a5dad5/mza_217489937581693333.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "slow-chinese",
+   "name": "Slow Chinese 慢速中文",
+   "url": "https://podcasts.apple.com/podcast/id1482243873",
+   "description": "Classic slowed-down all-Chinese episodes on culture and society with transcripts (archive, 224 episodes).",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "slow",
+    "transcripts"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://kitchenknif.github.io/SlowChinese/podcast.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1482243873"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/30/b4/88/30b48856-2984-3ce3-3c99-8e41914aefdb/mza_17422342128067649193.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "speak-chinese-naturally",
+   "name": "Speak Chinese Naturally",
+   "url": "https://podcasts.apple.com/podcast/id1459401769",
+   "description": "Idioms, slang and colloquial speech for natural speaking.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "idioms",
+    "slang"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/1d7d70a4/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1459401769"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4b/8c/11/4b8c1198-17f2-91b3-90b6-4d26b51592a0/mza_595760025285807466.png/600x600bb.jpg"
+  },
+  {
+   "id": "takeaway-chinese",
+   "name": "Takeaway Chinese",
+   "url": "https://podcasts.apple.com/podcast/id1253344992",
+   "description": "Weekly everyday-topic lessons with dialogues in hanzi, pinyin and English.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "dialogues"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://cgtn-radio-data.cgtn.com/rss/programother/54"
+   },
+   "ids": {
+    "apple_podcast_id": "1253344992"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/49/86/ee/4986ee11-f057-faef-fda1-de02901ecc83/mza_14542080777914553985.png/600x600bb.jpg"
+  },
+  {
+   "id": "talk-chineasy",
+   "name": "Talk Chineasy",
+   "url": "https://podcasts.apple.com/podcast/id1191490521",
+   "description": "Seven-minute culture episodes with guests, mostly in English.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "culture"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:260574053/sounds.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1191490521"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/26/27/4c/26274c56-f69c-c644-05e9-fe0518406a6c/mza_1249301203404815261.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "talk-taiwanese-mandarin-with-abby",
+   "name": "Talk Taiwanese Mandarin with Abby",
+   "url": "https://podcasts.apple.com/podcast/id1528159735",
+   "description": "Taiwan-focused topics in natural Taiwanese Mandarin.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "taiwan"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.soundon.fm/podcasts/8329ce3a-6cc8-4a3c-a12d-1a5b934060a0.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1528159735"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/59/f6/bf59f67e-bb54-f119-63e7-cf06bac4712a/mza_25956592399046125.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "teatime-chinese",
+   "name": "TeaTime Chinese 茶歇中文",
+   "url": "https://podcasts.apple.com/podcast/id1557463835",
+   "description": "Slow, clear Chinese monologues on language, culture and current affairs.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.libsyn.com/shows/330782/destinations/2693480.xml"
+   },
+   "ids": {
+    "apple_podcast_id": "1557463835"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f3/99/a5/f399a586-9ea7-080e-2584-53e240ad4e12/mza_3958047185997869201.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "trendy-chinese-podcast",
+   "name": "Trendy Chinese Podcast 舌尖上的中文播客",
+   "url": "https://podcasts.apple.com/podcast/id1866900816",
+   "description": "Trending words and topics in contemporary Chinese.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "slang"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/106017640/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1866900816"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/55/87/cb5587e8-a648-9451-032a-841f83f92559/mza_11875489314234051938.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "you-can-learn-chinese",
+   "name": "You Can Learn Chinese",
+   "url": "https://podcasts.apple.com/podcast/id1451549039",
+   "description": "English podcast on effective ways to learn Mandarin, with guest interviews.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "en",
+   "pricing": "free",
+   "tags": [
+    "learning-tips"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/f047cea8/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1451549039"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/af/30/e2/af30e256-f42f-098b-c76c-d0122a0122f2/mza_5145035581046964581.jpeg/600x600bb.jpg"
+  },
+  {
+   "id": "yoyo-mo-slow-chinese",
+   "name": "Yoyo Mo Slow Chinese",
+   "url": "https://podcasts.apple.com/podcast/id1464619134",
+   "description": "Short slow-Chinese episodes on news, stories and daily life (formerly MelonChinese).",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "news"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/b76efc0/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1464619134"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/72/2d/d9722da4-1a17-cf5e-321b-f3664d4d33e5/mza_11638598724266219677.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "speak-chinese-with-da-peng",
+   "name": "大鹏说中文 Speak Chinese with Da Peng",
+   "url": "https://podcasts.apple.com/podcast/id1490732024",
+   "description": "Topic episodes and short daily expressions in clear, Chinese-only delivery.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "expressions"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.buzzsprout.com/688918.rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1490732024"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/1c/14/f01c1417-52f1-86d9-ee1b-b0b6e4b03e32/mza_6388866532018973975.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "convo-chinese",
+   "name": "瞎扯学中文 Convo Chinese",
+   "url": "https://podcasts.apple.com/podcast/id1565956246",
+   "description": "Host-and-guest conversations with transcripts and vocabulary in show notes.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.firstory.me/rss/user/cko0g8j5m1toy0984t6s7mqtk"
+   },
+   "ids": {
+    "apple_podcast_id": "1565956246"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/89/bc/4889bc6e-1990-783e-7c32-0372fbdb7108/mza_16874380036801224344.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "talk-to-me-in-chinese",
+   "name": "聊聊东西 Talk to Me in Chinese",
+   "url": "https://podcasts.apple.com/podcast/id1521247617",
+   "description": "Natural-speed conversations comparing Chinese and Western cultures.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "culture"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://feeds.simplecast.com/wy2qyesE"
+   },
+   "ids": {
+    "apple_podcast_id": "1521247617"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/0c/67/e8/0c67e8c8-87c3-1727-6d2a-ab7c1f7c165c/mza_18409894418419195799.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "oh-chinese",
+   "name": "藕！中文 Oh Chinese!",
+   "url": "https://podcasts.apple.com/podcast/id1529055972",
+   "description": "Two hosts debate trending topics like social media and music.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "conversation"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/311d4760/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1529055972"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f3/ed/a0/f3eda019-2155-186c-0a34-d421fc54ee6e/mza_11184305283634061539.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "haike-mandarin",
+   "name": "還可中文 Haike Mandarin",
+   "url": "https://podcasts.apple.com/podcast/id1505176961",
+   "description": "Casual conversations among Taiwanese friends with free transcripts.",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "traditional",
+   "region": "tw",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "conversation",
+    "taiwan"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/5caa7664/podcast/rss"
+   },
+   "ids": {
+    "apple_podcast_id": "1505176961"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/5f/65/a1/5f65a128-5e65-4585-bb67-19fcdc2b0356/mza_5668261821889931376.jpg/600x600bb.jpg"
+  }
+ ]
+}

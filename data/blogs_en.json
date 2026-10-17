@@ -1,0 +1,389 @@
+[
+  {
+    "id": "sixth-tone",
+    "name": "Sixth Tone",
+    "url": "https://www.sixthtone.com/",
+    "description": "English-language stories about contemporary Chinese society.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "society"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "http://www.sixthtone.com/rss/index.xml"
+    }
+  },
+  {
+    "id": "whats-on-weibo",
+    "name": "What's on Weibo",
+    "url": "https://www.whatsonweibo.com/",
+    "description": "Trends and social media in China explained in English.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "social-media",
+      "trends"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.whatsonweibo.com/feed/"
+    }
+  },
+  {
+    "id": "radii",
+    "name": "RADII",
+    "url": "https://www.radii.co/",
+    "description": "Youth culture, music and trends in China.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "youth-culture"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://radii.co/feed"
+    }
+  },
+  {
+    "id": "language-log",
+    "name": "Language Log (Chinese)",
+    "url": "https://languagelog.ldc.upenn.edu/nll/?cat=19",
+    "description": "Linguists' blog with frequent posts on Chinese characters and language.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "linguistics"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2"
+    }
+  },
+  {
+    "id": "chinafile",
+    "name": "ChinaFile",
+    "url": "https://www.chinafile.com/",
+    "description": "Asia Society magazine on China.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "analysis"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "china-digital-times",
+    "name": "China Digital Times (English)",
+    "url": "https://chinadigitaltimes.net/",
+    "description": "Translations of Chinese internet content and censorship.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "internet"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "supchina-the-china-project-archive",
+    "name": "SupChina / The China Project archive",
+    "url": "https://thechinaproject.com/",
+    "description": "Archive of news and culture about China.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "archive"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://thechinaproject.com/feed/"
+    }
+  },
+  {
+    "id": "realtime-mandarin",
+    "name": "RealTime Mandarin",
+    "url": "https://www.realtimemandarin.com/",
+    "description": "Newsletter teaching advanced Mandarin through current news.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "newsletter",
+      "news"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.realtimemandarin.com/feed/"
+    }
+  },
+  {
+    "id": "pinyin-news",
+    "name": "Pinyin News",
+    "url": "https://pinyin.info/news/",
+    "description": "Mark Swofford's blog on pinyin, romanization and Chinese writing.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "pinyin",
+      "linguistics"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://pinyin.info/news/feed/"
+    }
+  },
+  {
+    "id": "hanzi-smatter",
+    "name": "Hanzi Smatter",
+    "url": "https://hanzismatter.blogspot.com/",
+    "description": "Chinese character tattoos gone wrong: a fun read for learners.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "humor"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "atom",
+      "url": "https://hanzismatter.blogspot.com/feeds/posts/default"
+    }
+  },
+  {
+    "id": "the-beijinger",
+    "name": "The Beijinger",
+    "url": "https://www.thebeijinger.com/",
+    "description": "Expat guide to Beijing life.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "expat",
+      "beijing"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "thats-shanghai",
+    "name": "That's Shanghai",
+    "url": "https://www.thatsmags.com/shanghai",
+    "description": "Expat guide to Shanghai life.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "expat",
+      "shanghai"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "taiwan-news",
+    "name": "Taiwan News",
+    "url": "https://www.taiwannews.com.tw/",
+    "description": "English news from Taiwan.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "news",
+      "taiwan"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "focus-taiwan",
+    "name": "Focus Taiwan (CNA English)",
+    "url": "https://focustaiwan.tw/",
+    "description": "Taiwan's Central News Agency in English.",
+    "category": "blogs_en",
+    "type": "website",
+    "tags": [
+      "news",
+      "taiwan"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  }
+]

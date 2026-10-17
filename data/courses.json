@@ -1,0 +1,618 @@
+[
+  {
+    "id": "chinese-grammar-wiki",
+    "name": "Chinese Grammar Wiki (AllSet Learning)",
+    "url": "https://resources.allsetlearning.com/chinese/grammar/",
+    "description": "The definitive free Chinese grammar reference, organised by CEFR/HSK level.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "grammar",
+      "reference"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chinese-zero-to-hero",
+    "name": "Chinese Zero to Hero",
+    "url": "https://www.zerotohero.ca/",
+    "description": "Free HSK video courses plus a language-learning web app.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "hsk",
+      "video"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "yoyo-chinese",
+    "name": "Yoyo Chinese",
+    "url": "https://yoyochinese.com/",
+    "description": "Video courses on pronunciation, grammar, conversation and characters.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "video"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "paid",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chinesepod",
+    "name": "ChinesePod",
+    "url": "https://www.chinesepod.com/",
+    "description": "Thousands of dialogue lessons from newbie to media level.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "dialogues"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "paid",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "chinesefor-us",
+    "name": "ChineseFor.Us",
+    "url": "https://www.chinesefor.us/",
+    "description": "HSK-based video courses and grammar lessons.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "hsk",
+      "grammar"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "freemium",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://chinesefor.us/feed/"
+    }
+  },
+  {
+    "id": "mandarin-blueprint",
+    "name": "Mandarin Blueprint",
+    "url": "https://www.mandarinblueprint.com/",
+    "description": "Character-first course using memory palaces and pronunciation training.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "characters"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "paid",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "hacking-chinese",
+    "name": "Hacking Chinese",
+    "url": "https://www.hackingchinese.com/",
+    "description": "Articles, challenges and guides on learning Chinese effectively.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "learning-tips"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "hacking-chinese-resources",
+    "name": "Hacking Chinese Resources",
+    "url": "https://challenges.hackingchinese.com/resources",
+    "description": "Searchable database of Chinese learning resources by level and skill.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "directory"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "sinosplice",
+    "name": "Sinosplice",
+    "url": "https://www.sinosplice.com/",
+    "description": "Long-running blog on Mandarin learning and linguistics by John Pasden.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "blog",
+      "linguistics"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.sinosplice.com/feed"
+    }
+  },
+  {
+    "id": "chinese-boost",
+    "name": "Chinese Boost",
+    "url": "https://www.chineseboost.com/",
+    "description": "Grammar guides, tips and reading lessons.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "grammar"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "digmandarin",
+    "name": "Digmandarin",
+    "url": "https://www.digmandarin.com/",
+    "description": "Lessons, culture articles and vocabulary lists.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "culture",
+      "vocabulary"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://www.digmandarin.com/feed"
+    }
+  },
+  {
+    "id": "outlier-linguistics",
+    "name": "Outlier Linguistics",
+    "url": "https://www.outlier-linguistics.com/",
+    "description": "Character etymology dictionary and courses explaining how hanzi work.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "characters",
+      "etymology"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "paid",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "coursera-chinese-for-beginners",
+    "name": "Coursera: Chinese for Beginners (Peking University)",
+    "url": "https://www.coursera.org/learn/learn-chinese",
+    "description": "Free university MOOC on basic Mandarin.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "mooc"
+    ],
+    "level": [
+      "beginner"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "edx-chinese-courses",
+    "name": "edX Chinese courses",
+    "url": "https://www.edx.org/learn/chinese",
+    "description": "University MOOCs on Mandarin language and culture.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "mooc"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chinese-learn-online",
+    "name": "Chinese Learn Online",
+    "url": "https://www.chineselearnonline.com/",
+    "description": "Structured audio course from absolute beginner upward.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "audio"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "paid",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "mandarin-corner",
+    "name": "Mandarin Corner",
+    "url": "https://www.mandarincorner.org/",
+    "description": "Video courses, transcripts and HSK vocabulary from the Mandarin Corner channel.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "video",
+      "transcripts"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "freemium",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://mandarincorner.org/feed/"
+    }
+  },
+  {
+    "id": "coffee-break-chinese",
+    "name": "Coffee Break Chinese",
+    "url": "https://coffeebreaklanguages.com/chinese/",
+    "description": "Audio course with a teacher and learner.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "audio"
+    ],
+    "level": [
+      "beginner"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "freemium",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "rss",
+      "url": "https://coffeebreaklanguages.com/feed/"
+    }
+  },
+  {
+    "id": "purple-culture-pinyin-chart",
+    "name": "Purple Culture Pinyin Chart",
+    "url": "https://www.purpleculture.net/chinese-pinyin-chart/",
+    "description": "Interactive pinyin chart with audio for every syllable.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "pinyin",
+      "pronunciation"
+    ],
+    "level": [
+      "beginner"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "yabla-chinese-pinyin-chart",
+    "name": "Yabla Chinese Pinyin Chart",
+    "url": "https://chinese.yabla.com/chinese-pinyin-chart.php",
+    "description": "Pinyin chart with native speaker audio for all tones.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "pinyin",
+      "pronunciation"
+    ],
+    "level": [
+      "beginner"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "chinese-language-stack-exchange",
+    "name": "Chinese Language Stack Exchange",
+    "url": "https://chinese.stackexchange.com/",
+    "description": "Q&A community for questions about Chinese language.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "q-and-a",
+      "community"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "feed": {
+      "format": "atom",
+      "url": "https://chinese.stackexchange.com/feeds"
+    }
+  },
+  {
+    "id": "chinese-forums-com",
+    "name": "Chinese-forums.com",
+    "url": "https://www.chinese-forums.com/",
+    "description": "Long-running forum for Chinese learners.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "forum",
+      "community"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "ltl-mandarin-school-blog",
+    "name": "LTL Mandarin School Blog",
+    "url": "https://ltl-school.com/blog/",
+    "description": "Articles on Chinese slang, culture and learning resources.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "blog",
+      "slang"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  },
+  {
+    "id": "duolingo-chinese",
+    "name": "Duolingo Chinese",
+    "url": "https://www.duolingo.com/course/zh/en/Learn-Chinese",
+    "description": "Gamified beginner Chinese course.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "gamified"
+    ],
+    "level": [
+      "beginner"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ]
+  },
+  {
+    "id": "mit-opencourseware-chinese",
+    "name": "MIT OpenCourseWare Chinese",
+    "url": "https://ocw.mit.edu/search/?d=Global%20Languages&q=chinese",
+    "description": "Free MIT Chinese language course materials.",
+    "category": "courses",
+    "type": "website",
+    "tags": [
+      "university"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "en",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ]
+  }
+]
