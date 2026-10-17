@@ -1,6 +1,6 @@
 {
- "data_version": "257fe95db0a8",
- "count": 446,
+ "data_version": "ae888d0d0536",
+ "count": 449,
  "feeds": [
   {
    "id": "acquire-mandarin",
@@ -210,6 +210,17 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwZq7MvS8QpvbGfuh7Ifcbw"
    },
    "image": "https://yt3.googleusercontent.com/k5N-Fo5XgAmEkg0J5yR2eaqh3qUvvoduIx94hynlrugxvD7W2SglyxSKAfxc-5qWcWBH564Zew=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "easy-mandarin",
+   "name": "Easy Mandarin",
+   "category": "learn_video",
+   "type": "youtube",
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw837dYLZNGdhk5G5zjySIg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kCrGHxDNlYX1vPS8dCN6fF9PCNmb_KniHfLpv8ch0VEA=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": "everyday-chinese",
@@ -586,6 +597,17 @@
    "image": "https://yt3.googleusercontent.com/h1zLabapUDPAdB0UxQFi1X03ln6QJeK09UvqIckNbWbdg7YrSrgGKyUpB7s1vyYKlnuLGjUAZQ=s900-c-k-c0x00ffffff-no-rj"
   },
   {
+   "id": "thinking-in-chinese",
+   "name": "Thinking in Chinese",
+   "category": "learn_video",
+   "type": "youtube",
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSeLePtOn5gRVpkE0yxOHsg"
+   },
+   "image": "https://yt3.googleusercontent.com/AXSlMFUB2wPHu45bAIbGPenCeKFg0qS92NdeURYcJP2WbEvV00xx4ysEhhYr2jaztTNNENt3=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
    "id": "tingting-comprehensible-chinese",
    "name": "Tingting Comprehensible Chinese",
    "category": "learn_video",
@@ -628,6 +650,17 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc-YIMz_tv1K_FKE4noY_Cw"
    },
    "image": "https://yt3.googleusercontent.com/xAQDeP0A3pOjXzU_jSRWON1UbP7Rg8UldzMe_TwykTDuzu5pmlG7mRRb9KS6g14a9-sJVPE_DA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "yimin-chinese",
+   "name": "Yimin Chinese 亦敏中文",
+   "category": "learn_video",
+   "type": "youtube",
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTwUbtaSPl13qpT6sKB3dwA"
+   },
+   "image": "https://yt3.googleusercontent.com/aezMQesDyfDDQxO0CQThfF1eRgncxUimPeiPouIhVuW_EBmWyHuZEW20TFoFIZQBfttgIPrnTA=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": "yoyo-chinese-youtube",

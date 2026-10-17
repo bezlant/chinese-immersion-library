@@ -8,7 +8,7 @@
   "web_icon": "circle-play",
   "description": "YouTube channels made for learners: comprehensible input, lessons, grammar."
  },
- "data_version": "257fe95db0a8",
+ "data_version": "ae888d0d0536",
  "count": 61,
  "resources": [
   {
@@ -737,7 +737,15 @@
    ],
    "login": "none",
    "subtitles": "free",
-   "recommended": true
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw837dYLZNGdhk5G5zjySIg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCw837dYLZNGdhk5G5zjySIg"
+   },
+   "image": "https://yt3.googleusercontent.com/ytc/AIdro_kCrGHxDNlYX1vPS8dCN6fF9PCNmb_KniHfLpv8ch0VEA=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": "everyday-chinese",
@@ -2015,7 +2023,16 @@
     "android"
    ],
    "login": "none",
-   "recommended": true
+   "subtitles": "free",
+   "recommended": true,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSeLePtOn5gRVpkE0yxOHsg"
+   },
+   "ids": {
+    "youtube_channel_id": "UCSeLePtOn5gRVpkE0yxOHsg"
+   },
+   "image": "https://yt3.googleusercontent.com/AXSlMFUB2wPHu45bAIbGPenCeKFg0qS92NdeURYcJP2WbEvV00xx4ysEhhYr2jaztTNNENt3=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": "tingting-comprehensible-chinese",
@@ -2188,7 +2205,15 @@
     "android"
    ],
    "login": "none",
-   "recommended": false
+   "recommended": false,
+   "feed": {
+    "format": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTwUbtaSPl13qpT6sKB3dwA"
+   },
+   "ids": {
+    "youtube_channel_id": "UCTwUbtaSPl13qpT6sKB3dwA"
+   },
+   "image": "https://yt3.googleusercontent.com/aezMQesDyfDDQxO0CQThfF1eRgncxUimPeiPouIhVuW_EBmWyHuZEW20TFoFIZQBfttgIPrnTA=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": "yoyo-chinese-youtube",

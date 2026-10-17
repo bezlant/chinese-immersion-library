@@ -209,7 +209,8 @@
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL--AnIMxQQdbcH4ESEK0Iw"
     },
-    "login": "none"
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "zhi-qi-qi-qi",
@@ -245,7 +246,8 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiWXd0nmBjlKROwzMyPV-Nw"
     },
     "login": "none",
-    "recommended": true
+    "recommended": true,
+    "subtitles": "free"
   },
   {
     "id": "hook",

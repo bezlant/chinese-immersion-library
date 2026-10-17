@@ -67,7 +67,8 @@
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQtwvRQWnT5Buh9hpvNNryQ"
     },
-    "login": "none"
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "mr-and-mrs-gao",

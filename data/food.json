@@ -607,7 +607,8 @@
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9i2Qgd5lizhVgJrdnxunKw"
     },
-    "login": "none"
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "lady-flavor",

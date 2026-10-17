@@ -372,7 +372,8 @@
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD_cg9Tak9SvlPHRsWxUIpA"
     },
-    "login": "none"
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "gg-bond",

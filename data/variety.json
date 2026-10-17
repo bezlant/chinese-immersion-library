@@ -203,7 +203,8 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7eBKmeAz99qswOcm3VxOow"
     },
     "login": "none",
-    "recommended": true
+    "recommended": true,
+    "subtitles": "free"
   },
   {
     "id": "qiang-qiang-san-ren-xing",

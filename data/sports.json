@@ -293,7 +293,8 @@
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa5z5-YvFEcWEe3jnn0L8sA"
     },
-    "login": "none"
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "will-liu",

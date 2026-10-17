@@ -477,7 +477,8 @@
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLgGLSFMZQB8c0WGcwE49Gw"
     },
-    "login": "none"
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "type": "youtube",
@@ -512,6 +513,7 @@
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKPflKAE2Y1tm8VSi32iboQ"
     },
-    "login": "none"
+    "login": "none",
+    "subtitles": "free"
   }
 ]

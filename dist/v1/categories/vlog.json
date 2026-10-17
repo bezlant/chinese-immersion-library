@@ -8,7 +8,7 @@
   "web_icon": "camera",
   "description": "Everyday-life creators: natural, conversational Chinese."
  },
- "data_version": "257fe95db0a8",
+ "data_version": "ae888d0d0536",
  "count": 20,
  "resources": [
   {
@@ -578,6 +578,7 @@
     "android"
    ],
    "login": "none",
+   "subtitles": "free",
    "recommended": true,
    "feed": {
     "format": "youtube",
@@ -723,6 +724,7 @@
     "android"
    ],
    "login": "none",
+   "subtitles": "free",
    "recommended": false,
    "feed": {
     "format": "youtube",

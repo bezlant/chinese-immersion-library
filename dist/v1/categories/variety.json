@@ -8,7 +8,7 @@
   "web_icon": "sparkles",
   "description": "TV stations, variety, singing and talk shows."
  },
- "data_version": "257fe95db0a8",
+ "data_version": "ae888d0d0536",
  "count": 11,
  "resources": [
   {
@@ -177,6 +177,7 @@
     "android"
    ],
    "login": "none",
+   "subtitles": "free",
    "recommended": true,
    "feed": {
     "format": "youtube",

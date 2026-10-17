@@ -118,7 +118,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [Taiwanese Mandarin With Miss Lin](https://www.youtube.com/@MandarinWithMissLin) - Taiwanese Mandarin lessons and TOCFL-oriented practice. <sub>*For learners* · Beginner–Intermediate · 繁 · TW · Bilingual</sub>
 - [TeaTime Chinese 茶歇中文](https://www.youtube.com/@TeaTimeChinese) - Slow, clear Chinese monologues on varied topics, almost entirely in Chinese. <sub>*For learners* · Intermediate · 简 · CN · Subtitles</sub>
 - [That's Mandarin](https://www.youtube.com/@ThatsMandarin) - Mandarin school channel with lessons on vocabulary, grammar and culture. <sub>*For learners* · Beginner–Intermediate · 简 · CN · English</sub>
-- [Thinking in Chinese](https://www.youtube.com/@ThinkinginChinese) - Intermediate comprehensible input on culture, history and society, explained in clear Chinese. <sub>**Pick** · *For learners* · Intermediate · 简 · CN</sub>
+- [Thinking in Chinese](https://www.youtube.com/@ThinkinginChinese) - Intermediate comprehensible input on culture, history and society, explained in clear Chinese. <sub>**Pick** · *For learners* · Intermediate · 简 · CN · Subtitles</sub>
 - [Tingting Comprehensible Chinese](https://www.youtube.com/@ComprehensibleChinese) - Comprehensible-input Mandarin videos for beginners. <sub>**Pick** · *For learners* · Beginner · 简 · CN</sub>
 - [Unconventional Chinese](https://www.youtube.com/@unconventionalchinese) - Language and travel content; the intermediate playlist is entertaining and travel-focused. <sub>*For learners* · Intermediate · 简 · CN · Bilingual</sub>
 - [Will Hart 何威](https://www.youtube.com/@willhartmandarin) - A British advanced learner speaking Chinese on pronunciation and characters, plus learning tips. <sub>*For learners* · Intermediate–Advanced · 简 · CN · Bilingual · Subtitles</sub>
@@ -582,7 +582,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [妈咪说 MommyTalk](https://www.youtube.com/@Sci1729) - Physics and maths explained simply. <sub>Advanced · 简 · CN</sub>
 - [开讲啦 The Voice](https://www.youtube.com/@The_Voice) - CCTV talk show where public figures lecture young audiences. <sub>Advanced · 简 · CN</sub>
 - [李永乐老师 Li Yongle](https://www.youtube.com/@李永乐老师官方) - Teacher Li Yongle's science and maths lessons in fast, clear Mandarin. <sub>**Pick** · Advanced · 简 · CN</sub>
-- [柴知道 ChaiKnows](https://www.youtube.com/@chaiknowsofficialchannel982) - Clearly narrated science videos on biology, physics and psychology. <sub>Advanced · 简 · CN</sub>
+- [柴知道 ChaiKnows](https://www.youtube.com/@chaiknowsofficialchannel982) - Clearly narrated science videos on biology, physics and psychology. <sub>Advanced · 简 · CN · Subtitles</sub>
 - [毕导THU](https://www.youtube.com/@thu4878) - Funny science experiments and explanations from a Tsinghua PhD. <sub>Advanced · 简 · CN</sub>
 - [混乱博物馆 ChaosMuseum](https://www.youtube.com/@chaosmuseum) - Natural history and science curiosities. <sub>Advanced · 简 · CN</sub>
 - [理科太太 Li Ke Tai Tai](https://www.youtube.com/@liketaitai) - Taiwanese science and health explainers. <sub>Advanced · 繁 · TW</sub>
@@ -835,7 +835,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [TVB 綜藝](https://www.youtube.com/@TVB_Variety) - TVB variety shows (Cantonese). <sub>Advanced · 繁 · HK · Cantonese</sub>
 - [东方卫视 Dragon TV](https://www.youtube.com/@SMGDragonTV) - Shanghai Dragon TV shows and dramas. <sub>Advanced · 简 · CN</sub>
 - [中国好声音 Sing! China](https://www.youtube.com/@singchinaofficialchannel2915) - Official Sing! China singing competition. <sub>Advanced · 简 · CN</sub>
-- [十三邀](https://www.youtube.com/@THIRTEENTALKS) - Xu Zhiyuan's long-form interviews with thinkers and artists. <sub>**Pick** · Advanced · 简 · CN</sub>
+- [十三邀](https://www.youtube.com/@THIRTEENTALKS) - Xu Zhiyuan's long-form interviews with thinkers and artists. <sub>**Pick** · Advanced · 简 · CN · Subtitles</sub>
 - [木曜4超玩](https://www.youtube.com/@Muyao4) - Taiwan's popular comedy variety web show. <sub>Advanced · 繁 · TW</sub>
 - [江苏卫视 Jiangsu TV](https://www.youtube.com/@ChinaJiangsuTVOfficialChannel) - Jiangsu TV shows (非诚勿扰, 最强大脑). <sub>Advanced · 简 · CN</sub>
 - [浙江卫视 Zhejiang STV](https://www.youtube.com/@ZhejiangStv) - Zhejiang TV: Running Man China, Sing! China. <sub>Advanced · 简 · CN</sub>
@@ -908,9 +908,9 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [办公室小野 Ms Yeah](https://www.youtube.com/@MsYeahOfficialChannel) - Creative cooking hacks in the office. <sub>**Pick** · Intermediate–Advanced · 简 · CN</sub>
 - [古娃娃 WawaKu](https://www.youtube.com/@WawaKu) - Taiwanese lifestyle, fashion and relationships. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [周六野 Zoey](https://www.youtube.com/@WildSaturday) - Home workouts and healthy living. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [志祺七七](https://www.youtube.com/@shasha77) - Taiwanese explainers on social issues and current events. <sub>**Pick** · Intermediate–Advanced · 繁 · TW</sub>
+- [志祺七七](https://www.youtube.com/@shasha77) - Taiwanese explainers on social issues and current events. <sub>**Pick** · Intermediate–Advanced · 繁 · TW · Subtitles</sub>
 - [阿滴 RayDu](https://www.youtube.com/@rayduenglish) - Taiwanese English teacher's channel (mostly in Mandarin). <sub>Intermediate–Advanced · 繁 · TW</sub>
-- [阿滴日常](https://www.youtube.com/@raydudaily) - Daily-life vlogs from Taiwanese creator Ray Du. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [阿滴日常](https://www.youtube.com/@raydudaily) - Daily-life vlogs from Taiwanese creator Ray Du. <sub>Intermediate–Advanced · 繁 · TW · Subtitles</sub>
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
 
@@ -942,7 +942,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [Chinese Cooking Demystified](https://www.youtube.com/@ChineseCookingDemystified) - Authentic Chinese recipes explained in English with Chinese terms. <sub>All levels · 简繁 · Global · English</sub>
 - [Wild Cooking 野食小哥](https://www.youtube.com/channel/UCf3MJQfuoB5ICOOOmp0oSRQ) - Outdoor cooking in the countryside. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [一画美食 One Foodie](https://www.youtube.com/@onefoodie) - Traditional dishes with slow, clear narration and subtitles. <sub>Intermediate · 简 · CN</sub>
-- [千千進食中](https://www.youtube.com/@Chienseating) - Taiwanese food vlogger tasting dishes everywhere. <sub>Intermediate–Advanced · 繁 · TW</sub>
+- [千千進食中](https://www.youtube.com/@Chienseating) - Taiwanese food vlogger tasting dishes everywhere. <sub>Intermediate–Advanced · 繁 · TW · Subtitles</sub>
 - [华农兄弟](https://www.youtube.com/@huanongxiongdi37) - Farming brothers and their bamboo rats, famously deadpan. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [好味小姐 Lady Flavor](https://www.youtube.com/@LadyFlavor) - Taiwanese cooking and food culture. <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [小高姐的 Magic Ingredients](https://www.youtube.com/@MagicIngredients) - Northern Chinese home cooking explained clearly. <sub>**Pick** · Intermediate–Advanced · 简 · CN · Subtitles</sub>
@@ -1013,8 +1013,8 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 
 - [Douluo Theater 斗罗剧场](https://www.youtube.com/@Douluojuchang) - Official Soul Land (斗罗大陆) donghua episodes. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [Made By Bilibili](https://www.youtube.com/@MadeByBilibili) - Official Bilibili donghua: 凡人修仙传, 天官赐福, 时光代理人 and more. <sub>**Pick** · Intermediate–Advanced · 简 · CN</sub>
-- [Tencent Video Animation](https://www.youtube.com/@TencentVideoAnimation) - Official donghua episodes from Tencent with subtitles. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [Yuewen Animation](https://www.youtube.com/@yuewenanimation) - Donghua adapted from Yuewen web novels. <sub>Intermediate–Advanced · 简 · CN</sub>
+- [Tencent Video Animation](https://www.youtube.com/@TencentVideoAnimation) - Official donghua episodes from Tencent with subtitles. <sub>Intermediate–Advanced · 简 · CN · Subtitles</sub>
+- [Yuewen Animation](https://www.youtube.com/@yuewenanimation) - Donghua adapted from Yuewen web novels. <sub>Intermediate–Advanced · 简 · CN · Subtitles</sub>
 - [六道无鱼动画工作室 (雾山五行)](https://www.youtube.com/@六道无鱼动画工作室) - Studio behind Fog Hill of Five Elements. <sub>Intermediate–Advanced · 简 · CN</sub>
 - [时光代理人 Link Click](https://www.youtube.com/@时光LinkClick) - Official Link Click clips and episodes. <sub>**Pick** · Intermediate–Advanced · 简 · CN</sub>
 - [羅小黑戰記 The Legend of Hei](https://www.youtube.com/@luoxiaohei) - Official channel of the beloved Chinese animated series and film. <sub>**Pick** · Intermediate · 简 · CN</sub>
@@ -1044,7 +1044,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [Moonbug Kids 中文](https://www.youtube.com/@MoonbugKidsMandarin) - Popular kids' cartoons dubbed in Mandarin. <sub>Beginner · 简 · CN</sub>
 - [中华成语故事](https://www.youtube.com/@中华成语故事-倒霉先) - Animated stories behind Chinese idioms. <sub>**Pick** · Beginner–Intermediate · 简 · CN</sub>
 - [喜羊羊與灰太狼 Pleasant Goat](https://www.youtube.com/@XYY-Cartoon) - Classic Chinese cartoon Pleasant Goat and Big Big Wolf. <sub>Beginner · 简 · CN</sub>
-- [大耳朵TV (大耳朵图图)](https://www.youtube.com/@大耳朵TV) - Big Ears Tutu, a classic Chinese family cartoon. <sub>Beginner · 简 · CN</sub>
+- [大耳朵TV (大耳朵图图)](https://www.youtube.com/@大耳朵TV) - Big Ears Tutu, a classic Chinese family cartoon. <sub>Beginner · 简 · CN · Subtitles</sub>
 - [寶寶巴士 BabyBus 中文](https://www.youtube.com/@BabyBusTC) - Songs, nursery rhymes and cartoons for toddlers. <sub>Beginner · 繁 · CN</sub>
 - [小猪佩奇 Peppa Pig 中文官方](https://www.youtube.com/@PeppaPigChineseOfficial) - Official Mandarin Peppa Pig: simple, repetitive everyday language. <sub>**Pick** · Beginner · 简 · CN</sub>
 - [汪汪隊立大功 PAW Patrol (Mandarin)](https://www.youtube.com/@PAWPatrolMandarin) - Episodes of PAW Patrol dubbed in Mandarin. <sub>Beginner · 简 · CN</sub>
@@ -1078,9 +1078,9 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 <img src="assets/icons/youtube.svg" width="16" height="16" alt=""> **YouTube**
 
 - [Black Myth 黑神话](https://www.youtube.com/@BlackMythGame) - Official channel of Black Myth: Wukong. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [Gamker攻壳](https://www.youtube.com/@Gamker-YT) - Game culture and design analysed from a developer's point of view. <sub>Advanced · 简 · CN</sub>
+- [Gamker攻壳](https://www.youtube.com/@Gamker-YT) - Game culture and design analysed from a developer's point of view. <sub>Advanced · 简 · CN · Subtitles</sub>
 - [敖厂长](https://www.youtube.com/@hawkaoaoful) - Retro gaming history and trash-game reviews. <sub>Intermediate–Advanced · 简 · CN</sub>
-- [老孫聊遊戲 Old Sun Games](https://www.youtube.com/@oldsungame) - Long-form talks on game history, studios and the industry. <sub>Advanced · 简 · CN</sub>
+- [老孫聊遊戲 Old Sun Games](https://www.youtube.com/@oldsungame) - Long-form talks on game history, studios and the industry. <sub>Advanced · 简 · CN · Subtitles</sub>
 - [逍遥散人](https://www.youtube.com/@sanrenGAMES) - Xiaoyao Sanren's playthroughs on YouTube. <sub>Intermediate–Advanced · 简 · CN</sub>
 
 <img src="assets/icons/tv.svg" width="16" height="16" alt=""> **Bilibili**
@@ -1113,7 +1113,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 
 <img src="assets/icons/youtube.svg" width="16" height="16" alt=""> **YouTube**
 
-- [Keep](https://www.youtube.com/@Keep-China) - Keep fitness app's workout videos. <sub>Beginner–Intermediate · 简 · CN</sub>
+- [Keep](https://www.youtube.com/@Keep-China) - Keep fitness app's workout videos. <sub>Beginner–Intermediate · 简 · CN · Subtitles</sub>
 - [劉畊宏 Will Liu](https://www.youtube.com/@willliu2989) - Home workout livestream sensation. <sub>Beginner–Intermediate · 繁 · TW</sub>
 
 [Back to contents](#contents)

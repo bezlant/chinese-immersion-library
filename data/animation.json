@@ -83,7 +83,8 @@
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdpiId0eJGnnIvfhpbJIM1w"
     },
-    "login": "none"
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "the-legend-of-hei",
@@ -277,7 +278,8 @@
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM5qb75ErC1JMmdgWjN8HJA"
     },
-    "login": "none"
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "douluo-theater",

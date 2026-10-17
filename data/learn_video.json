@@ -2110,7 +2110,15 @@
     ],
     "login": "none",
     "subtitles": "free",
-    "recommended": true
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCw837dYLZNGdhk5G5zjySIg"
+    },
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_kCrGHxDNlYX1vPS8dCN6fF9PCNmb_KniHfLpv8ch0VEA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw837dYLZNGdhk5G5zjySIg"
+    }
   },
   {
     "id": "thinking-in-chinese",
@@ -2138,7 +2146,16 @@
       "android"
     ],
     "login": "none",
-    "recommended": true
+    "recommended": true,
+    "ids": {
+      "youtube_channel_id": "UCSeLePtOn5gRVpkE0yxOHsg"
+    },
+    "image": "https://yt3.googleusercontent.com/AXSlMFUB2wPHu45bAIbGPenCeKFg0qS92NdeURYcJP2WbEvV00xx4ysEhhYr2jaztTNNENt3=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSeLePtOn5gRVpkE0yxOHsg"
+    },
+    "subtitles": "free"
   },
   {
     "id": "yimin-chinese",
@@ -2166,6 +2183,14 @@
       "ios",
       "android"
     ],
-    "login": "none"
+    "login": "none",
+    "ids": {
+      "youtube_channel_id": "UCTwUbtaSPl13qpT6sKB3dwA"
+    },
+    "image": "https://yt3.googleusercontent.com/aezMQesDyfDDQxO0CQThfF1eRgncxUimPeiPouIhVuW_EBmWyHuZEW20TFoFIZQBfttgIPrnTA=s900-c-k-c0x00ffffff-no-rj",
+    "feed": {
+      "format": "youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTwUbtaSPl13qpT6sKB3dwA"
+    }
   }
 ]
