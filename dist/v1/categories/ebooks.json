@@ -8,7 +8,7 @@
   "web_icon": "library",
   "description": "E-book stores, readers and book communities."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 9,
  "resources": [
   {
@@ -35,7 +35,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "pubu",
@@ -61,7 +63,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "readmoo",
@@ -87,7 +91,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "books-com-tw",
@@ -113,7 +119,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "dangdang",
@@ -139,7 +147,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "weread",
@@ -166,6 +176,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "notes": "May load slowly or be unavailable outside mainland China."
   },
   {
@@ -192,7 +204,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "douban-books",
@@ -218,7 +232,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "douban-read",
@@ -244,7 +260,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   }
  ]
 }

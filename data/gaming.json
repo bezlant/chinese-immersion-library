@@ -32,7 +32,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/546195"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "xiao-yao-san-ren-bilibili",
@@ -66,7 +67,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/168598"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "ni-de-ying-yue-yue",
@@ -100,7 +102,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/431073645"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "lexburner",
@@ -135,7 +138,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/777536"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "edmunddzhang",
@@ -169,7 +173,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/433351"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "ao-chang-zhang",
@@ -204,7 +209,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCkMW93Am1pLfk2nZFKAmbQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "ao-chang-zhang-bilibili",
@@ -238,7 +244,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/122879"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "xiao-yao-san-ren",
@@ -272,7 +279,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTfRwznpxtbjQQQJ_15Fk2w"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "black-myth",
@@ -306,7 +314,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6NvS8_TrfDcCK65KawCxZg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "gcores",
@@ -330,7 +339,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "gamersky",
@@ -354,7 +365,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "chuapp",
@@ -378,7 +391,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "gamer-com-tw",
@@ -402,7 +416,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "nga",
@@ -426,7 +441,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "type": "youtube",
@@ -460,7 +476,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLgGLSFMZQB8c0WGcwE49Gw"
-    }
+    },
+    "login": "none"
   },
   {
     "type": "youtube",
@@ -494,6 +511,7 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKPflKAE2Y1tm8VSi32iboQ"
-    }
+    },
+    "login": "none"
   }
 ]

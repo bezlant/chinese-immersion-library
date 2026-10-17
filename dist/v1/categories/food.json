@@ -8,7 +8,7 @@
   "web_icon": "utensils",
   "description": "Cooking channels, food travel and recipe sites."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 25,
  "resources": [
   {
@@ -38,6 +38,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw"
@@ -72,6 +74,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf3MJQfuoB5ICOOOmp0oSRQ"
@@ -105,6 +109,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC42yFsR28e17B5RTtHlQuEQ"
@@ -137,7 +143,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "qian-qian-jin-shi-zhong",
@@ -164,6 +172,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9i2Qgd5lizhVgJrdnxunKw"
@@ -199,6 +209,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjEGRKDfUOel8Hp9Iumw5NQ"
@@ -233,6 +245,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/250858633"
@@ -267,6 +281,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOz7W0VH--2WlqAE_3jtL4w"
@@ -302,6 +318,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw"
@@ -335,6 +354,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://icook.tw/feeds/latest.rss"
@@ -366,6 +387,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCisCgODN_XZUC-s6Y9iwm7w"
@@ -400,6 +424,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmXkJ9ReY5hjvYPcnmBwing"
@@ -435,6 +461,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoC47do520os_4DBMEFGg4A"
@@ -470,6 +498,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQG_fzADCunBTV1KwjkfAQQ"
@@ -504,6 +534,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZd4BcnCEHzfrWoMKRaxPTQ"
@@ -538,6 +570,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/99157282"
@@ -573,6 +607,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP-3kpzMMSUek7EqStDWypA"
@@ -607,6 +643,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/18202105"
@@ -641,6 +679,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiAuybSv94YrdXhrGECtAxQ"
@@ -676,6 +716,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0m_Ah8P_MQbnn77-vYnYw"
@@ -706,7 +749,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "lao-dong-bei-mei-shi",
@@ -734,6 +779,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs-XyCxrRvcVZRb199HU--w"
@@ -768,6 +815,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJmYv3Vf_tKcQr5_qmayXg"
@@ -802,6 +851,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT6k1jUhPL_d9GnCGNegi8A"
@@ -836,6 +887,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClaEdLrmti779-tyovta8zw"

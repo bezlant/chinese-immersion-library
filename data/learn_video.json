@@ -32,7 +32,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSFDgRCzh_1ZPhxChVgK7Q"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "mandarin-click",
@@ -68,7 +71,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcvTOgUiplI80SPR73ogCEQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "diane-neubauer",
@@ -102,7 +106,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtCASxFEa9ym88EUrWZxFQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "slow-and-clear-chinese",
@@ -136,7 +141,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdwdSGQsSbcapDmODtOr58g"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "blabla-chinese",
@@ -171,7 +177,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cxiLPlL29mxFHgQegTlPQ"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "stickynote-chinese",
@@ -204,7 +212,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuZUvuPqPuj1G078fzQ3TsQ"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "alison-mandarin",
@@ -239,7 +249,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5nodRZ4XwjIT4kO_DSi2ZQ"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "crazie-laoshi",
@@ -272,7 +284,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpsy7Un_RbnwPOcPhUMUt4g"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "story-learning-chinese-with-annie",
@@ -307,7 +320,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa2MkPgQHW7hZC9E8xBk6fQ"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "acquire-mandarin",
@@ -341,7 +357,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtRuJmUVIsFdOMM3iPjFTfA"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "chinese-mandarin-cherry",
@@ -375,7 +394,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN9Otl_f67SWjW5S_YLcSXg"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "speak-chinese-with-da-peng-youtube",
@@ -410,7 +432,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNmZr4WBw71bdJYjaycLodA"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "xiaogua-chinese",
@@ -445,7 +469,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc-YIMz_tv1K_FKE4noY_Cw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chloe-chinese-class",
@@ -480,7 +505,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxOhdldi9RED-8zi6EWxp_w"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinese-podcast-with-shenglan-youtube",
@@ -514,7 +540,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZs2_qqVNU5K32XxhHFY_MQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mandarin-corner-youtube",
@@ -550,7 +577,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2fAiRQHRQT9aj9P_ijYeow"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "unconventional-chinese",
@@ -583,7 +613,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqLWT3swHvP9_4bv7Qssxw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "will-hart",
@@ -617,7 +648,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7LmgMa8XhIusF7RI7YI_KQ"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "dashu-mandarin",
@@ -652,7 +685,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfsNycNoClXZA1FuUJSGT0w"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "grace-mandarin-chinese",
@@ -687,7 +722,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC_fdR7zZ_5SU--xuOrEdKw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "shuoshuochinese",
@@ -722,7 +758,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_Aiv9xguPQxZ6msnNoz3HQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinese-with-mandarin-hq",
@@ -757,7 +794,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpRbKSf-CN5_UQF-OkWIJCw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinese-zero-to-hero-youtube",
@@ -793,7 +831,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ3IlLg5VGeydxtswBoyt6A"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "peggyteacheschinese",
@@ -828,7 +868,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPUcnh4zOQnAL_lsVKl2blQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "yoyo-chinese-youtube",
@@ -863,7 +904,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJyGe2H0C9q6QH0-hH04zw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinesepod-youtube",
@@ -898,7 +940,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRY8eBLd9tPFw5-JY7S7O8Q"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "learn-chinese-with-litao",
@@ -932,7 +975,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjf10tuGdICcczoW05Iqe0A"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "everyday-chinese",
@@ -967,7 +1011,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSXriUqkzZmAQklQ0N9XFVw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinesefor-us-youtube",
@@ -1002,7 +1047,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgCrOLcWvSFl5K2ld0nKS7w"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mandarin-blueprint-youtube",
@@ -1037,7 +1083,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc5ueW8aqO73Q6MevB8L5PA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinese-with-jessie",
@@ -1071,7 +1118,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI_EXjUIOC1caoKECKrOT7Q"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "mandarin-monkey",
@@ -1105,7 +1154,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC74G8nF0GZncPg_vv8cSXkQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "teatime-chinese-youtube",
@@ -1139,7 +1189,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd62LH5bViDMIiPYhwcJXVQ"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "hit-chinese",
@@ -1172,7 +1224,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv33mxPEDfd_Ee1pz1y8KLw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chineseclass101",
@@ -1205,7 +1258,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhnlRY-oKpanPGSvL8Ml8Q"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "kevin-in-shanghai",
@@ -1240,7 +1294,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HW6aVLpyvPIhc7w8YA8Ag"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "sys-mandarin",
@@ -1275,7 +1330,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUjFsQAUUS1IFM7oyUXeB1g"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "thats-mandarin",
@@ -1309,7 +1366,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCnsesKQqyQEeuoeRso7gg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinese-with-ltl",
@@ -1344,7 +1402,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-phspvnr3ohyDieHzjWfvQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "learn-chinese-online",
@@ -1377,7 +1436,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYqtl651AtrH3Ys5OK-DbbA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mandarinbean",
@@ -1412,7 +1472,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDGT00hxfI15N4-p_gHgtNg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "du-chinese-youtube",
@@ -1446,7 +1507,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwZq7MvS8QpvbGfuh7Ifcbw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "little-fox-chinese-youtube",
@@ -1481,7 +1543,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCipQJmg3yqouy6MRtPv_0Bg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinese-daily-podcast",
@@ -1516,7 +1579,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyYT-HdG1FXua6_vwyXNqhg"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "learn-chinese-with-yi-zhao",
@@ -1550,7 +1615,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPS5lOyQ2HfaYgapBV22H0A"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "skritter-youtube",
@@ -1584,7 +1650,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjgfULWh8BVpW4kebqEr91w"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "hacking-chinese-youtube",
@@ -1619,7 +1686,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvBmje-WnV2so3SG7F-axHw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "outlier-linguistics-youtube",
@@ -1655,7 +1723,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGcewL4nAdWtH8JlSQ-6Y9Q"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mandarin-companion-youtube",
@@ -1689,7 +1758,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEMjz6grJabXyE_bBv-TuGw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "canto-to-mando",
@@ -1724,7 +1794,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR89oo3MbaDC0yrr6LJZgzA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "tingting-comprehensible-chinese",
@@ -1757,7 +1828,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsl1lX__xQ2IGf8c9r6xH8A"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "maomi-chinese-youtube",
@@ -1790,7 +1863,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9xJNZQ2YwSKuIm_VUB1F4w"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "mandarin-corner-main",
@@ -1825,7 +1900,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3B-DH5W60TfVs1AKw_P1kw"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "harbin-mandarin",
@@ -1859,7 +1936,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8sCINlHlbkxEdDKQRSHK_w"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "say-ninhao",
@@ -1893,7 +1971,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaABTHpiXTRchxAbO5I6jKg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "learn-chinese-through-podcast",
@@ -1928,7 +2007,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI8Liuxdz6UPv5rgMskfwPg"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "taiwanese-mandarin-with-miss-lin",
@@ -1963,7 +2044,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXYZ2Xk6JsJccQFwDsTkgyQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mandarin-village",
@@ -1997,6 +2079,93 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_QOI65lGkLxRqyo17SfEaA"
-    }
+    },
+    "login": "none"
+  },
+  {
+    "id": "easy-mandarin",
+    "name": "Easy Mandarin",
+    "url": "https://www.youtube.com/@EasyMandarin",
+    "description": "Street interviews in China and Taiwan with Chinese, pinyin and English subtitles.",
+    "category": "learn_video",
+    "type": "youtube",
+    "tags": [
+      "interviews",
+      "subtitles"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
+  },
+  {
+    "id": "thinking-in-chinese",
+    "name": "Thinking in Chinese",
+    "url": "https://www.youtube.com/@ThinkinginChinese",
+    "description": "Intermediate comprehensible input on culture, history and society, explained in clear Chinese.",
+    "category": "learn_video",
+    "type": "youtube",
+    "tags": [
+      "comprehensible-input",
+      "culture"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "login": "none",
+    "recommended": true
+  },
+  {
+    "id": "yimin-chinese",
+    "name": "Yimin Chinese 亦敏中文",
+    "url": "https://www.youtube.com/@YiminChinese",
+    "description": "Grammar, vocabulary and listening lessons for intermediate learners, mostly in Chinese.",
+    "category": "learn_video",
+    "type": "youtube",
+    "tags": [
+      "grammar",
+      "listening"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "login": "none"
   }
 ]

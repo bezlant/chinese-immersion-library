@@ -8,7 +8,7 @@
   "web_icon": "book-open",
   "description": "Graded readers, levelled news and stories for learners."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 21,
  "resources": [
   {
@@ -34,7 +34,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "chinese-boost-reading",
@@ -58,7 +60,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "chinese-graded-reader",
@@ -82,7 +86,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "chinese-reading-practice",
@@ -107,6 +113,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "rss",
     "url": "https://chinesereadingpractice.com/feed/"
@@ -134,7 +142,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "decipher-chinese",
@@ -158,7 +168,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "du-chinese",
@@ -185,7 +197,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "global-storybooks-chinese",
@@ -211,7 +225,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "haodoo",
@@ -236,7 +252,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "hsk-reading",
@@ -262,6 +280,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "rss",
     "url": "https://hskreading.com/feed/"
@@ -291,7 +311,9 @@
    "platforms": [
     "web",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "lingq-chinese",
@@ -317,7 +339,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "maayot",
@@ -344,7 +368,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "mandarin-bean",
@@ -370,6 +396,9 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "rss",
     "url": "https://mandarinbean.com/feed/"
@@ -398,6 +427,8 @@
    "platforms": [
     "web"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://mandarincompanion.com/feed/"
@@ -426,6 +457,8 @@
    "platforms": [
     "web"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://mandarinmatrix.org/feed/"
@@ -455,7 +488,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "readibu",
@@ -480,7 +515,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "storyweaver",
@@ -505,7 +542,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "the-chairmans-bao",
@@ -533,7 +572,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "todaii-easy-chinese",
@@ -560,7 +601,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   }
  ]
 }

@@ -8,7 +8,7 @@
   "web_icon": "wand-sparkles",
   "description": "Chinese animation hubs and official channels."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 13,
  "resources": [
   {
@@ -36,6 +36,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC99ylcEAEH82gQLl4pHSgng"
@@ -70,6 +72,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQFyMGc6h30NMCd6HCk0ZPA"
@@ -104,6 +108,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdpiId0eJGnnIvfhpbJIM1w"
@@ -138,6 +144,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM5qb75ErC1JMmdgWjN8HJA"
@@ -170,6 +178,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "notes": "May load slowly or be unavailable outside mainland China."
   },
   {
@@ -194,7 +204,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "liu-dao-wu-yu-dong-hua-gong-zuo-shi",
@@ -221,6 +233,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWOPjMDcx-u2Vzgd39gQrSg"
@@ -256,6 +270,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/401742377"
@@ -287,7 +303,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "bilibili-anime",
@@ -313,7 +331,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "link-click",
@@ -340,6 +360,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC40HIPkcYVQ_5r2-vhQs9Lw"
@@ -374,6 +396,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPVlLWXABJgR3SEkqbZLnxw"
@@ -406,6 +430,8 @@
    "platforms": [
     "web"
    ],
+   "login": "partial",
+   "recommended": false,
    "notes": "May load slowly or be unavailable outside mainland China."
   }
  ]

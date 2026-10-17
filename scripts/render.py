@@ -53,6 +53,13 @@ def meta_parts(r):
         parts.append("English" if r["language"] == "en" else "Bilingual")
     if r["pricing"] != "free":
         parts.append(r["pricing"].capitalize())
+    if r.get("subtitles"):
+        text = "Transcripts" if r["type"] == "podcast" else "Subtitles"
+        parts.append(text if r["subtitles"] == "free" else f"{text} (paid)")
+    if r["login"] == "partial":
+        parts.append("Some content needs login")
+    elif r["login"] == "required":
+        parts.append("Login required")
     return parts
 
 
@@ -99,8 +106,10 @@ def render_markdown(cats, by_cat):
         out.append(f"- **[{gname}](#{gh_anchor(gname)})**")
         for c in (c for c in cats if c["group"] == gid):
             out.append(f"  - {md_icon(c['web_icon'], 14)} [{c['name']}](#{gh_anchor(c['name'])}) · {len(by_cat.get(c['id'], []))}")
-    out += ["", f"**{total} resources.** After each entry: *For learners* when it is made for learners, then level · "
-            "简 simplified / 繁 traditional · region · language if not all Chinese · pricing if not free.", ""]
+    picks = sum(r["recommended"] for v in by_cat.values() for r in v)
+    out += ["", f"**{total} resources, {picks} picks.** After each entry: **Pick** for well-known, free resources that open "
+            "without an account, *For learners* when it is made for learners, then level · 简 simplified / 繁 traditional · "
+            "region · language if not all Chinese · pricing if not free · Chinese subtitles or transcripts as text · login needs.", ""]
 
     for gid, gname in GROUPS:
         out += [f"## {gname}", ""]
@@ -110,7 +119,7 @@ def render_markdown(cats, by_cat):
             for t, rs in by_type(items):
                 out += [f"{md_icon(TYPE_ICON[t])} **{TYPE_LABEL[t]}**", ""]
                 for r in rs:
-                    meta = (["*For learners*"] if r["for_learners"] else []) + meta_parts(r)
+                    meta = (["**Pick**"] if r["recommended"] else []) + (["*For learners*"] if r["for_learners"] else []) + meta_parts(r)
                     out.append(f"- [{md_escape(r['name'])}]({r['url']}) - {r['description']} <sub>{' · '.join(meta)}</sub>")
                 out.append("")
             out += ["[Back to contents](#contents)", ""]
@@ -139,6 +148,7 @@ GROUP_INFO = {
 
 # Quick-start buttons under the search box: label -> filter state.
 PRESETS = [
+    ("Picks", {"pick": "1"}),
     ("Beginner friendly", {"level": "beginner", "learner": "1"}),
     ("Podcasts for learners", {"cat": "learn_podcast"}),
     ("Graded reading", {"cat": "graded_reading"}),
@@ -168,9 +178,11 @@ def logo_url(r):
 def card(r, esc):
     search = " ".join([r["name"], r["description"], " ".join(r["tags"]), r["id"], TYPE_LABEL[r["type"]]]).lower()
     attrs = (f'data-cat="{r["category"]}" data-type="{r["type"]}" data-level="{" ".join(r["level"])}" '
-             f'data-script="{r["script"]}" data-region="{r["region"]}" data-learner="{int(r["for_learners"])}" data-s="{esc(search)}"')
+             f'data-script="{r["script"]}" data-region="{r["region"]}" data-learner="{int(r["for_learners"])}" '
+             f'data-pick="{int(r["recommended"])}" data-login="{r["login"]}" data-s="{esc(search)}"')
     facts = " · ".join(esc(p) for p in meta_parts(r))
-    learner = '<span class="learner">For learners</span>' if r["for_learners"] else ""
+    learner = ('<span class="pick">Pick</span>' if r["recommended"] else "") + \
+        ('<span class="learner">For learners</span>' if r["for_learners"] else "")
     initial = esc(r["name"].strip()[0].upper())
     return (
         f'<article class="card" {attrs}><a href="{esc(r["url"])}" target="_blank" rel="noopener">'

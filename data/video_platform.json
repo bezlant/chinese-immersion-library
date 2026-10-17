@@ -24,7 +24,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "iqiyi",
@@ -51,7 +52,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "iqiyi-international",
@@ -78,7 +80,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "tencent-video",
@@ -106,7 +109,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "wetv",
@@ -133,7 +137,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "youku",
@@ -161,7 +166,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "mango-tv",
@@ -189,7 +195,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "cctv-video",
@@ -216,7 +223,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "douyin",
@@ -242,7 +250,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "kuaishou",
@@ -268,7 +277,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "xigua-video",
@@ -294,7 +304,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "viki",
@@ -321,7 +332,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "viu",
@@ -347,7 +359,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "pts-plus",
@@ -374,7 +387,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "line-tv-myvideo",
@@ -400,7 +414,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "litv",
@@ -427,7 +442,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "catchplay",
@@ -453,7 +469,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "ba-ha-mu-te-dong-hua-feng",
@@ -479,7 +496,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "mytv-super",
@@ -505,7 +523,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "xiaohongshu",
@@ -533,7 +552,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "required"
   },
   {
     "id": "weibo",
@@ -560,6 +580,7 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "required"
   }
 ]

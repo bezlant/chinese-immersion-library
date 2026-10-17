@@ -4,9 +4,9 @@ A curated, filterable JSON directory of **Chinese-language content for learners*
 
 It powers the Feed tab in [Hanzi Popup](https://krmanik.github.io/hanzipopupapp/), but it's plain static JSON, so any app or site can use it.
 
-- **700+ resources** in **34 categories** (live counts in `index.json`)
+- **750+ resources** in **35 categories** (live counts in `index.json`)
 - **400+ with a machine-readable feed** (YouTube channel feeds, podcast RSS, site RSS/Atom, RSSHub routes for Bilibili), ready for a "latest items" feed
-- Filter by level, script, region, dialect, language, pricing, type and tag
+- Filter by level, script, region, dialect, language, pricing, type, tag, login needs and subtitles; `recommended` marks well-known picks that open without an account
 - Validated in CI, served from GitHub Pages, no backend
 
 ## Endpoints
@@ -53,6 +53,9 @@ Full JSON Schema: [`schema/resource.schema.json`](../schema/resource.schema.json
   "region": "cn",
   "language": "zh",
   "pricing": "free",
+  "login": "none",
+  "subtitles": "free",
+  "recommended": true,
   "tags": ["interviews", "subtitles"],
   "for_learners": true,
   "dialect": "mandarin",
@@ -74,6 +77,9 @@ Full JSON Schema: [`schema/resource.schema.json`](../schema/resource.schema.json
 | `language` | `zh`, `zh+en` (bilingual or English explanations) or `en` |
 | `pricing` | `free` `freemium` `paid` |
 | `feed.format` | `youtube` (Atom), `podcast` (RSS), `rss`, `atom`, `rsshub` |
+| `login` | `none` (opens without an account), `partial` (some content, full quality or continued browsing needs a sign-in, app or payment), `required` |
+| `subtitles` | `free` or `paid` when Chinese subtitles (closed captions) or transcripts exist as text; omitted when none or unknown. Burned-in subtitles don't count. |
+| `recommended` | `true` for picks: well-known, free, active and `login: none`. Good default shelf for an app. |
 | `notes` | Caveats such as "may be slow or unavailable outside mainland China" |
 
 `id`s are stable: once published, an id is never renamed, so apps can store bookmarks and "followed" state by id.

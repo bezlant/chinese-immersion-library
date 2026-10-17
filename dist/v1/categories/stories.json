@@ -1,0 +1,183 @@
+{
+ "category": {
+  "id": "stories",
+  "group": "read",
+  "name": "Stories & Essays",
+  "name_zh": "故事美文",
+  "icon": "book.closed.fill",
+  "web_icon": "feather",
+  "description": "Children's stories, fables, idiom stories, student essays and short prose: short native texts that suit learners."
+ },
+ "data_version": "257fe95db0a8",
+ "count": 6,
+ "resources": [
+  {
+   "id": "one-wufazhuce",
+   "name": "ONE·一个",
+   "url": "https://wufazhuce.com/",
+   "description": "One short essay, one Q&A and one picture every day: polished modern prose from a long-running literary app.",
+   "category": "stories",
+   "name_zh": "一个",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "daily",
+    "essays"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "zuowen-com",
+   "name": "作文网 Zuowen.com",
+   "url": "https://www.zuowen.com/",
+   "description": "A large archive of school essays by grade and topic, from short diary entries to exam essays.",
+   "category": "stories",
+   "name_zh": "作文网",
+   "type": "website",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "essays",
+    "students"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "zww-zuowen",
+   "name": "小荷作文网 Student Essays",
+   "url": "https://www.zww.cn/",
+   "description": "Student compositions from primary to high school, sorted by grade: everyday topics in plain Chinese.",
+   "category": "stories",
+   "name_zh": "小荷作文网",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "essays",
+    "students"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "gushi365",
+   "name": "故事365 Gushi365",
+   "url": "https://www.gushi365.com/",
+   "description": "Thousands of short children's stories, fairy tales, fables and idiom stories (成语故事) in simple Chinese.",
+   "category": "stories",
+   "name_zh": "故事365",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "children",
+    "fables",
+    "idioms"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": true
+  },
+  {
+   "id": "wenzhangba",
+   "name": "文章吧 Wenzhangba",
+   "url": "https://www.wenzhangba.com/",
+   "description": "Collected short prose, life essays and well-known passages for reading and copying out.",
+   "category": "stories",
+   "name_zh": "文章吧",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "essays",
+    "prose"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "chinese-wikijunior-tales",
+   "name": "维基文库 童话 Fairy Tales on Wikisource",
+   "url": "https://zh.wikisource.org/wiki/Category:%E7%AB%A5%E8%A9%B1",
+   "description": "Public-domain fairy tales and fables in Chinese (Andersen, Grimm, Aesop and Chinese folk tales).",
+   "category": "stories",
+   "name_zh": "维基文库童话",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "fables",
+    "public-domain"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
+  }
+ ]
+}

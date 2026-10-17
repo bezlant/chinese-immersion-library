@@ -34,9 +34,11 @@ ENUMS = {
     "pricing": ["free", "freemium", "paid"],
     "platforms": ["web", "ios", "android"],
     "feed_format": ["rss", "atom", "youtube", "podcast", "rsshub"],
+    "login": ["none", "partial", "required"],
+    "subtitles": ["free", "paid"],
 }
 REQUIRED = ["id", "name", "url", "description", "category", "type", "level", "script", "region", "language", "pricing"]
-OPTIONAL = ["name_zh", "tags", "for_learners", "dialect", "platforms", "feed", "ids", "image", "notes"]
+OPTIONAL = ["name_zh", "tags", "for_learners", "dialect", "platforms", "login", "subtitles", "recommended", "feed", "ids", "image", "notes"]
 KEY_ORDER = REQUIRED[:5] + ["name_zh"] + REQUIRED[5:] + [k for k in OPTIONAL if k != "name_zh"]
 ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]{1,63}$")
 TAG_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
@@ -64,13 +66,18 @@ def validate(entry, where, cat_ids, errors):
         err("url must be http(s)")
     if entry.get("category") not in cat_ids:
         err(f"category '{entry.get('category')}' not in categories.json")
-    for k in ("type", "script", "region", "dialect", "language", "pricing"):
+    for k in ("type", "script", "region", "dialect", "language", "pricing", "login", "subtitles"):
         if k in entry and entry[k] not in ENUMS[k]:
             err(f"{k} '{entry[k]}' not one of {ENUMS[k]}")
     for k in ("level", "platforms"):
         v = entry.get(k, [])
         if not isinstance(v, list) or any(x not in ENUMS[k] for x in v):
             err(f"{k} must be a list of {ENUMS[k]}")
+    for k in ("for_learners", "recommended"):
+        if k in entry and not isinstance(entry[k], bool):
+            err(f"{k} must be true or false")
+    if entry.get("recommended") and entry.get("login", "none") != "none":
+        err("recommended entries must open without an account (login: none)")
     if any(not TAG_RE.match(t) for t in entry.get("tags", [])):
         err("tags must be lowercase kebab-case")
     feed = entry.get("feed")
@@ -86,6 +93,8 @@ def normalize(entry):
     entry.setdefault("for_learners", False)
     entry.setdefault("dialect", "mandarin")
     entry.setdefault("platforms", ["web"])
+    entry.setdefault("login", "none")
+    entry.setdefault("recommended", False)
     entry["level"] = [l for l in ENUMS["level"] if l in entry["level"]]
     entry["tags"] = sorted(set(entry["tags"]))
     return {k: entry[k] for k in KEY_ORDER if k in entry}
@@ -142,6 +151,8 @@ def main():
         "scripts": ENUMS["script"],
         "languages": ENUMS["language"],
         "pricing": ENUMS["pricing"],
+        "login": ENUMS["login"],
+        "subtitles": ENUMS["subtitles"],
         "tags": sorted({t for r in resources for t in r["tags"]}),
     }
     emit("index.json", {

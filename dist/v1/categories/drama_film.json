@@ -8,7 +8,7 @@
   "web_icon": "clapperboard",
   "description": "Official channels with full Chinese dramas and films."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 24,
  "resources": [
   {
@@ -36,6 +36,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Vl0YiY0rDlovqcCFN4yTA"
@@ -70,6 +72,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAMrnDQlsPnrScHun5PgrXw"
@@ -104,6 +109,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0jYsshDZfOBZC9nIJn94Cg"
@@ -138,6 +146,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUhpu5MJQ_bjPkXO00jyxsw"
@@ -173,6 +184,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKm7iuaBY41nzqIk6J8eX0g"
@@ -207,6 +220,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnUQ8urh9t0vlHluTJdVLTg"
@@ -239,7 +254,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "tencent-video-youtube",
@@ -266,6 +283,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQatgKoA7lylp_UzvsLCgcw"
@@ -300,6 +320,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiu3bj4rR8KOYcUA4KNkOAA"
@@ -334,6 +357,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE2UHXGOlqotRJgEWl_tiMw"
@@ -368,6 +393,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYQPTeY3HOk0BprrGuCWCaA"
@@ -402,6 +429,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvj3DtAqbx12PPHL6IVdhiA"
@@ -436,6 +465,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH_5vj94el18quHAg_QwlMw"
@@ -471,6 +502,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzYdNxSgeZ0m85jamNjovEA"
@@ -505,6 +538,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmHdnfChhWapXurE-Av92kQ"
@@ -540,6 +575,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/927587"
@@ -575,6 +612,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCZpYLIklqO2iWekzJUPRng"
@@ -609,6 +648,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJq6qOdcSF3ZBUeFebC7KFQ"
@@ -643,6 +684,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZ8ZJNzzIiDQFuGxdGTyWcQ"
@@ -678,6 +722,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/17819768"
@@ -713,6 +759,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGpsj9DhBHxMWNL3rC5ANcg"
@@ -748,6 +796,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLl9R29KDIDHOFg7AqhBmaw"
@@ -783,6 +833,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6IMF6xi_MZ3jA1wRlPQDLA"
@@ -815,7 +867,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   }
  ]
 }

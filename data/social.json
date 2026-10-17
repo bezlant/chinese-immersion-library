@@ -24,7 +24,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "tieba",
@@ -51,7 +52,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "ptt",
@@ -77,7 +79,9 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "dcard",
@@ -103,7 +107,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "lihkg",
@@ -129,7 +134,9 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "jianshu",
@@ -155,7 +162,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "weixin-sogou-search",
@@ -182,7 +190,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "zhihu-daily",
@@ -208,6 +217,166 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
+  },
+  {
+    "id": "mobile01",
+    "name": "Mobile01",
+    "url": "https://www.mobile01.com/",
+    "description": "Taiwan's biggest forum for phones, cars, travel, home and daily life.",
+    "category": "social",
+    "type": "website",
+    "tags": [
+      "forum"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "login": "none"
+  },
+  {
+    "id": "jandan",
+    "name": "煎蛋 Jandan",
+    "url": "https://jandan.net/",
+    "description": "Light, funny news and odd stories translated and retold in casual Chinese.",
+    "category": "social",
+    "type": "website",
+    "tags": [
+      "humor",
+      "news"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "煎蛋",
+    "login": "none"
+  },
+  {
+    "id": "baidu-zhidao",
+    "name": "百度知道 Baidu Zhidao",
+    "url": "https://zhidao.baidu.com/",
+    "description": "Huge Q&A site: everyday questions answered in everyday language.",
+    "category": "social",
+    "type": "website",
+    "tags": [
+      "q-and-a"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "百度知道",
+    "login": "none"
+  },
+  {
+    "id": "wenxuecity",
+    "name": "文学城 Wenxuecity",
+    "url": "https://www.wenxuecity.com/",
+    "description": "Overseas-Chinese news portal with busy forums and personal blogs.",
+    "category": "social",
+    "type": "website",
+    "tags": [
+      "forum",
+      "blogs"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "文学城",
+    "login": "none"
+  },
+  {
+    "id": "discuss-hk",
+    "name": "香港討論區 Discuss.com.hk",
+    "url": "https://www.discuss.com.hk/",
+    "description": "Hong Kong's long-running general forum; posts mix written Chinese and Cantonese.",
+    "category": "social",
+    "type": "website",
+    "tags": [
+      "forum",
+      "cantonese"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "hk",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "香港討論區",
+    "login": "none"
+  },
+  {
+    "id": "bahamut-forum",
+    "name": "巴哈姆特哈啦區 Bahamut Forums",
+    "url": "https://forum.gamer.com.tw/",
+    "description": "Taiwan's biggest gaming and anime forum boards.",
+    "category": "social",
+    "type": "website",
+    "tags": [
+      "forum",
+      "gaming",
+      "anime"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "巴哈姆特哈啦區",
+    "login": "none"
   }
 ]

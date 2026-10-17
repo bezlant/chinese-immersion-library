@@ -8,7 +8,7 @@
   "web_icon": "mic",
   "description": "Native-speaker podcasts on culture, business, society and comedy."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 36,
  "resources": [
   {
@@ -36,6 +36,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml"
@@ -69,6 +71,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://proxy.wavpub.com/35huan.xml"
@@ -102,6 +106,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feed.xyzfm.space/ww7cqnybekty"
@@ -136,6 +142,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feeds.acast.com/public/shows/68004395b4ef799a7a410371"
@@ -169,6 +177,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/41153937.xml"
@@ -202,6 +212,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feed.xyzfm.space/68acw4ke4frl"
@@ -236,6 +248,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feed.firstory.me/rss/user/cklqae6gy388f0892i2qmv851"
@@ -269,6 +283,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/19206382.xml"
@@ -303,6 +319,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://proxy.wavpub.com/caffebreve.xml"
@@ -336,6 +354,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://s2.proxy.wavpub.com/fafadawang.xml"
@@ -369,6 +389,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://anchor.fm/s/1ea77470/podcast/rss"
@@ -402,6 +424,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feeds.soundon.fm/podcasts/73930beb-4136-4b36-a910-39984335b7bb.xml"
@@ -435,6 +459,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/43044571.xml"
@@ -468,6 +494,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "podcast",
     "url": "https://feeds.fireside.fm/shengdongjixi/rss"
@@ -502,6 +530,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/51076156.xml"
@@ -535,6 +565,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feeds.soundon.fm/podcasts/6731d283-54f0-49ec-a040-e5a641c3125f.xml"
@@ -568,6 +600,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://rss.lizhi.fm/rss/14275.xml"
@@ -602,6 +636,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://s1.proxy.wavpub.com/storyhunting.xml"
@@ -635,6 +671,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/24672021.xml"
@@ -668,6 +706,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feed.firstory.me/rss/user/ckks5eepbgcwl0815tfre8q3s"
@@ -701,6 +741,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feed.xyzfm.space/klaak6nmc3ux"
@@ -735,6 +777,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feed.xyzfm.space/cv4bkgpuglwp"
@@ -769,6 +813,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/29294593.xml"
@@ -802,6 +848,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "podcast",
     "url": "https://feeds.storyfm.cn/storyfm.xml"
@@ -835,6 +883,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/5574153.xml"
@@ -868,6 +918,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://alioss.gcores.com/feeds/apple_podcast_v1.xml"
@@ -901,6 +953,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://cyberpinkfm.typlog.io/feed/audio.xml"
@@ -935,6 +989,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feed.firstory.me/rss/user/cmjaz594i0000hdvpdpnd4fw8"
@@ -968,6 +1024,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://api.vistopia.com.cn/rss/program/13.xml"
@@ -1001,6 +1059,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feed.xyzfm.space/j8yp8gxkmgqr"
@@ -1034,6 +1094,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/47008946.xml"
@@ -1067,6 +1129,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/42715423.xml"
@@ -1101,6 +1165,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://podcast.weareones.com/feed/audio.xml"
@@ -1135,6 +1201,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://feeds.fireside.fm/stovol/rss"
@@ -1168,6 +1236,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/57085293.xml"
@@ -1201,6 +1271,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "podcast",
     "url": "https://www.ximalaya.com/album/3558668.xml"

@@ -30,7 +30,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPsmetP1p137YfTBpvA7mng"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "mafengwo",
@@ -56,7 +59,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "trip-com",
@@ -79,7 +83,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "qyer",
@@ -103,7 +108,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "dianping",
@@ -128,7 +134,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "taiwan-tourism",
@@ -151,7 +158,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "xiaov",
@@ -185,7 +193,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_cqxOaw9GMHcn-hqKK8dIg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "7-years-travel",
@@ -219,7 +228,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnP5Ty_aD7aVsZSRgnn1E7A"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "blondie-in-china",
@@ -253,7 +265,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCISrVZmDM4x-Rq9mmNUw7Zw"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "zaza-in-china",
@@ -287,7 +301,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgWzUjKQukhhAHwVv3dqGgQ"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "super-taste",
@@ -322,7 +338,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC00wMIWR48SYidE6jmpL7Qg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "iwalker",
@@ -356,7 +373,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX2914i1K-kGbgg1ZrLKDSQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "bao-dao-shen-hen-da",
@@ -391,7 +409,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_s7aCmBPjzMUOgS0gcAf8g"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "da-lu-xun-qi",
@@ -426,7 +445,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXyzhBy7PVhd3JKyIB6ebEw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "lena-and-patrick",
@@ -460,7 +480,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0YAgB-kCdyxBX1lB-oS7cg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "fliggy",
@@ -486,7 +507,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "qunar",
@@ -510,6 +532,34 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
+  },
+  {
+    "id": "wikivoyage-zh",
+    "name": "维基导游 Wikivoyage",
+    "url": "https://zh.wikivoyage.org/",
+    "description": "Free, open travel guides to cities and regions, written in plain Chinese.",
+    "category": "travel",
+    "type": "website",
+    "tags": [
+      "guides",
+      "open"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "维基导游",
+    "login": "none"
   }
 ]

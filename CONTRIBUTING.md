@@ -63,6 +63,9 @@ Required: `id`, `name`, `url`, `description`, `category`, `type`, `level`, `scri
 | `pricing` | `free`, `freemium` or `paid` |
 | `platforms` | Any of `web`, `ios`, `android` |
 | `tags` | Optional, lowercase kebab-case: `comprehensible-input`, `street-food`, `taiwan` |
+| `login` | `none` if everything opens without an account, `partial` if some content or continued browsing needs a sign-in or app, `required` if you must sign in to see anything (defaults to `none`) |
+| `subtitles` | Optional: `free` or `paid` when Chinese subtitles or transcripts exist as text (burned-in subtitles don't count) |
+| `recommended` | Optional, maintainers only: `true` for picks (well-known, free, active, `login: none`) |
 | `notes` | Optional caveats, e.g. "May load slowly or be unavailable outside mainland China." |
 
 Leave out `feed`, `image` and `ids` and let `scripts/enrich.py` fill them in. For Bilibili, add `"ids": {"bilibili_mid": "<uid>"}` yourself. For podcasts, add `"ids": {"apple_podcast_id": "<number>"}`.

@@ -26,7 +26,9 @@
     "feed": {
       "format": "rss",
       "url": "https://www.sixthtone.com/rss/index.xml"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "whats-on-weibo",
@@ -56,7 +58,8 @@
     "feed": {
       "format": "rss",
       "url": "https://www.whatsonweibo.com/feed/"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "radii",
@@ -85,7 +88,9 @@
     "feed": {
       "format": "rss",
       "url": "https://radii.co/feed"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "language-log",
@@ -114,7 +119,9 @@
     "feed": {
       "format": "rss",
       "url": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "chinafile",
@@ -139,7 +146,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "china-digital-times",
@@ -164,7 +172,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "supchina-the-china-project-archive",
@@ -193,7 +202,8 @@
     "feed": {
       "format": "rss",
       "url": "https://thechinaproject.com/feed/"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "realtime-mandarin",
@@ -221,7 +231,8 @@
     "feed": {
       "format": "rss",
       "url": "https://www.realtimemandarin.com/feed/"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "pinyin-news",
@@ -251,7 +262,8 @@
     "feed": {
       "format": "rss",
       "url": "https://pinyin.info/news/feed/"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "hanzi-smatter",
@@ -280,7 +292,8 @@
     "feed": {
       "format": "atom",
       "url": "https://hanzismatter.blogspot.com/feeds/posts/default"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "the-beijinger",
@@ -306,7 +319,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "thats-shanghai",
@@ -332,7 +346,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "taiwan-news",
@@ -358,7 +373,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "focus-taiwan",
@@ -384,6 +400,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   }
 ]

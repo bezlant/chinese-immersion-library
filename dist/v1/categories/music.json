@@ -8,7 +8,7 @@
   "web_icon": "music",
   "description": "Streaming services, lyrics sites, labels and artists."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 31,
  "resources": [
   {
@@ -36,6 +36,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo95y8CD2JpOR5eePxB1a7w"
@@ -70,6 +73,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI1ApqO0j1KU2M9iZR1cc8A"
@@ -105,6 +110,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnafe6M9Itwt08RFI51L6mw"
@@ -139,6 +147,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsLWG2t7n9LFsvH0wR2rtpw"
@@ -173,6 +184,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd91HSXKhsIv8PIjNrDByHQ"
@@ -207,6 +220,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZxdOVXIBEnJUQkhZgeOTTg"
@@ -240,7 +255,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "mangotv-music-channel",
@@ -267,6 +284,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwnDGKPgpRsJUjuSGhATAmg"
@@ -302,6 +321,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "notes": "May load slowly or be unavailable outside mainland China."
   },
   {
@@ -329,6 +350,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtUq0ml-coWmD70Pt_urRA"
@@ -362,7 +385,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "universal-music-taiwan",
@@ -389,6 +414,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgQ8olRhkepJWlVF9IVmPGQ"
@@ -423,6 +450,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp8cPvx_Od76EL66vvCnhRA"
@@ -457,6 +486,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj0Dl_XdIoAKzyfbPEu9WMw"
@@ -491,6 +522,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8CU5nVhCQIdAGrFFp4loOQ"
@@ -525,6 +558,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZtX_KMZ4RQ6lQ_e52zOyZA"
@@ -559,6 +594,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0tw0QXwluSD7Bh5oXQfXvw"
@@ -593,6 +630,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbGkxRgcnFTNNh3FDJOoJHA"
@@ -627,6 +666,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/1577804"
@@ -662,6 +703,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPcF3KTqhD67ADkukx_OeDg"
@@ -696,6 +739,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWASjJ7q476ZgxT9oWBSclg"
@@ -730,6 +775,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7ovu6a8ydIbDy0fAKmoZ9A"
@@ -765,6 +812,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "notes": "May load slowly or be unavailable outside mainland China."
   },
   {
@@ -793,6 +842,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYAyQjEhGHKARXnZe0U__9g"
@@ -827,6 +879,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsUQXwhDj4iVlhG4VCq6Kg"
@@ -861,6 +915,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCStpPtoeQUYII1Jsbl0qf8A"
@@ -895,6 +951,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI04acmi3bs74MB4vOXUcrQ"
@@ -929,6 +987,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrLF3ndpdxlHgtrjoDkK6lw"
@@ -962,7 +1022,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "weibird",
@@ -989,6 +1051,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeNjr6aT_-wnwmybVTRfj0w"
@@ -1022,7 +1086,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   }
  ]
 }

@@ -24,7 +24,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "the-chairmans-bao",
@@ -52,7 +53,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "mandarin-bean",
@@ -81,7 +83,10 @@
     "feed": {
       "format": "rss",
       "url": "https://mandarinbean.com/feed/"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "chinese-reading-practice",
@@ -109,7 +114,9 @@
     "feed": {
       "format": "rss",
       "url": "https://chinesereadingpractice.com/feed/"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "mandarin-companion",
@@ -137,7 +144,8 @@
     "feed": {
       "format": "rss",
       "url": "https://mandarincompanion.com/feed/"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "pandaist",
@@ -163,7 +171,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "maayot",
@@ -190,7 +199,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "decipher-chinese",
@@ -214,7 +224,8 @@
     "pricing": "freemium",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "hsk-reading",
@@ -243,7 +254,9 @@
     "feed": {
       "format": "rss",
       "url": "https://hskreading.com/feed/"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "readibu",
@@ -268,7 +281,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "lingq-chinese",
@@ -294,7 +308,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "global-storybooks-chinese",
@@ -320,7 +335,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "bloom-library",
@@ -345,7 +362,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "lets-read-asia",
@@ -371,7 +389,9 @@
     "platforms": [
       "web",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "storyweaver",
@@ -396,7 +416,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "chinese-graded-reader",
@@ -420,7 +442,8 @@
     "pricing": "paid",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "mandarin-matrix",
@@ -448,7 +471,8 @@
     "feed": {
       "format": "rss",
       "url": "https://mandarinmatrix.org/feed/"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "chinese-text-analyser",
@@ -472,7 +496,8 @@
     "pricing": "paid",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "chinese-boost-reading",
@@ -496,7 +521,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "todaii-easy-chinese",
@@ -523,7 +549,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "haodoo",
@@ -548,6 +575,7 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   }
 ]

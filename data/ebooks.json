@@ -24,7 +24,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "douban-read",
@@ -50,7 +51,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "douban-books",
@@ -76,7 +78,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "ireader",
@@ -102,7 +105,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "readmoo",
@@ -128,7 +132,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "books-com-tw",
@@ -154,7 +159,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "kobo",
@@ -180,7 +186,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "pubu",
@@ -206,7 +213,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "dangdang",
@@ -232,6 +240,7 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   }
 ]

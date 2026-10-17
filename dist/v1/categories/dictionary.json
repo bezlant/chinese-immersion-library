@@ -8,7 +8,7 @@
   "web_icon": "book-a",
   "description": "Dictionaries, translators, stroke order and sentence tools."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 22,
  "resources": [
   {
@@ -35,7 +35,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "baidu-translate",
@@ -61,6 +63,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "notes": "May load slowly or be unavailable outside mainland China."
   },
   {
@@ -86,7 +90,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "chinese-idioms-dictionary",
@@ -111,7 +117,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "chinese-text-project-dictionary",
@@ -136,7 +144,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "deepl-chinese",
@@ -161,7 +171,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "dong-chinese",
@@ -189,7 +201,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "forvo-chinese",
@@ -215,7 +229,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "google-translate",
@@ -242,7 +258,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "hanzi-writer",
@@ -268,7 +286,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "hanzicraft",
@@ -293,7 +313,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "hanzii",
@@ -318,7 +340,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "mdbg-chinese-dictionary",
@@ -344,6 +368,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "atom",
     "url": "https://www.mdbg.net/chinese/feed?feed=hsk_1"
@@ -374,7 +400,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "tatoeba",
@@ -400,7 +428,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "wenlin",
@@ -426,6 +456,8 @@
    "platforms": [
     "web"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://wenlin.com/rss.xml"
@@ -455,7 +487,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "yellowbridge",
@@ -480,7 +514,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "youdao-dictionary",
@@ -505,7 +541,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "jiao-yu-bu-zhong-bian-guo-yu-ci-dian-xiu-ding-ben",
@@ -530,7 +568,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "zdic",
@@ -556,7 +596,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "moedict",
@@ -582,7 +624,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   }
  ]
 }

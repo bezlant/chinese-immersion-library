@@ -24,7 +24,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "preply",
@@ -51,7 +52,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "hellotalk",
@@ -78,7 +80,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "tandem",
@@ -105,7 +108,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "r-chineselanguage",
@@ -133,7 +137,9 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "r-chinese",
@@ -161,7 +167,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "r-mandarinchinese",
@@ -189,7 +196,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "r-chinesehistory",
@@ -218,7 +226,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "lang-8-hinative",
@@ -245,6 +254,7 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   }
 ]

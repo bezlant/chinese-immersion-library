@@ -1,0 +1,167 @@
+[
+  {
+    "id": "gushi365",
+    "name": "故事365 Gushi365",
+    "url": "https://www.gushi365.com/",
+    "description": "Thousands of short children's stories, fairy tales, fables and idiom stories (成语故事) in simple Chinese.",
+    "category": "stories",
+    "type": "website",
+    "tags": [
+      "children",
+      "fables",
+      "idioms"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "故事365",
+    "login": "none",
+    "recommended": true
+  },
+  {
+    "id": "one-wufazhuce",
+    "name": "ONE·一个",
+    "url": "https://wufazhuce.com/",
+    "description": "One short essay, one Q&A and one picture every day: polished modern prose from a long-running literary app.",
+    "category": "stories",
+    "type": "website",
+    "tags": [
+      "essays",
+      "daily"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "一个",
+    "login": "none",
+    "recommended": true
+  },
+  {
+    "id": "zww-zuowen",
+    "name": "小荷作文网 Student Essays",
+    "url": "https://www.zww.cn/",
+    "description": "Student compositions from primary to high school, sorted by grade: everyday topics in plain Chinese.",
+    "category": "stories",
+    "type": "website",
+    "tags": [
+      "essays",
+      "students"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "小荷作文网",
+    "login": "none",
+    "recommended": true
+  },
+  {
+    "id": "zuowen-com",
+    "name": "作文网 Zuowen.com",
+    "url": "https://www.zuowen.com/",
+    "description": "A large archive of school essays by grade and topic, from short diary entries to exam essays.",
+    "category": "stories",
+    "type": "website",
+    "tags": [
+      "essays",
+      "students"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "作文网",
+    "login": "none"
+  },
+  {
+    "id": "wenzhangba",
+    "name": "文章吧 Wenzhangba",
+    "url": "https://www.wenzhangba.com/",
+    "description": "Collected short prose, life essays and well-known passages for reading and copying out.",
+    "category": "stories",
+    "type": "website",
+    "tags": [
+      "essays",
+      "prose"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "文章吧",
+    "login": "none"
+  },
+  {
+    "id": "chinese-wikijunior-tales",
+    "name": "维基文库 童话 Fairy Tales on Wikisource",
+    "url": "https://zh.wikisource.org/wiki/Category:%E7%AB%A5%E8%A9%B1",
+    "description": "Public-domain fairy tales and fables in Chinese (Andersen, Grimm, Aesop and Chinese folk tales).",
+    "category": "stories",
+    "type": "website",
+    "tags": [
+      "fables",
+      "public-domain"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "both",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "维基文库童话",
+    "login": "none"
+  }
+]

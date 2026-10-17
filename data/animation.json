@@ -21,7 +21,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "tencent-animation",
@@ -46,7 +47,8 @@
     "platforms": [
       "web"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "tencent-video-animation",
@@ -80,7 +82,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdpiId0eJGnnIvfhpbJIM1w"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "the-legend-of-hei",
@@ -114,7 +117,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPVlLWXABJgR3SEkqbZLnxw"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "yao-chinese-folktales",
@@ -138,7 +143,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "shanghai-animation-film-studio",
@@ -163,7 +169,8 @@
     "platforms": [
       "web"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "none"
   },
   {
     "id": "genshin-impact-bilibili",
@@ -198,7 +205,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/401742377"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "made-by-bilibili",
@@ -232,7 +240,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQFyMGc6h30NMCd6HCk0ZPA"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "yuewen-animation",
@@ -266,7 +276,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM5qb75ErC1JMmdgWjN8HJA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "douluo-theater",
@@ -300,7 +311,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC99ylcEAEH82gQLl4pHSgng"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "link-click",
@@ -334,7 +346,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC40HIPkcYVQ_5r2-vhQs9Lw"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "liu-dao-wu-yu-dong-hua-gong-zuo-shi",
@@ -368,7 +382,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWOPjMDcx-u2Vzgd39gQrSg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "bilibili-anime",
@@ -394,6 +409,7 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   }
 ]

@@ -24,7 +24,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "kuaikan-manhua",
@@ -50,7 +51,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "bilibili-comics",
@@ -76,7 +78,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "u17",
@@ -103,7 +106,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "dongman",
@@ -129,7 +133,9 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "line-webtoon",
@@ -155,7 +161,9 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "mkzhan",
@@ -181,7 +189,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "ccc-zhui-man-tai",
@@ -207,7 +216,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "lianhuanhua",
@@ -232,7 +242,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "sanmao",
@@ -256,7 +267,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "motioncomic",
@@ -291,6 +303,7 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfHgyAigw8aIeU3Trwkuuig"
-    }
+    },
+    "login": "none"
   }
 ]

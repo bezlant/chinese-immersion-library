@@ -31,7 +31,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAeIZxbLS06qOpBTAGT1qxA"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "xiao-yue-han-ke-han-bilibili",
@@ -64,7 +66,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/23947287"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "yi-gong-zi",
@@ -98,7 +101,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLwXrQxfMXJN9J0leING0Xg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "taiwan-bar",
@@ -132,7 +136,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRNsHFT7BFoAPBcuAa5sgEQ"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "storystudio",
@@ -165,7 +171,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjzvbmgnDThBvppKFutlqag"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "histodome",
@@ -199,7 +207,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqVd0cpvMnzigYTeyMYCq2w"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "national-palace-museum",
@@ -233,7 +242,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk-ctCMSDyiOAZdAG0Qw_HA"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "shi-pin-dao",
@@ -267,7 +278,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/39627524"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "chinese-text-project",
@@ -290,7 +302,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "the-palace-museum",
@@ -314,7 +328,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "the-world-of-chinese",
@@ -339,7 +354,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "lifeweek",
@@ -362,7 +378,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "lecture-room",
@@ -396,7 +413,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQH_AXSKJ5qUp1CXW3044sg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "bai-jia-jiang-tan",
@@ -419,7 +437,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "national-museum-of-china",
@@ -442,7 +461,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "national-library-of-china",
@@ -465,6 +485,7 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   }
 ]

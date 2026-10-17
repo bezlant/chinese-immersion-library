@@ -31,7 +31,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUGJ-yKqQHl4FSZwUmGpiUg"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "chaiknows",
@@ -64,7 +66,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQtwvRQWnT5Buh9hpvNNryQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mr-and-mrs-gao",
@@ -98,7 +101,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMUnInmOkrWN4gof9KlhNmQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "bi-dao-thu",
@@ -132,7 +136,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKJvfb-6icHloy6MBpHg9aw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "bi-dao-bilibili",
@@ -165,7 +170,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/254463269"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "mommytalk",
@@ -199,7 +205,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLROLAN8kmU7tGQDs6KH-bQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chaosmuseum",
@@ -232,7 +239,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsFM7d3CsTEnUgNQl9QO7ZA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "wu-qiong-xiao-liang-de-ke-pu-ri-chang",
@@ -266,7 +274,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/14804670"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "li-yongle-bilibili",
@@ -300,7 +309,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/9458053"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "li-yongle-official",
@@ -334,7 +344,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "li-ke-tai-tai",
@@ -368,7 +380,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHfY_EOzB1i57hYLSw_rYMg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "cang-lan-ge-de-yi-xue-tian-di",
@@ -402,7 +415,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUn77_F5A65HViL9OEvIpLw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "zhuzhuliving",
@@ -436,7 +450,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCldA-AURnCp_dcdTEW7gevg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "yixi",
@@ -469,7 +484,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKFB_rVEFEF3l-onQGvGx1A"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "the-voice",
@@ -502,7 +518,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtPo9-DDJNZWFsbzvaPGuZw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "luo-xiang-shuo-xing-fa",
@@ -536,7 +553,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/517327498"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "guokr",
@@ -559,7 +577,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "science-china",
@@ -582,7 +602,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "zhihu",
@@ -607,7 +628,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "pansci",
@@ -635,7 +657,9 @@
     "feed": {
       "format": "rss",
       "url": "https://pansci.asia/feed"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "chinese-wikipedia",
@@ -658,7 +682,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "baidu-baike",
@@ -682,7 +708,8 @@
     "platforms": [
       "web"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "none"
   },
   {
     "id": "chinese-national-geography",
@@ -706,6 +733,7 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   }
 ]

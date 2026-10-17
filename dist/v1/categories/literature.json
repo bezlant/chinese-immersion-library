@@ -8,8 +8,8 @@
   "web_icon": "scroll-text",
   "description": "Classical poetry, prose and public-domain texts."
  },
- "data_version": "009a7c1dcaa5",
- "count": 12,
+ "data_version": "257fe95db0a8",
+ "count": 13,
  "resources": [
   {
    "id": "chinese-poems",
@@ -34,7 +34,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "project-gutenberg-chinese",
@@ -57,7 +59,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "zhonghuadiancang",
@@ -80,7 +84,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "china-writers",
@@ -103,7 +109,36 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "zgshige",
+   "name": "中国诗歌网 China Poetry",
+   "url": "https://www.zgshige.cn/",
+   "description": "Daily modern poems and new verse from contemporary Chinese poets.",
+   "category": "literature",
+   "name_zh": "中国诗歌网",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "modern",
+    "poetry"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "shuge",
@@ -127,6 +162,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://www.shuge.org/feed/"
@@ -154,7 +191,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "guoxuedashi",
@@ -177,7 +216,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "sou-yun",
@@ -200,7 +241,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "chinese-wikisource",
@@ -223,7 +266,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "shidian-guji",
@@ -246,7 +291,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "shicimingju",
@@ -270,6 +317,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "rss",
     "url": "https://www.shicimingju.com/feed/"
@@ -296,7 +345,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   }
  ]
 }

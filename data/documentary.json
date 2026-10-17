@@ -30,7 +30,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAYkj2Fz9EvAe2fGJEGMXnQ"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "a-bite-of-china",
@@ -63,7 +65,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq9R_DkXJbDC9omoIPnMk9g"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "ji-shi-shuo",
@@ -96,7 +100,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9zs6wZpy_V3XfynMh8pQmw"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "cctv-9-documentary",
@@ -119,7 +125,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "ru-guo-guo-bao-hui-shuo-hua",
@@ -144,7 +151,8 @@
     "platforms": [
       "web"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "none"
   },
   {
     "id": "ren-sheng-yi-chuan",
@@ -167,7 +175,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "wo-zai-gu-gong-xiu-wen-wu",
@@ -191,7 +200,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "bilibili-documentary",
@@ -214,7 +224,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "youku-documentary",
@@ -247,7 +258,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClrB06PsOMunWlRUe7k9m9w"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "beautiful-china-4k",
@@ -281,6 +293,7 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzsJplmidmkyWuEAvzjh-oQ"
-    }
+    },
+    "login": "none"
   }
 ]

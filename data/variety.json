@@ -30,7 +30,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1pHFqCMAIHP8gr4lYGtNLA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "dragon-tv",
@@ -63,7 +64,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ06BguWKS5GJsEue7u79PQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "zhejiang-stv",
@@ -96,7 +98,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52EYUUSlzcYqHj-qsx0RHg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "jiangsu-tv",
@@ -129,7 +132,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZWO2OrUFQ0F6Ft_zO4LqQg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "sing-china",
@@ -163,7 +167,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTmSp0HNi-NVxFinOsp1O4g"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "shi-san-yao",
@@ -196,7 +201,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7eBKmeAz99qswOcm3VxOow"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "qiang-qiang-san-ren-xing",
@@ -229,7 +236,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbi-ZrTUyuReTqPpqVGJ8pg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "cts-show",
@@ -262,7 +270,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdpxNQgqL3276yjrK03gMXA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mu-yao-4-chao-wan",
@@ -295,7 +304,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLW_SzI9txZvtOFTPDswxqg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "iqiyi-lifeshow",
@@ -328,7 +338,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQUtD6-bWjvVZyv6CYxBBwQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "tvb",
@@ -361,6 +372,7 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKh2nOrPXCW4nXuhr_ZTIzg"
-    }
+    },
+    "login": "none"
   }
 ]

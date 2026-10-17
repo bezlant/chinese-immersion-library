@@ -8,7 +8,7 @@
   "web_icon": "dumbbell",
   "description": "Sports news, communities and fitness."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 12,
  "resources": [
   {
@@ -34,6 +34,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://feeds.feedburner.com/ettoday/sport"
@@ -62,7 +64,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "keep-youtube",
@@ -89,6 +93,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa5z5-YvFEcWEe3jnn0L8sA"
@@ -123,6 +129,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPikCyIJhEw1v1gDY6PlPMw"
@@ -154,7 +162,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "dongqiudi",
@@ -178,7 +188,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "sina-sports",
@@ -202,7 +214,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "zhibo8",
@@ -226,7 +240,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "tencent-sports",
@@ -251,6 +267,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "notes": "May load slowly or be unavailable outside mainland China."
   },
   {
@@ -278,7 +296,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "hupu",
@@ -302,7 +322,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "sportsv",
@@ -326,7 +348,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   }
  ]
 }

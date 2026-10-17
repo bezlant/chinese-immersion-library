@@ -8,8 +8,8 @@
   "web_icon": "circle-play",
   "description": "YouTube channels made for learners: comprehensible input, lessons, grammar."
  },
- "data_version": "009a7c1dcaa5",
- "count": 58,
+ "data_version": "257fe95db0a8",
+ "count": 61,
  "resources": [
   {
    "id": "acquire-mandarin",
@@ -36,6 +36,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtRuJmUVIsFdOMM3iPjFTfA"
@@ -71,6 +74,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5nodRZ4XwjIT4kO_DSi2ZQ"
@@ -106,6 +111,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cxiLPlL29mxFHgQegTlPQ"
@@ -141,6 +148,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR89oo3MbaDC0yrr6LJZgzA"
@@ -176,6 +185,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyYT-HdG1FXua6_vwyXNqhg"
@@ -210,6 +222,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN9Otl_f67SWjW5S_YLcSXg"
@@ -244,6 +259,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZs2_qqVNU5K32XxhHFY_MQ"
@@ -278,6 +295,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI_EXjUIOC1caoKECKrOT7Q"
@@ -313,6 +332,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-phspvnr3ohyDieHzjWfvQ"
@@ -348,6 +369,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpRbKSf-CN5_UQF-OkWIJCw"
@@ -384,6 +407,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ3IlLg5VGeydxtswBoyt6A"
@@ -417,6 +442,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhnlRY-oKpanPGSvL8Ml8Q"
@@ -452,6 +479,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgCrOLcWvSFl5K2ld0nKS7w"
@@ -487,6 +516,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRY8eBLd9tPFw5-JY7S7O8Q"
@@ -522,6 +553,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxOhdldi9RED-8zi6EWxp_w"
@@ -555,6 +588,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpsy7Un_RbnwPOcPhUMUt4g"
@@ -590,6 +625,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfsNycNoClXZA1FuUJSGT0w"
@@ -624,6 +662,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtCASxFEa9ym88EUrWZxFQ"
@@ -658,6 +698,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwZq7MvS8QpvbGfuh7Ifcbw"
@@ -666,6 +708,36 @@
     "youtube_channel_id": "UCwZq7MvS8QpvbGfuh7Ifcbw"
    },
    "image": "https://yt3.googleusercontent.com/k5N-Fo5XgAmEkg0J5yR2eaqh3qUvvoduIx94hynlrugxvD7W2SglyxSKAfxc-5qWcWBH564Zew=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "easy-mandarin",
+   "name": "Easy Mandarin",
+   "url": "https://www.youtube.com/@EasyMandarin",
+   "description": "Street interviews in China and Taiwan with Chinese, pinyin and English subtitles.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh+en",
+   "pricing": "free",
+   "tags": [
+    "interviews",
+    "subtitles"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true
   },
   {
    "id": "everyday-chinese",
@@ -693,6 +765,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSXriUqkzZmAQklQ0N9XFVw"
@@ -728,6 +802,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC_fdR7zZ_5SU--xuOrEdKw"
@@ -763,6 +839,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvBmje-WnV2so3SG7F-axHw"
@@ -797,6 +875,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8sCINlHlbkxEdDKQRSHK_w"
@@ -830,6 +910,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv33mxPEDfd_Ee1pz1y8KLw"
@@ -865,6 +947,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_HW6aVLpyvPIhc7w8YA8Ag"
@@ -900,6 +984,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSFDgRCzh_1ZPhxChVgK7Q"
@@ -933,6 +1020,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYqtl651AtrH3Ys5OK-DbbA"
@@ -968,6 +1057,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI8Liuxdz6UPv5rgMskfwPg"
@@ -1002,6 +1094,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjf10tuGdICcczoW05Iqe0A"
@@ -1036,6 +1130,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPS5lOyQ2HfaYgapBV22H0A"
@@ -1071,6 +1167,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCipQJmg3yqouy6MRtPv_0Bg"
@@ -1106,6 +1204,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc5ueW8aqO73Q6MevB8L5PA"
@@ -1142,6 +1242,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcvTOgUiplI80SPR73ogCEQ"
@@ -1176,6 +1278,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEMjz6grJabXyE_bBv-TuGw"
@@ -1212,6 +1316,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2fAiRQHRQT9aj9P_ijYeow"
@@ -1247,6 +1354,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3B-DH5W60TfVs1AKw_P1kw"
@@ -1281,6 +1391,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC74G8nF0GZncPg_vv8cSXkQ"
@@ -1315,6 +1427,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_QOI65lGkLxRqyo17SfEaA"
@@ -1350,6 +1464,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDGT00hxfI15N4-p_gHgtNg"
@@ -1383,6 +1499,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9xJNZQ2YwSKuIm_VUB1F4w"
@@ -1419,6 +1537,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGcewL4nAdWtH8JlSQ-6Y9Q"
@@ -1454,6 +1574,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPUcnh4zOQnAL_lsVKl2blQ"
@@ -1488,6 +1610,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaABTHpiXTRchxAbO5I6jKg"
@@ -1523,6 +1647,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_Aiv9xguPQxZ6msnNoz3HQ"
@@ -1557,6 +1683,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjgfULWh8BVpW4kebqEr91w"
@@ -1591,6 +1719,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdwdSGQsSbcapDmODtOr58g"
@@ -1626,6 +1756,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNmZr4WBw71bdJYjaycLodA"
@@ -1659,6 +1791,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuZUvuPqPuj1G078fzQ3TsQ"
@@ -1694,6 +1829,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa2MkPgQHW7hZC9E8xBk6fQ"
@@ -1729,6 +1867,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUjFsQAUUS1IFM7oyUXeB1g"
@@ -1764,6 +1905,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXYZ2Xk6JsJccQFwDsTkgyQ"
@@ -1798,6 +1941,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd62LH5bViDMIiPYhwcJXVQ"
@@ -1832,6 +1978,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCnsesKQqyQEeuoeRso7gg"
@@ -1840,6 +1988,34 @@
     "youtube_channel_id": "UCFCnsesKQqyQEeuoeRso7gg"
    },
    "image": "https://yt3.googleusercontent.com/h1zLabapUDPAdB0UxQFi1X03ln6QJeK09UvqIckNbWbdg7YrSrgGKyUpB7s1vyYKlnuLGjUAZQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "thinking-in-chinese",
+   "name": "Thinking in Chinese",
+   "url": "https://www.youtube.com/@ThinkinginChinese",
+   "description": "Intermediate comprehensible input on culture, history and society, explained in clear Chinese.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "comprehensible-input",
+    "culture"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "tingting-comprehensible-chinese",
@@ -1865,6 +2041,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsl1lX__xQ2IGf8c9r6xH8A"
@@ -1898,6 +2076,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqLWT3swHvP9_4bv7Qssxw"
@@ -1932,6 +2112,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7LmgMa8XhIusF7RI7YI_KQ"
@@ -1967,6 +2150,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc-YIMz_tv1K_FKE4noY_Cw"
@@ -1975,6 +2160,35 @@
     "youtube_channel_id": "UCc-YIMz_tv1K_FKE4noY_Cw"
    },
    "image": "https://yt3.googleusercontent.com/xAQDeP0A3pOjXzU_jSRWON1UbP7Rg8UldzMe_TwykTDuzu5pmlG7mRRb9KS6g14a9-sJVPE_DA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "yimin-chinese",
+   "name": "Yimin Chinese 亦敏中文",
+   "url": "https://www.youtube.com/@YiminChinese",
+   "description": "Grammar, vocabulary and listening lessons for intermediate learners, mostly in Chinese.",
+   "category": "learn_video",
+   "type": "youtube",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "grammar",
+    "listening"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "yoyo-chinese-youtube",
@@ -2002,6 +2216,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJyGe2H0C9q6QH0-hH04zw"

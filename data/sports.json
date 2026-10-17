@@ -21,7 +21,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "dongqiudi",
@@ -45,7 +47,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "sina-sports",
@@ -69,7 +73,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "tencent-sports",
@@ -94,7 +99,8 @@
     "platforms": [
       "web"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "none"
   },
   {
     "id": "keep",
@@ -119,7 +125,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "cctv-sports",
@@ -143,7 +150,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "zhibo8",
@@ -167,7 +175,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "sportsv",
@@ -191,7 +200,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "ettoday-website",
@@ -219,7 +229,8 @@
     "feed": {
       "format": "rss",
       "url": "https://feeds.feedburner.com/ettoday/sport"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "boohee",
@@ -246,7 +257,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "keep-youtube",
@@ -280,7 +292,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCa5z5-YvFEcWEe3jnn0L8sA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "will-liu",
@@ -314,6 +327,7 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPikCyIJhEw1v1gDY6PlPMw"
-    }
+    },
+    "login": "none"
   }
 ]

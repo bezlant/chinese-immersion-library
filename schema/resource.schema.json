@@ -23,6 +23,9 @@
     "language": {"enum": ["zh", "zh+en", "en"], "description": "Language the content is presented in."},
     "pricing": {"enum": ["free", "freemium", "paid"]},
     "platforms": {"type": "array", "items": {"enum": ["web", "ios", "android"]}},
+    "login": {"enum": ["none", "partial", "required"], "default": "none", "description": "none = everything opens without an account; partial = much is open, but some content, full quality or continued browsing asks you to sign in, install an app or pay; required = must sign in to see the content."},
+    "subtitles": {"enum": ["free", "paid"], "description": "Chinese subtitles (closed captions) or transcripts available as text, free or paid. Burned-in subtitles don't count. Omitted when there are none or it's unknown."},
+    "recommended": {"type": "boolean", "default": false, "description": "A pick: well-known, free, active, and opens without an account (login must be none)."},
     "feed": {
       "type": "object",
       "additionalProperties": false,

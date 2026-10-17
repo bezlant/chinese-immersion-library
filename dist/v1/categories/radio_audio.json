@@ -8,7 +8,7 @@
   "web_icon": "radio",
   "description": "Audio platforms, live radio and audiobooks."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 10,
  "resources": [
   {
@@ -35,7 +35,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "radio-garden",
@@ -62,7 +64,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "soundon",
@@ -88,7 +92,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "yunting",
@@ -115,7 +121,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "ximalaya",
@@ -142,7 +150,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "xiaoyuzhou-fm",
@@ -168,7 +178,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "dedao",
@@ -195,7 +207,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "vistopia",
@@ -221,7 +235,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "lizhi",
@@ -247,7 +263,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "qingting",
@@ -274,7 +292,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   }
  ]
 }

@@ -23,7 +23,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "superchinese",
@@ -50,7 +51,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "skritter",
@@ -76,7 +78,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "anki",
@@ -103,7 +106,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "migaku",
@@ -130,7 +134,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "language-reactor",
@@ -155,7 +160,8 @@
     "pricing": "freemium",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "chineseskill",
@@ -180,7 +186,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "ninchanese",
@@ -209,7 +216,8 @@
     "feed": {
       "format": "rss",
       "url": "https://ninchanese.com/feed/"
-    }
+    },
+    "login": "required"
   },
   {
     "id": "drops",
@@ -234,7 +242,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "memrise",
@@ -259,7 +268,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "busuu",
@@ -284,7 +294,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "lingodeer",
@@ -310,7 +321,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "todaii-chinese",
@@ -335,7 +347,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "hanping-chinese-dictionary",
@@ -359,7 +372,8 @@
     "pricing": "freemium",
     "platforms": [
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "chinese-reader-by-trainchinese",
@@ -385,7 +399,8 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "speechling",
@@ -412,7 +427,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "dong-chinese-app",
@@ -437,6 +453,7 @@
     "platforms": [
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   }
 ]

@@ -123,6 +123,7 @@ section{margin-bottom:52px}
 .desc{margin:12px 0 0;color:var(--muted);font-size:14px;line-height:1.5;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .facts{display:flex;flex-wrap:wrap;gap:4px 10px;margin:auto 0 0;padding-top:12px;color:var(--faint);font-size:12.5px}
 .learner{color:var(--accent);font-weight:500}
+.pick{color:#b7791f;font-weight:500}
 .empty{padding:80px 0;text-align:center;color:var(--muted)}
 .empty b{display:block;color:var(--fg);font-size:17px;margin-bottom:4px}
 [hidden]{display:none!important}
@@ -198,6 +199,8 @@ function lg(img,failed){
     <select id="script" aria-label="Characters"><option value="">Any script</option><option value="simplified">Simplified</option><option value="traditional">Traditional</option></select>
     <select id="region" aria-label="Region"><option value="">Any region</option><option value="cn">Mainland China</option><option value="tw">Taiwan</option><option value="hk">Hong Kong</option><option value="sg">Singapore</option><option value="my">Malaysia</option><option value="global">Global</option></select>
     <label class="check"><input type="checkbox" id="learner">For learners</label>
+    <label class="check"><input type="checkbox" id="pick">Picks</label>
+    <label class="check"><input type="checkbox" id="open">No login</label>
   </div>
   <div class="status"><span id="shown"></span><button type="button" class="reset" id="reset" hidden>%%IC_X%%Reset</button></div>
 </div></div>
@@ -228,7 +231,7 @@ function lg(img,failed){
   var tabBtns=[].slice.call(document.querySelectorAll('[data-tab]'));
   var sel={type:$('type'),level:$('level'),script:$('script'),region:$('region')};
   var groupOf={}; sections.forEach(function(s){groupOf[s.dataset.section]=s.dataset.group;});
-  var state={q:'',group:'',cat:'',type:'',level:'',script:'',region:'',learner:''};
+  var state={q:'',group:'',cat:'',type:'',level:'',script:'',region:'',learner:'',pick:'',open:''};
 
   function matches(d,ignoreCat){
     var q=state.q;
@@ -238,6 +241,8 @@ function lg(img,failed){
       &&(!state.script||d.script===state.script||d.script==='both')
       &&(!state.region||d.region===state.region)
       &&(!state.learner||d.learner==='1')
+      &&(!state.pick||d.pick==='1')
+      &&(!state.open||d.login==='none')
       &&(!state.group||groupOf[d.cat]===state.group)
       &&(ignoreCat||!state.cat||d.cat===state.cat);
   }
@@ -268,6 +273,8 @@ function lg(img,failed){
     tabBtns.forEach(function(b){b.classList.toggle('on',b.dataset.tab===state.group);});
     Object.keys(sel).forEach(function(k){sel[k].value=state[k];sel[k].classList.toggle('set',!!state[k]);});
     $('learner').checked=!!state.learner;
+    $('pick').checked=!!state.pick;
+    $('open').checked=!!state.open;
     $('shown').textContent=shown===cards.length?shown+' resources':shown+' of '+cards.length;
     $('empty').hidden=shown>0;
     var active=Object.keys(state).some(function(k){return state[k];});
@@ -285,13 +292,15 @@ function lg(img,failed){
   var t; $('q').addEventListener('input',function(){clearTimeout(t);var v=this.value;t=setTimeout(function(){set({q:v.trim().toLowerCase()});},80);});
   Object.keys(sel).forEach(function(k){sel[k].addEventListener('change',function(){var o={};o[k]=this.value;set(o);});});
   $('learner').addEventListener('change',function(){set({learner:this.checked?'1':''});});
+  $('pick').addEventListener('change',function(){set({pick:this.checked?'1':''});});
+  $('open').addEventListener('change',function(){set({open:this.checked?'1':''});});
   tabBtns.forEach(function(b){b.addEventListener('click',function(){
     var g=b.dataset.tab, patch={group:g}; if(state.cat&&g&&groupOf[state.cat]!==g)patch.cat=''; set(patch);});});
   catBtns.forEach(function(b){b.addEventListener('click',function(){set({cat:b.dataset.catBtn},true);});});
   document.querySelectorAll('[data-preset]').forEach(function(b){b.addEventListener('click',function(){
-    var p=JSON.parse(b.dataset.preset), base={q:'',group:'',cat:'',type:'',level:'',script:'',region:'',learner:''};
+    var p=JSON.parse(b.dataset.preset), base={q:'',group:'',cat:'',type:'',level:'',script:'',region:'',learner:'',pick:'',open:''};
     Object.keys(p).forEach(function(k){base[k]=p[k];}); $('q').value=''; set(base,true);});});
-  $('reset').addEventListener('click',function(){$('q').value='';set({q:'',group:'',cat:'',type:'',level:'',script:'',region:'',learner:''});});
+  $('reset').addEventListener('click',function(){$('q').value='';set({q:'',group:'',cat:'',type:'',level:'',script:'',region:'',learner:'',pick:'',open:''});});
   document.addEventListener('keydown',function(e){
     var typing=/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName);
     if(e.key==='/'&&!typing){e.preventDefault();$('q').focus();}

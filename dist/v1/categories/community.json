@@ -8,7 +8,7 @@
   "web_icon": "users",
   "description": "Tutors, language exchange and learner communities."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 9,
  "resources": [
   {
@@ -36,7 +36,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "italki",
@@ -63,7 +65,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "lang-8-hinative",
@@ -90,7 +94,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "preply",
@@ -117,7 +123,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "r-chinese",
@@ -145,7 +153,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "r-chinesehistory",
@@ -174,7 +184,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "r-chineselanguage",
@@ -202,7 +214,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "r-mandarinchinese",
@@ -230,7 +244,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "tandem",
@@ -257,7 +273,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   }
  ]
 }

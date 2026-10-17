@@ -1,6 +1,6 @@
 {
- "data_version": "009a7c1dcaa5",
- "count": 429,
+ "data_version": "257fe95db0a8",
+ "count": 446,
  "feeds": [
   {
    "id": "acquire-mandarin",
@@ -729,6 +729,17 @@
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/1c/d3/f6/1cd3f6e8-f8c0-2629-9b58-28ca32d3e06c/mza_16588498321215848109.jpg/600x600bb.jpg"
   },
   {
+   "id": "cozy-mandarin",
+   "name": "Cozy Mandarin",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/f0108330/podcast/rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/5f/a9/8b5fa9ac-a2cd-6833-6dbb-c3eb5b3f42c3/mza_17028861745693539845.jpg/600x600bb.jpg"
+  },
+  {
    "id": "dashu-mandarin-podcast",
    "name": "Dashu Mandarin Podcast",
    "category": "learn_podcast",
@@ -749,6 +760,17 @@
     "url": "https://rss.buzzsprout.com/2509414.rss"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/5d/fd/315dfd55-0ee3-c6cd-cb50-211940ab0604/mza_13454275442952897120.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "fu-lan-speaking",
+   "name": "Fu-lan Speaking 自然台灣華語",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://feed.firstory.me/rss/user/cklo4eoqys5wb0892k5t6ve0a"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/d0/ad/93d0ad4b-50de-efd9-4acb-daab91fbf6fb/mza_1620563889696132582.png/600x600bb.jpg"
   },
   {
    "id": "full-mandarin-stories-by-mandarin-monkey",
@@ -850,6 +872,17 @@
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/6b/a9/ad6ba987-b4b3-0d5a-5233-943de63d8dd6/mza_5807566241105151991.jpg/600x600bb.jpg"
   },
   {
+   "id": "miss-lin-podcast",
+   "name": "Learn Taiwanese Mandarin with Miss Lin (Podcast)",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.buzzsprout.com/1726772.rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/9c/68/ea9c6862-ad9b-39b2-f718-d320c9bb6025/mza_12088782350225198389.jpg/600x600bb.jpg"
+  },
+  {
    "id": "learning-chinese-through-stories",
    "name": "Learning Chinese through Stories",
    "category": "learn_podcast",
@@ -859,6 +892,17 @@
     "url": "https://rss.pdrl.fm/7a3f80/feeds.libsyn.com/130982/rss/?redirect=false"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3c/cb/78/3ccb788e-def4-7c31-8b99-6d22b85de53f/mza_11708184256458942884.png/600x600bb.jpg"
+  },
+  {
+   "id": "little-mandarin",
+   "name": "Little Mandarin",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/fd074dbc/podcast/rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/4c/7e/bb4c7ef3-6536-bca5-9465-8c36adf7c29c/mza_9625511978210084377.jpg/600x600bb.jpg"
   },
   {
    "id": "maayot-learn-chinese-with-beginner-stories",
@@ -905,6 +949,17 @@
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/e7/26/09e72663-a740-a5fc-8353-e201016684bb/mza_10910778260182356367.jpg/600x600bb.jpg"
   },
   {
+   "id": "mandy-mandarin-podcast",
+   "name": "Mandy Mandarin Podcast",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/10a2eb408/podcast/rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/6a/f8/136af863-42cb-502b-25fe-b1394f58ed9d/mza_12845721668018236013.jpg/600x600bb.jpg"
+  },
+  {
    "id": "maomi-chinese",
    "name": "MaoMi Chinese",
    "category": "learn_podcast",
@@ -938,6 +993,17 @@
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/d2/47/64d247f1-5c56-9daa-5e6a-afec28e6e393/mza_15161340838686650079.jpg/600x600bb.jpg"
   },
   {
+   "id": "moonlight-mandarin",
+   "name": "Moonlight Mandarin",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.buzzsprout.com/2414421.rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8f/0c/c4/8f0cc401-4a4e-7739-ddc3-bcbfa795a02f/mza_7789087429076603309.jpg/600x600bb.jpg"
+  },
+  {
    "id": "one-chinese-word-a-day",
    "name": "One Chinese Word a Day",
    "category": "learn_podcast",
@@ -969,6 +1035,17 @@
     "url": "https://kitchenknif.github.io/SlowChinese/podcast.rss"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/30/b4/88/30b48856-2984-3ce3-3c99-8e41914aefdb/mza_17422342128067649193.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "speak-chinese-like-a-taiwanese-local",
+   "name": "Speak Chinese Like a Taiwanese Local",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/e326d2f0/podcast/rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/80/88/88/808888f2-a252-9845-05b7-a63c04b56d18/mza_13001654689170843602.jpg/600x600bb.jpg"
   },
   {
    "id": "speak-chinese-naturally",
@@ -1026,6 +1103,17 @@
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f3/99/a5/f399a586-9ea7-080e-2584-53e240ad4e12/mza_3958047185997869201.jpg/600x600bb.jpg"
   },
   {
+   "id": "thinking-in-chinese-podcast",
+   "name": "Thinking in Chinese Podcast",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/1109ff180/podcast/rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c0/28/0d/c0280d5b-f220-ea96-028b-1beb32600dec/mza_8344078141298906583.jpg/600x600bb.jpg"
+  },
+  {
    "id": "trendy-chinese-podcast",
    "name": "Trendy Chinese Podcast 舌尖上的中文播客",
    "category": "learn_podcast",
@@ -1059,6 +1147,17 @@
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/72/2d/d9722da4-1a17-cf5e-321b-f3664d4d33e5/mza_11638598724266219677.jpg/600x600bb.jpg"
   },
   {
+   "id": "five-minute-chinese",
+   "name": "五分钟中文 5 Minute Chinese",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.buzzsprout.com/1868166.rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/30/91/0f30916a-61fa-7891-91d7-81e45746776c/mza_9637351528911167460.jpg/600x600bb.jpg"
+  },
+  {
    "id": "speak-chinese-with-da-peng",
    "name": "大鹏说中文 Speak Chinese with Da Peng",
    "category": "learn_podcast",
@@ -1068,6 +1167,17 @@
     "url": "https://rss.buzzsprout.com/688918.rss"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/1c/14/f01c1417-52f1-86d9-ee1b-b0b6e4b03e32/mza_6388866532018973975.jpg/600x600bb.jpg"
+  },
+  {
+   "id": "meitian-chengyu",
+   "name": "每天成语 Chinese Idioms in Stories",
+   "category": "learn_podcast",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://rss.buzzsprout.com/2519340.rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/1c/ae/b41cae66-813c-6d18-d6be-1a02315f4502/mza_6788400352770566868.jpg/600x600bb.jpg"
   },
   {
    "id": "convo-chinese",
@@ -1802,6 +1912,16 @@
    }
   },
   {
+   "id": "cnblogs",
+   "name": "博客园 Cnblogs",
+   "category": "tech",
+   "type": "website",
+   "feed": {
+    "format": "rss",
+    "url": "http://feed.cnblogs.com/blog/sitehome/rss"
+   }
+  },
+  {
    "id": "jiu-jiu-xie",
    "name": "啾啾鞋",
    "category": "tech",
@@ -1811,6 +1931,26 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIF_gt4BfsWyM_2GOcKXyEQ"
    },
    "image": "https://yt3.googleusercontent.com/GhYUS7cwh3MNidwNvVljx4koHKpbHflvp8I4urhnWeJrYYitXywXXBtmsKpMP3TYHcqEMf8q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "solidot",
+   "name": "奇客 Solidot",
+   "category": "tech",
+   "type": "website",
+   "feed": {
+    "format": "rss",
+    "url": "https://www.solidot.org/index.rss"
+   }
+  },
+  {
+   "id": "appinn",
+   "name": "小众软件 Appinn",
+   "category": "tech",
+   "type": "website",
+   "feed": {
+    "format": "rss",
+    "url": "https://www.appinn.com/feed/"
+   }
   },
   {
    "id": "sspai",
@@ -1832,6 +1972,16 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqlQ5ErufqtQUhkuKj1xngg"
    },
    "image": "https://yt3.googleusercontent.com/jkw5R5taAQySq_Er6Tb44yUa1h85eGZ5ERONWthiY4USx8djTKEiy8tshkPFaJkbsSqNrlQ=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "oschina",
+   "name": "开源中国 OSCHINA",
+   "category": "tech",
+   "type": "website",
+   "feed": {
+    "format": "rss",
+    "url": "https://www.oschina.net/news/rss"
+   }
   },
   {
    "id": "mediastorm-bilibili",
@@ -1932,6 +2082,16 @@
    "image": "https://yt3.googleusercontent.com/gghxgdbOVOqiYMi6qPtsg5IKNX5mPMj-pPRO_sdvSPODz8jaL6b4G_hpIMw7PtF-GMjJqyIG=s900-c-k-c0x00ffffff-no-rj"
   },
   {
+   "id": "landian",
+   "name": "蓝点网 Landian News",
+   "category": "tech",
+   "type": "website",
+   "feed": {
+    "format": "rss",
+    "url": "https://www.landian.news/feed"
+   }
+  },
+  {
    "id": "qbitai",
    "name": "量子位 QbitAI",
    "category": "tech",
@@ -1939,6 +2099,16 @@
    "feed": {
     "format": "rss",
     "url": "https://www.qbitai.com/feed"
+   }
+  },
+  {
+   "id": "ruanyifeng",
+   "name": "阮一峰的网络日志 Ruan Yifeng's Blog",
+   "category": "tech",
+   "type": "website",
+   "feed": {
+    "format": "rss",
+    "url": "https://feeds.feedburner.com/ruanyifeng"
    }
   },
   {
@@ -3761,6 +3931,17 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCttafJi4SCirZhlxsxISbyA"
    },
    "image": "https://yt3.googleusercontent.com/ytc/AIdro_m3eoS3sohejLJ1AO1QzniT8DQ5sx99WIR3-uzbndNxFuE=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "little-story-house",
+   "name": "小故事屋 Little Story House",
+   "category": "kids",
+   "type": "podcast",
+   "feed": {
+    "format": "podcast",
+    "url": "https://anchor.fm/s/103a678a0/podcast/rss"
+   },
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8d/1f/88/8d1f8829-3ac8-565d-7190-75ff32bbc982/mza_17611113808987383783.jpg/600x600bb.jpg"
   },
   {
    "id": "peppa-pig",

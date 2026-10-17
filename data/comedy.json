@@ -30,7 +30,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQxikYvT9VtTHYwZAi87PgA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "de-yun-she-tv",
@@ -63,7 +64,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPBtCCuQaswRFuoCUhA37mg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "xiaoguo-comedy",
@@ -96,7 +98,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPiiTWdr5S2y0jqaDFXs5fw"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "str-network",
@@ -130,7 +134,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrswN-SqWh7Kii62h9aXGA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "papi-jiang",
@@ -163,7 +168,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgHXsynhD8GxbFcNlPEn-_w"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "papi-jiang-bilibili",
@@ -196,7 +203,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/1532165"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "jing-han-qing",
@@ -229,7 +237,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/9824766"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "san-gen-cong",
@@ -263,7 +272,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/332835876"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "tgop",
@@ -296,7 +306,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6FcYHEm7SO1jpu5TKjNXEA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "cai-a-ga",
@@ -329,7 +340,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPwxSX0DYDMQxCvgfeVDv_g"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "wackyboys",
@@ -362,7 +374,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEfetJrzg6OcXWWuX8uhdhw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "zhong-liang-ji-crowd",
@@ -395,7 +408,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3LBFXbWtEBdOOUb8-qJm9Q"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "huang-shi-xiong-di",
@@ -428,7 +442,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV_S2S-Zs8LeuJxK-T3RQQg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "trial-and-error",
@@ -461,7 +476,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcfdsRaC34Y4IKTiihYxBrQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "happy-night-live",
@@ -494,7 +510,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeepJ7g6Us3Vt-H6dllF5rQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "zhong-guo-boy-chao-ji-da-xing-xing",
@@ -527,6 +544,7 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/562197"
-    }
+    },
+    "login": "partial"
   }
 ]

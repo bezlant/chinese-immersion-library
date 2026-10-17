@@ -31,7 +31,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCilwQlk62k1z7aUEZPOB6yw"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "xiao-lin-shuo-bilibili",
@@ -64,7 +67,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/520819684"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "wu-shi-cai-jing",
@@ -97,7 +101,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC55ahPQ7m5iJdVWcOfmuE6g"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "wu-shi-cai-jing-bilibili",
@@ -130,7 +135,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/472747194"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "suo-zhang-lin-chao",
@@ -163,7 +169,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDAMXqexiNMSzN_Vcwj72AQ"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "suo-zhang-lin-chao-bilibili",
@@ -196,7 +204,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/520155988"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "ying-he-de-ban-fu-xian-ren",
@@ -229,7 +238,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyO-Rh1EX_6VNn3RKPeJ6kQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "ying-he-de-ban-fu-xian-ren-bilibili",
@@ -262,7 +272,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/37663924"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "business-weekly-video",
@@ -295,7 +306,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwlpC8vX_GkRngPYSnwkJxg"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "commonwealth-video",
@@ -328,7 +341,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoS753iLrVE-1PZrsUak6Qg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "xueqiu",
@@ -352,7 +366,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "eastmoney",
@@ -375,7 +390,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "wallstreetcn",
@@ -398,7 +414,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "eeo",
@@ -421,7 +438,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "21-shi-ji-jing-ji-bao-dao",
@@ -444,7 +462,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "business-weekly",
@@ -468,7 +487,8 @@
     "pricing": "freemium",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "manager-today",
@@ -492,7 +512,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "type": "youtube",
@@ -526,6 +547,33 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ1zX4FZA15dwE2olLAO3-w"
-    }
+    },
+    "login": "none"
+  },
+  {
+    "id": "woshipm",
+    "name": "人人都是产品经理 Woshipm",
+    "url": "https://www.woshipm.com/",
+    "description": "Product, design and internet-business articles from practitioners.",
+    "category": "business",
+    "type": "website",
+    "tags": [
+      "product",
+      "internet"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "人人都是产品经理",
+    "login": "none"
   }
 ]

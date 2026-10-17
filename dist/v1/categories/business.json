@@ -8,8 +8,8 @@
   "web_icon": "trending-up",
   "description": "Economics explainers, markets and business media."
  },
- "data_version": "009a7c1dcaa5",
- "count": 18,
+ "data_version": "257fe95db0a8",
+ "count": 19,
  "resources": [
   {
    "id": "21-shi-ji-jing-ji-bao-dao",
@@ -32,7 +32,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "ic-lab",
@@ -59,6 +61,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ1zX4FZA15dwE2olLAO3-w"
@@ -89,7 +93,36 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "woshipm",
+   "name": "人人都是产品经理 Woshipm",
+   "url": "https://www.woshipm.com/",
+   "description": "Product, design and internet-business articles from practitioners.",
+   "category": "business",
+   "name_zh": "人人都是产品经理",
+   "type": "website",
+   "level": [
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "cn",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "internet",
+    "product"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "wallstreetcn",
@@ -112,7 +145,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "business-weekly-video",
@@ -138,6 +173,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwlpC8vX_GkRngPYSnwkJxg"
@@ -169,7 +207,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "commonwealth-video",
@@ -195,6 +235,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoS753iLrVE-1PZrsUak6Qg"
@@ -229,6 +271,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCilwQlk62k1z7aUEZPOB6yw"
@@ -262,6 +307,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/520819684"
@@ -295,6 +342,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC55ahPQ7m5iJdVWcOfmuE6g"
@@ -328,6 +377,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/472747194"
@@ -361,6 +412,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDAMXqexiNMSzN_Vcwj72AQ"
@@ -394,6 +447,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/520155988"
@@ -427,6 +482,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyO-Rh1EX_6VNn3RKPeJ6kQ"
@@ -460,6 +517,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rsshub",
     "url": "https://rsshub.app/bilibili/user/video/37663924"
@@ -491,7 +550,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "eeo",
@@ -514,7 +575,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "xueqiu",
@@ -538,7 +601,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   }
  ]
 }

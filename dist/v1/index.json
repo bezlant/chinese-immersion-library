@@ -1,8 +1,8 @@
 {
  "api_version": "v1",
  "schema_version": 1,
- "data_version": "009a7c1dcaa5",
- "count": 722,
+ "data_version": "257fe95db0a8",
+ "count": 764,
  "endpoints": {
   "all": "all.json",
   "feeds": "feeds.json",
@@ -17,7 +17,7 @@
    "icon": "play.rectangle.fill",
    "web_icon": "circle-play",
    "description": "YouTube channels made for learners: comprehensible input, lessons, grammar.",
-   "count": 58,
+   "count": 61,
    "path": "categories/learn_video.json"
   },
   {
@@ -28,7 +28,7 @@
    "icon": "headphones",
    "web_icon": "headphones",
    "description": "Podcasts made for learners, from slow Chinese to natural conversation.",
-   "count": 43,
+   "count": 53,
    "path": "categories/learn_podcast.json"
   },
   {
@@ -116,7 +116,7 @@
    "icon": "newspaper.fill",
    "web_icon": "newspaper",
    "description": "Chinese-language news from mainland China, Taiwan, Hong Kong, Singapore, Malaysia and international media.",
-   "count": 79,
+   "count": 80,
    "path": "categories/news.json"
   },
   {
@@ -127,7 +127,7 @@
    "icon": "cpu.fill",
    "web_icon": "cpu",
    "description": "Tech news, reviews and developer communities.",
-   "count": 29,
+   "count": 41,
    "path": "categories/tech.json"
   },
   {
@@ -138,7 +138,7 @@
    "icon": "chart.line.uptrend.xyaxis",
    "web_icon": "trending-up",
    "description": "Economics explainers, markets and business media.",
-   "count": 18,
+   "count": 19,
    "path": "categories/business.json"
   },
   {
@@ -164,6 +164,17 @@
    "path": "categories/history_culture.json"
   },
   {
+   "id": "stories",
+   "group": "read",
+   "name": "Stories & Essays",
+   "name_zh": "故事美文",
+   "icon": "book.closed.fill",
+   "web_icon": "feather",
+   "description": "Children's stories, fables, idiom stories, student essays and short prose: short native texts that suit learners.",
+   "count": 6,
+   "path": "categories/stories.json"
+  },
+  {
    "id": "novels",
    "group": "read",
    "name": "Web Novels",
@@ -182,7 +193,7 @@
    "icon": "scroll.fill",
    "web_icon": "scroll-text",
    "description": "Classical poetry, prose and public-domain texts.",
-   "count": 12,
+   "count": 13,
    "path": "categories/literature.json"
   },
   {
@@ -215,7 +226,7 @@
    "icon": "bubble.left.and.bubble.right.fill",
    "web_icon": "messages-square",
    "description": "Forums and social platforms where native speakers talk.",
-   "count": 8,
+   "count": 14,
    "path": "categories/social.json"
   },
   {
@@ -303,7 +314,7 @@
    "icon": "airplane",
    "web_icon": "plane",
    "description": "Travel vlogs, guides and review sites.",
-   "count": 17,
+   "count": 18,
    "path": "categories/travel.json"
   },
   {
@@ -325,7 +336,7 @@
    "icon": "figure.and.child.holdinghands",
    "web_icon": "baby",
    "description": "Cartoons, songs and stories: simple, repetitive Chinese.",
-   "count": 22,
+   "count": 23,
    "path": "categories/kids.json"
   },
   {
@@ -419,6 +430,15 @@
    "freemium",
    "paid"
   ],
+  "login": [
+   "none",
+   "partial",
+   "required"
+  ],
+  "subtitles": [
+   "free",
+   "paid"
+  ],
   "tags": [
    "accents",
    "agency",
@@ -435,11 +455,13 @@
    "audiobooks",
    "authentic-content",
    "baking",
+   "bedtime",
    "beginner",
    "beijing",
    "bilingual",
    "biology",
    "blog",
+   "blogs",
    "booking",
    "books",
    "business",
@@ -452,6 +474,7 @@
    "censorship",
    "challenges",
    "characters",
+   "children",
    "cinematic",
    "classic",
    "classical",
@@ -493,6 +516,7 @@
    "encyclopedia",
    "english",
    "esports",
+   "essays",
    "etymology",
    "exam",
    "exchange",
@@ -500,6 +524,7 @@
    "experiments",
    "explainers",
    "expressions",
+   "fables",
    "family",
    "film",
    "finance",
@@ -565,6 +590,7 @@
    "medicine",
    "method",
    "mock-tests",
+   "modern",
    "modern-classics",
    "monolingual",
    "mooc",
@@ -581,6 +607,7 @@
    "nutrition",
    "ocr",
    "official",
+   "open",
    "open-data",
    "open-source",
    "original",
@@ -597,8 +624,11 @@
    "pop-culture",
    "portal",
    "pranks",
+   "product",
    "productivity",
    "pronunciation",
+   "prose",
+   "public-domain",
    "public-media",
    "q-and-a",
    "radio",
@@ -616,10 +646,13 @@
    "satire",
    "scenery",
    "school",
+   "science",
    "sentences",
    "shanghai",
+   "short",
    "short-video",
    "sichuan",
+   "silicon-valley",
    "singapore",
    "sketches",
    "slang",
@@ -640,6 +673,7 @@
    "street-food",
    "stroke-order",
    "student-life",
+   "students",
    "subtitles",
    "summaries",
    "taiwan",

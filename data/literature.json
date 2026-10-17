@@ -21,7 +21,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "shicimingju",
@@ -48,7 +50,9 @@
     "feed": {
       "format": "rss",
       "url": "https://www.shicimingju.com/feed/"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "sou-yun",
@@ -71,7 +75,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "chinese-wikisource",
@@ -94,7 +99,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "shidian-guji",
@@ -117,7 +124,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "shuge",
@@ -144,7 +152,8 @@
     "feed": {
       "format": "rss",
       "url": "https://www.shuge.org/feed/"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "project-gutenberg-chinese",
@@ -167,7 +176,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "guoxuedashi",
@@ -190,7 +200,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "zhonghuadiancang",
@@ -213,7 +224,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "chinese-poems",
@@ -238,7 +250,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "china-writers",
@@ -261,7 +274,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "lu-xun-quan-ji",
@@ -284,6 +298,34 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
+  },
+  {
+    "id": "zgshige",
+    "name": "中国诗歌网 China Poetry",
+    "url": "https://www.zgshige.cn/",
+    "description": "Daily modern poems and new verse from contemporary Chinese poets.",
+    "category": "literature",
+    "type": "website",
+    "tags": [
+      "poetry",
+      "modern"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "中国诗歌网",
+    "login": "none"
   }
 ]

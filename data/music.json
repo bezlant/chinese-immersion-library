@@ -25,7 +25,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "netease-cloud-music",
@@ -53,7 +54,8 @@
       "ios",
       "android"
     ],
-    "notes": "May load slowly or be unavailable outside mainland China."
+    "notes": "May load slowly or be unavailable outside mainland China.",
+    "login": "partial"
   },
   {
     "id": "kugou",
@@ -79,7 +81,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "kkbox",
@@ -105,7 +108,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "mojim",
@@ -131,7 +135,9 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "streetvoice",
@@ -157,7 +163,9 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "jay-chou",
@@ -191,7 +199,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8CU5nVhCQIdAGrFFp4loOQ"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "jj-lin",
@@ -225,7 +235,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd91HSXKhsIv8PIjNrDByHQ"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "gem",
@@ -259,7 +271,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsLWG2t7n9LFsvH0wR2rtpw"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "jolin",
@@ -293,7 +308,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZxdOVXIBEnJUQkhZgeOTTg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "eason-chan",
@@ -328,7 +344,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnafe6M9Itwt08RFI51L6mw"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "ronghao-li",
@@ -362,7 +380,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbGkxRgcnFTNNh3FDJOoJHA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "joker-xue",
@@ -396,7 +415,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrLF3ndpdxlHgtrjoDkK6lw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "accusefive",
@@ -430,7 +450,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj0Dl_XdIoAKzyfbPEu9WMw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "no-party-for-cao-dong",
@@ -465,7 +486,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYAyQjEhGHKARXnZe0U__9g"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "sunset-rollercoaster",
@@ -499,7 +522,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI04acmi3bs74MB4vOXUcrQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "new-pants",
@@ -533,7 +557,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0tw0QXwluSD7Bh5oXQfXvw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "amei",
@@ -567,7 +592,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI1ApqO0j1KU2M9iZR1cc8A"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "stefanie-sun",
@@ -601,7 +627,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZtX_KMZ4RQ6lQ_e52zOyZA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "hebe-tien",
@@ -635,7 +662,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWASjJ7q476ZgxT9oWBSclg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "weibird",
@@ -669,7 +697,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeNjr6aT_-wnwmybVTRfj0w"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "9m88",
@@ -703,7 +732,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo95y8CD2JpOR5eePxB1a7w"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "warner-music-taiwan",
@@ -737,7 +768,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCStpPtoeQUYII1Jsbl0qf8A"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "rock-records",
@@ -772,7 +804,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPcF3KTqhD67ADkukx_OeDg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "bin-music",
@@ -806,7 +839,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7ovu6a8ydIbDy0fAKmoZ9A"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "him-music",
@@ -840,7 +874,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsUQXwhDj4iVlhG4VCq6Kg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "sony-music-taiwan",
@@ -874,7 +909,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFtUq0ml-coWmD70Pt_urRA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "universal-music-taiwan",
@@ -908,7 +944,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgQ8olRhkepJWlVF9IVmPGQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mangotv-music-channel",
@@ -942,7 +979,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwnDGKPgpRsJUjuSGhATAmg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "zjstv-music-channel",
@@ -976,7 +1014,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp8cPvx_Od76EL66vvCnhRA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mou-huan-jun",
@@ -1010,6 +1049,7 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/1577804"
-    }
+    },
+    "login": "partial"
   }
 ]

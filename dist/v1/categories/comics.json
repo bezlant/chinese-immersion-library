@@ -8,7 +8,7 @@
   "web_icon": "panels-top-left",
   "description": "Licensed manhua and webcomic platforms."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 11,
  "resources": [
   {
@@ -35,7 +35,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "line-webtoon",
@@ -61,7 +63,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "sanmao",
@@ -85,7 +89,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "lianhuanhua",
@@ -110,7 +116,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "dongman",
@@ -136,7 +144,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "bilibili-comics",
@@ -162,7 +172,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "kuaikan-manhua",
@@ -188,7 +200,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "motioncomic",
@@ -216,6 +230,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfHgyAigw8aIeU3Trwkuuig"
@@ -250,6 +266,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "notes": "May load slowly or be unavailable outside mainland China."
   },
   {
@@ -276,7 +294,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "tencent-comics",
@@ -303,6 +323,8 @@
     "ios",
     "android"
    ],
+   "login": "partial",
+   "recommended": false,
    "notes": "May load slowly or be unavailable outside mainland China."
   }
  ]

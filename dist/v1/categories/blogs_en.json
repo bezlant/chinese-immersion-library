@@ -8,7 +8,7 @@
   "web_icon": "globe",
   "description": "English-language sites on Chinese society, culture and language."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 14,
  "resources": [
   {
@@ -34,7 +34,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "chinafile",
@@ -59,7 +61,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "focus-taiwan",
@@ -85,7 +89,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "hanzi-smatter",
@@ -111,6 +117,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "atom",
     "url": "https://hanzismatter.blogspot.com/feeds/posts/default"
@@ -140,6 +148,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "rss",
     "url": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2"
@@ -170,6 +180,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://pinyin.info/news/feed/"
@@ -199,6 +211,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "rss",
     "url": "https://radii.co/feed"
@@ -227,6 +241,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://www.realtimemandarin.com/feed/"
@@ -256,6 +272,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "rss",
     "url": "https://www.sixthtone.com/rss/index.xml"
@@ -285,6 +303,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://thechinaproject.com/feed/"
@@ -314,7 +334,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "thats-shanghai",
@@ -340,7 +362,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "the-beijinger",
@@ -366,7 +390,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "whats-on-weibo",
@@ -393,6 +419,8 @@
    "platforms": [
     "web"
    ],
+   "login": "partial",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://www.whatsonweibo.com/feed/"

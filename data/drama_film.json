@@ -31,7 +31,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUhpu5MJQ_bjPkXO00jyxsw"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "iqiyi-movie-theater",
@@ -65,7 +68,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZ8ZJNzzIiDQFuGxdGTyWcQ"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "tencent-video-youtube",
@@ -99,7 +104,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQatgKoA7lylp_UzvsLCgcw"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "youku-youtube",
@@ -133,7 +140,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYQPTeY3HOk0BprrGuCWCaA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "youku-chinese-drama",
@@ -167,7 +175,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvj3DtAqbx12PPHL6IVdhiA"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "youku-movie",
@@ -201,7 +211,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE2UHXGOlqotRJgEWl_tiMw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "china-huace-tv",
@@ -235,7 +246,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAMrnDQlsPnrScHun5PgrXw"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "huanyu-entertainment",
@@ -270,7 +283,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCZpYLIklqO2iWekzJUPRng"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "daylight-entertainment",
@@ -304,7 +318,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJq6qOdcSF3ZBUeFebC7KFQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "cctv-drama",
@@ -338,7 +353,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Vl0YiY0rDlovqcCFN4yTA"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "mangotv-mystery",
@@ -373,7 +390,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKm7iuaBY41nzqIk6J8eX0g"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "pts-drama",
@@ -407,7 +425,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH_5vj94el18quHAg_QwlMw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mediacorp-drama",
@@ -441,7 +460,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnUQ8urh9t0vlHluTJdVLTg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinese-classic-movies",
@@ -476,7 +496,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGpsj9DhBHxMWNL3rC5ANcg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "chinese-old-movies",
@@ -511,7 +532,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzYdNxSgeZ0m85jamNjovEA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "wetv-english",
@@ -545,7 +567,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiu3bj4rR8KOYcUA4KNkOAA"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "amo",
@@ -580,7 +604,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6IMF6xi_MZ3jA1wRlPQDLA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mu-yu-shui-xin",
@@ -615,7 +640,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/927587"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "dian-ying-zui-top",
@@ -650,7 +676,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/17819768"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "douban-movies",
@@ -675,7 +702,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "mydramalist",
@@ -700,7 +728,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "journey-to-the-west",
@@ -735,7 +764,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLl9R29KDIDHOFg7AqhBmaw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "legend-of-concubine-zhen-huan",
@@ -769,7 +799,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmHdnfChhWapXurE-Av92kQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "china-zone",
@@ -803,6 +834,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0jYsshDZfOBZC9nIJn94Cg"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   }
 ]

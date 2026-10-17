@@ -23,7 +23,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "hsk-online",
@@ -49,7 +51,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "sc-top-tocfl",
@@ -75,7 +78,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "hsk-academy",
@@ -101,7 +105,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "mandarin-bean-hsk",
@@ -130,7 +136,8 @@
     "feed": {
       "format": "rss",
       "url": "https://mandarinbean.com/feed/"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "hsk-lord",
@@ -160,7 +167,8 @@
     "feed": {
       "format": "rss",
       "url": "https://hsklord.com/blog/feed.xml"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "allset-learning-hsk-grammar",
@@ -186,7 +194,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "hsk-mock",
@@ -212,7 +222,8 @@
     "pricing": "freemium",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "chinese-plus",
@@ -238,7 +249,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "tocfl-hsk-chinese",
@@ -274,6 +286,7 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_mhVGuNhU3_UfCOFNEUPJQ"
-    }
+    },
+    "login": "none"
   }
 ]

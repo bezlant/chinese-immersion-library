@@ -8,7 +8,7 @@
   "web_icon": "smartphone",
   "description": "Apps for flashcards, courses, handwriting and immersion."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 17,
  "resources": [
   {
@@ -36,7 +36,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "busuu",
@@ -61,7 +63,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "chinese-reader-by-trainchinese",
@@ -87,7 +91,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "chineseskill",
@@ -112,7 +118,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "dong-chinese-app",
@@ -137,7 +145,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "drops",
@@ -162,7 +172,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "hanping-chinese-dictionary",
@@ -186,7 +198,9 @@
    "dialect": "mandarin",
    "platforms": [
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "hellochinese",
@@ -212,7 +226,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "language-reactor",
@@ -237,7 +253,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "lingodeer",
@@ -263,7 +281,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "memrise",
@@ -288,7 +308,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "migaku",
@@ -315,7 +337,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "ninchanese",
@@ -341,6 +365,8 @@
     "ios",
     "android"
    ],
+   "login": "required",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://ninchanese.com/feed/"
@@ -370,7 +396,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "speechling",
@@ -397,7 +425,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "superchinese",
@@ -424,7 +454,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "todaii-chinese",
@@ -449,7 +481,9 @@
    "platforms": [
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   }
  ]
 }

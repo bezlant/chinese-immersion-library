@@ -20,7 +20,9 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "huxiu",
@@ -43,7 +45,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "sspai",
@@ -71,7 +74,9 @@
     "feed": {
       "format": "rss",
       "url": "https://sspai.com/feed"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "ithome",
@@ -98,7 +103,9 @@
     "feed": {
       "format": "rss",
       "url": "https://www.ithome.com/rss/"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "ifanr",
@@ -125,7 +132,9 @@
     "feed": {
       "format": "rss",
       "url": "https://www.ifanr.com/feed"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "geekpark",
@@ -148,7 +157,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "tmtpost",
@@ -171,7 +181,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "cnbeta",
@@ -194,7 +205,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "v2ex",
@@ -222,7 +234,9 @@
     "feed": {
       "format": "atom",
       "url": "https://www.v2ex.com/feed/tab/tech.xml"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "juejin",
@@ -245,7 +259,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "infoq",
@@ -268,7 +283,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "synced",
@@ -291,7 +307,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "qbitai",
@@ -318,7 +335,8 @@
     "feed": {
       "format": "rss",
       "url": "https://www.qbitai.com/feed"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "dgtle",
@@ -341,7 +359,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "techbang",
@@ -368,7 +387,8 @@
     "feed": {
       "format": "rss",
       "url": "https://feeds.feedburner.com/techbang/daily"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "inside",
@@ -392,7 +412,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "dian-nao-wang-a-da",
@@ -416,7 +437,8 @@
     "pricing": "free",
     "platforms": [
       "web"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "testv",
@@ -449,7 +471,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9v3JGut2Z1PxrXEpGzgEAA"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "geekerwan",
@@ -483,7 +507,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeUJO1H3TEXu2syfAAPjYKQ"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "geekerwan-bilibili",
@@ -516,7 +543,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/25876945"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "mediastorm",
@@ -550,7 +578,10 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2cRwTuSWxxEtrRnT4lrlQA"
-    }
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "mediastorm-bilibili",
@@ -584,7 +615,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/946974"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "htx-studio",
@@ -617,7 +649,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "he-tong-xue-bilibili",
@@ -650,7 +684,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/163637592"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "cha-ping-jun",
@@ -683,7 +718,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqlQ5ErufqtQUhkuKj1xngg"
-    }
+    },
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "ke-ji-mei-xue",
@@ -716,7 +753,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAC204niCVvtDRDFYSiK7Cg"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "fview",
@@ -749,7 +787,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/7458285"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "joeman",
@@ -783,7 +822,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPRWWKG0VkBA0Pqa4Jr5j0Q"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "jiu-jiu-xie",
@@ -817,6 +857,344 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIF_gt4BfsWyM_2GOcKXyEQ"
+    },
+    "login": "none"
+  },
+  {
+    "id": "technode",
+    "name": "动点科技 TechNode",
+    "url": "https://cn.technode.com/",
+    "description": "Chinese tech and startup news: funding, AI, consumer tech and e-commerce.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "startups",
+      "ai"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "动点科技",
+    "login": "none",
+    "recommended": true
+  },
+  {
+    "id": "leiphone",
+    "name": "雷峰网 Leiphone",
+    "url": "https://www.leiphone.com/",
+    "description": "AI, chips and smart-hardware news and long-form industry reporting.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "ai"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "雷峰网",
+    "login": "none"
+  },
+  {
+    "id": "pingwest",
+    "name": "品玩 PingWest",
+    "url": "https://www.pingwest.com/",
+    "description": "Tech culture, Silicon Valley and China tech news with a lively voice.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "silicon-valley"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "品玩",
+    "login": "none"
+  },
+  {
+    "id": "solidot",
+    "name": "奇客 Solidot",
+    "url": "https://www.solidot.org/",
+    "description": "Short, plain summaries of science and tech news: an easy daily read.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "science",
+      "short"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "奇客",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.solidot.org/index.rss"
+    },
+    "login": "none",
+    "recommended": true
+  },
+  {
+    "id": "readhub",
+    "name": "Readhub",
+    "url": "https://readhub.cn/",
+    "description": "One-paragraph summaries of the day's top tech and business stories.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "short",
+      "summaries"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "login": "none"
+  },
+  {
+    "id": "ruanyifeng",
+    "name": "阮一峰的网络日志 Ruan Yifeng's Blog",
+    "url": "https://www.ruanyifeng.com/blog/",
+    "description": "Famous weekly tech digest and essays in clear, simple Chinese.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "blog",
+      "weekly"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "阮一峰的网络日志",
+    "feed": {
+      "format": "rss",
+      "url": "https://feeds.feedburner.com/ruanyifeng"
+    },
+    "login": "none",
+    "recommended": true
+  },
+  {
+    "id": "appinn",
+    "name": "小众软件 Appinn",
+    "url": "https://www.appinn.com/",
+    "description": "Short write-ups of free, useful apps and tools.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "apps"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "小众软件",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.appinn.com/feed/"
+    },
+    "login": "none"
+  },
+  {
+    "id": "oschina",
+    "name": "开源中国 OSCHINA",
+    "url": "https://www.oschina.net/news",
+    "description": "Open-source and developer news from China's largest open-source community.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "developers",
+      "open-source"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "开源中国",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.oschina.net/news/rss"
+    },
+    "login": "none"
+  },
+  {
+    "id": "cnblogs",
+    "name": "博客园 Cnblogs",
+    "url": "https://www.cnblogs.com/",
+    "description": "Developer blogging community: tutorials and technical articles.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "developers",
+      "blog"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "博客园",
+    "login": "none",
+    "feed": {
+      "format": "rss",
+      "url": "http://feed.cnblogs.com/blog/sitehome/rss"
     }
+  },
+  {
+    "id": "segmentfault",
+    "name": "思否 SegmentFault",
+    "url": "https://segmentfault.com/",
+    "description": "Programming Q&A and developer articles.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "developers",
+      "q-and-a"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "思否",
+    "login": "none"
+  },
+  {
+    "id": "mydrivers",
+    "name": "快科技 MyDrivers",
+    "url": "https://news.mydrivers.com/",
+    "description": "Fast-moving consumer tech, phone and PC hardware news.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "hardware"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "快科技",
+    "login": "none"
+  },
+  {
+    "id": "landian",
+    "name": "蓝点网 Landian News",
+    "url": "https://www.landian.news/",
+    "description": "Software, Windows and internet-service news in short posts.",
+    "category": "tech",
+    "type": "website",
+    "tags": [
+      "software"
+    ],
+    "level": [
+      "advanced"
+    ],
+    "for_learners": false,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web"
+    ],
+    "name_zh": "蓝点网",
+    "feed": {
+      "format": "rss",
+      "url": "https://www.landian.news/feed"
+    },
+    "login": "none"
   }
 ]

@@ -8,7 +8,7 @@
   "web_icon": "badge-check",
   "description": "Official exam sites, mock tests and level lists."
  },
- "data_version": "009a7c1dcaa5",
+ "data_version": "257fe95db0a8",
  "count": 10,
  "resources": [
   {
@@ -35,7 +35,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "chinese-plus",
@@ -61,7 +63,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "chinese-testing-international",
@@ -87,7 +91,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "hsk-academy",
@@ -113,7 +119,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": true
   },
   {
    "id": "hsk-lord",
@@ -140,6 +148,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://hsklord.com/blog/feed.xml"
@@ -169,7 +179,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "hsk-online",
@@ -195,7 +207,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "mandarin-bean-hsk",
@@ -221,6 +235,8 @@
    "platforms": [
     "web"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "rss",
     "url": "https://mandarinbean.com/feed/"
@@ -250,7 +266,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "tocfl-hsk-chinese",
@@ -279,6 +297,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_mhVGuNhU3_UfCOFNEUPJQ"

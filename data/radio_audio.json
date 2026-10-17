@@ -24,7 +24,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "xiaoyuzhou-fm",
@@ -50,7 +51,9 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "qingting",
@@ -77,7 +80,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "lizhi",
@@ -103,7 +107,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "partial"
   },
   {
     "id": "yunting",
@@ -130,7 +135,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "soundon",
@@ -156,7 +162,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "firstory",
@@ -182,7 +189,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none"
   },
   {
     "id": "dedao",
@@ -209,7 +217,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "vistopia",
@@ -235,7 +244,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "required"
   },
   {
     "id": "radio-garden",
@@ -262,6 +272,8 @@
       "web",
       "ios",
       "android"
-    ]
+    ],
+    "login": "none",
+    "recommended": true
   }
 ]

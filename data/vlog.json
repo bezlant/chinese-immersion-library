@@ -32,7 +32,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRB4xZ_2ew7fzmrcv8aj4Lw"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "elenalin-qing-qing",
@@ -66,7 +68,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFjqAKR9UVS28ucTNuVTexA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mickeyworkstv",
@@ -100,7 +103,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpzx9sMpCwKP_xTwoYZx7lA"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "yue-jing",
@@ -134,7 +138,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL9lfwI6GOHoZNhEcfSy2cQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "raydu",
@@ -168,7 +173,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeo3JwE3HezUWFdVcehQk9Q"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "a-di-ri-chang",
@@ -202,7 +208,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL--AnIMxQQdbcH4ESEK0Iw"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "zhi-qi-qi-qi",
@@ -236,7 +243,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiWXd0nmBjlKROwzMyPV-Nw"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "hook",
@@ -270,7 +279,9 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbIJeyl_va8MG2xx0q4Uobg"
-    }
+    },
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "wawaku",
@@ -304,7 +315,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVw4CvsOUuVJpFyW_VPnIBQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "zoey",
@@ -338,7 +350,8 @@
     "feed": {
       "format": "youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-PTZe2Nx-Pozlmi1o3vSyQ"
-    }
+    },
+    "login": "none"
   },
   {
     "id": "mao-sen-lu",
@@ -372,7 +385,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/418335676"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "shuai-soserious",
@@ -406,7 +420,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/66391032"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "dao-che-qing-gu-yi",
@@ -440,7 +455,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/280754190"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "renasteps",
@@ -474,7 +490,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/99059156"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "liu-chang-mu-fa-sha",
@@ -508,7 +525,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/517742404"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "min-minchen",
@@ -543,7 +561,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/449359189"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "pro-mi-xiu-mao",
@@ -577,7 +596,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/1530159224"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "xu-da-xia-ge",
@@ -611,7 +631,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/13354765"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "yao-ren-mao",
@@ -645,7 +666,8 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/116683"
-    }
+    },
+    "login": "partial"
   },
   {
     "id": "chi-hua-jiao-de-miao-jiang",
@@ -679,6 +701,7 @@
     "feed": {
       "format": "rsshub",
       "url": "https://rsshub.app/bilibili/user/video/2026561407"
-    }
+    },
+    "login": "partial"
   }
 ]

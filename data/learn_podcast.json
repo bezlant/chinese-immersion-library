@@ -32,7 +32,10 @@
       "format": "podcast",
       "url": "https://kitchenknif.github.io/SlowChinese/podcast.rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/30/b4/88/30b48856-2984-3ce3-3c99-8e41914aefdb/mza_17422342128067649193.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/30/b4/88/30b48856-2984-3ce3-3c99-8e41914aefdb/mza_17422342128067649193.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "slow-chinese-podcast",
@@ -66,7 +69,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/5669fedc/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/e6/4d/3de64df4-05da-c032-6162-f8d495a5dad5/mza_217489937581693333.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/e6/4d/3de64df4-05da-c032-6162-f8d495a5dad5/mza_217489937581693333.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "learning-chinese-through-stories",
@@ -101,7 +105,9 @@
       "format": "podcast",
       "url": "https://rss.pdrl.fm/7a3f80/feeds.libsyn.com/130982/rss/?redirect=false"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3c/cb/78/3ccb788e-def4-7c31-8b99-6d22b85de53f/mza_11708184256458942884.png/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3c/cb/78/3ccb788e-def4-7c31-8b99-6d22b85de53f/mza_11708184256458942884.png/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "teatime-chinese",
@@ -134,7 +140,10 @@
       "format": "podcast",
       "url": "https://rss.libsyn.com/shows/330782/destinations/2693480.xml"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f3/99/a5/f399a586-9ea7-080e-2584-53e240ad4e12/mza_3958047185997869201.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f3/99/a5/f399a586-9ea7-080e-2584-53e240ad4e12/mza_3958047185997869201.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "maomi-chinese",
@@ -167,7 +176,10 @@
       "format": "podcast",
       "url": "https://rss.buzzsprout.com/1426696.rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/18/e1/8418e10a-8012-cbd5-ea0d-2a4ed360ae0c/mza_3865026559858765067.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/18/e1/8418e10a-8012-cbd5-ea0d-2a4ed360ae0c/mza_3865026559858765067.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "speak-chinese-with-da-peng",
@@ -201,7 +213,10 @@
       "format": "podcast",
       "url": "https://rss.buzzsprout.com/688918.rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/1c/14/f01c1417-52f1-86d9-ee1b-b0b6e4b03e32/mza_6388866532018973975.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/1c/14/f01c1417-52f1-86d9-ee1b-b0b6e4b03e32/mza_6388866532018973975.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "haike-mandarin",
@@ -236,7 +251,9 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/5caa7664/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/5f/65/a1/5f65a128-5e65-4585-bb67-19fcdc2b0356/mza_5668261821889931376.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/5f/65/a1/5f65a128-5e65-4585-bb67-19fcdc2b0356/mza_5668261821889931376.jpg/600x600bb.jpg",
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "convo-chinese",
@@ -270,7 +287,10 @@
       "format": "podcast",
       "url": "https://feed.firstory.me/rss/user/cko0g8j5m1toy0984t6s7mqtk"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/89/bc/4889bc6e-1990-783e-7c32-0372fbdb7108/mza_16874380036801224344.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/89/bc/4889bc6e-1990-783e-7c32-0372fbdb7108/mza_16874380036801224344.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "learn-taiwanese-mandarin",
@@ -304,7 +324,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/fa1750c0/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/6b/a9/ad6ba987-b4b3-0d5a-5233-943de63d8dd6/mza_5807566241105151991.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/6b/a9/ad6ba987-b4b3-0d5a-5233-943de63d8dd6/mza_5807566241105151991.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "learn-real-life-taiwanese-mandarin",
@@ -337,7 +358,8 @@
       "format": "podcast",
       "url": "https://feeds.soundon.fm/podcasts/2358efb4-70aa-4408-9b1d-365470ab47d9.xml"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d4/4a/c6/d44ac649-6cbd-2a94-47bb-7d44f927ccb7/mza_11222418047200740560.jpeg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d4/4a/c6/d44ac649-6cbd-2a94-47bb-7d44f927ccb7/mza_11222418047200740560.jpeg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "dashu-mandarin-podcast",
@@ -371,7 +393,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/88ca316c/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/ee/ab/78/eeab78e0-92ef-3b0e-49d3-0a4f83805d09/mza_4798560325187208688.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/ee/ab/78/eeab78e0-92ef-3b0e-49d3-0a4f83805d09/mza_4798560325187208688.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "learn-mandarin-in-mandarin-with-huimin",
@@ -404,7 +427,9 @@
       "format": "podcast",
       "url": "https://feed.firstory.me/rss/user/ckq9bl3vd660p0805d1apvgrd"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a3/14/9e/a3149ec2-90a6-a1a5-c15d-770627f54e0d/mza_602776581540638893.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a3/14/9e/a3149ec2-90a6-a1a5-c15d-770627f54e0d/mza_602776581540638893.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "talk-to-me-in-chinese",
@@ -438,7 +463,9 @@
       "format": "podcast",
       "url": "https://feeds.simplecast.com/wy2qyesE"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/0c/67/e8/0c67e8c8-87c3-1727-6d2a-ab7c1f7c165c/mza_18409894418419195799.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/0c/67/e8/0c67e8c8-87c3-1727-6d2a-ab7c1f7c165c/mza_18409894418419195799.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "mandarin-monkey-podcast",
@@ -471,7 +498,9 @@
       "format": "podcast",
       "url": "https://feeds.acast.com/public/shows/671683b6c054f53907d2cb8f"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/ef/7e/57ef7e06-3192-f8d2-ee32-f598891bbebb/mza_5248730181354175447.jpeg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/ef/7e/57ef7e06-3192-f8d2-ee32-f598891bbebb/mza_5248730181354175447.jpeg/600x600bb.jpg",
+    "login": "none",
+    "recommended": true
   },
   {
     "id": "full-mandarin-stories-by-mandarin-monkey",
@@ -504,7 +533,8 @@
       "format": "podcast",
       "url": "https://feeds.acast.com/public/shows/67d190f4fa7cec3676b1cea8"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/65/95/85659532-64c3-40a7-f229-280ad7785d21/mza_6558860913354856286.jpeg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/65/95/85659532-64c3-40a7-f229-280ad7785d21/mza_6558860913354856286.jpeg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "coffee-break-chinese-podcast",
@@ -537,7 +567,9 @@
       "format": "podcast",
       "url": "https://feeds.acast.com/public/shows/58cc3ec5-b23c-4de1-b8cb-21d229533dd9"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/1c/d3/f6/1cd3f6e8-f8c0-2629-9b58-28ca32d3e06c/mza_16588498321215848109.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/1c/d3/f6/1cd3f6e8-f8c0-2629-9b58-28ca32d3e06c/mza_16588498321215848109.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "chinesepod-beginner",
@@ -570,7 +602,9 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/109bf914/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/52/af/5152affe-7fd1-4937-6a8b-5fdc9861f116/mza_5926757141302167004.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/52/af/5152affe-7fd1-4937-6a8b-5fdc9861f116/mza_5926757141302167004.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "chinesepod-intermediate",
@@ -603,7 +637,9 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/317bc3a8/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/61/94/19/61941919-19f3-0265-1351-4e1d736ca131/mza_14358318248869581979.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/61/94/19/61941919-19f3-0265-1351-4e1d736ca131/mza_14358318248869581979.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "chinesepod-advanced",
@@ -636,7 +672,9 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/317e2da0/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/0f/66/a10f6627-7314-72d6-489b-8933fd9f0362/mza_13247594079695170493.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/0f/66/a10f6627-7314-72d6-489b-8933fd9f0362/mza_13247594079695170493.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "melnyks-chinese",
@@ -669,7 +707,9 @@
       "format": "podcast",
       "url": "https://www.melnyks.com/feed/podcast/"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/f1/89/77/f189778f-88be-ba30-ee33-30b4fef876af/mza_941260229949329506.png/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/f1/89/77/f189778f-88be-ba30-ee33-30b4fef876af/mza_941260229949329506.png/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "chillchat",
@@ -702,7 +742,9 @@
       "format": "podcast",
       "url": "https://rss.buzzsprout.com/510028.rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/35/37/b9353735-2dca-b032-c3c8-c5d58c5c8fd0/mza_14525636893400573869.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/35/37/b9353735-2dca-b032-c3c8-c5d58c5c8fd0/mza_14525636893400573869.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "lazy-chinese-podcast",
@@ -737,7 +779,10 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/843fa4ec/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/86/83/9d86831f-ec14-a1c7-75f5-bd6a7338021f/mza_11352521658019787189.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/86/83/9d86831f-ec14-a1c7-75f5-bd6a7338021f/mza_11352521658019787189.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "chinese-podcast-with-shenglan",
@@ -770,7 +815,9 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/b955b8b0/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/23/7c/ff/237cffb3-b663-8946-714e-ba7f50a4f8f9/mza_10719940780540166803.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/23/7c/ff/237cffb3-b663-8946-714e-ba7f50a4f8f9/mza_10719940780540166803.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "you-can-learn-chinese",
@@ -805,7 +852,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/f047cea8/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/af/30/e2/af30e256-f42f-098b-c76c-d0122a0122f2/mza_5145035581046964581.jpeg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/af/30/e2/af30e256-f42f-098b-c76c-d0122a0122f2/mza_5145035581046964581.jpeg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "hacking-chinese-podcast",
@@ -840,7 +888,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/388eb9e8/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/4d/1c/f9/4d1cf93a-4748-bd5b-eb6b-45cee4f56e7b/mza_12069485076955438993.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/4d/1c/f9/4d1cf93a-4748-bd5b-eb6b-45cee4f56e7b/mza_12069485076955438993.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "im-learning-mandarin",
@@ -875,7 +924,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/647cc43c/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/49/40/09/49400939-7a48-b9c6-3997-ed8ed2e2994b/mza_14339012555053594060.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/49/40/09/49400939-7a48-b9c6-3997-ed8ed2e2994b/mza_14339012555053594060.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "mandarin-blueprint-podcast",
@@ -909,7 +959,8 @@
       "format": "podcast",
       "url": "https://www.mandarinblueprint.com/feed/podcast/"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/38/7f/fe/387ffe41-78be-87ab-7f1c-fc70e4351c39/mza_7499562090906617456.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/38/7f/fe/387ffe41-78be-87ab-7f1c-fc70e4351c39/mza_7499562090906617456.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "maayot-learn-chinese-with-beginner-stories",
@@ -944,7 +995,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/10b37f6ac/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/10/df/77/10df77af-cb17-8fd0-0c70-620666bbc66a/mza_10316156257758281511.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/10/df/77/10df77af-cb17-8fd0-0c70-620666bbc66a/mza_10316156257758281511.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "chinese-explained",
@@ -977,7 +1029,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/26c27344/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/94/c6/f0/94c6f021-aa94-d345-9324-8efcc04e3939/mza_9767360513181022981.jpeg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/94/c6/f0/94c6f021-aa94-d345-9324-8efcc04e3939/mza_9767360513181022981.jpeg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "takeaway-chinese",
@@ -1011,7 +1064,8 @@
       "format": "podcast",
       "url": "https://cgtn-radio-data.cgtn.com/rss/programother/54"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/49/86/ee/4986ee11-f057-faef-fda1-de02901ecc83/mza_14542080777914553985.png/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/49/86/ee/4986ee11-f057-faef-fda1-de02901ecc83/mza_14542080777914553985.png/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "learn-chinese-with-kaela",
@@ -1044,7 +1098,9 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/6c75550/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b0/81/2c/b0812c07-f166-cea8-675a-0111b0f9dcb7/mza_170730620791272537.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b0/81/2c/b0812c07-f166-cea8-675a-0111b0f9dcb7/mza_170730620791272537.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "talk-taiwanese-mandarin-with-abby",
@@ -1078,7 +1134,9 @@
       "format": "podcast",
       "url": "https://feeds.soundon.fm/podcasts/8329ce3a-6cc8-4a3c-a12d-1a5b934060a0.xml"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/59/f6/bf59f67e-bb54-f119-63e7-cf06bac4712a/mza_25956592399046125.jpeg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/59/f6/bf59f67e-bb54-f119-63e7-cf06bac4712a/mza_25956592399046125.jpeg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "one-chinese-word-a-day",
@@ -1112,7 +1170,9 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/1214ed78/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/58/67/a4/5867a4cd-367e-13de-eb5d-4b34174d9364/mza_17578182714072950160.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/58/67/a4/5867a4cd-367e-13de-eb5d-4b34174d9364/mza_17578182714072950160.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free"
   },
   {
     "id": "speak-chinese-naturally",
@@ -1147,7 +1207,9 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/1d7d70a4/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4b/8c/11/4b8c1198-17f2-91b3-90b6-4d26b51592a0/mza_595760025285807466.png/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4b/8c/11/4b8c1198-17f2-91b3-90b6-4d26b51592a0/mza_595760025285807466.png/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "learn-chinese-with-ju",
@@ -1180,7 +1242,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/42720410/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d5/7e/9b/d57e9bf3-4874-a27b-4cc9-ab58f1383ccb/mza_12673562739206861065.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d5/7e/9b/d57e9bf3-4874-a27b-4cc9-ab58f1383ccb/mza_12673562739206861065.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "easy-mandarin-news",
@@ -1213,7 +1276,10 @@
       "format": "podcast",
       "url": "https://rss.buzzsprout.com/2509414.rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/5d/fd/315dfd55-0ee3-c6cd-cb50-211940ab0604/mza_13454275442952897120.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/5d/fd/315dfd55-0ee3-c6cd-cb50-211940ab0604/mza_13454275442952897120.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "mini-mandarin",
@@ -1246,7 +1312,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/219795c/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/d2/47/64d247f1-5c56-9daa-5e6a-afec28e6e393/mza_15161340838686650079.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/d2/47/64d247f1-5c56-9daa-5e6a-afec28e6e393/mza_15161340838686650079.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "talk-chineasy",
@@ -1279,7 +1346,8 @@
       "format": "podcast",
       "url": "https://feeds.soundcloud.com/users/soundcloud:users:260574053/sounds.rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/26/27/4c/26274c56-f69c-c644-05e9-fe0518406a6c/mza_1249301203404815261.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/26/27/4c/26274c56-f69c-c644-05e9-fe0518406a6c/mza_1249301203404815261.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "chineseclass101-podcast",
@@ -1312,7 +1380,9 @@
       "format": "podcast",
       "url": "https://www.chineseclass101.com/wp-feed-audio-video.php"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/14/08/78/1408787b-4841-6003-ec68-f4d0a3a624b1/mza_899279384578965985.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/14/08/78/1408787b-4841-6003-ec68-f4d0a3a624b1/mza_899279384578965985.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "yoyo-mo-slow-chinese",
@@ -1346,7 +1416,10 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/b76efc0/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/72/2d/d9722da4-1a17-cf5e-321b-f3664d4d33e5/mza_11638598724266219677.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/72/2d/d9722da4-1a17-cf5e-321b-f3664d4d33e5/mza_11638598724266219677.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true
   },
   {
     "id": "oh-chinese",
@@ -1379,7 +1452,8 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/311d4760/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f3/ed/a0/f3eda019-2155-186c-0a34-d421fc54ee6e/mza_11184305283634061539.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f3/ed/a0/f3eda019-2155-186c-0a34-d421fc54ee6e/mza_11184305283634061539.jpg/600x600bb.jpg",
+    "login": "none"
   },
   {
     "id": "mandarin-to-go-daily-chinese-dialogues",
@@ -1412,7 +1486,9 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/109357c08/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/e7/26/09e72663-a740-a5fc-8353-e201016684bb/mza_10910778260182356367.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/e7/26/09e72663-a740-a5fc-8353-e201016684bb/mza_10910778260182356367.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "paid"
   },
   {
     "id": "trendy-chinese-podcast",
@@ -1445,6 +1521,374 @@
       "format": "podcast",
       "url": "https://anchor.fm/s/106017640/podcast/rss"
     },
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/55/87/cb5587e8-a648-9451-032a-841f83f92559/mza_11875489314234051938.jpg/600x600bb.jpg"
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/55/87/cb5587e8-a648-9451-032a-841f83f92559/mza_11875489314234051938.jpg/600x600bb.jpg",
+    "login": "none",
+    "subtitles": "free"
+  },
+  {
+    "id": "five-minute-chinese",
+    "name": "五分钟中文 5 Minute Chinese",
+    "url": "https://podcasts.apple.com/podcast/id1589619035",
+    "description": "Five-minute natural-Chinese talks on language, culture and US–China life, with free transcripts for every episode.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "transcripts",
+      "short"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1589619035"
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true,
+    "feed": {
+      "format": "podcast",
+      "url": "https://rss.buzzsprout.com/1868166.rss"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/30/91/0f30916a-61fa-7891-91d7-81e45746776c/mza_9637351528911167460.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "cozy-mandarin",
+    "name": "Cozy Mandarin",
+    "url": "https://podcasts.apple.com/podcast/id1769194870",
+    "description": "Relaxed all-Chinese episodes for intermediate learners, with free transcripts on the website.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "transcripts",
+      "comprehensible-input"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1769194870"
+    },
+    "login": "none",
+    "subtitles": "free",
+    "recommended": true,
+    "feed": {
+      "format": "podcast",
+      "url": "https://anchor.fm/s/f0108330/podcast/rss"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/5f/a9/8b5fa9ac-a2cd-6833-6dbb-c3eb5b3f42c3/mza_17028861745693539845.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "moonlight-mandarin",
+    "name": "Moonlight Mandarin",
+    "url": "https://podcasts.apple.com/podcast/id1775069911",
+    "description": "Weekly conversations on practical topics, with a free Chinese transcript and vocabulary guide.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "transcripts",
+      "conversation"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1775069911"
+    },
+    "login": "none",
+    "subtitles": "free",
+    "feed": {
+      "format": "podcast",
+      "url": "https://rss.buzzsprout.com/2414421.rss"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8f/0c/c4/8f0cc401-4a4e-7739-ddc3-bcbfa795a02f/mza_7789087429076603309.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "little-mandarin",
+    "name": "Little Mandarin",
+    "url": "https://podcasts.apple.com/podcast/id1752391032",
+    "description": "Short episodes on culture and daily life with Mandarin, pinyin and English transcripts in the notes.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "transcripts",
+      "culture"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1752391032"
+    },
+    "login": "none",
+    "subtitles": "free",
+    "feed": {
+      "format": "podcast",
+      "url": "https://anchor.fm/s/fd074dbc/podcast/rss"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/4c/7e/bb4c7ef3-6536-bca5-9465-8c36adf7c29c/mza_9625511978210084377.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "fu-lan-speaking",
+    "name": "Fu-lan Speaking 自然台灣華語",
+    "url": "https://podcasts.apple.com/podcast/id1662262640",
+    "description": "Casual talks in natural Taiwanese Mandarin, with transcriptions.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "taiwan",
+      "transcripts"
+    ],
+    "level": [
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1662262640"
+    },
+    "login": "none",
+    "subtitles": "free",
+    "feed": {
+      "format": "podcast",
+      "url": "https://feed.firstory.me/rss/user/cklo4eoqys5wb0892k5t6ve0a"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/d0/ad/93d0ad4b-50de-efd9-4acb-daab91fbf6fb/mza_1620563889696132582.png/600x600bb.jpg"
+  },
+  {
+    "id": "miss-lin-podcast",
+    "name": "Learn Taiwanese Mandarin with Miss Lin (Podcast)",
+    "url": "https://podcasts.apple.com/podcast/id1568922727",
+    "description": "Taiwanese Mandarin conversations and culture; free Chinese/English transcripts on her blog.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "taiwan",
+      "transcripts"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1568922727"
+    },
+    "login": "none",
+    "subtitles": "free",
+    "feed": {
+      "format": "podcast",
+      "url": "https://rss.buzzsprout.com/1726772.rss"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/9c/68/ea9c6862-ad9b-39b2-f718-d320c9bb6025/mza_12088782350225198389.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "meitian-chengyu",
+    "name": "每天成语 Chinese Idioms in Stories",
+    "url": "https://podcasts.apple.com/podcast/id1827658300",
+    "description": "One idiom per episode told through a short, simple story, with a full transcript online.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "idioms",
+      "stories",
+      "transcripts"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1827658300"
+    },
+    "login": "none",
+    "subtitles": "free",
+    "feed": {
+      "format": "podcast",
+      "url": "https://rss.buzzsprout.com/2519340.rss"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/1c/ae/b41cae66-813c-6d18-d6be-1a02315f4502/mza_6788400352770566868.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "speak-chinese-like-a-taiwanese-local",
+    "name": "Speak Chinese Like a Taiwanese Local",
+    "url": "https://podcasts.apple.com/podcast/id1690920176",
+    "description": "Hundreds of short episodes on everyday Taiwanese Mandarin expressions with vocabulary notes.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "taiwan",
+      "vocabulary"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "traditional",
+    "region": "tw",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1690920176"
+    },
+    "login": "none",
+    "feed": {
+      "format": "podcast",
+      "url": "https://anchor.fm/s/e326d2f0/podcast/rss"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/80/88/88/808888f2-a252-9845-05b7-a63c04b56d18/mza_13001654689170843602.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "thinking-in-chinese-podcast",
+    "name": "Thinking in Chinese Podcast",
+    "url": "https://podcasts.apple.com/podcast/id1888349923",
+    "description": "Stories and everyday topics told slowly in Chinese to build fluency.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "stories"
+    ],
+    "level": [
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1888349923"
+    },
+    "login": "none",
+    "subtitles": "paid",
+    "feed": {
+      "format": "podcast",
+      "url": "https://anchor.fm/s/1109ff180/podcast/rss"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c0/28/0d/c0280d5b-f220-ea96-028b-1beb32600dec/mza_8344078141298906583.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "mandy-mandarin-podcast",
+    "name": "Mandy Mandarin Podcast",
+    "url": "https://podcasts.apple.com/podcast/id1844577427",
+    "description": "Basic-to-intermediate episodes about daily life in China.",
+    "category": "learn_podcast",
+    "type": "podcast",
+    "tags": [
+      "daily-life"
+    ],
+    "level": [
+      "beginner",
+      "intermediate"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "cn",
+    "dialect": "mandarin",
+    "language": "zh",
+    "pricing": "free",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "ids": {
+      "apple_podcast_id": "1844577427"
+    },
+    "login": "none",
+    "subtitles": "paid",
+    "feed": {
+      "format": "podcast",
+      "url": "https://anchor.fm/s/10a2eb408/podcast/rss"
+    },
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/6a/f8/136af863-42cb-502b-25fe-b1394f58ed9d/mza_12845721668018236013.jpg/600x600bb.jpg"
   }
 ]

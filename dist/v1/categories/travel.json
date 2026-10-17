@@ -8,8 +8,8 @@
   "web_icon": "plane",
   "description": "Travel vlogs, guides and review sites."
  },
- "data_version": "009a7c1dcaa5",
- "count": 17,
+ "data_version": "257fe95db0a8",
+ "count": 18,
  "resources": [
   {
    "id": "blondie-in-china",
@@ -36,6 +36,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCISrVZmDM4x-Rq9mmNUw7Zw"
@@ -66,7 +68,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "zaza-in-china",
@@ -93,6 +97,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgWzUjKQukhhAHwVv3dqGgQ"
@@ -127,6 +134,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnP5Ty_aD7aVsZSRgnn1E7A"
@@ -158,7 +168,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "dianping",
@@ -183,7 +195,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "required",
+   "recommended": false
   },
   {
    "id": "da-lu-xun-qi",
@@ -211,6 +225,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXyzhBy7PVhd3JKyIB6ebEw"
@@ -246,6 +262,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_s7aCmBPjzMUOgS0gcAf8g"
@@ -279,6 +297,9 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "subtitles": "free",
+   "recommended": true,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPsmetP1p137YfTBpvA7mng"
@@ -313,6 +334,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX2914i1K-kGbgg1ZrLKDSQ"
@@ -343,7 +366,9 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "lena-and-patrick",
@@ -370,6 +395,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0YAgB-kCdyxBX1lB-oS7cg"
@@ -401,7 +428,37 @@
    "dialect": "mandarin",
    "platforms": [
     "web"
-   ]
+   ],
+   "login": "none",
+   "recommended": false
+  },
+  {
+   "id": "wikivoyage-zh",
+   "name": "维基导游 Wikivoyage",
+   "url": "https://zh.wikivoyage.org/",
+   "description": "Free, open travel guides to cities and regions, written in plain Chinese.",
+   "category": "travel",
+   "name_zh": "维基导游",
+   "type": "website",
+   "level": [
+    "intermediate",
+    "advanced"
+   ],
+   "script": "both",
+   "region": "global",
+   "language": "zh",
+   "pricing": "free",
+   "tags": [
+    "guides",
+    "open"
+   ],
+   "for_learners": false,
+   "dialect": "mandarin",
+   "platforms": [
+    "web"
+   ],
+   "login": "none",
+   "recommended": false
   },
   {
    "id": "xiaov",
@@ -428,6 +485,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_cqxOaw9GMHcn-hqKK8dIg"
@@ -461,7 +520,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "super-taste",
@@ -489,6 +550,8 @@
     "ios",
     "android"
    ],
+   "login": "none",
+   "recommended": false,
    "feed": {
     "format": "youtube",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC00wMIWR48SYidE6jmpL7Qg"
@@ -522,7 +585,9 @@
     "web",
     "ios",
     "android"
-   ]
+   ],
+   "login": "partial",
+   "recommended": false
   }
  ]
 }
