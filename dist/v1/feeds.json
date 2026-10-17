@@ -1,5 +1,5 @@
 {
- "data_version": "9785f721564e",
+ "data_version": "009a7c1dcaa5",
  "count": 429,
  "feeds": [
   {
@@ -1341,7 +1341,7 @@
    "type": "website",
    "feed": {
     "format": "rss",
-    "url": "http://www.sixthtone.com/rss/index.xml"
+    "url": "https://www.sixthtone.com/rss/index.xml"
    }
   },
   {
@@ -4362,7 +4362,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/19206382.xml"
+    "url": "https://www.ximalaya.com/album/19206382.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/30/24/93/302493e7-be1c-958c-366e-8d13c2fc698c/mza_10993420535667969042.jpg/600x600bb.jpg"
   },
@@ -4417,7 +4417,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/43044571.xml"
+    "url": "https://www.ximalaya.com/album/43044571.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/49/eb/54/49eb54fe-65cb-0c5c-1b7f-66795c368d74/mza_13996517717403285737.jpeg/600x600bb.jpg"
   },
@@ -4461,7 +4461,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://rss.lizhi.fm/rss/14275.xml"
+    "url": "https://rss.lizhi.fm/rss/14275.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2d/57/59/2d5759d5-a2e7-1eac-f692-6e7ab41caa2a/mza_12105036362162660893.jpg/600x600bb.jpg"
   },
@@ -4483,7 +4483,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/24672021.xml"
+    "url": "https://www.ximalaya.com/album/24672021.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/5a/a0/645aa00c-a37a-46e9-cce2-767b56bcac85/mza_11485774630476479159.jpeg/600x600bb.jpg"
   },
@@ -4527,7 +4527,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/29294593.xml"
+    "url": "https://www.ximalaya.com/album/29294593.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/0f/88/c8/0f88c884-58b0-ebf8-d54b-a9ebfff95a52/mza_17971398733806458907.jpeg/600x600bb.jpg"
   },
@@ -4549,7 +4549,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/5574153.xml"
+    "url": "https://www.ximalaya.com/album/5574153.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7f/94/9e/7f949e9e-4b07-0e66-0321-733843fed63c/mza_2625935947068091835.jpg/600x600bb.jpg"
   },
@@ -4615,7 +4615,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/47008946.xml"
+    "url": "https://www.ximalaya.com/album/47008946.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/59/c9/0d/59c90d23-f026-b894-b118-cfa4b20f09aa/mza_17061161275088803044.jpeg/600x600bb.jpg"
   },
@@ -4626,7 +4626,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/42715423.xml"
+    "url": "https://www.ximalaya.com/album/42715423.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/f3/53/c6/f353c6b0-9a93-fb09-6a9f-a84b6450fe4e/mza_668194395525164743.jpeg/600x600bb.jpg"
   },
@@ -4659,7 +4659,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/57085293.xml"
+    "url": "https://www.ximalaya.com/album/57085293.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/70/a6/fb/70a6fb5a-fcaa-bfa0-95a2-f849a6db67b4/mza_4796474905736357779.jpeg/600x600bb.jpg"
   },
@@ -4670,7 +4670,7 @@
    "type": "podcast",
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/3558668.xml"
+    "url": "https://www.ximalaya.com/album/3558668.xml"
    },
    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/70/b1/8e/70b18ea9-cb8a-6e0d-7847-d16ca86625e4/mza_14578376421436744234.jpeg/600x600bb.jpg"
   }

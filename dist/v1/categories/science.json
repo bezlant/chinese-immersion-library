@@ -8,7 +8,7 @@
   "web_icon": "atom",
   "description": "Popular science, talks, encyclopedias and Q&A."
  },
- "data_version": "9785f721564e",
+ "data_version": "009a7c1dcaa5",
  "count": 23,
  "resources": [
   {
@@ -81,7 +81,7 @@
   {
    "id": "chinese-national-geography",
    "name": "中国国家地理 Chinese National Geography",
-   "url": "http://www.dili360.com/",
+   "url": "https://www.dili360.com/",
    "description": "Geography, nature and travel magazine.",
    "category": "science",
    "type": "website",

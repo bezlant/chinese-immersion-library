@@ -1,5 +1,5 @@
 {
- "data_version": "9785f721564e",
+ "data_version": "009a7c1dcaa5",
  "count": 722,
  "resources": [
   {
@@ -6402,7 +6402,7 @@
    ],
    "feed": {
     "format": "rss",
-    "url": "http://www.sixthtone.com/rss/index.xml"
+    "url": "https://www.sixthtone.com/rss/index.xml"
    }
   },
   {
@@ -7165,7 +7165,7 @@
   {
    "id": "youth-cn",
    "name": "中国青年网 Youth.cn",
-   "url": "http://www.youth.cn/",
+   "url": "https://www.youth.cn/",
    "description": "News for young readers from China Youth Daily.",
    "category": "news",
    "type": "website",
@@ -7235,7 +7235,7 @@
   {
    "id": "peoples-daily",
    "name": "人民网 People's Daily",
-   "url": "http://www.people.com.cn/",
+   "url": "https://www.people.com.cn/",
    "description": "People's Daily online: politics, society and economy.",
    "category": "news",
    "type": "website",
@@ -7723,7 +7723,7 @@
   {
    "id": "xinhua",
    "name": "新华网 Xinhua",
-   "url": "http://www.xinhuanet.com/",
+   "url": "https://www.xinhuanet.com/",
    "description": "China's state news agency: national and world news.",
    "category": "news",
    "type": "website",
@@ -10104,7 +10104,7 @@
   {
    "id": "chinese-national-geography",
    "name": "中国国家地理 Chinese National Geography",
-   "url": "http://www.dili360.com/",
+   "url": "https://www.dili360.com/",
    "description": "Geography, nature and travel magazine.",
    "category": "science",
    "type": "website",
@@ -20382,7 +20382,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/19206382.xml"
+    "url": "https://www.ximalaya.com/album/19206382.xml"
    },
    "ids": {
     "apple_podcast_id": "1455784513"
@@ -20548,7 +20548,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/43044571.xml"
+    "url": "https://www.ximalaya.com/album/43044571.xml"
    },
    "ids": {
     "apple_podcast_id": "1536887853"
@@ -20681,7 +20681,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://rss.lizhi.fm/rss/14275.xml"
+    "url": "https://rss.lizhi.fm/rss/14275.xml"
    },
    "ids": {
     "apple_podcast_id": "657765158"
@@ -20748,7 +20748,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/24672021.xml"
+    "url": "https://www.ximalaya.com/album/24672021.xml"
    },
    "ids": {
     "apple_podcast_id": "1470561691"
@@ -20882,7 +20882,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/29294593.xml"
+    "url": "https://www.ximalaya.com/album/29294593.xml"
    },
    "ids": {
     "apple_podcast_id": "1521651031"
@@ -20948,7 +20948,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/5574153.xml"
+    "url": "https://www.ximalaya.com/album/5574153.xml"
    },
    "ids": {
     "apple_podcast_id": "1166949390"
@@ -21147,7 +21147,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/47008946.xml"
+    "url": "https://www.ximalaya.com/album/47008946.xml"
    },
    "ids": {
     "apple_podcast_id": "1555601768"
@@ -21180,7 +21180,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/42715423.xml"
+    "url": "https://www.ximalaya.com/album/42715423.xml"
    },
    "ids": {
     "apple_podcast_id": "1492415440"
@@ -21281,7 +21281,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/57085293.xml"
+    "url": "https://www.ximalaya.com/album/57085293.xml"
    },
    "ids": {
     "apple_podcast_id": "1621249685"
@@ -21314,7 +21314,7 @@
    ],
    "feed": {
     "format": "podcast",
-    "url": "http://www.ximalaya.com/album/3558668.xml"
+    "url": "https://www.ximalaya.com/album/3558668.xml"
    },
    "ids": {
     "apple_podcast_id": "1078007055"

@@ -8,7 +8,7 @@
   "web_icon": "newspaper",
   "description": "Chinese-language news from mainland China, Taiwan, Hong Kong, Singapore, Malaysia and international media."
  },
- "data_version": "9785f721564e",
+ "data_version": "009a7c1dcaa5",
  "count": 79,
  "resources": [
   {
@@ -634,7 +634,7 @@
   {
    "id": "youth-cn",
    "name": "中国青年网 Youth.cn",
-   "url": "http://www.youth.cn/",
+   "url": "https://www.youth.cn/",
    "description": "News for young readers from China Youth Daily.",
    "category": "news",
    "type": "website",
@@ -704,7 +704,7 @@
   {
    "id": "peoples-daily",
    "name": "人民网 People's Daily",
-   "url": "http://www.people.com.cn/",
+   "url": "https://www.people.com.cn/",
    "description": "People's Daily online: politics, society and economy.",
    "category": "news",
    "type": "website",
@@ -1192,7 +1192,7 @@
   {
    "id": "xinhua",
    "name": "新华网 Xinhua",
-   "url": "http://www.xinhuanet.com/",
+   "url": "https://www.xinhuanet.com/",
    "description": "China's state news agency: national and world news.",
    "category": "news",
    "type": "website",

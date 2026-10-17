@@ -379,10 +379,10 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [中国数字时代 China Digital Times](https://chinadigitaltimes.net/chinese/) - Archive of censored Chinese internet content and commentary. <sub>Advanced · 简繁 · Global</sub>
 - [中国新闻网 China News](https://www.chinanews.com.cn/) - China News Service: breaking national and international news. <sub>Advanced · 简 · CN</sub>
 - [中国日报中文网 China Daily](https://cn.chinadaily.com.cn/) - Chinese-language edition of China Daily. <sub>Advanced · 简 · CN</sub>
-- [中国青年网 Youth.cn](http://www.youth.cn/) - News for young readers from China Youth Daily. <sub>Advanced · 简 · CN</sub>
+- [中国青年网 Youth.cn](https://www.youth.cn/) - News for young readers from China Youth Daily. <sub>Advanced · 简 · CN</sub>
 - [中央社 CNA](https://www.cna.com.tw/) - Taiwan's national news agency, with clear, formal news writing. <sub>Advanced · 繁 · TW</sub>
 - [中時新聞網 China Times](https://www.chinatimes.com/) - News site of the China Times, a major Taiwanese newspaper. <sub>Advanced · 繁 · TW</sub>
-- [人民网 People's Daily](http://www.people.com.cn/) - People's Daily online: politics, society and economy. <sub>Advanced · 简 · CN</sub>
+- [人民网 People's Daily](https://www.people.com.cn/) - People's Daily online: politics, society and economy. <sub>Advanced · 简 · CN</sub>
 - [光明网 Guangming](https://www.gmw.cn/) - Guangming Daily: culture, education and science news. <sub>Advanced · 简 · CN</sub>
 - [公視新聞網 PNN](https://news.pts.org.tw/) - Taiwan public television news. <sub>Advanced · 繁 · TW</sub>
 - [凤凰网 iFeng](https://www.ifeng.com/) - Phoenix New Media news portal. <sub>Advanced · 简 · CN</sub>
@@ -394,7 +394,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [德国之声 DW 中文](https://www.dw.com/zh/) - Deutsche Welle Chinese: Europe and world news. <sub>Advanced · 简繁 · Global</sub>
 - [搜狐新闻 Sohu News](https://news.sohu.com/) - Sohu's news portal with national and international stories. <sub>Advanced · 简 · CN</sub>
 - [新京报 Beijing News](https://www.bjnews.com.cn/) - Beijing daily news and features. <sub>Advanced · 简 · CN</sub>
-- [新华网 Xinhua](http://www.xinhuanet.com/) - China's state news agency: national and world news. <sub>Advanced · 简 · CN</sub>
+- [新华网 Xinhua](https://www.xinhuanet.com/) - China's state news agency: national and world news. <sub>Advanced · 简 · CN</sub>
 - [新浪新闻 Sina News](https://news.sina.com.cn/) - News portal from Sina covering China and the world. <sub>Advanced · 简 · CN</sub>
 - [日经中文网 Nikkei Chinese](https://cn.nikkei.com/) - Nikkei Asia business news in Chinese. <sub>Advanced · 简 · Global · Freemium</sub>
 - [明報 Ming Pao](https://news.mingpao.com/) - Hong Kong daily news (written Chinese). <sub>Advanced · 繁 · HK</sub>
@@ -538,7 +538,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 
 <img src="assets/icons/globe.svg" width="16" height="16" alt=""> **Websites**
 
-- [中国国家地理 Chinese National Geography](http://www.dili360.com/) - Geography, nature and travel magazine. <sub>Advanced · 简 · CN</sub>
+- [中国国家地理 Chinese National Geography](https://www.dili360.com/) - Geography, nature and travel magazine. <sub>Advanced · 简 · CN</sub>
 - [中文维基百科 Chinese Wikipedia](https://zh.wikipedia.org/) - The free encyclopedia in Chinese with simplified/traditional conversion. <sub>Advanced · 简繁 · Global</sub>
 - [果壳 Guokr](https://www.guokr.com/) - Popular-science articles on health, nature and technology. <sub>Advanced · 简 · CN</sub>
 - [泛科學 PanSci](https://pansci.asia/) - Taiwanese popular-science articles and videos. <sub>Advanced · 繁 · TW</sub>
