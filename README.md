@@ -6,7 +6,7 @@ A curated list of **Chinese-language content for learners**: YouTube and Bilibil
 - **Use it in an app:** every entry is also served as static JSON. See the [JSON API docs](docs/API.md).
 - **Add a resource:** see [CONTRIBUTING.md](CONTRIBUTING.md), or [open a suggestion](https://github.com/krmanik/chinese-immersion-library/issues/new?template=add-resource.yml) without touching any code.
 
-This list powers the Feed tab of [Hanzi Popup](https://github.com/krmanik/Hanzi-Popup-iOS).
+This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipopupapp/).
 
 > The list below is generated from [`data/`](data/) by `scripts/build.py`. To change an entry, edit the JSON in `data/`, not this file.
 

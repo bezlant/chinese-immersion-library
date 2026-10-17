@@ -2,7 +2,7 @@
 
 A curated, filterable JSON directory of **Chinese-language content for learners**: YouTube and Bilibili channels, podcasts, news sites, dramas, manhua, web novels, music, kids' content, dictionaries, apps and more.
 
-It powers the Feed tab in [Hanzi Popup](https://github.com/krmanik/Hanzi-Popup-iOS), but it's plain static JSON, so any app or site can use it.
+It powers the Feed tab in [Hanzi Popup](https://krmanik.github.io/hanzipopupapp/), but it's plain static JSON, so any app or site can use it.
 
 - **700+ resources** in **34 categories** (live counts in `index.json`)
 - **400+ with a machine-readable feed** (YouTube channel feeds, podcast RSS, site RSS/Atom, RSSHub routes for Bilibili), ready for a "latest items" feed
