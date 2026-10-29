@@ -1,8 +1,8 @@
 {
  "api_version": "v1",
  "schema_version": 1,
- "data_version": "ae888d0d0536",
- "count": 764,
+ "data_version": "f06ef1079335",
+ "count": 765,
  "endpoints": {
   "all": "all.json",
   "feeds": "feeds.json",
@@ -39,7 +39,7 @@
    "icon": "book.pages",
    "web_icon": "book-open",
    "description": "Graded readers, levelled news and stories for learners.",
-   "count": 21,
+   "count": 22,
    "path": "categories/graded_reading.json"
   },
   {

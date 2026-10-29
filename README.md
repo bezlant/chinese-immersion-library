@@ -17,7 +17,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - **[Learn](#learn)**
   - <img src="assets/icons/circle-play.svg" width="14" height="14" alt=""> [Learn Chinese: Video](#learn-chinese-video) · 61
   - <img src="assets/icons/headphones.svg" width="14" height="14" alt=""> [Learn Chinese: Podcasts](#learn-chinese-podcasts) · 53
-  - <img src="assets/icons/book-open.svg" width="14" height="14" alt=""> [Graded Reading](#graded-reading) · 21
+  - <img src="assets/icons/book-open.svg" width="14" height="14" alt=""> [Graded Reading](#graded-reading) · 22
   - <img src="assets/icons/graduation-cap.svg" width="14" height="14" alt=""> [Courses & Grammar](#courses--grammar) · 24
   - <img src="assets/icons/book-a.svg" width="14" height="14" alt=""> [Dictionaries & Tools](#dictionaries--tools) · 22
   - <img src="assets/icons/smartphone.svg" width="14" height="14" alt=""> [Learning Apps](#learning-apps) · 17
@@ -54,7 +54,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
   - <img src="assets/icons/mic.svg" width="14" height="14" alt=""> [Chinese Podcasts](#chinese-podcasts) · 36
   - <img src="assets/icons/radio.svg" width="14" height="14" alt=""> [Radio & Audiobooks](#radio--audiobooks) · 10
 
-**764 resources, 137 picks.** After each entry: **Pick** for well-known, free resources that open without an account, *For learners* when it is made for learners, then level · 简 simplified / 繁 traditional · region · language if not all Chinese · pricing if not free · Chinese subtitles or transcripts as text · login needs.
+**765 resources, 137 picks.** After each entry: **Pick** for well-known, free resources that open without an account, *For learners* when it is made for learners, then level · 简 simplified / 繁 traditional · region · language if not all Chinese · pricing if not free · Chinese subtitles or transcripts as text · login needs.
 
 ## Learn
 
@@ -206,6 +206,7 @@ This list powers the Feed tab of [Hanzi Popup](https://krmanik.github.io/hanzipo
 - [Global Storybooks: Chinese](https://globalstorybooks.net/) - Free illustrated children's stories in Mandarin and Cantonese with audio. <sub>**Pick** · *For learners* · Beginner–Intermediate · 简 · CN · Bilingual</sub>
 - [Haodoo 好讀](https://www.haodoo.net/) - Free classic and modern Chinese e-books (traditional characters). <sub>Intermediate–Advanced · 繁 · TW</sub>
 - [HSK Reading](https://hskreading.com/) - Free reading passages for HSK 1-6 with comprehension questions. <sub>**Pick** · *For learners* · Beginner–Intermediate · 简 · CN · Bilingual</sub>
+- [HSKStory](https://hskstory.com) - Graded multi-chapter stories for HSK 1-9 (HSK 3.0 word lists) with native-speaker audio, word-by-word highlighting, tap-for-pinyin and definitions, and FSRS flashcards for saved words. <sub>*For learners* · All levels · 简 · Global · Bilingual · Freemium · Some content needs login</sub>
 - [Let's Read Asia](https://www.letsreadasia.org/) - Free digital children's books in many languages including Chinese. <sub>**Pick** · *For learners* · Beginner–Intermediate · 简 · CN · Bilingual</sub>
 - [LingQ Chinese](https://www.lingq.com/en/learn-chinese-online/) - Import and read any Chinese content with word tracking and audio. <sub>*For learners* · Beginner–Intermediate · 简 · CN · Bilingual · Freemium · Login required</sub>
 - [maayot](https://maayot.com/) - Daily short Chinese stories delivered at your HSK level with exercises. <sub>*For learners* · Beginner–Intermediate · 简 · CN · Bilingual · Freemium · Some content needs login</sub>

@@ -8,8 +8,8 @@
   "web_icon": "book-open",
   "description": "Graded readers, levelled news and stories for learners."
  },
- "data_version": "ae888d0d0536",
- "count": 21,
+ "data_version": "f06ef1079335",
+ "count": 22,
  "resources": [
   {
    "id": "bloom-library",
@@ -286,6 +286,36 @@
     "format": "rss",
     "url": "https://hskreading.com/feed/"
    }
+  },
+  {
+   "id": "hskstory",
+   "name": "HSKStory",
+   "url": "https://hskstory.com",
+   "description": "Graded multi-chapter stories for HSK 1-9 (HSK 3.0 word lists) with native-speaker audio, word-by-word highlighting, tap-for-pinyin and definitions, and FSRS flashcards for saved words.",
+   "category": "graded_reading",
+   "type": "website",
+   "level": [
+    "beginner",
+    "intermediate",
+    "advanced"
+   ],
+   "script": "simplified",
+   "region": "global",
+   "language": "zh+en",
+   "pricing": "freemium",
+   "tags": [
+    "audio",
+    "hsk"
+   ],
+   "for_learners": true,
+   "dialect": "mandarin",
+   "platforms": [
+    "web",
+    "ios",
+    "android"
+   ],
+   "login": "partial",
+   "recommended": false
   },
   {
    "id": "lets-read-asia",

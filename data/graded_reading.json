@@ -577,5 +577,34 @@
       "web"
     ],
     "login": "none"
+  },
+  {
+    "id": "hskstory",
+    "name": "HSKStory",
+    "url": "https://hskstory.com",
+    "description": "Graded multi-chapter stories for HSK 1-9 (HSK 3.0 word lists) with native-speaker audio, word-by-word highlighting, tap-for-pinyin and definitions, and FSRS flashcards for saved words.",
+    "category": "graded_reading",
+    "type": "website",
+    "tags": [
+      "hsk",
+      "audio"
+    ],
+    "level": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "for_learners": true,
+    "script": "simplified",
+    "region": "global",
+    "dialect": "mandarin",
+    "language": "zh+en",
+    "pricing": "freemium",
+    "platforms": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "login": "partial"
   }
 ]
